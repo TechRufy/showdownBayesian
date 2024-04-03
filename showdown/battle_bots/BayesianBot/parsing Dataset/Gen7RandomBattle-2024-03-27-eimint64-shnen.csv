@@ -1,0 +1,53 @@
+,User,Sufferer,name move,TypesU,TypesS,TypeM,power
+0,Darkrai,Darkrai,Nasty Plot,['dark'],['dark'],dark,0
+1,Silvally,Mimikyu,Multi-Attack,['normal'],"['ghost', 'fairy']",normal,120
+2,Silvally,Mimikyu,Parting Shot,['normal'],"['ghost', 'fairy']",dark,0
+3,Mimikyu,Solrock,Play Rough,"['ghost', 'fairy']","['rock', 'psychic']",fairy,90
+4,Solrock,Forretress,Will-O-Wisp,"['rock', 'psychic']","['bug', 'steel']",fire,0
+5,Forretress,Talonflame,Toxic,"['bug', 'steel']","['fire', 'flying']",poison,0
+6,Talonflame,Dragalge,Overheat,"['fire', 'flying']","['poison', 'dragon']",fire,130
+7,Talonflame,Dragalge,Brave Bird,"['fire', 'flying']","['poison', 'dragon']",flying,120
+8,Dragalge,Talonflame,Draco Meteor,"['poison', 'dragon']","['fire', 'flying']",dragon,130
+9,Silvally,Mimikyu,Ice Beam,['normal'],"['ghost', 'fairy']",ice,90
+10,Silvally,Forretress,Parting Shot,['normal'],"['bug', 'steel']",dark,0
+11,Infernape,Infernape,Swords Dance,"['fire', 'fighting']","['fire', 'fighting']",normal,0
+12,Salazzle,Salazzle,Substitute,"['poison', 'fire']","['poison', 'fire']",normal,0
+13,Infernape,Salazzle,Stone Edge,"['fire', 'fighting']","['poison', 'fire']",rock,100
+14,Salazzle,Salazzle,Substitute,"['poison', 'fire']","['poison', 'fire']",normal,0
+15,Infernape,Salazzle,Flare Blitz,"['fire', 'fighting']","['poison', 'fire']",fire,120
+16,Salazzle,Salazzle,Substitute,"['poison', 'fire']","['poison', 'fire']",normal,0
+17,Infernape,Salazzle,Flare Blitz,"['fire', 'fighting']","['poison', 'fire']",fire,120
+18,Salazzle,Salazzle,Substitute,"['poison', 'fire']","['poison', 'fire']",normal,0
+19,Infernape,Salazzle,Flare Blitz,"['fire', 'fighting']","['poison', 'fire']",fire,120
+20,Salazzle,Salazzle,Protect,"['poison', 'fire']","['poison', 'fire']",normal,0
+21,Infernape,Salazzle,Close Combat,"['fire', 'fighting']","['poison', 'fire']",fighting,120
+22,Salazzle,Salazzle,Substitute,"['poison', 'fire']","['poison', 'fire']",normal,0
+23,Infernape,Salazzle,Close Combat,"['fire', 'fighting']","['poison', 'fire']",fighting,120
+24,Salazzle,Salazzle,Protect,"['poison', 'fire']","['poison', 'fire']",normal,0
+25,Infernape,Salazzle,Flare Blitz,"['fire', 'fighting']","['poison', 'fire']",fire,120
+26,Salazzle,Infernape,Flamethrower,"['poison', 'fire']","['fire', 'fighting']",fire,90
+27,Salazzle,Salazzle,Protect,"['poison', 'fire']","['poison', 'fire']",normal,0
+28,Salazzle,Meowstic,Toxic,"['poison', 'fire']",['psychic'],poison,0
+29,Meowstic,Salazzle,Thunderbolt,['psychic'],"['poison', 'fire']",electric,90
+30,Darkrai,Silvally,Dark Pulse,['dark'],['normal'],dark,80
+31,Silvally,Forretress,Multi-Attack,['normal'],"['bug', 'steel']",normal,120
+32,Silvally,Forretress,Flamethrower,['normal'],"['bug', 'steel']",fire,90
+33,Silvally,Sigilyph,Parting Shot,['normal'],"['psychic', 'flying']",dark,0
+34,Sigilyph,Meowstic,Psychic,"['psychic', 'flying']",['psychic'],psychic,90
+35,Meowstic,Mimikyu,Dark Pulse,['psychic'],"['ghost', 'fairy']",dark,80
+36,Mimikyu,Meowstic,Shadow Sneak,"['ghost', 'fairy']",['psychic'],ghost,40
+37,Meowstic,Mimikyu,Dark Pulse,['psychic'],"['ghost', 'fairy']",dark,80
+38,Mimikyu,Silvally,Shadow Sneak,"['ghost', 'fairy']",['normal'],ghost,40
+39,Silvally,Mimikyu,Ice Beam,['normal'],"['ghost', 'fairy']",ice,90
+40,Silvally,Sigilyph,Parting Shot,['normal'],"['psychic', 'flying']",dark,0
+41,Sigilyph,Solrock,Psychic,"['psychic', 'flying']","['rock', 'psychic']",psychic,90
+42,Solrock,Darkrai,Stone Edge,"['rock', 'psychic']",['dark'],rock,100
+43,Solrock,Sigilyph,Earthquake,"['rock', 'psychic']","['psychic', 'flying']",ground,100
+44,Sigilyph,Solrock,Energy Ball,"['psychic', 'flying']","['rock', 'psychic']",grass,90
+45,Solrock,Sigilyph,Stone Edge,"['rock', 'psychic']","['psychic', 'flying']",rock,100
+46,Sigilyph,Solrock,Energy Ball,"['psychic', 'flying']","['rock', 'psychic']",grass,90
+47,Silvally,Sigilyph,Ice Beam,['normal'],"['psychic', 'flying']",ice,90
+48,Silvally,Dragalge,Parting Shot,['normal'],"['poison', 'dragon']",dark,0
+49,Dragalge,Stantler,Sludge Wave,"['poison', 'dragon']",['normal'],poison,95
+50,Stantler,Darkrai,Double-Edge,['normal'],['dark'],normal,120
+51,Stantler,Dragalge,Double-Edge,['normal'],"['poison', 'dragon']",normal,120
