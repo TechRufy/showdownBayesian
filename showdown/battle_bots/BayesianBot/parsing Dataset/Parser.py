@@ -14,14 +14,13 @@ def parser(log_data):
         pokedexfile.close()
 
     df = pd.DataFrame(columns=["User", "Sufferer", "name move", "TypesU",
-                               "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather"])
+                               "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather","categoryMove"])
 
     # Regular expressions for different types of log entries
-    player_regex = re.compile(r'\|player\|(\w+)\|(\w+)\|(\d+)\|(\d+)')
     switch_regex = re.compile(r'\|switch\|p\da: [A-Za-z]+\|(.*?), L[0-9]+[,]?\s?[M,F]?\|[0-9]+\\/[0-9]+')
     move_regex = re.compile(r'\|move\|p\da: [A-Za-z]+\|(.*?)\|p\da: [A-Za-z]+')
     moveP_regex = re.compile(r'\|move\|p\da: [A-Za-z]+\|(.*?)\|\|\[[A-Za-z]+\]')
-    weather_regex = re.compile(r'\|-weather\|(.*?)[|]?(.*?)')
+
 
     # Function to parse the log data
     mapping_table = str.maketrans({' ': '', '-': ''})
@@ -63,7 +62,8 @@ def parser(log_data):
                                    moves[Move.translate(mapping_table).lower()]["basePower"],
                                    pokemon["hp " + User[:3]],
                                    pokemon["hp " + Sufferer[:3]],
-                                   pokemon["weather"]
+                                   pokemon["weather"],
+                                   moves[Move.translate(mapping_table).lower()]["category"]
                                    ]
             elif match2:
                 Move = None
@@ -81,7 +81,8 @@ def parser(log_data):
                                    moves[Move.translate(mapping_table).lower()]["basePower"],
                                    pokemon["hp " + User[:3]],
                                    pokemon["hp " + User[:3]],
-                                   pokemon["weather"]
+                                   pokemon["weather"],
+                                   moves[Move.translate(mapping_table).lower()]["category"]
                                    ]
         elif line.startswith("|-weather|"):
             matches = line.split("|")
