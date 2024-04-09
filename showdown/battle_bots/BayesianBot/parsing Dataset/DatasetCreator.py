@@ -5,16 +5,16 @@ import os
 df = pd.DataFrame(columns=["User", "Sufferer", "name move", "TypesU",
                            "TypesS", "TypeM", "power", "UserHP", "SuffererHP"])
 for cartella, sottocartelle, files in os.walk(os.getcwd() + "\\log"):
-    if not files.__contains__("Dataset.csv"):
-        df.to_csv(".\\log\\Dataset.csv",
+    if not files.__contains__("Dataset2.csv"):
+        df.to_csv(".\\log\\Dataset2.csv",
                   columns=["User", "Sufferer", "name move", "TypesU",
                            "TypesS", "TypeM", "power", "UserHP", "SuffererHP"],index=False)
     for file in files:
-        if file == "Dataset.csv":
+        if file == "Dataset2.csv":
             continue
         with open(os.getcwd() + "\\log\\" + file, 'r+',encoding="utf8") as movefile:
             df = parser(movefile)
 
-        dataset = pd.read_csv(os.getcwd() + "\\log\\" + "Dataset.csv")
+        dataset = pd.read_csv(os.getcwd() + "\\log\\" + "Dataset2.csv")
         dataset = pd.concat([dataset, df], ignore_index=True)
-        dataset.to_csv(".\\log\\Dataset.csv",index=False)
+        dataset.to_csv(".\\log\\Dataset2.csv",index=False)
