@@ -17,9 +17,9 @@ def parser(log_data):
                                "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather","categoryMove"])
 
     # Regular expressions for different types of log entries
-    switch_regex = re.compile(r'\|switch\|p\da: [A-Za-z]+\|(.*?), L[0-9]+[,]?\s?[M,F]?\|[0-9]+\\/[0-9]+')
-    move_regex = re.compile(r'\|move\|p\da: [A-Za-z]+\|(.*?)\|p\da: [A-Za-z]+')
-    moveP_regex = re.compile(r'\|move\|p\da: [A-Za-z]+\|(.*?)\|\|\[[A-Za-z]+\]')
+    switch_regex = re.compile(r'\|switch\|p\da: (.*?)\|(.*?)\|[0-9]+\\/[0-9]+')
+    move_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|p\da: [a-zA-Z0-9\s_.-]+')
+    moveP_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|\|\[[a-zA-Z0-9\s_.-]+\]')
 
 
     # Function to parse the log data
@@ -41,6 +41,8 @@ def parser(log_data):
             match1 = move_regex.match(line)
             if match1 is None:
                 match2 = moveP_regex.match(line)
+                if match2 is None:
+                    continue
                 matches = match2.group().split("|")
             else:
                 matches = match1.group().split("|")
@@ -55,9 +57,11 @@ def parser(log_data):
                             Sufferer = item
                     else:
                         Move = item
+                if not moves.__contains__(Move.translate(mapping_table).lower()):
+                    continue
                 df.loc[len(df)] = [User[5:], Sufferer[5:], Move,
-                                   pokedex[User[5:].lower()]["types"],
-                                   pokedex[Sufferer[5:].lower()]["types"],
+                                   pokedex[User[5:].lower().strip().replace("\n","")]["types"],
+                                   pokedex[Sufferer[5:].lower().strip().replace("\n","")]["types"],
                                    moves[Move.translate(mapping_table).lower()]["type"],
                                    moves[Move.translate(mapping_table).lower()]["basePower"],
                                    pokemon["hp " + User[:3]],
@@ -86,7 +90,6 @@ def parser(log_data):
                                    ]
         elif line.startswith("|-weather|"):
             matches = line.split("|")
-            print(matches)
             pokemon["weather"] = matches[2]
 
     return df

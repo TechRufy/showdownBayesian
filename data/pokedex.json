@@ -4367,7 +4367,7 @@
             "Mineral"
         ]
     },
-    "farfetchd": {
+    "farfetch": {
         "num": 83,
         "name": "farfetch\u2019d",
         "types": [
@@ -10985,7 +10985,7 @@
             "Undiscovered"
         ]
     },
-    "hooh": {
+    "ho-oh": {
         "num": 250,
         "name": "ho-oh",
         "types": [
@@ -32184,7 +32184,7 @@
             "Dragon"
         ]
     },
-    "kommoo": {
+    "kommo-o": {
         "num": 784,
         "name": "kommo-o",
         "types": [
@@ -32247,7 +32247,7 @@
             "Dragon"
         ]
     },
-    "tapukoko": {
+    "tapu koko": {
         "num": 785,
         "name": "tapu koko",
         "types": [
@@ -41371,7 +41371,7 @@
             "Undiscovered"
         ]
     },
-    "ironcrown": {
+    "iron crown": {
         "num": 1023,
         "name": "iron crown",
         "types": [

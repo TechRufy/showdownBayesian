@@ -12,11 +12,9 @@ for cartella, sottocartelle, files in os.walk(os.getcwd() + "\\log"):
     for file in files:
         if file == "Dataset.csv":
             continue
-        with open(os.getcwd() + "\\log\\" + file, 'r+') as movefile:
+        with open(os.getcwd() + "\\log\\" + file, 'r+',encoding="utf8") as movefile:
             df = parser(movefile)
-            print(df)
 
         dataset = pd.read_csv(os.getcwd() + "\\log\\" + "Dataset.csv")
-        print(dataset)
         dataset = pd.concat([dataset, df], ignore_index=True)
         dataset.to_csv(".\\log\\Dataset.csv",index=False)
