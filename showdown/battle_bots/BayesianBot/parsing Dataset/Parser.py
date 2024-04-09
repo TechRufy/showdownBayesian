@@ -60,8 +60,8 @@ def parser(log_data):
                 if not moves.__contains__(Move.translate(mapping_table).lower()):
                     continue
                 df.loc[len(df)] = [User[5:], Sufferer[5:], Move,
-                                   pokedex[User[5:].lower().strip().replace("\n","")]["types"],
-                                   pokedex[Sufferer[5:].lower().strip().replace("\n","")]["types"],
+                                   list(pokedex[User[5:].lower().strip().replace("\n","")]["types"]),
+                                   list(pokedex[Sufferer[5:].lower().strip().replace("\n","")]["types"]),
                                    moves[Move.translate(mapping_table).lower()]["type"],
                                    moves[Move.translate(mapping_table).lower()]["basePower"],
                                    pokemon["hp " + User[:3]],
