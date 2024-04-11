@@ -34,9 +34,7 @@ class BattleBot(Battle):
         choice = None
         for move in moves:
             probability = get_probability(state, move)
-            damage_amounts = calculate_damage(state, constants.USER, move, constants.DO_NOTHING_MOVE)
-
-            damage = damage_amounts[0] if damage_amounts else 0
+            print(probability)
 
             if probability > best_probability:
                 choice = move
