@@ -30,7 +30,7 @@ class BattleBot(Battle):
         if self.force_switch or not moves:
             return format_decision(self, switches[0])
 
-        most_damage = -1
+        best_probability = -1
         choice = None
         for move in moves:
             probability = get_probability(state, move)
@@ -38,8 +38,8 @@ class BattleBot(Battle):
 
             damage = damage_amounts[0] if damage_amounts else 0
 
-            if damage > most_damage:
+            if probability > best_probability:
                 choice = move
-                most_damage = damage
+                best_probability = probability
 
         return format_decision(self, choice)

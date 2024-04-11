@@ -1,4 +1,7 @@
 import json
+from ..BayesianBot.BayesianNetwork.BayesianPokemon import run_query
+
+
 
 with open("./data/Weakness.json", 'r+') as weakfile:
     weak = json.load(weakfile)
@@ -14,9 +17,9 @@ with open("./data/Weakness.json", 'r+') as pokemonfile:
 
 mapping_table = str.maketrans({' ': '', '-': ''})
 
-def Generate_Multiplicator(x):
-    EnemyType = x["Enemy Type"]
-    MoveType = x["Type Move"]
+def Generate_Multiplicator(active_types, enemy_types):
+    EnemyType = enemy_types
+    MoveType = active_types
     weakness = 1
     EnemyType = EnemyType.split(",")
     for i in range(len(EnemyType)):
@@ -29,6 +32,7 @@ def Generate_Multiplicator(x):
             continue
         weakness = weakness * weak[MoveType][Type]
     return weakness
+
 def percentual_Transform(s):
     l = s.split("\/")
     l = list(map(lambda n: int(n), l))
@@ -36,6 +40,11 @@ def percentual_Transform(s):
 
     return p
 
+def check_stab(active_types, move):
+    if active_types.split('\'')[1] == move or (len(active_types.split('\'')) > 3 and active_types[3] == move):
+        return True
+    else:
+        return False
 
 def get_probability(state,move):
 
@@ -43,8 +52,10 @@ def get_probability(state,move):
 
     EVIDENCE = {'Weather': state.weather,
                 'Power': moves[move.translate(mapping_table).lower()]["basePower"],
-                'Multiplicator': 4,
-                'stab': True,
-                'Enemy HP': 1,
-                "Pokemon HP": 9}
+                'Multiplicator': Generate_Multiplicator(state.user.active.types, state.opponent.active.types),
+                'stab': check_stab(state.user.active.types, move),
+                'Enemy HP': state.opponent.active.hp,
+                "Pokemon HP": state.user.active.hp}
 
+    result = run_query(target_var='Choose', evidence=EVIDENCE)
+    return result
