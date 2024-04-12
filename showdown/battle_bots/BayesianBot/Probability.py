@@ -54,6 +54,6 @@ def get_probability(state, move):
                 'stab': check_stab(state.user.active.types, move),
                 'Enemy HP': state.opponent.active.hp,
                 "Pokemon HP": state.user.active.hp}
-
+    print(EVIDENCE)
     result = run_query(target_var='Choose', evidence=EVIDENCE)
     return result
