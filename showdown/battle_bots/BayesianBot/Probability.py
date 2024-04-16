@@ -5,11 +5,11 @@ with open("./data/Weakness.json", 'r+') as weakfile:
     weak = json.load(weakfile)
     weakfile.close()
 
-with open("./data/moves.json", 'r+') as movefile:
+with open("./data/movesB.json", 'r+') as movefile:
     moves = json.load(movefile)
     weakfile.close()
 
-with open("./data/pokedex.json", 'r+') as pokemonfile:
+with open("./data/pokedexB.json", 'r+') as pokemonfile:
     pokemon = json.load(pokemonfile)
     weakfile.close()
 
@@ -29,16 +29,9 @@ def Generate_Multiplicator(move_type, enemy_types):
     return weakness
 
 
-def percentual_Transform(s):
-    l = s.split("\/")
-    l = list(map(lambda n: int(n), l))
-    p = l[0] / l[1] * 100
-
-    return p
-
-
 def check_stab(active_types, move):
-    return active_types.__contains__(move)
+    return move in active_types
+
 
 #    if active_types.split('\'')[1] == move or (len(active_types.split('\'')) > 3 and active_types[3] == move):
 #        return True
@@ -48,11 +41,14 @@ def check_stab(active_types, move):
 
 def get_probability(state, move):
     EVIDENCE = {'Weather': str(state.weather).lower(),
-                'Power': int((moves[move.translate(mapping_table).lower()]["basePower"]/140) * 10),
+                'Power': moves[move.translate(mapping_table).lower()]["basePower"],
                 'Multiplicator': Generate_Multiplicator(moves[move.translate(mapping_table).lower()]["type"],
                                                         state.opponent.active.types),
                 'stab': check_stab(state.user.active.types, move),
-                'Enemy HP': int((state.opponent.active.hp/(state.opponent.active.maxhp+10)) * 10) ,
-                "Pokemon HP": int((state.user.active.hp/(state.user.active.maxhp+10)) * 10)}
+                'Enemy HP': int((state.opponent.active.hp / state.opponent.active.maxhp) * 100),
+                "Pokemon HP": int((state.user.active.hp / state.user.active.maxhp) * 100),
+                "Category": moves[move.translate(mapping_table).lower()]["category"]
+                }
+    print(move)
     result = run_query(target_var='Choose', evidence=EVIDENCE)
     return result
