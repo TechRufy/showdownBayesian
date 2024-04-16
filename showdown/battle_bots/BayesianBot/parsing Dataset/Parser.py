@@ -5,11 +5,11 @@ import os
 
 
 def parser(log_data):
-    with open("../../../../data/moves.json", 'r+') as movefile:
+    with open("../../../../data/movesB.json", 'r+') as movefile:
         moves = json.load(movefile)
         movefile.close()
 
-    with open("../../../../data/pokedex.json", 'r+') as pokedexfile:
+    with open("../../../../data/pokedexB.json", 'r+') as pokedexfile:
         pokedex = json.load(pokedexfile)
         pokedexfile.close()
 

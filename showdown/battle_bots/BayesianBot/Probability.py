@@ -47,13 +47,12 @@ def check_stab(active_types, move):
 
 
 def get_probability(state, move):
-    EVIDENCE = {'Weather': state.weather,
-                'Power': moves[move.translate(mapping_table).lower()]["basePower"],
+    EVIDENCE = {'Weather': str(state.weather).lower(),
+                'Power': int((moves[move.translate(mapping_table).lower()]["basePower"]/140) * 10),
                 'Multiplicator': Generate_Multiplicator(moves[move.translate(mapping_table).lower()]["type"],
                                                         state.opponent.active.types),
                 'stab': check_stab(state.user.active.types, move),
-                'Enemy HP': state.opponent.active.hp,
-                "Pokemon HP": state.user.active.hp}
-    print(EVIDENCE)
+                'Enemy HP': int((state.opponent.active.hp/(state.opponent.active.maxhp+10)) * 10) ,
+                "Pokemon HP": int((state.user.active.hp/(state.user.active.maxhp+10)) * 10)}
     result = run_query(target_var='Choose', evidence=EVIDENCE)
     return result
