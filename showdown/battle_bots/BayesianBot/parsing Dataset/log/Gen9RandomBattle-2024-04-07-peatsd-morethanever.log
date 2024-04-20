@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 9] Random Battle replay: peatsd vs. MORE THAN EVER</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen9randombattle-2098170407" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 9] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/peatsd" class="subtle" target="_blank">peatsd</a> vs. <a href="http://pokemonshowdown.com/users/morethanever" class="subtle" target="_blank">MORE THAN EVER</a></h1>
+<script type="text/plain" class="battle-log-data">|badge|p1|bronze|gen9randombattle|100-1
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆peatsd
+|j|☆MORE THAN EVER
+|t:|1712516946
+|gametype|singles
+|player|p1|peatsd|#rbtt7teamchiyuf|
+|player|p2|MORE THAN EVER|acetrainersnowf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712516946
+|start
+|switch|p1a: Forretress|Forretress, L84, F|263\/263
+|switch|p2a: Quagsire|Quagsire, L84, M|297\/297
+|turn|1
+|c|☆MORE THAN EVER|letsago.
+|c|☆MORE THAN EVER|MY TEAM IS MID
+|c|☆MORE THAN EVER|HELP
+|j| BloodAce
+|c|☆peatsd|g-good luck..
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by peatsd)
+|j|+Pure Hackmons
+|c|☆MORE THAN EVER|farewell my paradise.
+|c| BloodAce|PREP
+|
+|t:|1712516995
+|switch|p2a: Entei|Entei, L78|307\/307
+|move|p1a: Forretress|Toxic Spikes|p2a: Entei
+|-sidestart|p2: MORE THAN EVER|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|j| Velcroc
+|
+|t:|1712517013
+|move|p2a: Entei|Sacred Fire|p1a: Forretress
+|-supereffective|p1a: Forretress
+|-ability|p1a: Forretress|Sturdy
+|-damage|p1a: Forretress|1\/263
+|move|p1a: Forretress|Volt Switch|p2a: Entei
+|-damage|p2a: Entei|261\/307
+|
+|t:|1712517025
+|switch|p1a: Gyarados|Gyarados, L79, F|280\/280|[from] Volt Switch
+|-ability|p1a: Gyarados|Intimidate|boost
+|-fail|p2a: Entei|unboost|Attack|[from] ability: Inner Focus|[of] p2a: Entei
+|
+|upkeep
+|turn|3
+|inactive|MORE THAN EVER has 270 seconds left.
+|inactive|MORE THAN EVER has 240 seconds left.
+|
+|t:|1712517097
+|switch|p2a: Rotom|Rotom-Mow, L86|226\/226
+|move|p1a: Gyarados|Waterfall|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|184\/226
+|
+|upkeep
+|turn|4
+|j| Icemaster
+|
+|t:|1712517125
+|switch|p1a: Skuntank|Skuntank, L84, M|310\/310
+|move|p2a: Rotom|Leaf Storm|p1a: Skuntank
+|-resisted|p1a: Skuntank
+|-damage|p1a: Skuntank|247\/310
+|-unboost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|5
+|inactive|MORE THAN EVER has 240 seconds left.
+|
+|t:|1712517147
+|switch|p2a: Quagsire|Quagsire, L84, M|297\/297
+|-status|p2a: Quagsire|psn
+|move|p1a: Skuntank|Knock Off|p2a: Quagsire
+|-damage|p2a: Quagsire|191\/297 psn
+|-enditem|p2a: Quagsire|Leftovers|[from] move: Knock Off|[of] p1a: Skuntank
+|
+|-damage|p2a: Quagsire|154\/297 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1712517156
+|switch|p1a: Gyarados|Gyarados, L79, F|280\/280
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Quagsire|atk|1
+|move|p2a: Quagsire|Earthquake|p1a: Gyarados
+|-immune|p1a: Gyarados
+|
+|-damage|p2a: Quagsire|117\/297 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1712517166
+|move|p1a: Gyarados|Waterfall|p2a: Quagsire
+|-crit|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|upkeep
+|c|☆peatsd|mb
+|c|☆MORE THAN EVER|HELP
+|inactive|MORE THAN EVER has 210 seconds left.
+|c|☆MORE THAN EVER|im a sorry team.
+|j| setset77
+|c|☆MORE THAN EVER|this player is too goated with the sticks
+|j| Binacle Pinnacle
+|c|☆MORE THAN EVER|ok this week ill hit 2000 on ladder. no excuses
+|inactive|MORE THAN EVER has 180 seconds left.
+|c|☆MORE THAN EVER|FCK
+|c|+Pure Hackmons|GL with that
+|c| Icemaster|Do you enjoy randbats ?
+|c| Icemaster|Might be a fun side hustle. But you're not getting another MSPL game brutha.
+|c|☆MORE THAN EVER|dont get slapped
+|inactive|MORE THAN EVER has 150 seconds left.
+|c| Icemaster|Don't get deepfried
+|c| Icemaster|And wrapped in batter
+|
+|t:|1712517278
+|switch|p2a: Rotom|Rotom-Mow, L86|184\/226
+|turn|8
+|
+|t:|1712517285
+|switch|p1a: Forretress|Forretress, L84, F|1\/263
+|move|p2a: Rotom|Volt Switch|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|c| BloodAce|stfu and win
+|inactive|MORE THAN EVER has 120 seconds left.
+|inactive|MORE THAN EVER has 90 seconds left.
+|
+|t:|1712517349
+|switch|p2a: Iron Crown|Iron Crown, L79|272\/272|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1712517377
+|switch|p1a: Skuntank|Skuntank, L84, M|247\/310
+|turn|9
+|inactive|peatsd has 270 seconds left.
+|
+|t:|1712517396
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p1a: Skuntank|Sucker Punch||[still]
+|-fail|p1a: Skuntank
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|upkeep
+|turn|10
+|inactive|MORE THAN EVER has 60 seconds left.
+|j|+sealoo
+|
+|t:|1712517430
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Skuntank
+|-damage|p1a: Skuntank|178\/310
+|-damage|p1a: Skuntank|109\/310
+|-hitcount|p1a: Skuntank|2
+|move|p1a: Skuntank|Gunk Shot|p2a: Iron Crown
+|-damage|p2a: Iron Crown|148\/272
+|
+|-heal|p2a: Iron Crown|165\/272|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| Evie733
+|
+|t:|1712517441
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Skuntank
+|-damage|p1a: Skuntank|37\/310
+|-damage|p1a: Skuntank|0 fnt
+|faint|p1a: Skuntank
+|-hitcount|p1: Skuntank|2
+|
+|-heal|p2a: Iron Crown|182\/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1712517443
+|switch|p1a: Azumarill|Azumarill, L82, M|298\/298
+|turn|12
+|c|+sealoo|Pea Pod Pea TSD Pea Ness
+|c|+Pure Hackmons|:blobwaitwhat:
+|c|☆peatsd|i made an ass play. im sorry.
+|inactive|MORE THAN EVER has 60 seconds left.
+|c|☆MORE THAN EVER|farewell my paradise.
+|c|☆peatsd|just use foul play
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517495
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Azumarill
+|-damage|p1a: Azumarill|213\/298
+|-damage|p1a: Azumarill|120\/298
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|194\/298|[from] item: Sitrus Berry
+|-hitcount|p1a: Azumarill|2
+|move|p1a: Azumarill|Play Rough|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517504
+|switch|p2a: Rotom|Rotom-Mow, L86|184\/226
+|turn|13
+|
+|t:|1712517510
+|switch|p1a: Fezandipiti|Fezandipiti, L81, M|275\/275
+|move|p2a: Rotom|Volt Switch|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|209\/275
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517523
+|switch|p2a: Bronzong|Bronzong, L88|261\/261|[from] Volt Switch
+|
+|-heal|p1a: Fezandipiti|226\/275|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517533
+|switch|p1a: Azumarill|Azumarill, L82, M|194\/298
+|move|p2a: Bronzong|Psychic Noise|p1a: Azumarill
+|-damage|p1a: Azumarill|118\/298
+|-start|p1a: Azumarill|move: Heal Block
+|
+|upkeep
+|turn|15
+|l|+sealoo
+|
+|t:|1712517541
+|move|p1a: Azumarill|Liquidation|p2a: Bronzong
+|-damage|p2a: Bronzong|185\/261
+|-unboost|p2a: Bronzong|def|1
+|move|p2a: Bronzong|Iron Head|p1a: Azumarill
+|-damage|p1a: Azumarill|19\/298
+|
+|-heal|p2a: Bronzong|201\/261|[from] item: Leftovers
+|-end|p1a: Azumarill|move: Heal Block
+|upkeep
+|turn|16
+|c| Icemaster|Highlord
+|
+|t:|1712517549
+|move|p1a: Azumarill|Liquidation|p2a: Bronzong
+|-damage|p2a: Bronzong|69\/261
+|move|p2a: Bronzong|Psychic Noise|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|-heal|p2a: Bronzong|85\/261|[from] item: Leftovers
+|upkeep
+|
+|t:|1712517552
+|switch|p1a: Fezandipiti|Fezandipiti, L81, M|226\/275
+|turn|17
+|inactive|MORE THAN EVER has 30 seconds left.
+|inactive|MORE THAN EVER has 20 seconds left.
+|inactive|peatsd has 270 seconds left.
+|j|+dex
+|
+|t:|1712517606
+|-terastallize|p1a: Fezandipiti|Steel
+|move|p1a: Fezandipiti|Beat Up|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|65\/261
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|41\/261
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|25\/261
+|-hitcount|p2a: Bronzong|3
+|move|p2a: Bronzong|Earthquake|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|72\/275
+|
+|-heal|p1a: Fezandipiti|89\/275|[from] item: Leftovers
+|-heal|p2a: Bronzong|41\/261|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|MORE THAN EVER has 30 seconds left this turn.
+|inactive|peatsd has 270 seconds left.
+|inactive|MORE THAN EVER has 20 seconds left.
+|
+|t:|1712517616
+|move|p1a: Fezandipiti|Beat Up|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|17\/261
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|-hitcount|p2: Bronzong|2
+|
+|-heal|p1a: Fezandipiti|106\/275|[from] item: Leftovers
+|upkeep
+|inactive|MORE THAN EVER has 25 seconds left this turn.
+|inactive|MORE THAN EVER has 20 seconds left.
+|inactive|MORE THAN EVER has 15 seconds left.
+|inactive|MORE THAN EVER has 10 seconds left.
+|
+|t:|1712517632
+|switch|p2a: Entei|Entei, L78|261\/307
+|-status|p2a: Entei|psn
+|turn|19
+|inactive|MORE THAN EVER has 20 seconds left this turn.
+|
+|t:|1712517637
+|switch|p1a: Gyarados|Gyarados, L79, F|280\/280
+|-ability|p1a: Gyarados|Intimidate|boost
+|-fail|p2a: Entei|unboost|Attack|[from] ability: Inner Focus|[of] p2a: Entei
+|move|p2a: Entei|Sacred Fire|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|183\/280
+|
+|-damage|p2a: Entei|223\/307 psn|[from] psn
+|upkeep
+|turn|20
+|inactive|MORE THAN EVER has 30 seconds left this turn.
+|
+|t:|1712517645
+|switch|p2a: Rotom|Rotom-Mow, L86|184\/226
+|move|p1a: Gyarados|Waterfall|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|142\/226
+|
+|upkeep
+|turn|21
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517655
+|move|p2a: Rotom|Volt Switch|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|inactive|MORE THAN EVER has 30 seconds left.
+|
+|t:|1712517663
+|switch|p2a: Chansey|Chansey, L85, F|564\/564|[from] Volt Switch
+|-status|p2a: Chansey|psn
+|
+|-damage|p2a: Chansey|494\/564 psn|[from] psn
+|upkeep
+|
+|t:|1712517666
+|switch|p1a: Fezandipiti|Fezandipiti, L81, M, tera:Steel|106\/275
+|turn|22
+|
+|t:|1712517675
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|244\/275
+|move|p2a: Chansey|Thunder Wave|p1a: Fezandipiti
+|-status|p1a: Fezandipiti|par
+|
+|-heal|p1a: Fezandipiti|261\/275 par|[from] item: Leftovers
+|-damage|p2a: Chansey|424\/564 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1712517682
+|move|p2a: Chansey|Stealth Rock|p1a: Fezandipiti
+|-sidestart|p1: peatsd|move: Stealth Rock
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Chansey
+|-damage|p2a: Chansey|154\/564 psn
+|
+|-heal|p1a: Fezandipiti|275\/275 par|[from] item: Leftovers
+|-damage|p2a: Chansey|84\/564 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1712517692
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|366\/564 psn
+|move|p1a: Fezandipiti|Play Rough|p2a: Chansey
+|-damage|p2a: Chansey|158\/564 psn
+|
+|-damage|p2a: Chansey|88\/564 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1712517703
+|move|p2a: Chansey|Seismic Toss|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|190\/275 par
+|move|p1a: Fezandipiti|Play Rough|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|-heal|p1a: Fezandipiti|207\/275 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1712517704
+|switch|p2a: Entei|Entei, L78|223\/307 psn
+|turn|26
+|
+|t:|1712517711
+|move|p2a: Entei|Sacred Fire|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|-damage|p2a: Entei|185\/307 psn|[from] psn
+|upkeep
+|
+|t:|1712517714
+|switch|p1a: Persian|Persian-Alola, L86, M|252\/252
+|-damage|p1a: Persian|221\/252|[from] Stealth Rock
+|turn|27
+|
+|t:|1712517721
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|move|p2a: Entei|Sacred Fire|p1a: Persian
+|-damage|p1a: Persian|119\/252
+|-status|p1a: Persian|brn
+|
+|-heal|p1a: Persian|134\/252 brn|[from] item: Leftovers
+|-damage|p2a: Entei|147\/307 psn|[from] psn
+|-damage|p1a: Persian|119\/252 brn|[from] brn
+|upkeep
+|turn|28
+|c|☆peatsd|ggs
+|
+|t:|1712517726
+|move|p1a: Persian|Dark Pulse|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|
+|-heal|p1a: Persian|134\/252 brn|[from] item: Leftovers
+|-damage|p1a: Persian|119\/252 brn|[from] brn
+|upkeep
+|
+|t:|1712517730
+|switch|p2a: Rotom|Rotom-Mow, L86|142\/226
+|turn|29
+|
+|t:|1712517736
+|move|p2a: Rotom|Leaf Storm|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|-unboost|p2a: Rotom|spa|2
+|faint|p1a: Persian
+|
+|win|MORE THAN EVER
+|c|☆MORE THAN EVER|gg
+|l| Evie733
+|l|+dex
+|l| setset77
+|l|☆MORE THAN EVER
+|player|p2|
+|j| Evie733
+|l| Evie733
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆peatsd and ☆MORE THAN EVER joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 9] Random Battle</strong></div><div class=""><small><em>Species Clause:</em> Limit one of each Pokémon</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between peatsd and MORE THAN EVER!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Forretress</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>letsago.</em></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>MY TEAM IS MID</em></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>HELP</em></div><div class="chat"><small> BloodAce joined</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="peatsd">peatsd</span>:</strong> <em>g-good luck..</em></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by peatsd)</div><div class="chat"><small>+Pure Hackmons joined</small></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>farewell my paradise.</em></div><div class="chat chatmessage-bloodace"><strong style="color:#ab5930"><small> </small><span class="username" data-name="BloodAce">BloodAce</span>:</strong> <em>PREP</em></div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER withdrew Quagsire!<br></div><div class="battle-history">MORE THAN EVER sent out <strong>Entei</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Toxic Spikes</strong>!<br></div><div class="battle-history"><small>Poison spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat"><small> Velcroc joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Entei used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history">[Forretress's Sturdy]<br><small>Forretress endured the hit!</small><br></div><div class="battle-history"><small>(Forretress lost <abbr title="−262/263">99.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Entei lost <abbr title="−46/307">15.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress went back to peatsd!<br></div><div class="battle-history">Go! <strong>Gyarados</strong>!<br></div><div class="battle-history">[Gyarados's Intimidate]<br></div><div class="battle-history">[The opposing Entei's Inner Focus]<br><small>The opposing Entei's Attack was not lowered!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">MORE THAN EVER has 270 seconds left.</div><div class="chat message-error">MORE THAN EVER has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER withdrew Entei!<br></div><div class="battle-history">MORE THAN EVER sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−42/226">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat"><small> Icemaster joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados, come back!<br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−63/310">20.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rotom's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">MORE THAN EVER has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER withdrew Rotom!<br></div><div class="battle-history">MORE THAN EVER sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−106/297">35.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Skuntank knocked off the opposing Quagsire's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank, come back!<br></div><div class="battle-history">Go! <strong>Gyarados</strong>!<br></div><div class="battle-history">[Gyarados's Intimidate]<br></div><div class="battle-history"><small>The opposing Quagsire's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Gyarados...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−117/297">39.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire fainted!<br></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="peatsd">peatsd</span>:</strong> <em>mb</em></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>HELP</em></div><div class="chat message-error">MORE THAN EVER has 210 seconds left.</div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>im a sorry team.</em></div><div class="chat"><small> setset77 joined</small></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>this player is too goated with the sticks</em></div><div class="chat"><small> Binacle Pinnacle joined</small></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>ok this week ill hit 2000 on ladder. no excuses</em></div><div class="chat message-error">MORE THAN EVER has 180 seconds left.</div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>FCK</em></div><div class="chat chatmessage-purehackmons"><strong style="color:#b64c54"><small>+</small><span class="username" data-name="Pure Hackmons">Pure Hackmons</span>:</strong> <em>GL with that</em></div><div class="chat chatmessage-icemaster"><strong style="color:#0d8c6c"><small> </small><span class="username" data-name="Icemaster">Icemaster</span>:</strong> <em>Do you enjoy randbats ?</em></div><div class="chat chatmessage-icemaster"><strong style="color:#0d8c6c"><small> </small><span class="username" data-name="Icemaster">Icemaster</span>:</strong> <em>Might be a fun side hustle. But you're not getting another MSPL game brutha.</em></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>dont get slapped</em></div><div class="chat message-error">MORE THAN EVER has 150 seconds left.</div><div class="chat chatmessage-icemaster"><strong style="color:#0d8c6c"><small> </small><span class="username" data-name="Icemaster">Icemaster</span>:</strong> <em>Don't get deepfried</em></div><div class="chat chatmessage-icemaster"><strong style="color:#0d8c6c"><small> </small><span class="username" data-name="Icemaster">Icemaster</span>:</strong> <em>And wrapped in batter</em></div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados, come back!<br></div><div class="battle-history">Go! <strong>Forretress</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Forretress lost <abbr title="−1/263">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress fainted!<br></div><div class="chat chatmessage-bloodace"><strong style="color:#ab5930"><small> </small><span class="username" data-name="BloodAce">BloodAce</span>:</strong> <em>stfu and win</em></div><div class="chat message-error">MORE THAN EVER has 120 seconds left.</div><div class="chat message-error">MORE THAN EVER has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to MORE THAN EVER!<br></div><div class="battle-history">MORE THAN EVER sent out <strong>Iron Crown</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">peatsd has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Iron Crown has Terastallized into the Fighting-type!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Iron Crown used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Iron Crown's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Iron Crown's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">MORE THAN EVER has 60 seconds left.</div><div class="chat"><small>+sealoo joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Iron Crown used <strong>Tachyon Cutter</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−69/310">22.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−69/310">22.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Iron Crown lost <abbr title="−124/272">45.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Iron Crown restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat"><small> Evie733 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Iron Crown used <strong>Tachyon Cutter</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−72/310">23.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−37/310">11.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Iron Crown restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-sealoo"><strong style="color:#b85254"><small>+</small><span class="username" data-name="sealoo">sealoo</span>:</strong> <em>Pea Pod Pea TSD Pea Ness</em></div><div class="chat chatmessage-purehackmons"><strong style="color:#b64c54"><small>+</small><span class="username" data-name="Pure Hackmons">Pure Hackmons</span>:</strong> <em>:blobwaitwhat:</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="peatsd">peatsd</span>:</strong> <em>i made an ass play. im sorry.</em></div><div class="chat message-error">MORE THAN EVER has 60 seconds left.</div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>farewell my paradise.</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="peatsd">peatsd</span>:</strong> <em>just use foul play</em></div><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Iron Crown used <strong>Tachyon Cutter</strong>!<br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−85/298">28.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−93/298">31.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Azumarill ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Azumarill restored HP using its Sitrus Berry!</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Iron Crown lost <abbr title="−182/272">66.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Iron Crown fainted!<br></div><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill, come back!<br></div><div class="battle-history">Go! <strong>Fezandipiti</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Fezandipiti lost <abbr title="−66/275">24%</abbr> of its health!)</small><br></div><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to MORE THAN EVER!<br></div><div class="battle-history">MORE THAN EVER sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti, come back!<br></div><div class="battle-history">Go! <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Psychic Noise</strong>!<br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−76/298">25.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Azumarill was prevented from healing!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat"><small>+sealoo left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−76/261">29.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bronzong's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−99/298">33.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Azumarill's Heal Block wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat chatmessage-icemaster"><strong style="color:#0d8c6c"><small> </small><span class="username" data-name="Icemaster">Icemaster</span>:</strong> <em>Highlord</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−132/261">50.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Psychic Noise</strong>!<br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−19/298">6.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Fezandipiti</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="chat message-error">MORE THAN EVER has 20 seconds left.</div><div class="chat message-error">peatsd has 270 seconds left.</div><div class="chat"><small>+dex joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti has Terastallized into the Steel-type!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Beat Up</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−20/261">7.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−24/261">9.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−16/261">6.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 3 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Fezandipiti lost <abbr title="−154/275">56.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">MORE THAN EVER has 30 seconds left this turn.</div><div class="chat message-error">peatsd has 270 seconds left.</div><div class="chat message-error">MORE THAN EVER has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Beat Up</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−24/261">9.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−17/261">6.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">MORE THAN EVER has 25 seconds left this turn.</div><div class="chat message-error">MORE THAN EVER has 20 seconds left.</div><div class="chat message-error">MORE THAN EVER has 15 seconds left.</div><div class="chat message-error">MORE THAN EVER has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out <strong>Entei</strong>!<br></div><div class="battle-history"><small>The opposing Entei was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">MORE THAN EVER has 20 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti, come back!<br></div><div class="battle-history">Go! <strong>Gyarados</strong>!<br></div><div class="battle-history">[Gyarados's Intimidate]<br></div><div class="battle-history">[The opposing Entei's Inner Focus]<br><small>The opposing Entei's Attack was not lowered!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Entei used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Gyarados lost <abbr title="−97/280">34.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Entei was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">MORE THAN EVER has 30 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER withdrew Entei!<br></div><div class="battle-history">MORE THAN EVER sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−42/226">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gyarados lost <abbr title="−183/280">65.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gyarados fainted!<br></div><div class="chat message-error">MORE THAN EVER has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to MORE THAN EVER!<br></div><div class="battle-history">MORE THAN EVER sent out <strong>Chansey</strong>!<br></div><div class="battle-history"><small>The opposing Chansey was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Chansey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Fezandipiti</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Fezandipiti had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chansey used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Fezandipiti is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Chansey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chansey used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Chansey lost <abbr title="−270/564">47.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Chansey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chansey used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Chansey had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>(The opposing Chansey lost <abbr title="−208/564">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Chansey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chansey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Fezandipiti lost <abbr title="−85/275">30.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>(The opposing Chansey lost <abbr title="−88/564">15.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chansey fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fezandipiti restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out <strong>Entei</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Entei used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Fezandipiti lost <abbr title="−207/275">75.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fezandipiti fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Entei was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Persian (<strong>Persian-Alola</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Persian!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Persian's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Entei used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>(Persian lost <abbr title="−102/252">40.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Persian was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Persian restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Entei was hurt by poison!</small><br></div><div class="battle-history"><small>Persian was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="peatsd">peatsd</span>:</strong> <em>ggs</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Entei lost <abbr title="−147/307">47.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Entei fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Persian restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Persian was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">MORE THAN EVER sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>(Persian lost <abbr title="−119/252">47.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rotom's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>MORE THAN EVER</strong> won the battle!<br></div><div class="chat chatmessage-morethanever"><strong style="color:#9b3dc0"><small>☆</small><span class="username" data-name="MORE THAN EVER">MORE THAN EVER</span>:</strong> <em>gg</em></div><div class="chat"><small> Evie733, +dex,  setset77, and ☆MORE THAN EVER left</small></div><div class="chat"><small> Evie733 joined;  Evie733 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

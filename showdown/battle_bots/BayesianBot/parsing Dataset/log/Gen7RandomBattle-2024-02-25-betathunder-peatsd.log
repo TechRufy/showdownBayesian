@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: betathunder vs. PeaTSD</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2067471008" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/betathunder" class="subtle" target="_blank">betathunder</a> vs. <a href="http://pokemonshowdown.com/users/peatsd" class="subtle" target="_blank">PeaTSD</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆betathunder
+|j|☆PeaTSD
+|t:|1708892669
+|gametype|singles
+|player|p1|betathunder|#rbtt7teamrayquazaf|
+|player|p2|PeaTSD|#rbtt6teammewtwof|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1708892669
+|start
+|switch|p1a: Simisear|Simisear, L88, F|275\/275
+|switch|p2a: Torkoal|Torkoal, L84, F|255\/255
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|c|☆PeaTSD|glhf
+|j| hammy358
+|c|☆betathunder|you too
+|j| mikonn
+|c|☆PeaTSD|sorry they gave me a literal stall core last game
+|c|☆betathunder|not your fault
+|c|☆betathunder|you play the hand your dealt :)
+|c|☆PeaTSD|oh boy there are some hands here....
+|c|☆PeaTSD|how much does this monkey do
+|c|☆betathunder|!rcalc
+|c| betathunder|\/raw <div class="infobox">Random Battles damage calculator. (Courtesy of Austin)<br \/>- <a href="https:\/\/calc.pokemonshowdown.com\/randoms.html">Random Battles Damage Calculator<\/a><\/div>
+|c|☆betathunder|lets find out
+|c|☆PeaTSD|Lvl 88 84 SpA Simisear Fire Blast vs. Lvl 84 84 HP \/ 84 SpD Assault Vest Torkoal in Sun: 70-83 (27.4 - 32.5%) -- guaranteed 4HKO
+|
+|t:|1708892741
+|move|p1a: Simisear|Substitute|p1a: Simisear
+|-start|p1a: Simisear|Substitute
+|-damage|p1a: Simisear|207\/275
+|move|p2a: Torkoal|Stealth Rock|p1a: Simisear
+|-sidestart|p1: betathunder|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Simisear|224\/275|[from] item: Leftovers
+|upkeep
+|turn|2
+|c|☆betathunder|the real question is did you roll the av set
+|
+|t:|1708892748
+|move|p1a: Simisear|Nasty Plot|p1a: Simisear
+|-boost|p1a: Simisear|spa|2
+|move|p2a: Torkoal|Earthquake|p1a: Simisear
+|-supereffective|p1a: Simisear
+|-end|p1a: Simisear|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Simisear|241\/275|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆PeaTSD|no
+|c|☆PeaTSD|i used the wrong calc
+|c|☆PeaTSD|already
+|
+|t:|1708892778
+|move|p1a: Simisear|Fire Blast|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|11\/255
+|move|p2a: Torkoal|Earthquake|p1a: Simisear
+|-supereffective|p1a: Simisear
+|-damage|p1a: Simisear|97\/275
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Simisear|114\/275|[from] item: Leftovers
+|-heal|p2a: Torkoal|26\/255|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1708892789
+|move|p1a: Simisear|Grass Knot|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Simisear|131\/275|[from] item: Leftovers
+|upkeep
+|j| Pulse_kS
+|
+|t:|1708892805
+|switch|p2a: Alakazam|Alakazam, L79, F|216\/216
+|turn|5
+|j| forsh
+|c| forsh|LETS GO BETA LETS GO
+|
+|t:|1708892813
+|switch|p1a: Pangoro|Pangoro, L86, F|304\/304
+|-damage|p1a: Pangoro|285\/304|[from] Stealth Rock
+|detailschange|p2a: Alakazam|Alakazam-Mega, L79, F
+|-mega|p2a: Alakazam|Alakazam|Alakazite
+|-ability|p2a: Alakazam|Iron Fist|[from] ability: Trace|[of] p1a: Pangoro
+|move|p2a: Alakazam|Psychic|p1a: Pangoro
+|-immune|p1a: Pangoro
+|
+|-weather|none
+|upkeep
+|turn|6
+|c| forsh|oh is that my boy peap
+|c| forsh|LETS GO PEAPOD LETS GO
+|j| Slikkles
+|j| mines2930
+|c| forsh|i hope u both beat each other
+|j| Trefleuh
+|c| forsh|but come back to papa
+|
+|t:|1708892832
+|switch|p1a: Gothitelle|Gothitelle, L88, M|266\/266
+|-damage|p1a: Gothitelle|233\/266|[from] Stealth Rock
+|move|p2a: Alakazam|Substitute|p2a: Alakazam
+|-start|p2a: Alakazam|Substitute
+|-damage|p2a: Alakazam|162\/216
+|
+|upkeep
+|turn|7
+|j| Casual dot exe
+|
+|t:|1708892837
+|move|p2a: Alakazam|Calm Mind|p2a: Alakazam
+|-boost|p2a: Alakazam|spa|1
+|-boost|p2a: Alakazam|spd|1
+|move|p1a: Gothitelle|Shadow Ball|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-crit|p2a: Alakazam
+|-end|p2a: Alakazam|Substitute
+|
+|upkeep
+|turn|8
+|j| John Dozo
+|j| Lady Writer ⌬
+|
+|t:|1708892870
+|move|p2a: Alakazam|Calm Mind|p2a: Alakazam
+|-boost|p2a: Alakazam|spa|1
+|-boost|p2a: Alakazam|spd|1
+|move|p1a: Gothitelle|Shadow Ball|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|108\/216
+|
+|upkeep
+|turn|9
+|
+|t:|1708892875
+|move|p2a: Alakazam|Calm Mind|p2a: Alakazam
+|-boost|p2a: Alakazam|spa|1
+|-boost|p2a: Alakazam|spd|1
+|move|p1a: Gothitelle|Shadow Ball|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|62\/216
+|
+|upkeep
+|turn|10
+|
+|t:|1708892878
+|move|p2a: Alakazam|Psychic|p1a: Gothitelle
+|-resisted|p1a: Gothitelle
+|-damage|p1a: Gothitelle|100\/266
+|move|p1a: Gothitelle|Shadow Ball|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|18\/216
+|
+|upkeep
+|turn|11
+|j| Sealoo
+|c|☆PeaTSD|weird 1v1
+|c|☆PeaTSD|but okay
+|
+|t:|1708892895
+|move|p2a: Alakazam|Psychic|p1a: Gothitelle
+|-resisted|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|
+|upkeep
+|l| mines2930
+|
+|t:|1708892896
+|switch|p1a: Pangoro|Pangoro, L86, F|285\/304
+|-damage|p1a: Pangoro|266\/304|[from] Stealth Rock
+|turn|12
+|j|+pia
+|l| Casual dot exe
+|
+|t:|1708892908
+|move|p2a: Alakazam|Focus Blast|p1a: Pangoro
+|-supereffective|p1a: Pangoro
+|-damage|p1a: Pangoro|0 fnt
+|faint|p1a: Pangoro
+|
+|upkeep
+|
+|t:|1708892910
+|switch|p1a: Leafeon|Leafeon, L88, F|258\/258
+|-damage|p1a: Leafeon|226\/258|[from] Stealth Rock
+|turn|13
+|
+|t:|1708892916
+|switch|p1a: Absol|Absol, L82, F|241\/241
+|-damage|p1a: Absol|211\/241|[from] Stealth Rock
+|move|p2a: Alakazam|Psychic|p1a: Absol
+|-immune|p1a: Absol
+|
+|upkeep
+|turn|14
+|j| Casual dot exe
+|
+|t:|1708892929
+|switch|p2a: Sandslash|Sandslash-Alola, L91, F|284\/284
+|detailschange|p1a: Absol|Absol-Mega, L82, F
+|-mega|p1a: Absol|Absol|Absolite
+|move|p1a: Absol|Knock Off|p2a: Sandslash
+|-damage|p2a: Sandslash|191\/284
+|-enditem|p2a: Sandslash|Leftovers|[from] move: Knock Off|[of] p1a: Absol
+|
+|upkeep
+|turn|15
+|
+|t:|1708892936
+|move|p1a: Absol|Superpower|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|-unboost|p1a: Absol|atk|1
+|-unboost|p1a: Absol|def|1
+|faint|p2a: Sandslash
+|
+|upkeep
+|
+|t:|1708892941
+|switch|p2a: Beartic|Beartic, L90, F|317\/317
+|turn|16
+|j| Lrogue ❀
+|l| mikonn
+|j| mikonn
+|l| Casual dot exe
+|l| Sealoo
+|
+|t:|1708892960
+|move|p1a: Absol|Superpower|p2a: Beartic
+|-supereffective|p2a: Beartic
+|-damage|p2a: Beartic|163\/317
+|-unboost|p1a: Absol|atk|1
+|-unboost|p1a: Absol|def|1
+|move|p2a: Beartic|Icicle Crash|p1a: Absol
+|-damage|p1a: Absol|0 fnt
+|faint|p1a: Absol
+|
+|upkeep
+|
+|t:|1708892963
+|switch|p1a: Simisear|Simisear, L88, F|131\/275
+|-damage|p1a: Simisear|63\/275|[from] Stealth Rock
+|turn|17
+|j| soTsoT
+|
+|t:|1708892971
+|move|p1a: Simisear|Fire Blast|p2a: Beartic
+|-supereffective|p2a: Beartic
+|-damage|p2a: Beartic|0 fnt
+|faint|p2a: Beartic
+|
+|-heal|p1a: Simisear|80\/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1708892973
+|switch|p2a: Alakazam|Alakazam-Mega, L79, F|18\/216
+|-ability|p2a: Alakazam|Blaze|[from] ability: Trace|[of] p1a: Simisear
+|turn|18
+|
+|t:|1708892975
+|move|p2a: Alakazam|Psychic|p1a: Simisear
+|-damage|p1a: Simisear|0 fnt
+|faint|p1a: Simisear
+|
+|upkeep
+|
+|t:|1708892978
+|switch|p1a: Leafeon|Leafeon, L88, F|226\/258
+|-damage|p1a: Leafeon|194\/258|[from] Stealth Rock
+|turn|19
+|
+|t:|1708892995
+|move|p2a: Alakazam|Psychic|p1a: Leafeon
+|-damage|p1a: Leafeon|26\/258
+|move|p1a: Leafeon|Knock Off|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|-damage|p1a: Leafeon|1\/258|[from] item: Life Orb
+|
+|upkeep
+|j| Sealoo
+|
+|t:|1708893006
+|switch|p2a: Decidueye|Decidueye, L87, M|238\/238
+|turn|20
+|
+|t:|1708893010
+|move|p2a: Decidueye|Dark Pulse|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|upkeep
+|
+|t:|1708893011
+|switch|p1a: Zangoose|Zangoose, L87, M|269\/269
+|-damage|p1a: Zangoose|236\/269|[from] Stealth Rock
+|turn|21
+|j| Casual dot exe
+|
+|t:|1708893053
+|move|p2a: Decidueye|Dark Pulse|p1a: Zangoose
+|-damage|p1a: Zangoose|32\/269
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|22
+|c|☆betathunder|ggs
+|
+|t:|1708893058
+|move|p2a: Decidueye|Dark Pulse|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|faint|p1a: Zangoose
+|
+|win|PeaTSD
+|c|☆PeaTSD|ggs
+|c|☆betathunder|0 priority
+|l| Casual dot exe
+|l| hammy358
+|c|☆PeaTSD|that was
+|c|☆PeaTSD|speed control
+|c|☆betathunder|6-0 by mzam
+|c|☆PeaTSD|sadness
+|c|☆PeaTSD|sorry my dude
+|c|☆betathunder|average rbtt set
+|l| Sealoo
+|c|☆betathunder|its fine
+|c|☆PeaTSD|not even suker on absol
+|c|☆betathunder|no
+|c|☆betathunder|!showteam
+|c| betathunder|\/raw <div class="infobox"><details><summary>View team<\/summary>Simisear @ Leftovers  <br \/>Ability: Blaze  <br \/>Level: 88  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Substitute  <br \/>- Nasty Plot  <br \/>- Grass Knot  <br \/>- Fire Blast  <br \/><br \/>Leafeon @ Life Orb  <br \/>Ability: Chlorophyll  <br \/>Level: 88  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Swords Dance  <br \/>- Double-Edge  <br \/>- Knock Off  <br \/>- Leaf Blade  <br \/><br \/>Zangoose @ Toxic Orb  <br \/>Ability: Toxic Boost  <br \/>Level: 87  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Knock Off  <br \/>- Facade  <br \/>- Swords Dance  <br \/>- Close Combat  <br \/><br \/>Absol @ Absolite  <br \/>Ability: Justified  <br \/>Level: 82  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Play Rough  <br \/>- Superpower  <br \/>- Swords Dance  <br \/>- Knock Off  <br \/><br \/>Gothitelle @ Choice Scarf  <br \/>Ability: Shadow Tag  <br \/>Level: 88  <br \/>Hidden Power: Fighting  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk &#x2f; 30 Def &#x2f; 30 SpA &#x2f; 30 SpD &#x2f; 30 Spe  <br \/>- Shadow Ball  <br \/>- Psychic  <br \/>- Hidden Power [Fighting]  <br \/>- Signal Beam  <br \/><br \/>Pangoro @ Life Orb  <br \/>Ability: Iron Fist  <br \/>Level: 86  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Gunk Shot  <br \/>- Knock Off  <br \/>- Drain Punch  <br \/>- Swords Dance  <br \/><br \/><\/details><\/div>
+|j| koopa003
+|c|☆PeaTSD|yeah and goth was slower
+|l| koopa003
+|c|☆PeaTSD|i robbed via matchups
+|c|☆betathunder|no sucker bp or qa
+|l| Lrogue ❀
+|l| forsh
+|l|+pia
+|c|☆PeaTSD|i was scared and withdrew the zam
+|c|☆PeaTSD|gl, hope to team in wcor
+|c|☆betathunder|its a valid play
+|c|☆betathunder|uy2
+|c|☆betathunder|u2
+|c|☆betathunder|ggs
+|c|☆PeaTSD|<3
+|l|☆betathunder
+|player|p1|
+|c|☆PeaTSD|goat betathunder
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆betathunder and ☆PeaTSD joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between betathunder and PeaTSD!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Simisear</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torkoal</strong>!<br></div><div class="battle-history">[Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>glhf</em></div><div class="chat"><small> hammy358 joined</small></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>you too</em></div><div class="chat"><small> mikonn joined</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>sorry they gave me a literal stall core last game</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>not your fault</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>you play the hand your dealt :)</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>oh boy there are some hands here....</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>how much does this monkey do</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>!rcalc</em></div><div class="chat"><div class="infobox">Random Battles damage calculator. (Courtesy of Austin)<br>- <a href="https://calc.pokemonshowdown.com/randoms.html" target="_blank" rel="noopener">Random Battles Damage Calculator</a></div></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>lets find out</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>Lvl 88 84 SpA Simisear Fire Blast vs. Lvl 84 84 HP / 84 SpD Assault Vest Torkoal in Sun: 70-83 (27.4 - 32.5%) -- guaranteed 4HKO</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Simisear put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Simisear lost <abbr title="−68/275">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Simisear restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>the real question is did you roll the av set</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Simisear's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Simisear's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Simisear restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>no</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>i used the wrong calc</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>already</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−244/255">95.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Simisear lost <abbr title="−144/275">52.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Simisear restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Torkoal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−26/255">10.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Simisear restored a little HP using its Leftovers!</small><br></div><div class="chat"><small> Pulse_kS joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Alakazam</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat"><small> forsh joined</small></div><div class="chat chatmessage-forsh"><strong style="color:#2c874f"><small> </small><span class="username" data-name="forsh">forsh</span>:</strong> <em>LETS GO BETA LETS GO</em></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Simisear!<br></div><div class="battle-history">betathunder sent out <strong>Pangoro</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Pangoro!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Alakazam's Alakazite is reacting to the Key Stone!</small><br>Alakazam has Mega Evolved into Mega Alakazam!<br></div><div class="battle-history">[Alakazam's Trace]<br>[Alakazam's Iron Fist]<br><small>Alakazam traced the opposing Pangoro's Iron Fist!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Pangoro...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-forsh"><strong style="color:#2c874f"><small> </small><span class="username" data-name="forsh">forsh</span>:</strong> <em>oh is that my boy peap</em></div><div class="chat chatmessage-forsh"><strong style="color:#2c874f"><small> </small><span class="username" data-name="forsh">forsh</span>:</strong> <em>LETS GO PEAPOD LETS GO</em></div><div class="chat"><small> Slikkles and  mines2930 joined</small></div><div class="chat chatmessage-forsh"><strong style="color:#2c874f"><small> </small><span class="username" data-name="forsh">forsh</span>:</strong> <em>i hope u both beat each other</em></div><div class="chat"><small> Trefleuh joined</small></div><div class="chat chatmessage-forsh"><strong style="color:#2c874f"><small> </small><span class="username" data-name="forsh">forsh</span>:</strong> <em>but come back to papa</em></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Pangoro!<br></div><div class="battle-history">betathunder sent out <strong>Gothitelle</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gothitelle!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Alakazam put in a substitute!</small><br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−54/216">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat"><small> Casual dot exe joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Alakazam's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Alakazam's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gothitelle used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>Alakazam's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small> John Dozo and  Lady Writer ⌬ joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Alakazam's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Alakazam's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gothitelle used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−54/216">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Alakazam's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Alakazam's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gothitelle used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−46/216">21.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Gothitelle lost <abbr title="−133/266">50%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gothitelle used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−44/216">20.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat"><small> Sealoo joined</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>weird 1v1</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>but okay</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Gothitelle lost <abbr title="−100/266">37.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gothitelle fainted!<br></div><div class="chat"><small> mines2930 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Pangoro</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Pangoro!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat"><small>+pia joined;  Casual dot exe left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Pangoro lost <abbr title="−266/304">87.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Leafeon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Leafeon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Leafeon!<br></div><div class="battle-history">betathunder sent out <strong>Absol</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Absol!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Absol...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat"><small> Casual dot exe joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam, come back!<br></div><div class="battle-history">Go! Sandslash (<strong>Sandslash-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Absol's Absolite is reacting to the Key Stone!</small><br>The opposing Absol has Mega Evolved into Mega Absol!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Sandslash lost <abbr title="−93/284">32.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Absol knocked off Sandslash's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Sandslash lost <abbr title="−191/284">67.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Absol's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Absol's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sandslash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Beartic</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat"><small> Lrogue ❀ joined;  Casual dot exe and  Sealoo left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Beartic lost <abbr title="−154/317">48.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Absol's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Absol's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>(The opposing Absol lost <abbr title="−211/241">87.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Simisear</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Simisear!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat"><small> soTsoT joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Beartic lost <abbr title="−163/317">51.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Simisear restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Alakazam (<strong>Alakazam-Mega</strong>)!<br></div><div class="battle-history">[Alakazam's Trace]<br>[Alakazam's Blaze]<br><small>Alakazam traced the opposing Simisear's Blaze!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Simisear lost <abbr title="−80/275">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisear fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Leafeon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Leafeon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Leafeon lost <abbr title="−168/258">65.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−18/216">8.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam fainted!<br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="chat"><small> Sealoo joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Decidueye</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Decidueye used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Leafeon lost <abbr title="−1/258">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Zangoose</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Zangoose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat"><small> Casual dot exe joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Decidueye used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−204/269">75.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Zangoose's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zangoose was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>ggs</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Decidueye used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−32/269">11.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>PeaTSD</strong> won the battle!<br></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>ggs</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>0 priority</em></div><div class="chat"><small> Casual dot exe and  hammy358 left</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>that was</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>speed control</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>6-0 by mzam</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>sadness</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>sorry my dude</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>average rbtt set</em></div><div class="chat"><small> Sealoo left</small></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>its fine</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>not even suker on absol</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>no</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>!showteam</em></div><div class="chat"><div class="infobox"><details><summary>View team</summary>Simisear @ Leftovers  <br>Ability: Blaze  <br>Level: 88  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Substitute  <br>- Nasty Plot  <br>- Grass Knot  <br>- Fire Blast  <br><br>Leafeon @ Life Orb  <br>Ability: Chlorophyll  <br>Level: 88  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Swords Dance  <br>- Double-Edge  <br>- Knock Off  <br>- Leaf Blade  <br><br>Zangoose @ Toxic Orb  <br>Ability: Toxic Boost  <br>Level: 87  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Knock Off  <br>- Facade  <br>- Swords Dance  <br>- Close Combat  <br><br>Absol @ Absolite  <br>Ability: Justified  <br>Level: 82  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Play Rough  <br>- Superpower  <br>- Swords Dance  <br>- Knock Off  <br><br>Gothitelle @ Choice Scarf  <br>Ability: Shadow Tag  <br>Level: 88  <br>Hidden Power: Fighting  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  <br>- Shadow Ball  <br>- Psychic  <br>- Hidden Power [Fighting]  <br>- Signal Beam  <br><br>Pangoro @ Life Orb  <br>Ability: Iron Fist  <br>Level: 86  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Gunk Shot  <br>- Knock Off  <br>- Drain Punch  <br>- Swords Dance  <br><br></details></div></div><div class="chat"><small> koopa003 joined</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>yeah and goth was slower</em></div><div class="chat"><small> koopa003 left</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>i robbed via matchups</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>no sucker bp or qa</em></div><div class="chat"><small> Lrogue ❀,  forsh, and +pia left</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>i was scared and withdrew the zam</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>gl, hope to team in wcor</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>its a valid play</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>uy2</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>u2</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>ggs</em></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>&lt;3</em></div><div class="chat"><small>☆betathunder left</small></div><div class="chat chatmessage-peatsd"><strong style="color:#109b51"><small>☆</small><span class="username" data-name="PeaTSD">PeaTSD</span>:</strong> <em>goat betathunder</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

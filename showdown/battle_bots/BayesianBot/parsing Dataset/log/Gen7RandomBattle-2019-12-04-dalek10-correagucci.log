@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Dalek10 vs. Correagucci</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-1022413526" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/dalek10" class="subtle" target="_blank">Dalek10</a> vs. <a href="http://pokemonshowdown.com/users/correagucci" class="subtle" target="_blank">Correagucci</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Dalek10
+|j|☆Correagucci
+|player|p1|Dalek10|92|1657
+|player|p2|Correagucci|blue|1620
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Tornadus|Tornadus, L83, M|267\/267
+|switch|p2a: Diggersby|Diggersby, L81, F|270\/270
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Correagucci)
+|
+|move|p1a: Tornadus|Superpower|p2a: Diggersby
+|-supereffective|p2a: Diggersby
+|-damage|p2a: Diggersby|66\/270
+|-unboost|p1a: Tornadus|atk|1
+|-unboost|p1a: Tornadus|def|1
+|move|p2a: Diggersby|Swords Dance|p2a: Diggersby
+|-boost|p2a: Diggersby|atk|2
+|
+|upkeep
+|turn|2
+|
+|move|p2a: Diggersby|Quick Attack|p1a: Tornadus
+|-damage|p1a: Tornadus|68\/267
+|move|p1a: Tornadus|Superpower|p2a: Diggersby
+|-supereffective|p2a: Diggersby
+|-damage|p2a: Diggersby|0 fnt
+|-unboost|p1a: Tornadus|atk|1
+|-unboost|p1a: Tornadus|def|1
+|faint|p2a: Diggersby
+|
+|upkeep
+|
+|switch|p2a: Tapu Koko|Tapu Koko, L80|243\/243
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|3
+|
+|switch|p1a: Excadrill|Excadrill, L80, F|307\/307
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: Landorus|Landorus, L78, M|267\/267
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|5
+|
+|move|p2a: Landorus|Earth Power|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|switch|p1a: Clawitzer|Clawitzer, L86, F|262\/262
+|turn|6
+|
+|switch|p2a: Lumineon|Lumineon, L89, M|268\/268
+|move|p1a: Clawitzer|Water Pulse|p2a: Lumineon
+|-ability|p2a: Lumineon|Storm Drain|boost
+|-boost|p2a: Lumineon|spa|1
+|
+|upkeep
+|turn|7
+|
+|switch|p1a: Kyogre|Kyogre, L78|284\/284
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Lumineon|Toxic|p1a: Kyogre
+|-status|p1a: Kyogre|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|267\/284 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|
+|move|p1a: Kyogre|Thunder|p2a: Lumineon
+|-supereffective|p2a: Lumineon
+|-damage|p2a: Lumineon|66\/268
+|move|p2a: Lumineon|U-turn|p1a: Kyogre
+|-damage|p1a: Kyogre|222\/284 tox
+|
+|switch|p2a: Braviary|Braviary, L86, M|311\/311
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|188\/284 tox|[from] psn
+|upkeep
+|turn|9
+|
+|switch|p2a: Landorus|Landorus, L78, M|267\/267
+|switch|p1a: Clawitzer|Clawitzer, L86, F|262\/262
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|switch|p2a: Lumineon|Lumineon, L89, M|66\/268
+|move|p1a: Clawitzer|Ice Beam|p2a: Lumineon
+|-resisted|p2a: Lumineon
+|-damage|p2a: Lumineon|11\/268
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Lumineon|27\/268|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|move|p2a: Lumineon|Toxic|p1a: Clawitzer
+|-status|p1a: Clawitzer|tox
+|move|p1a: Clawitzer|Ice Beam|p2a: Lumineon
+|-resisted|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|-weather|none
+|-damage|p1a: Clawitzer|246\/262 tox|[from] psn
+|upkeep
+|
+|switch|p2a: Tapu Koko|Tapu Koko, L80|243\/243
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|12
+|
+|switch|p1a: Espeon|Espeon, L84, F|246\/246
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Espeon
+|-damage|p1a: Espeon|132\/246
+|
+|-heal|p1a: Espeon|147\/246|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|-zpower|p2a: Tapu Koko
+|move|p2a: Tapu Koko|Gigavolt Havoc|p1a: Espeon|[zeffect]
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|switch|p1a: Heatmor|Heatmor, L89, M|295\/295
+|turn|14
+|
+|switch|p2a: Landorus|Landorus, L78, M|267\/267
+|move|p1a: Heatmor|Fire Blast|p2a: Landorus|[miss]
+|-miss|p1a: Heatmor|p2a: Landorus
+|
+|upkeep
+|turn|15
+|
+|switch|p1a: Clawitzer|Clawitzer, L86, F|246\/262 tox
+|move|p2a: Landorus|Knock Off|p1a: Clawitzer
+|-damage|p1a: Clawitzer|159\/262 tox
+|-enditem|p1a: Clawitzer|Choice Specs|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|241\/267|[from] item: Life Orb
+|
+|-damage|p1a: Clawitzer|143\/262 tox|[from] psn
+|upkeep
+|turn|16
+|
+|switch|p2a: Primarina|Primarina, L82, F|265\/265
+|move|p1a: Clawitzer|Ice Beam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|235\/265
+|
+|-damage|p1a: Clawitzer|111\/262 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|inactive|Dalek10 has 120 seconds left.
+|
+|move|p1a: Clawitzer|Water Pulse|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|189\/265
+|move|p2a: Primarina|Moonblast|p1a: Clawitzer
+|-damage|p1a: Clawitzer|0 fnt
+|faint|p1a: Clawitzer
+|
+|upkeep
+|
+|switch|p1a: Tornadus|Tornadus, L83, M|68\/267
+|turn|18
+|
+|-zpower|p1a: Tornadus
+|move|p1a: Tornadus|Supersonic Skystrike|p2a: Primarina|[zeffect]
+|-damage|p2a: Primarina|8\/265
+|move|p2a: Primarina|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|switch|p1a: Heatmor|Heatmor, L89, M|295\/295
+|turn|19
+|
+|switch|p2a: Braviary|Braviary, L86, M|311\/311
+|move|p1a: Heatmor|Knock Off|p2a: Braviary
+|-damage|p2a: Braviary|198\/311
+|-enditem|p2a: Braviary|Leftovers|[from] move: Knock Off|[of] p1a: Heatmor
+|-damage|p1a: Heatmor|266\/295|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|move|p2a: Braviary|Roost|p2a: Braviary
+|-heal|p2a: Braviary|311\/311
+|-singleturn|p2a: Braviary|move: Roost
+|move|p1a: Heatmor|Fire Blast|p2a: Braviary
+|-damage|p2a: Braviary|126\/311
+|-damage|p1a: Heatmor|237\/295|[from] item: Life Orb
+|
+|upkeep
+|turn|21
+|inactive|Dalek10 has 120 seconds left.
+|
+|move|p2a: Braviary|Brave Bird|p1a: Heatmor
+|-damage|p1a: Heatmor|38\/295
+|-damage|p2a: Braviary|60\/311|[from] Recoil
+|move|p1a: Heatmor|Fire Blast|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|-damage|p1a: Heatmor|9\/295|[from] item: Life Orb
+|faint|p2a: Braviary
+|
+|upkeep
+|
+|switch|p2a: Landorus|Landorus, L78, M|241\/267
+|turn|22
+|
+|move|p2a: Landorus|Knock Off|p1a: Heatmor
+|-damage|p1a: Heatmor|0 fnt
+|-enditem|p1a: Heatmor|Life Orb|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|215\/267|[from] item: Life Orb
+|faint|p1a: Heatmor
+|
+|upkeep
+|
+|switch|p1a: Kyogre|Kyogre, L78|188\/284 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|23
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|171\/284 tox|[from] psn
+|upkeep
+|
+|switch|p2a: Tapu Koko|Tapu Koko, L80|243\/243
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|24
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|137\/284 tox|[from] psn
+|upkeep
+|
+|switch|p2a: Primarina|Primarina, L82, F|8\/265
+|turn|25
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Primarina|[miss]
+|-miss|p1a: Kyogre|p2a: Primarina
+|move|p2a: Primarina|Moonblast|p1a: Kyogre
+|-damage|p1a: Kyogre|11\/284 tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|0 fnt|[from] psn
+|faint|p1a: Kyogre
+|
+|win|Correagucci
+|upkeep
+|l|☆Dalek10
+||Ladder (probably) updated, but score could not be retrieved (Response not received).
+|error|Unexpected response null from ladder server.
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Dalek10 and ☆Correagucci joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Dalek10 and Correagucci!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tornadus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Diggersby</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Correagucci)</div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Diggersby lost <abbr title="−204/270">75.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus's Attack fell!</small><br></div><div class="battle-history"><small>Tornadus's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Diggersby's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby used <strong>Quick Attack</strong>!<br></div><div class="battle-history"><small>(Tornadus lost <abbr title="−199/267">74.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Diggersby lost <abbr title="−66/270">24.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus's Attack fell!</small><br></div><div class="battle-history"><small>Tornadus's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[The opposing Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus, come back!<br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Koko used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It doesn't affect Excadrill...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Tapu Koko!<br></div><div class="battle-history">Correagucci sent out <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Excadrill's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−307/307">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Clawitzer</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Landorus!<br></div><div class="battle-history">Correagucci sent out <strong>Lumineon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer used <strong>Water Pulse</strong>!<br></div><div class="battle-history">[The opposing Lumineon's Storm Drain]<br></div><div class="battle-history"><small>The opposing Lumineon's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer, come back!<br></div><div class="battle-history">Go! <strong>Kyogre</strong>!<br></div><div class="battle-history">[Kyogre's Drizzle]<br><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lumineon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Kyogre was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Kyogre was hurt by poison!</small><br></div><div class="battle-history"><small>The electricity disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lumineon lost <abbr title="−202/268">75.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lumineon used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−45/284">15.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Lumineon!<br></div><div class="battle-history">Correagucci sent out <strong>Braviary</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Kyogre was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Braviary!<br></div><div class="battle-history">Correagucci sent out <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre, come back!<br></div><div class="battle-history">Go! <strong>Clawitzer</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Landorus!<br></div><div class="battle-history">Correagucci sent out <strong>Lumineon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Lumineon lost <abbr title="−55/268">20.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Lumineon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lumineon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Clawitzer was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Lumineon lost <abbr title="−27/268">10.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lumineon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="battle-history"><small>Clawitzer was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[The opposing Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer, come back!<br></div><div class="battle-history">Go! <strong>Espeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Koko used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Espeon lost <abbr title="−114/246">46.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Espeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tapu Koko surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tapu Koko unleashes its full-force Z-Move!</small><br>The opposing Tapu Koko used <strong>Gigavolt Havoc</strong>!<br></div><div class="battle-history"><small>(Espeon lost <abbr title="−147/246">59.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Espeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Heatmor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Tapu Koko!<br></div><div class="battle-history">Correagucci sent out <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Landorus avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor, come back!<br></div><div class="battle-history">Go! <strong>Clawitzer</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Clawitzer lost <abbr title="−87/262">33.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Landorus knocked off Clawitzer's Choice Specs!</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Clawitzer was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Landorus!<br></div><div class="battle-history">Correagucci sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−30/265">11.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Clawitzer was hurt by poison!</small><br></div><div class="battle-history"><small>The electricity disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">Dalek10 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer used <strong>Water Pulse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−46/265">17.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Clawitzer lost <abbr title="−111/262">42.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clawitzer fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tornadus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus unleashes its full-force Z-Move!</small><br>Tornadus used <strong>Supersonic Skystrike</strong>!<br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−181/265">68.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Tornadus lost <abbr title="−68/267">25.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Heatmor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci withdrew Primarina!<br></div><div class="battle-history">Correagucci sent out <strong>Braviary</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Braviary lost <abbr title="−113/311">36.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Heatmor knocked off the opposing Braviary's Leftovers!</small><br></div><div class="battle-history"><small>Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Braviary used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Braviary had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Braviary loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Braviary lost <abbr title="−185/311">59.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">Dalek10 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Braviary used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Heatmor lost <abbr title="−199/295">67.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Braviary was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Braviary lost <abbr title="−60/311">19.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Braviary fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Heatmor lost <abbr title="−9/295">3.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Landorus knocked off Heatmor's Life Orb!</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatmor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kyogre</strong>!<br></div><div class="battle-history">[Kyogre's Drizzle]<br><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Origin Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Landorus lost <abbr title="−215/267">80.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Kyogre was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[The opposing Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Origin Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Tapu Koko lost <abbr title="−243/243">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Koko fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Kyogre was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Correagucci sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Origin Pulse</strong>!<br></div><div class="battle-history"><small>The opposing Primarina avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−126/284">44.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Kyogre was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Correagucci</strong> won the battle!<br></div><div class="chat"><small>☆Dalek10 left</small></div><div class="chat">Ladder (probably) updated, but score could not be retrieved (Response not received).</div><div class="chat message-error">Unexpected response null from ladder server.</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

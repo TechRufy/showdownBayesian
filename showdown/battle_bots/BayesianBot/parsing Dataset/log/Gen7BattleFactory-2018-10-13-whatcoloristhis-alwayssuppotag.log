@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Battle Factory replay: whatcoloristhis? vs. alwayssuppotAG</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7battlefactory-819498873" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Battle Factory</strong><br /><a href="http://pokemonshowdown.com/users/whatcoloristhis" class="subtle" target="_blank">whatcoloristhis?</a> vs. <a href="http://pokemonshowdown.com/users/alwayssuppotag" class="subtle" target="_blank">alwayssuppotAG</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆whatcoloristhis?
+|j|☆alwayssuppotAG
+|player|p1|whatcoloristhis?|102
+|player|p2|alwayssuppotAG|249
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Battle Factory
+|rated|
+|seed|25785,44941,61102,25892
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Whimsicott, F|item
+|poke|p1|Torkoal, F|item
+|poke|p1|Slurpuff, F|item
+|poke|p1|Feraligatr, F|item
+|poke|p1|Umbreon, F|item
+|poke|p1|Sableye, M|item
+|poke|p2|Milotic, M|item
+|poke|p2|Banette, F|item
+|poke|p2|Linoone, F|item
+|poke|p2|Flygon, M|item
+|poke|p2|Diancie|item
+|poke|p2|Tsareena, F|item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Mega Rayquaza Clause: You cannot mega evolve Rayquaza
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alwayssuppotAG)
+|inactive|whatcoloristhis? has 120 seconds left.
+|inactive|alwayssuppotAG has 120 seconds left.
+|inactive|whatcoloristhis? has 90 seconds left.
+|
+|start
+|switch|p1a: Torkoal|Torkoal, F|343\/343
+|switch|p2a: Diancie|Diancie|304\/304
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|move|p2a: Diancie|Power Gem|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|103\/343
+|move|p1a: Torkoal|Stealth Rock|p2a: Diancie
+|-sidestart|p2: alwayssuppotAG|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Torkoal|124\/343|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|switch|p1a: Umbreon|Umbreon, F|394\/394
+|move|p2a: Diancie|Stealth Rock|p1a: Umbreon
+|-sidestart|p1: whatcoloristhis?|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|switch|p2a: Tsareena|Tsareena, F|285\/285
+|-damage|p2a: Tsareena|250\/285|[from] Stealth Rock
+|move|p1a: Umbreon|Toxic|p2a: Tsareena
+|-immune|p2a: Tsareena|[msg]|[from] ability: Leaf Guard
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tsareena|267\/285|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|switch|p1a: Sableye|Sableye, M|303\/303
+|-damage|p1a: Sableye|266\/303|[from] Stealth Rock
+|move|p2a: Tsareena|Trop Kick|p1a: Sableye
+|-damage|p1a: Sableye|148\/303
+|-damage|p2a: Tsareena|220\/285|[from] item: Rocky Helmet|[of] p1a: Sableye
+|-unboost|p1a: Sableye|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tsareena|237\/285|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|300\/303
+|move|p2a: Tsareena|Knock Off|p1a: Sableye
+|-damage|p1a: Sableye|190\/303
+|-damage|p2a: Tsareena|190\/285|[from] item: Rocky Helmet|[of] p1a: Sableye
+|-enditem|p1a: Sableye|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tsareena
+|
+|-weather|none
+|-heal|p2a: Tsareena|207\/285|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|switch|p2a: Diancie|Diancie|304\/304
+|-damage|p2a: Diancie|266\/304|[from] Stealth Rock
+|move|p1a: Sableye|Foul Play|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|228\/304
+|
+|upkeep
+|turn|7
+|
+|switch|p1a: Torkoal|Torkoal, F|124\/343
+|-damage|p1a: Torkoal|39\/343|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Diancie|Moonblast|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Umbreon|Umbreon, F|394\/394
+|-damage|p1a: Umbreon|345\/394|[from] Stealth Rock
+|turn|8
+|
+|move|p1a: Umbreon|Foul Play|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|187\/304
+|move|p2a: Diancie|Moonblast|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|211\/394
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Umbreon|235\/394|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|switch|p2a: Tsareena|Tsareena, F|207\/285
+|-damage|p2a: Tsareena|172\/285|[from] Stealth Rock
+|move|p1a: Umbreon|Moonlight|p1a: Umbreon
+|-heal|p1a: Umbreon|394\/394
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tsareena|189\/285|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|move|p2a: Tsareena|Knock Off|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-crit|p1a: Umbreon
+|-damage|p1a: Umbreon|315\/394
+|-enditem|p1a: Umbreon|Leftovers|[from] move: Knock Off|[of] p2a: Tsareena
+|move|p1a: Umbreon|Toxic|p2a: Tsareena|[miss]
+|-miss|p1a: Umbreon|p2a: Tsareena
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tsareena|206\/285|[from] item: Leftovers
+|upkeep
+|turn|11
+|-message|whatcoloristhis? forfeited.
+|
+|win|alwayssuppotAG
+|l|☆whatcoloristhis?
+|raw|whatcoloristhis?'s rating: 1324 &rarr; <strong>1299<\/strong><br \/>(-25 for losing)
+|raw|alwayssuppotAG's rating: 1229 &rarr; <strong>1261<\/strong><br \/>(+32 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆whatcoloristhis? and ☆alwayssuppotAG joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Battle Factory</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Mega Rayquaza Clause:</em> You cannot mega evolve Rayquaza</small></div><div class="chat battle-history"><strong>whatcoloristhis?'s team:</strong> <em style="color:#445566;display:block;">Whimsicott / Torkoal / Slurpuff / Feraligatr / Umbreon / Sableye</em></div><div class="chat battle-history"><strong>alwayssuppotAG's team:</strong> <em style="color:#445566;display:block;">Milotic / Banette / Linoone / Flygon / Diancie / Tsareena</em></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by alwayssuppotAG)</div><div class="chat message-error">whatcoloristhis? has 120 seconds left.</div><div class="chat message-error">alwayssuppotAG has 120 seconds left.</div><div class="chat message-error">whatcoloristhis? has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between whatcoloristhis? and alwayssuppotAG!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torkoal</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">alwayssuppotAG sent out <strong>Diancie</strong>!<br></div><div class="battle-history">[Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diancie used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−240/343">70.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Torkoal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal, come back!<br></div><div class="battle-history">Go! <strong>Umbreon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diancie used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">alwayssuppotAG withdrew Diancie!<br></div><div class="battle-history">alwayssuppotAG sent out <strong>Tsareena</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tsareena!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Umbreon used <strong>Toxic</strong>!<br></div><div class="battle-history">[The opposing Tsareena's Leaf Guard]<br><small>It doesn't affect the opposing Tsareena...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Tsareena restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Umbreon, come back!<br></div><div class="battle-history">Go! <strong>Sableye</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Sableye!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Trop Kick</strong>!<br></div><div class="battle-history"><small>(Sableye lost <abbr title="−118/303">38.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tsareena was hurt by the Rocky Helmet!</small><br></div><div class="battle-history"><small>Sableye's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Tsareena restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Sableye lost <abbr title="−110/303">36.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tsareena was hurt by the Rocky Helmet!</small><br></div><div class="battle-history"><small>The opposing Tsareena knocked off Sableye's Rocky Helmet!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>The opposing Tsareena restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">alwayssuppotAG withdrew Tsareena!<br></div><div class="battle-history">alwayssuppotAG sent out <strong>Diancie</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Diancie!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sableye used <strong>Foul Play</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Diancie lost <abbr title="−38/304">12.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sableye, come back!<br></div><div class="battle-history">Go! <strong>Torkoal</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Torkoal!</small><br></div><div class="battle-history">[Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diancie used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−39/343">11.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Umbreon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Umbreon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Umbreon used <strong>Foul Play</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Diancie lost <abbr title="−41/304">13.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diancie used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Umbreon lost <abbr title="−134/394">34.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Umbreon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">alwayssuppotAG withdrew Diancie!<br></div><div class="battle-history">alwayssuppotAG sent out <strong>Tsareena</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tsareena!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Umbreon used <strong>Moonlight</strong>!<br></div><div class="battle-history"><small>Umbreon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Tsareena restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Umbreon lost <abbr title="−79/394">20.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tsareena knocked off Umbreon's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Umbreon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Tsareena avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Tsareena restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>whatcoloristhis? forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>alwayssuppotAG</strong> won the battle!<br></div><div class="chat"><small>☆whatcoloristhis? left</small></div><div class="chat">whatcoloristhis?'s rating: 1324 → <strong>1299</strong><br>(-25 for losing)</div><div class="chat">alwayssuppotAG's rating: 1229 → <strong>1261</strong><br>(+32 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 5] Random Battle replay: Ze Memerr vs. WhatColorIsThis?</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen5randombattle-2061891242" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 5] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/zememerr" class="subtle" target="_blank">Ze Memerr</a> vs. <a href="http://pokemonshowdown.com/users/whatcoloristhis" class="subtle" target="_blank">WhatColorIsThis?</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Ze Memerr
+|j|☆WhatColorIsThis?
+|t:|1708228732
+|gametype|singles
+|player|p1|Ze Memerr|shadowtriad|1416
+|player|p2|WhatColorIsThis?|266|1515
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1708228732
+|start
+|switch|p1a: Lilligant|Lilligant, L82, F|249\/249
+|switch|p2a: Porygon2|Porygon2, L82|274\/274
+|-ability|p2a: Porygon2|Own Tempo|[from] ability: Trace|[of] p1a: Lilligant
+|turn|1
+|
+|t:|1708228749
+|move|p1a: Lilligant|Sleep Powder|p2a: Porygon2
+|-status|p2a: Porygon2|slp|[from] move: Sleep Powder
+|cant|p2a: Porygon2|slp
+|
+|upkeep
+|turn|2
+|
+|t:|1708228766
+|switch|p2a: Darmanitan|Darmanitan, L81, F|303\/303
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1708228782
+|switch|p1a: Whiscash|Whiscash, L89, F|341\/341
+|move|p2a: Darmanitan|Flare Blitz|p1a: Whiscash
+|-resisted|p1a: Whiscash
+|-damage|p1a: Whiscash|201\/341
+|-damage|p2a: Darmanitan|257\/303|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1708228798
+|switch|p2a: Maractus|Maractus, L96, M|299\/299
+|move|p1a: Whiscash|Dragon Dance|p1a: Whiscash
+|-boost|p1a: Whiscash|atk|1
+|-boost|p1a: Whiscash|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1708228809
+|switch|p1a: Lilligant|Lilligant, L82, F|249\/249
+|move|p2a: Maractus|Giga Drain|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-damage|p1a: Lilligant|187\/249
+|
+|upkeep
+|turn|6
+|
+|t:|1708228816
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Maractus|Toxic|p1a: Lilligant
+|-status|p1a: Lilligant|tox
+|
+|-damage|p1a: Lilligant|172\/249 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1708228821
+|move|p1a: Lilligant|Hidden Power|p2a: Maractus
+|-supereffective|p2a: Maractus
+|-damage|p2a: Maractus|78\/299
+|-damage|p1a: Lilligant|148\/249 tox|[from] item: Life Orb
+|move|p2a: Maractus|Spikes|p1a: Lilligant
+|-sidestart|p1: Ze Memerr|Spikes
+|
+|-heal|p2a: Maractus|96\/299|[from] item: Leftovers
+|-damage|p1a: Lilligant|118\/249 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1708228831
+|switch|p2a: Magcargo|Magcargo, L94, F|246\/246
+|move|p1a: Lilligant|Hidden Power|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|220\/246
+|-damage|p1a: Lilligant|94\/249 tox|[from] item: Life Orb
+|
+|-heal|p2a: Magcargo|235\/246|[from] item: Leftovers
+|-damage|p1a: Lilligant|49\/249 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1708228838
+|move|p1a: Lilligant|Petal Dance|p2a: Magcargo
+|-crit|p2a: Magcargo
+|-damage|p2a: Magcargo|0 fnt
+|faint|p2a: Magcargo
+|-damage|p1a: Lilligant|25\/249 tox|[from] item: Life Orb
+|
+|-damage|p1a: Lilligant|0 fnt|[from] psn
+|faint|p1a: Lilligant
+|upkeep
+|
+|t:|1708228850
+|switch|p1a: Zapdos|Zapdos, L79|272\/272
+|switch|p2a: Darmanitan|Darmanitan, L81, F|257\/303
+|-ability|p1a: Zapdos|Pressure
+|turn|10
+|
+|t:|1708228873
+|move|p1a: Zapdos|Roost||[still]
+|-fail|p1a: Zapdos|heal
+|move|p2a: Darmanitan|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Darmanitan|167\/303|[from] Recoil
+|
+|upkeep
+|
+|t:|1708228883
+|switch|p1a: Tauros|Tauros, L83, M|260\/260
+|-damage|p1a: Tauros|228\/260|[from] Spikes
+|turn|11
+|
+|t:|1708228892
+|switch|p2a: Maractus|Maractus, L96, M|96\/299
+|move|p1a: Tauros|Rock Slide|p2a: Maractus
+|-damage|p2a: Maractus|0 fnt
+|faint|p2a: Maractus
+|
+|upkeep
+|
+|t:|1708228902
+|switch|p2a: Bellossom|Bellossom, L93, F|290\/290
+|turn|12
+|
+|t:|1708228912
+|move|p1a: Tauros|Body Slam|p2a: Bellossom
+|-damage|p2a: Bellossom|137\/290
+|move|p2a: Bellossom|Sleep Powder|p1a: Tauros|[miss]
+|-miss|p2a: Bellossom|p1a: Tauros
+|
+|-heal|p2a: Bellossom|155\/290|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1708228918
+|switch|p1a: Abomasnow|Abomasnow, L84, F|288\/288
+|-damage|p1a: Abomasnow|252\/288|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Bellossom|Sleep Powder|p1a: Abomasnow
+|-status|p1a: Abomasnow|slp|[from] move: Sleep Powder
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Bellossom|137\/290|[from] Hail
+|-heal|p1a: Abomasnow|270\/288 slp|[from] item: Leftovers
+|-heal|p2a: Bellossom|155\/290|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1708228929
+|cant|p1a: Abomasnow|slp
+|move|p2a: Bellossom|Hidden Power|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|22\/288 slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Bellossom|137\/290|[from] Hail
+|-heal|p1a: Abomasnow|40\/288 slp|[from] item: Leftovers
+|-heal|p2a: Bellossom|155\/290|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1708228956
+|switch|p2a: Darmanitan|Darmanitan, L81, F|167\/303
+|cant|p1a: Abomasnow|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Darmanitan|149\/303|[from] Hail
+|-heal|p1a: Abomasnow|58\/288 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1708228974
+|-curestatus|p1a: Abomasnow|slp|[msg]
+|move|p1a: Abomasnow|Ice Shard|p2a: Darmanitan
+|-resisted|p2a: Darmanitan
+|-damage|p2a: Darmanitan|122\/303
+|move|p2a: Darmanitan|U-turn|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|0 fnt
+|faint|p1a: Abomasnow
+|-damage|p2a: Darmanitan|92\/303|[from] item: Life Orb
+|
+|t:|1708228978
+|switch|p2a: Bellossom|Bellossom, L93, F|155\/290|[from] U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Bellossom|137\/290|[from] Hail
+|-heal|p2a: Bellossom|155\/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1708228990
+|switch|p1a: Tauros|Tauros, L83, M|228\/260
+|-damage|p1a: Tauros|196\/260|[from] Spikes
+|turn|17
+|
+|t:|1708228994
+|move|p1a: Tauros|Body Slam|p2a: Bellossom
+|-damage|p2a: Bellossom|19\/290
+|move|p2a: Bellossom|Leaf Storm|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|-unboost|p2a: Bellossom|spa|2
+|faint|p1a: Tauros
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Bellossom|1\/290|[from] Hail
+|-heal|p2a: Bellossom|19\/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1708229002
+|switch|p1a: Whiscash|Whiscash, L89, F|201\/341
+|-damage|p1a: Whiscash|159\/341|[from] Spikes
+|turn|18
+|
+|t:|1708229007
+|move|p1a: Whiscash|Earthquake|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|0 fnt
+|faint|p2a: Bellossom
+|-damage|p1a: Whiscash|125\/341|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Whiscash|104\/341|[from] Hail
+|upkeep
+|
+|t:|1708229013
+|switch|p2a: Darmanitan|Darmanitan, L81, F|92\/303
+|turn|19
+|
+|t:|1708229017
+|move|p2a: Darmanitan|Flare Blitz|p1a: Whiscash
+|-resisted|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|-damage|p2a: Darmanitan|58\/303|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Darmanitan|40\/303|[from] Hail
+|upkeep
+|
+|t:|1708229021
+|switch|p1a: Crawdaunt|Crawdaunt, L85, F|246\/246
+|-damage|p1a: Crawdaunt|216\/246|[from] Spikes
+|turn|20
+|
+|t:|1708229034
+|move|p2a: Darmanitan|Flare Blitz|p1a: Crawdaunt
+|-resisted|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|80\/246
+|-damage|p2a: Darmanitan|0 fnt|[from] Recoil
+|faint|p2a: Darmanitan
+|move|p1a: Crawdaunt|Dragon Dance|p1a: Crawdaunt
+|-boost|p1a: Crawdaunt|atk|1
+|-boost|p1a: Crawdaunt|spe|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|65\/246|[from] Hail
+|upkeep
+|
+|t:|1708229047
+|switch|p2a: Porygon2|Porygon2, L82|274\/274 slp
+|-ability|p2a: Porygon2|Adaptability|[from] ability: Trace|[of] p1a: Crawdaunt
+|turn|21
+|
+|t:|1708229076
+|move|p1a: Crawdaunt|Dragon Dance|p1a: Crawdaunt
+|-boost|p1a: Crawdaunt|atk|1
+|-boost|p1a: Crawdaunt|spe|1
+|cant|p2a: Porygon2|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|50\/246|[from] Hail
+|-damage|p2a: Porygon2|257\/274 slp|[from] Hail
+|upkeep
+|turn|22
+|
+|t:|1708229096
+|move|p1a: Crawdaunt|Superpower|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|-unboost|p1a: Crawdaunt|atk|1
+|-unboost|p1a: Crawdaunt|def|1
+|faint|p2a: Porygon2
+|-damage|p1a: Crawdaunt|26\/246|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|11\/246|[from] Hail
+|upkeep
+|
+|t:|1708229104
+|switch|p2a: Cresselia|Cresselia, L80, F|323\/323
+|turn|23
+|
+|t:|1708229108
+|move|p1a: Crawdaunt|Crunch|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|-damage|p1a: Crawdaunt|0 fnt|[from] item: Life Orb
+|faint|p1a: Crawdaunt
+|
+|win|Ze Memerr
+|raw|Ze Memerr's rating: 1416 &rarr; <strong>1442<\/strong><br \/>(+26 for winning)
+|raw|WhatColorIsThis?'s rating: 1515 &rarr; <strong>1489<\/strong><br \/>(-26 for losing)
+|l|☆WhatColorIsThis?
+|player|p2|
+|c|☆Ze Memerr|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Ze Memerr and ☆WhatColorIsThis? joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 5] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Ze Memerr and WhatColorIsThis?!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="battle-history">[Porygon2's Trace]<br>[Porygon2's Own Tempo]<br><small>Porygon2 traced the opposing Lilligant's Own Tempo!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Porygon2 fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2, come back!<br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr withdrew Lilligant!<br></div><div class="battle-history">Ze Memerr sent out <strong>Whiscash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Whiscash lost <abbr title="−140/341">41.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whiscash used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Whiscash's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Whiscash's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr withdrew Whiscash!<br></div><div class="battle-history">Ze Memerr sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−62/249">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Maractus lost <abbr title="−221/299">73.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magcargo lost <abbr title="−26/246">10.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Magcargo restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Magcargo lost <abbr title="−235/246">95.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo fainted!<br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="battle-history">[The opposing Zapdos's Pressure]<br><small>The opposing Zapdos is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Zapdos's HP is full!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(The opposing Zapdos lost <abbr title="−272/272">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos fainted!<br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Tauros</strong>!<br></div><div class="battle-history"><small>The opposing Tauros was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>(Maractus lost <abbr title="−96/299">32.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Bellossom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Bellossom lost <abbr title="−153/290">52.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Tauros avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr withdrew Tauros!<br></div><div class="battle-history">Ze Memerr sent out <strong>Abomasnow</strong>!<br></div><div class="battle-history"><small>The opposing Abomasnow was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Abomasnow fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Abomasnow restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−248/288">86.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Abomasnow restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom, come back!<br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Darmanitan is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Abomasnow restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Abomasnow woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Darmanitan lost <abbr title="−27/303">8.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−58/288">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow fainted!<br></div><div class="battle-history"><small>Darmanitan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan went back to WhatColorIsThis?!<br></div><div class="battle-history">Go! <strong>Bellossom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the hail!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Tauros</strong>!<br></div><div class="battle-history"><small>The opposing Tauros was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Bellossom lost <abbr title="−136/290">46.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>(The opposing Tauros lost <abbr title="−196/260">75.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Bellossom's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the hail!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Whiscash</strong>!<br></div><div class="battle-history"><small>The opposing Whiscash was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Bellossom lost <abbr title="−19/290">6.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom fainted!<br></div><div class="battle-history"><small>The opposing Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Whiscash is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Whiscash lost <abbr title="−104/341">30.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whiscash fainted!<br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Darmanitan is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ze Memerr sent out <strong>Crawdaunt</strong>!<br></div><div class="battle-history"><small>The opposing Crawdaunt was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Crawdaunt lost <abbr title="−136/246">55.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan fainted!<br></div><div class="battle-history">The opposing Crawdaunt used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Crawdaunt's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="battle-history">[Porygon2's Trace]<br>[Porygon2's Adaptability]<br><small>Porygon2 traced the opposing Crawdaunt's Adaptability!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Crawdaunt's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt is buffeted by the hail!</small><br></div><div class="battle-history"><small>Porygon2 is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Porygon2 lost <abbr title="−257/274">93.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 fainted!<br></div><div class="battle-history"><small>The opposing Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cresselia</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cresselia lost <abbr title="−323/323">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cresselia fainted!<br></div><div class="battle-history"><small>The opposing Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Ze Memerr</strong> won the battle!<br></div><div class="chat">Ze Memerr's rating: 1416 → <strong>1442</strong><br>(+26 for winning)</div><div class="chat">WhatColorIsThis?'s rating: 1515 → <strong>1489</strong><br>(-26 for losing)</div><div class="chat"><small>☆WhatColorIsThis? left</small></div><div class="chat chatmessage-zememerr"><strong style="color:#4471d3"><small>☆</small><span class="username" data-name="Ze Memerr">Ze Memerr</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

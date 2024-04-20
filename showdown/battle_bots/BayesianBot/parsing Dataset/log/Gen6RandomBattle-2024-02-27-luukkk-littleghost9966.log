@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 6] Random Battle replay: luukkk vs. LittleGhost9966</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen6randombattle-2068625014" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 6] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/luukkk" class="subtle" target="_blank">luukkk</a> vs. <a href="http://pokemonshowdown.com/users/littleghost9966" class="subtle" target="_blank">LittleGhost9966</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆luukkk
+|j|☆LittleGhost9966
+|t:|1709027778
+|gametype|singles
+|player|p1|luukkk|janitor|1552
+|player|p2|LittleGhost9966|gambler|1831
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1709027778
+|start
+|switch|p1a: Samurott|Samurott, L86, F|100\/100
+|switch|p2a: Carnivine|Carnivine, L95, M|100\/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by luukkk)
+|
+|t:|1709027794
+|switch|p1a: Rotom|Rotom-Fan, L84|100\/100
+|move|p2a: Carnivine|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|62\/100
+|-enditem|p1a: Rotom|Leftovers|[from] move: Knock Off|[of] p2a: Carnivine
+|
+|upkeep
+|turn|2
+|
+|t:|1709027809
+|switch|p2a: Aromatisse|Aromatisse, L89, F|100\/100
+|move|p1a: Rotom|Air Slash|p2a: Aromatisse
+|-crit|p2a: Aromatisse
+|-damage|p2a: Aromatisse|66\/100
+|
+|-heal|p2a: Aromatisse|72\/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1709027821
+|move|p1a: Rotom|Air Slash|p2a: Aromatisse
+|-crit|p2a: Aromatisse
+|-damage|p2a: Aromatisse|36\/100
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|-heal|p2a: Aromatisse|43\/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1709027831
+|switch|p1a: Unfezant|Unfezant, L87, M|100\/100
+|move|p2a: Aromatisse|Toxic|p1a: Unfezant
+|-status|p1a: Unfezant|tox
+|
+|-heal|p2a: Aromatisse|92\/100|[from] move: Wish|[wisher] Aromatisse
+|-heal|p2a: Aromatisse|99\/100|[from] item: Leftovers
+|-damage|p1a: Unfezant|94\/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1709027838
+|move|p1a: Unfezant|Return|p2a: Aromatisse
+|-damage|p2a: Aromatisse|56\/100
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|-heal|p2a: Aromatisse|62\/100|[from] item: Leftovers
+|-damage|p1a: Unfezant|82\/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1709027858
+|switch|p1a: Rotom|Rotom-Fan, L84|62\/100
+|move|p2a: Aromatisse|Protect||[still]
+|-fail|p2a: Aromatisse
+|
+|-heal|p2a: Aromatisse|100\/100|[from] move: Wish|[wisher] Aromatisse
+|upkeep
+|turn|7
+|
+|t:|1709027866
+|move|p1a: Rotom|Thunderbolt|p2a: Aromatisse
+|-damage|p2a: Aromatisse|74\/100
+|move|p2a: Aromatisse|Toxic|p1a: Rotom
+|-status|p1a: Rotom|tox
+|
+|-heal|p2a: Aromatisse|80\/100|[from] item: Leftovers
+|-damage|p1a: Rotom|57\/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1709027872
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Rotom|Volt Switch|p2a: Aromatisse
+|-activate|p2a: Aromatisse|move: Protect
+|
+|-heal|p2a: Aromatisse|86\/100|[from] item: Leftovers
+|-damage|p1a: Rotom|45\/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1709027882
+|switch|p2a: Carnivine|Carnivine, L95, M|100\/100
+|move|p1a: Rotom|Air Slash|p2a: Carnivine
+|-supereffective|p2a: Carnivine
+|-damage|p2a: Carnivine|47\/100
+|
+|-heal|p2a: Carnivine|53\/100|[from] item: Leftovers
+|-damage|p1a: Rotom|27\/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1709027888
+|switch|p2a: Aromatisse|Aromatisse, L89, F|86\/100
+|move|p1a: Rotom|Air Slash|p2a: Aromatisse
+|-damage|p2a: Aromatisse|62\/100
+|
+|-heal|p2a: Aromatisse|68\/100|[from] item: Leftovers
+|-damage|p1a: Rotom|4\/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1709027900
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Rotom|Pain Split|p2a: Aromatisse
+|-activate|p2a: Aromatisse|move: Protect
+|
+|-heal|p2a: Aromatisse|74\/100|[from] item: Leftovers
+|-damage|p1a: Rotom|0 fnt|[from] psn
+|faint|p1a: Rotom
+|upkeep
+|
+|t:|1709027907
+|switch|p1a: Samurott|Samurott, L86, F|100\/100
+|turn|12
+|
+|t:|1709027931
+|move|p1a: Samurott|Knock Off|p2a: Aromatisse
+|-resisted|p2a: Aromatisse
+|-damage|p2a: Aromatisse|60\/100
+|-enditem|p2a: Aromatisse|Leftovers|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|upkeep
+|turn|13
+|
+|t:|1709027941
+|switch|p1a: Unfezant|Unfezant, L87, M|82\/100 tox
+|move|p2a: Aromatisse|Toxic|p1a: Unfezant
+|-fail|p1a: Unfezant|tox
+|
+|-heal|p2a: Aromatisse|100\/100|[from] move: Wish|[wisher] Aromatisse
+|-damage|p1a: Unfezant|76\/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1709027952
+|move|p1a: Unfezant|Return|p2a: Aromatisse
+|-crit|p2a: Aromatisse
+|-damage|p2a: Aromatisse|35\/100
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|-damage|p1a: Unfezant|64\/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1709027962
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Unfezant|Roost|p1a: Unfezant
+|-heal|p1a: Unfezant|100\/100 tox
+|-singleturn|p1a: Unfezant|move: Roost
+|
+|-heal|p2a: Aromatisse|84\/100|[from] move: Wish|[wisher] Aromatisse
+|-damage|p1a: Unfezant|82\/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1709027970
+|move|p1a: Unfezant|Return|p2a: Aromatisse
+|-damage|p2a: Aromatisse|39\/100
+|move|p2a: Aromatisse|Moonblast|p1a: Unfezant
+|-damage|p1a: Unfezant|26\/100 tox
+|
+|-damage|p1a: Unfezant|2\/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1709027976
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Unfezant|Return|p2a: Aromatisse
+|-activate|p2a: Aromatisse|move: Protect
+|
+|-damage|p1a: Unfezant|0 fnt|[from] psn
+|faint|p1a: Unfezant
+|upkeep
+|
+|t:|1709027994
+|switch|p1a: Ninetales|Ninetales, L84, F|100\/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|18
+|
+|t:|1709028015
+|move|p1a: Ninetales|Fire Blast|p2a: Aromatisse|[miss]
+|-miss|p1a: Ninetales|p2a: Aromatisse
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1709028024
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Ninetales|Nasty Plot|p1a: Ninetales
+|-boost|p1a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Aromatisse|89\/100|[from] move: Wish|[wisher] Aromatisse
+|upkeep
+|turn|20
+|
+|t:|1709028038
+|move|p1a: Ninetales|Fire Blast|p2a: Aromatisse
+|-damage|p2a: Aromatisse|1\/100
+|-status|p2a: Aromatisse|brn
+|move|p2a: Aromatisse|Toxic|p1a: Ninetales
+|-status|p1a: Ninetales|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ninetales|94\/100 tox|[from] psn
+|-damage|p2a: Aromatisse|0 fnt|[from] brn
+|faint|p2a: Aromatisse
+|upkeep
+|c|☆luukkk|:(
+|inactive|LittleGhost9966 has 120 seconds left.
+|c|☆LittleGhost9966|aromatisse is like immortal man
+|c|☆LittleGhost9966|i was getting annoyed of it lol
+|
+|t:|1709028089
+|switch|p2a: Muk|Muk, L88, M|100\/100
+|turn|21
+|
+|t:|1709028096
+|move|p1a: Ninetales|Fire Blast|p2a: Muk
+|-damage|p2a: Muk|16\/100
+|move|p2a: Muk|Poison Jab|p1a: Ninetales
+|-crit|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1709028106
+|switch|p1a: Samurott|Samurott, L86, F|100\/100
+|turn|22
+|c|☆LittleGhost9966|damn i got very lucky
+|c|☆LittleGhost9966|sorry about the crit
+|inactive|LittleGhost9966 has 90 seconds left.
+|
+|t:|1709028136
+|switch|p2a: Dewgong|Dewgong, L90, M|100\/100
+|move|p1a: Samurott|Scald|p2a: Dewgong
+|-resisted|p2a: Dewgong
+|-damage|p2a: Dewgong|94\/100
+|-status|p2a: Dewgong|brn
+|
+|-weather|none
+|-heal|p2a: Dewgong|99\/100 brn|[from] item: Leftovers
+|-damage|p2a: Dewgong|88\/100 brn|[from] brn
+|upkeep
+|turn|23
+|c|☆luukkk|Nahh not sure if it was needed
+|
+|t:|1709028155
+|move|p2a: Dewgong|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|move|p1a: Samurott|Grass Knot|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|39\/100 brn
+|
+|-heal|p2a: Dewgong|46\/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|94\/100 tox|[from] psn
+|-damage|p2a: Dewgong|33\/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1709028165
+|switch|p2a: Carnivine|Carnivine, L95, M|53\/100
+|move|p1a: Samurott|Superpower|p2a: Carnivine
+|-damage|p2a: Carnivine|24\/100
+|-unboost|p1a: Samurott|atk|1
+|-unboost|p1a: Samurott|def|1
+|
+|-heal|p2a: Carnivine|30\/100|[from] item: Leftovers
+|-damage|p1a: Samurott|82\/100 tox|[from] psn
+|upkeep
+|turn|25
+|inactive|LittleGhost9966 has 90 seconds left.
+|
+|t:|1709028185
+|switch|p1a: Sceptile|Sceptile, L82, F|100\/100
+|move|p2a: Carnivine|Synthesis|p2a: Carnivine
+|-heal|p2a: Carnivine|80\/100
+|
+|-heal|p2a: Carnivine|86\/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|LittleGhost9966 has 90 seconds left.
+|
+|t:|1709028204
+|switch|p2a: Muk|Muk, L88, M|16\/100
+|detailschange|p1a: Sceptile|Sceptile-Mega, L82, F
+|-mega|p1a: Sceptile|Sceptile|Sceptilite
+|move|p1a: Sceptile|Swords Dance|p1a: Sceptile
+|-boost|p1a: Sceptile|atk|2
+|
+|upkeep
+|turn|27
+|
+|t:|1709028212
+|move|p2a: Muk|Shadow Sneak|p1a: Sceptile
+|-damage|p1a: Sceptile|76\/100
+|move|p1a: Sceptile|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1709028236
+|switch|p2a: Lickilicky|Lickilicky, L88, F|100\/100
+|-ability|p2a: Lickilicky|Cloud Nine
+|turn|28
+|
+|t:|1709028248
+|move|p1a: Sceptile|Leaf Blade|p2a: Lickilicky
+|-damage|p2a: Lickilicky|43\/100
+|move|p2a: Lickilicky|Body Slam|p1a: Sceptile
+|-damage|p1a: Sceptile|33\/100
+|
+|-heal|p2a: Lickilicky|49\/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1709028256
+|move|p2a: Lickilicky|Protect|p2a: Lickilicky
+|-singleturn|p2a: Lickilicky|Protect
+|move|p1a: Sceptile|Leaf Blade|p2a: Lickilicky
+|-activate|p2a: Lickilicky|move: Protect
+|
+|-heal|p2a: Lickilicky|55\/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1709028264
+|move|p1a: Sceptile|Leaf Blade|p2a: Lickilicky
+|-crit|p2a: Lickilicky
+|-damage|p2a: Lickilicky|0 fnt
+|faint|p2a: Lickilicky
+|
+|upkeep
+|
+|t:|1709028272
+|switch|p2a: Carnivine|Carnivine, L95, M|86\/100
+|turn|31
+|
+|t:|1709028290
+|move|p1a: Sceptile|Outrage|p2a: Carnivine
+|-damage|p2a: Carnivine|0 fnt
+|faint|p2a: Carnivine
+|
+|upkeep
+|
+|t:|1709028296
+|switch|p2a: Dewgong|Dewgong, L90, M|33\/100 brn
+|turn|32
+|
+|t:|1709028302
+|move|p2a: Dewgong|Protect|p2a: Dewgong
+|-singleturn|p2a: Dewgong|Protect
+|move|p1a: Sceptile|Outrage|p2a: Dewgong|[from]lockedmove
+|-activate|p2a: Dewgong|move: Protect
+|-start|p1a: Sceptile|confusion|[fatigue]
+|
+|-heal|p2a: Dewgong|39\/100 brn|[from] item: Leftovers
+|-damage|p2a: Dewgong|27\/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1709028313
+|switch|p1a: Samurott|Samurott, L86, F|82\/100 tox
+|move|p2a: Dewgong|Ice Beam|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|71\/100 tox
+|
+|-heal|p2a: Dewgong|33\/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|65\/100 tox|[from] psn
+|-damage|p2a: Dewgong|21\/100 brn|[from] brn
+|upkeep
+|turn|34
+|inactive|LittleGhost9966 has 90 seconds left.
+|
+|t:|1709028322
+|move|p2a: Dewgong|Surf|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|54\/100 tox
+|move|p1a: Samurott|Grass Knot|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|faint|p2a: Dewgong
+|
+|-damage|p1a: Samurott|41\/100 tox|[from] psn
+|upkeep
+|
+|t:|1709028326
+|switch|p2a: Drifblim|Drifblim, L84, F|100\/100
+|turn|35
+|
+|t:|1709028335
+|move|p2a: Drifblim|Substitute|p2a: Drifblim
+|-start|p2a: Drifblim|Substitute
+|-damage|p2a: Drifblim|75\/100
+|move|p1a: Samurott|Knock Off|p2a: Drifblim
+|-supereffective|p2a: Drifblim
+|-end|p2a: Drifblim|Substitute
+|
+|-damage|p1a: Samurott|23\/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1709028339
+|move|p2a: Drifblim|Substitute|p2a: Drifblim
+|-start|p2a: Drifblim|Substitute
+|-damage|p2a: Drifblim|50\/100
+|-enditem|p2a: Drifblim|Sitrus Berry|[eat]
+|-heal|p2a: Drifblim|75\/100|[from] item: Sitrus Berry
+|move|p1a: Samurott|Knock Off|p2a: Drifblim
+|-supereffective|p2a: Drifblim
+|-end|p2a: Drifblim|Substitute
+|
+|-damage|p1a: Samurott|0 fnt|[from] psn
+|faint|p1a: Samurott
+|upkeep
+|
+|t:|1709028356
+|switch|p1a: Hitmontop|Hitmontop, L88, M|100\/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Drifblim|atk|1
+|turn|37
+|inactive|LittleGhost9966 has 120 seconds left.
+|
+|t:|1709028368
+|move|p2a: Drifblim|Substitute|p2a: Drifblim
+|-start|p2a: Drifblim|Substitute
+|-damage|p2a: Drifblim|50\/100
+|move|p1a: Hitmontop|Toxic||[still]
+|-fail|p1a: Hitmontop
+|
+|upkeep
+|turn|38
+|c|☆luukkk|Gg
+|
+|t:|1709028382
+|move|p1a: Hitmontop|Sucker Punch||[still]
+|-fail|p1a: Hitmontop
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Hitmontop|[miss]
+|-miss|p2a: Drifblim|p1a: Hitmontop
+|
+|upkeep
+|turn|39
+|c|☆LittleGhost9966|it's not over yet
+|
+|t:|1709028393
+|switch|p1a: Sceptile|Sceptile-Mega, L82, F|33\/100
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Sceptile
+|-status|p1a: Sceptile|brn
+|
+|-damage|p1a: Sceptile|21\/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1709028402
+|move|p2a: Drifblim|Acrobatics|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|upkeep
+|
+|t:|1709028405
+|switch|p1a: Hitmontop|Hitmontop, L88, M|100\/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-immune|p2a: Drifblim
+|turn|41
+|
+|t:|1709028409
+|move|p1a: Hitmontop|Sucker Punch||[still]
+|-fail|p1a: Hitmontop
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Hitmontop|[miss]
+|-miss|p2a: Drifblim|p1a: Hitmontop
+|
+|upkeep
+|turn|42
+|
+|t:|1709028415
+|move|p1a: Hitmontop|Sucker Punch||[still]
+|-fail|p1a: Hitmontop
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Hitmontop|[miss]
+|-miss|p2a: Drifblim|p1a: Hitmontop
+|
+|upkeep
+|turn|43
+|-message|luukkk forfeited.
+|
+|win|LittleGhost9966
+|raw|luukkk's rating: 1552 &rarr; <strong>1545<\/strong><br \/>(-7 for losing)
+|raw|LittleGhost9966's rating: 1831 &rarr; <strong>1838<\/strong><br \/>(+7 for winning)
+|c|☆LittleGhost9966|gg
+|l|☆LittleGhost9966
+|player|p2|
+|l|☆luukkk
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"><div style="padding-top: 3px; padding-right: 3px; text-align: right"><button class="icon button" name="openBattleOptions" title="Options">Battle Options</button></div></div><div class="inner message-log"><div class="chat"><small>☆luukkk and ☆LittleGhost9966 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 6] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between luukkk and LittleGhost9966!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by luukkk)</div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Fan</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Rotom lost 38% of its health!)</small><br></div><div class="battle-history"><small>The opposing Carnivine knocked off Rotom's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Carnivine!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Aromatisse lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Aromatisse lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom, come back!<br></div><div class="battle-history">Go! <strong>Unfezant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Unfezant was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Aromatisse's wish came true!</small><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Aromatisse lost 43% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Fan</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Aromatisse's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Aromatisse lost 26% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Rotom was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Aromatisse!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Carnivine lost 53% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Carnivine!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Aromatisse lost 24% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Pain Split</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Aromatisse lost 14% of its health!)</small><br></div><div class="battle-history"><small>Samurott knocked off the opposing Aromatisse's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Samurott, come back!<br></div><div class="battle-history">Go! <strong>Unfezant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Aromatisse's wish came true!</small><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Aromatisse lost 65% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Unfezant had its HP restored.</small><br></div><div class="battle-history"><small>(Unfezant loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Aromatisse's wish came true!</small><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Aromatisse lost 45% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Unfezant lost 56% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Unfezant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Ninetales's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Aromatisse's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Aromatisse lost 88% of its health!)</small><br></div><div class="battle-history"><small>The opposing Aromatisse was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Ninetales was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Aromatisse was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aromatisse fainted!<br></div><div class="chat chatmessage-luukkk"><strong style="color:#806c33"><small>☆</small><span class="username" data-name="luukkk">luukkk</span>:</strong> <em>:(</em></div><div class="chat message-error">LittleGhost9966 has 120 seconds left.</div><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>aromatisse is like immortal man</em></div><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>i was getting annoyed of it lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Muk lost 84% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Ninetales lost 94% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>damn i got very lucky</em></div><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>sorry about the crit</em></div><div class="chat message-error">LittleGhost9966 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Muk!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Dewgong lost 6% of its health!)</small><br></div><div class="battle-history"><small>The opposing Dewgong was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>The opposing Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Dewgong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat chatmessage-luukkk"><strong style="color:#806c33"><small>☆</small><span class="username" data-name="luukkk">luukkk</span>:</strong> <em>Nahh not sure if it was needed</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dewgong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Samurott was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Dewgong lost 49% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Dewgong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Dewgong!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Carnivine lost 29% of its health!)</small><br></div><div class="battle-history"><small>Samurott's Attack fell!</small><br></div><div class="battle-history"><small>Samurott's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat message-error">LittleGhost9966 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott, come back!<br></div><div class="battle-history">Go! <strong>Sceptile</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Carnivine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">LittleGhost9966 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 withdrew Carnivine!<br></div><div class="battle-history">LittleGhost9966 sent out <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sceptile's Sceptilite is reacting to luukkk's Mega Bracelet!</small><br>Sceptile has Mega Evolved into Mega Sceptile!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Sceptile's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>(Sceptile lost 24% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Muk lost 16% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Lickilicky</strong>!<br></div><div class="battle-history">[The opposing Lickilicky's Cloud Nine]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>(The opposing Lickilicky lost 57% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lickilicky used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Sceptile lost 43% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lickilicky restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lickilicky used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Lickilicky protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>The opposing Lickilicky protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lickilicky restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Lickilicky lost 55% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lickilicky fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Carnivine lost 86% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dewgong used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>The opposing Dewgong protected itself!</small><br></div><div class="battle-history"><small>Sceptile became confused due to fatigue!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Dewgong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile, come back!<br></div><div class="battle-history">Go! <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Samurott lost 11% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Dewgong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat message-error">LittleGhost9966 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Samurott lost 11% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Dewgong lost 21% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dewgong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">LittleGhost9966 sent out <strong>Drifblim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Drifblim put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Drifblim's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Drifblim put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost 25% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Drifblim ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Drifblim restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Drifblim's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Samurott fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Drifblim's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">LittleGhost9966 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Drifblim put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat chatmessage-luukkk"><strong style="color:#806c33"><small>☆</small><span class="username" data-name="luukkk">luukkk</span>:</strong> <em>Gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Hitmontop avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>it's not over yet</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop, come back!<br></div><div class="battle-history">Go! Sceptile (<strong>Sceptile-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Sceptile was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sceptile was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Sceptile lost 21% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sceptile fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>It doesn't affect the opposing Drifblim...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Hitmontop avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Hitmontop avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>luukkk forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>LittleGhost9966</strong> won the battle!<br></div><div class="chat">luukkk's rating: 1552 → <strong>1545</strong><br>(-7 for losing)</div><div class="chat">LittleGhost9966's rating: 1831 → <strong>1838</strong><br>(+7 for winning)</div><div class="chat chatmessage-littleghost9966"><strong style="color:#94980b"><small>☆</small><span class="username" data-name="LittleGhost9966">LittleGhost9966</span>:</strong> <em>gg</em></div><div class="chat"><small>☆LittleGhost9966 left</small></div><div class="chat"><small>☆luukkk left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 5] Random Battle replay: konstantinopel vs. 3MM4NU31 M4CR0N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen5randombattle-2087410248" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 5] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/konstantinopel" class="subtle" target="_blank">konstantinopel</a> vs. <a href="http://pokemonshowdown.com/users/3mm4nu31m4cr0n" class="subtle" target="_blank">3MM4NU31 M4CR0N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆konstantinopel
+|j|☆3MM4NU31 M4CR0N
+|t:|1711203267
+|gametype|singles
+|player|p1|konstantinopel|102|1490
+|player|p2|3MM4NU31 M4CR0N|grimsley|1402
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711203267
+|start
+|switch|p1a: Spinda|Spinda, L98, M|276\/276
+|switch|p2a: Latias|Latias, L71, F|231\/231
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)
+|
+|t:|1711203287
+|switch|p2a: Giratina|Giratina, L72|335\/335
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Spinda|Superpower|p2a: Giratina
+|-immune|p2a: Giratina
+|
+|upkeep
+|turn|2
+|
+|t:|1711203308
+|move|p1a: Spinda|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|239\/335
+|move|p2a: Giratina|Calm Mind|p2a: Giratina
+|-boost|p2a: Giratina|spa|1
+|-boost|p2a: Giratina|spd|1
+|
+|-heal|p2a: Giratina|259\/335|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711203322
+|move|p1a: Spinda|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|169\/335
+|-status|p2a: Giratina|frz
+|cant|p2a: Giratina|frz
+|
+|-heal|p2a: Giratina|189\/335 frz|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆3MM4NU31 M4CR0N|wassure
+|
+|t:|1711203333
+|move|p1a: Spinda|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|101\/335 frz
+|cant|p2a: Giratina|frz
+|
+|-heal|p2a: Giratina|121\/335 frz|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711203344
+|move|p1a: Spinda|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|29\/335 frz
+|cant|p2a: Giratina|frz
+|
+|-heal|p2a: Giratina|49\/335 frz|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆3MM4NU31 M4CR0N|ta mere la pute
+|n|‽3MM4NU31 M4CR0N|3mm4nu31m4cr0n
+|c|&|\/log 3MM4NU31 M4CR0N was locked from talking by Artemis. (☆3MM4NU31 M4CR0N: ta mere la pute)
+|c|&|\/raw <small>This action was done automatically. Want to learn more about the AI? <a href="https:\/\/www.smogon.com\/forums\/threads\/3570628\/#post-9056769">Visit the information thread<\/a>.<\/small>
+|
+|t:|1711203366
+|move|p1a: Spinda|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|
+|t:|1711203379
+|switch|p2a: Escavalier|Escavalier, L84, F|255\/255
+|turn|7
+|
+|t:|1711203387
+|move|p1a: Spinda|Superpower|p2a: Escavalier
+|-damage|p2a: Escavalier|180\/255
+|-boost|p1a: Spinda|atk|1
+|-boost|p1a: Spinda|def|1
+|move|p2a: Escavalier|Iron Head|p1a: Spinda
+|-damage|p1a: Spinda|147\/276
+|
+|-heal|p1a: Spinda|164\/276|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711203406
+|switch|p2a: Latias|Latias, L71, F|231\/231
+|move|p1a: Spinda|Superpower|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|160\/231
+|-boost|p1a: Spinda|atk|1
+|-boost|p1a: Spinda|def|1
+|
+|-heal|p1a: Spinda|181\/276|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711203416
+|move|p2a: Latias|Draco Meteor|p1a: Spinda
+|-damage|p1a: Spinda|0 fnt
+|-unboost|p2a: Latias|spa|2
+|faint|p1a: Spinda
+|
+|upkeep
+|
+|t:|1711203435
+|switch|p1a: Tornadus|Tornadus, L79, M|254\/254
+|turn|10
+|
+|t:|1711203448
+|switch|p2a: Octillery|Octillery, L90, M|281\/281
+|move|p1a: Tornadus|Bulk Up|p1a: Tornadus
+|-boost|p1a: Tornadus|atk|1
+|-boost|p1a: Tornadus|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1711203465
+|move|p1a: Tornadus|Acrobatics|p2a: Octillery
+|-enditem|p1a: Tornadus|Flying Gem|[from] gem
+|-crit|p2a: Octillery
+|-damage|p2a: Octillery|0 fnt
+|faint|p2a: Octillery
+|
+|upkeep
+|c|☆konstantinopel|xd
+|
+|t:|1711203483
+|switch|p2a: Porygon2|Porygon2, L82|274\/274
+|-ability|p2a: Porygon2|Defiant|[from] ability: Trace|[of] p1a: Tornadus
+|turn|12
+|
+|t:|1711203492
+|move|p1a: Tornadus|Superpower|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|110\/274
+|-unboost|p1a: Tornadus|atk|1
+|-unboost|p1a: Tornadus|def|1
+|move|p2a: Porygon2|Discharge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|132\/254
+|
+|upkeep
+|turn|13
+|
+|t:|1711203508
+|move|p1a: Tornadus|Superpower|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|-unboost|p1a: Tornadus|atk|1
+|-unboost|p1a: Tornadus|def|1
+|faint|p2a: Porygon2
+|
+|upkeep
+|
+|t:|1711203524
+|switch|p2a: Ho-Oh|Ho-Oh, L73|275\/275
+|turn|14
+|
+|t:|1711203533
+|switch|p1a: Relicanth|Relicanth, L87, F|316\/316
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Relicanth
+|-resisted|p1a: Relicanth
+|-damage|p1a: Relicanth|298\/316
+|
+|-heal|p1a: Relicanth|316\/316|[from] item: Leftovers
+|upkeep
+|turn|15
+|c|☆konstantinopel|so many legendaries and spinda overpowers
+|
+|t:|1711203560
+|switch|p2a: Escavalier|Escavalier, L84, F|180\/255
+|move|p1a: Relicanth|Head Smash|p2a: Escavalier
+|-damage|p2a: Escavalier|30\/255
+|
+|upkeep
+|turn|16
+|
+|t:|1711203575
+|move|p1a: Relicanth|Waterfall|p2a: Escavalier
+|-crit|p2a: Escavalier
+|-damage|p2a: Escavalier|0 fnt
+|faint|p2a: Escavalier
+|
+|upkeep
+|
+|t:|1711203579
+|switch|p2a: Latias|Latias, L71, F|160\/231
+|turn|17
+|
+|t:|1711203587
+|switch|p1a: Magnezone|Magnezone, L82|249\/249
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1711203597
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Magnezone|Thunderbolt|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|133\/231
+|-status|p2a: Latias|par
+|
+|upkeep
+|turn|19
+|-message|3MM4NU31 M4CR0N forfeited.
+|
+|win|konstantinopel
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆konstantinopel and ☆3MM4NU31 M4CR0N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 5] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between konstantinopel and 3MM4NU31 M4CR0N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Latias</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)</div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N withdrew Latias!<br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Giratina...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−96/335">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−90/335">26.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Giratina was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat chatmessage-3mm4nu31m4cr0n"><strong style="color:#b67b43"><small>☆</small><span class="username" data-name="3MM4NU31 M4CR0N">3MM4NU31 M4CR0N</span>:</strong> <em>wassure</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−88/335">26.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−92/335">27.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-3mm4nu31m4cr0n"><strong style="color:#b67b43"><small>☆</small><span class="username" data-name="3MM4NU31 M4CR0N">3MM4NU31 M4CR0N</span>:</strong> <em>ta mere la pute</em></div><div class="chat chatmessage-"><span class="message-log">3MM4NU31 M4CR0N was locked from talking by Artemis. (☆3MM4NU31 M4CR0N: ta mere la pute)</span></div><div class="chat"><small>This action was done automatically. Want to learn more about the AI? <a href="https://www.smogon.com/forums/threads/3570628/#post-9056769" target="_blank" rel="noopener">Visit the information thread</a>.</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−49/335">14.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−75/255">29.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="battle-history"><small>Spinda's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Spinda lost <abbr title="−129/276">46.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N withdrew Escavalier!<br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Latias</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Latias lost <abbr title="−71/231">30.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="battle-history"><small>Spinda's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Latias used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Spinda lost <abbr title="−181/276">65.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Latias's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tornadus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N withdrew Latias!<br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Octillery</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Tornadus's Attack rose!</small><br></div><div class="battle-history"><small>Tornadus's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>The Flying Gem strengthened Tornadus's power!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−281/281">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery fainted!<br></div><div class="chat chatmessage-konstantinopel"><strong style="color:#3a987f"><small>☆</small><span class="username" data-name="konstantinopel">konstantinopel</span>:</strong> <em>xd</em></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Porygon2</strong>!<br></div><div class="battle-history">[The opposing Porygon2's Trace]<br>[The opposing Porygon2's Defiant]<br><small>The opposing Porygon2 traced Tornadus's Defiant!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Porygon2 lost <abbr title="−164/274">59.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus's Attack fell!</small><br></div><div class="battle-history"><small>Tornadus's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Porygon2 used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tornadus lost <abbr title="−122/254">48.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Porygon2 lost <abbr title="−110/274">40.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus's Attack fell!</small><br></div><div class="battle-history"><small>Tornadus's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Porygon2 fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Ho-Oh</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus, come back!<br></div><div class="battle-history">Go! <strong>Relicanth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ho-Oh used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Relicanth lost <abbr title="−18/316">5.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Relicanth restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat chatmessage-konstantinopel"><strong style="color:#3a987f"><small>☆</small><span class="username" data-name="konstantinopel">konstantinopel</span>:</strong> <em>so many legendaries and spinda overpowers</em></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N withdrew Ho-Oh!<br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Relicanth used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−150/255">58.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Relicanth used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−30/255">11.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3MM4NU31 M4CR0N sent out <strong>Latias</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Relicanth, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Latias used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Latias's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Latias's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Latias used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Latias's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Latias's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Latias lost <abbr title="−27/231">11.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Latias is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>3MM4NU31 M4CR0N forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>konstantinopel</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

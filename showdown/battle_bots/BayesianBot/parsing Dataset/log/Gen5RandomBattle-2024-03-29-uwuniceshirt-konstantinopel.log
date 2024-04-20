@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 5] Random Battle replay: UwUniceShirt vs. konstantinopel</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen5randombattle-2091975403" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 5] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/uwuniceshirt" class="subtle" target="_blank">UwUniceShirt</a> vs. <a href="http://pokemonshowdown.com/users/konstantinopel" class="subtle" target="_blank">konstantinopel</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆UwUniceShirt
+|j|☆konstantinopel
+|t:|1711750125
+|gametype|singles
+|player|p1|UwUniceShirt|firebreather|1439
+|player|p2|konstantinopel|266|1595
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711750125
+|start
+|switch|p1a: Arcanine|Arcanine, L82, F|282\/282
+|switch|p2a: Spinda|Spinda, L98, M|276\/276
+|-ability|p1a: Arcanine|Intimidate|boost
+|-boost|p2a: Spinda|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)
+|n|!UwUniceShirt|uwuniceshirt
+|
+|t:|1711750152
+|switch|p1a: Quagsire|Quagsire, L85, M|300\/300
+|move|p2a: Spinda|Superpower|p1a: Quagsire
+|-damage|p1a: Quagsire|224\/300
+|-boost|p2a: Spinda|atk|1
+|-boost|p2a: Spinda|def|1
+|
+|-heal|p1a: Quagsire|242\/300|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711750163
+|switch|p2a: Maractus|Maractus, L97, M|302\/302
+|move|p1a: Quagsire|Scald|p2a: Maractus
+|-immune|p2a: Maractus|[from] ability: Water Absorb
+|
+|-heal|p1a: Quagsire|260\/300|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711750178
+|switch|p1a: Arcanine|Arcanine, L82, F|282\/282
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Maractus|atk|1
+|move|p2a: Maractus|Spikes|p1a: Arcanine
+|-sidestart|p1: UwUniceShirt|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1711750186
+|switch|p2a: Hitmontop|Hitmontop, L87, M|229\/229
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Arcanine|atk|1
+|move|p1a: Arcanine|Flare Blitz|p2a: Hitmontop
+|-crit|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|-damage|p1a: Arcanine|206\/282|[from] Recoil
+|
+|-heal|p1a: Arcanine|223\/282|[from] item: Leftovers
+|upkeep
+|
+|t:|1711750204
+|switch|p2a: Spinda|Spinda, L98, M|276\/276
+|turn|5
+|
+|t:|1711750212
+|switch|p1a: Quagsire|Quagsire, L85, M|260\/300
+|-damage|p1a: Quagsire|223\/300|[from] Spikes
+|move|p2a: Spinda|Superpower|p1a: Quagsire
+|-damage|p1a: Quagsire|140\/300
+|-boost|p2a: Spinda|atk|1
+|-boost|p2a: Spinda|def|1
+|
+|-heal|p1a: Quagsire|158\/300|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711750226
+|move|p2a: Spinda|Return|p1a: Quagsire
+|-damage|p1a: Quagsire|61\/300
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|211\/300
+|
+|-heal|p1a: Quagsire|229\/300|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711750233
+|switch|p2a: Maractus|Maractus, L97, M|302\/302
+|move|p1a: Quagsire|Scald|p2a: Maractus
+|-immune|p2a: Maractus|[from] ability: Water Absorb
+|
+|-heal|p1a: Quagsire|247\/300|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711750244
+|switch|p1a: Swanna|Swanna, L86, M|269\/269
+|move|p2a: Maractus|Toxic|p1a: Swanna
+|-status|p1a: Swanna|tox
+|
+|-damage|p1a: Swanna|253\/269 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711750256
+|switch|p2a: Seismitoad|Seismitoad, L85, F|317\/317
+|move|p1a: Swanna|Brave Bird|p2a: Seismitoad
+|-damage|p2a: Seismitoad|187\/317
+|-damage|p1a: Swanna|210\/269 tox|[from] Recoil
+|
+|-heal|p1a: Swanna|226\/269 tox|[from] item: Leftovers
+|-damage|p1a: Swanna|194\/269 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711750267
+|move|p1a: Swanna|Brave Bird|p2a: Seismitoad
+|-damage|p2a: Seismitoad|45\/317
+|-damage|p1a: Swanna|147\/269 tox|[from] Recoil
+|move|p2a: Seismitoad|Sludge Wave|p1a: Swanna
+|-damage|p1a: Swanna|38\/269 tox
+|-damage|p2a: Seismitoad|14\/317|[from] item: Life Orb
+|
+|-heal|p1a: Swanna|54\/269 tox|[from] item: Leftovers
+|-damage|p1a: Swanna|6\/269 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711750281
+|switch|p2a: Registeel|Registeel, L82|265\/265
+|move|p1a: Swanna|Brave Bird|p2a: Registeel
+|-resisted|p2a: Registeel
+|-damage|p2a: Registeel|227\/265
+|-damage|p1a: Swanna|0 fnt|[from] Recoil
+|faint|p1a: Swanna
+|
+|-heal|p2a: Registeel|243\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1711750298
+|switch|p1a: Exeggutor|Exeggutor, L88, M|308\/308
+|-damage|p1a: Exeggutor|270\/308|[from] Spikes
+|turn|12
+|
+|t:|1711750309
+|switch|p2a: Maractus|Maractus, L97, M|302\/302
+|move|p1a: Exeggutor|Substitute|p1a: Exeggutor
+|-start|p1a: Exeggutor|Substitute
+|-damage|p1a: Exeggutor|193\/308
+|
+|upkeep
+|turn|13
+|
+|t:|1711750317
+|move|p2a: Maractus|Hidden Power|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-end|p1a: Exeggutor|Substitute
+|move|p1a: Exeggutor|Psychic|p2a: Maractus
+|-damage|p2a: Maractus|170\/302
+|
+|-heal|p2a: Maractus|188\/302|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711750325
+|move|p2a: Maractus|Toxic|p1a: Exeggutor
+|-status|p1a: Exeggutor|tox
+|move|p1a: Exeggutor|Psychic|p2a: Maractus
+|-damage|p2a: Maractus|40\/302
+|
+|-heal|p2a: Maractus|58\/302|[from] item: Leftovers
+|-damage|p1a: Exeggutor|174\/308 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1711750334
+|switch|p2a: Registeel|Registeel, L82|243\/265
+|switch|p1a: Arcanine|Arcanine, L82, F|223\/282
+|-damage|p1a: Arcanine|188\/282|[from] Spikes
+|-ability|p1a: Arcanine|Intimidate|boost
+|-fail|p2a: Registeel|unboost|[from] ability: Clear Body|[of] p2a: Registeel
+|
+|-heal|p1a: Arcanine|205\/282|[from] item: Leftovers
+|-heal|p2a: Registeel|259\/265|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711750348
+|switch|p2a: Seismitoad|Seismitoad, L85, F|14\/317
+|move|p1a: Arcanine|Flare Blitz|p2a: Seismitoad
+|-resisted|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-damage|p1a: Arcanine|200\/282|[from] Recoil
+|
+|-heal|p1a: Arcanine|217\/282|[from] item: Leftovers
+|upkeep
+|
+|t:|1711750363
+|switch|p2a: Spinda|Spinda, L98, M|276\/276
+|turn|17
+|
+|t:|1711750369
+|move|p1a: Arcanine|Toxic|p2a: Spinda
+|-status|p2a: Spinda|tox
+|move|p2a: Spinda|Superpower|p1a: Arcanine
+|-damage|p1a: Arcanine|127\/282
+|-boost|p2a: Spinda|atk|1
+|-boost|p2a: Spinda|def|1
+|
+|-heal|p1a: Arcanine|144\/282|[from] item: Leftovers
+|-damage|p2a: Spinda|259\/276 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711750380
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|282\/282
+|move|p2a: Spinda|Return|p1a: Arcanine
+|-damage|p1a: Arcanine|98\/282
+|
+|-heal|p1a: Arcanine|115\/282|[from] item: Leftovers
+|-heal|p2a: Spinda|276\/276 tox|[from] item: Leftovers
+|-damage|p2a: Spinda|242\/276 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711750390
+|switch|p1a: Exeggutor|Exeggutor, L88, M|174\/308 tox
+|-damage|p1a: Exeggutor|136\/308 tox|[from] Spikes
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|213\/308 tox|[from] item: Sitrus Berry
+|move|p2a: Spinda|Return|p1a: Exeggutor
+|-damage|p1a: Exeggutor|59\/308 tox
+|
+|-heal|p2a: Spinda|259\/276 tox|[from] item: Leftovers
+|-damage|p2a: Spinda|208\/276 tox|[from] psn
+|-damage|p1a: Exeggutor|40\/308 tox|[from] psn
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|117\/308 tox|[from] item: Sitrus Berry
+|turn|20
+|
+|t:|1711750405
+|move|p2a: Spinda|Return|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|-heal|p2a: Spinda|225\/276 tox|[from] item: Leftovers
+|-damage|p2a: Spinda|157\/276 tox|[from] psn
+|upkeep
+|
+|t:|1711750407
+|switch|p1a: Quagsire|Quagsire, L85, M|247\/300
+|-damage|p1a: Quagsire|210\/300|[from] Spikes
+|turn|21
+|
+|t:|1711750416
+|switch|p2a: Wigglytuff|Wigglytuff, L95, M|420\/420
+|-item|p1a: Quagsire|Leftovers|[from] ability: Frisk|[of] p2a: Wigglytuff
+|move|p1a: Quagsire|Earthquake|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|269\/420
+|
+|-heal|p2a: Wigglytuff|295\/420|[from] item: Leftovers
+|-heal|p1a: Quagsire|228\/300|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711750453
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Quagsire|Earthquake|p2a: Wigglytuff
+|-crit|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|18\/420
+|
+|-heal|p2a: Wigglytuff|44\/420|[from] item: Leftovers
+|-heal|p1a: Quagsire|246\/300|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|UwUniceShirt has 120 seconds left.
+|inactive|UwUniceShirt has 90 seconds left.
+|
+|t:|1711750501
+|switch|p1a: Persian|Persian, L90, F|263\/263
+|-damage|p1a: Persian|231\/263|[from] Spikes
+|move|p2a: Wigglytuff|Protect||[still]
+|-fail|p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|254\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|280\/420|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711750510
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Persian|Taunt|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Protect
+|
+|-heal|p2a: Wigglytuff|306\/420|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711750517
+|move|p1a: Persian|Return|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|114\/420
+|-damage|p1a: Persian|205\/263|[from] item: Life Orb
+|move|p2a: Wigglytuff|Body Slam|p1a: Persian
+|-damage|p1a: Persian|90\/263
+|-status|p1a: Persian|par
+|
+|-heal|p2a: Wigglytuff|140\/420|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711750527
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Persian|Return|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Protect
+|
+|-heal|p2a: Wigglytuff|166\/420|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711750535
+|switch|p2a: Registeel|Registeel, L82|259\/265
+|move|p1a: Persian|Return|p2a: Registeel
+|-resisted|p2a: Registeel
+|-damage|p2a: Registeel|219\/265
+|-damage|p1a: Persian|64\/263 par|[from] item: Life Orb
+|
+|-heal|p2a: Registeel|235\/265|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711750546
+|move|p2a: Registeel|Stealth Rock|p1a: Persian
+|-sidestart|p1: UwUniceShirt|move: Stealth Rock
+|move|p1a: Persian|Hypnosis|p2a: Registeel
+|-status|p2a: Registeel|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Registeel|251\/265 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|n|☆UwUniceShirt|uwuniceshirt
+|
+|t:|1711750559
+|switch|p2a: Wigglytuff|Wigglytuff, L95, M|166\/420
+|-item|p1a: Persian|Life Orb|[from] ability: Frisk|[of] p2a: Wigglytuff
+|switch|p1a: Arcanine|Arcanine, L82, F|115\/282
+|-damage|p1a: Arcanine|80\/282|[from] Spikes
+|-damage|p1a: Arcanine|10\/282|[from] Stealth Rock
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Wigglytuff|atk|1
+|
+|-heal|p1a: Arcanine|27\/282|[from] item: Leftovers
+|-heal|p2a: Wigglytuff|192\/420|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1711750573
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|168\/282
+|move|p2a: Wigglytuff|Body Slam|p1a: Arcanine
+|-damage|p1a: Arcanine|99\/282
+|-status|p1a: Arcanine|par
+|
+|-heal|p2a: Wigglytuff|218\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|116\/282 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711750584
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|257\/282 par
+|
+|-heal|p2a: Wigglytuff|244\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|274\/282 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711750592
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|cant|p1a: Arcanine|par
+|
+|-heal|p2a: Wigglytuff|420\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p1a: Arcanine|282\/282 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711750601
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|245\/420
+|-damage|p1a: Arcanine|224\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|271\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|241\/282 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711750615
+|move|p2a: Wigglytuff|Heal Bell|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Heal Bell
+|-curestatus|p2: Spinda|tox|[msg]
+|-curestatus|p2: Registeel|slp|[msg]
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|76\/420
+|-damage|p1a: Arcanine|177\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|286\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|312\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|194\/282 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711750628
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|113\/420
+|-damage|p1a: Arcanine|128\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|139\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|145\/282 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711750636
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|282\/282 par
+|
+|-heal|p2a: Wigglytuff|349\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|375\/420|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1711750645
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Toxic|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|tox
+|
+|-heal|p2a: Wigglytuff|401\/420 tox|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|375\/420 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1711750653
+|move|p2a: Wigglytuff|Heal Bell|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Heal Bell
+|-curestatus|p2a: Wigglytuff|tox|[msg]
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|176\/420
+|-damage|p1a: Arcanine|216\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|386\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|412\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|233\/282 par|[from] item: Leftovers
+|upkeep
+|turn|39
+|inactive|UwUniceShirt has 120 seconds left.
+|
+|t:|1711750694
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Toxic|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|tox
+|
+|-heal|p2a: Wigglytuff|420\/420 tox|[from] item: Leftovers
+|-heal|p1a: Arcanine|250\/282 par|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|394\/420 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1711750703
+|move|p2a: Wigglytuff|Heal Bell|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Heal Bell
+|-curestatus|p2a: Wigglytuff|tox|[msg]
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|223\/420
+|-damage|p1a: Arcanine|194\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|420\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p1a: Arcanine|211\/282 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1711750713
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|move|p1a: Arcanine|Toxic|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|tox
+|
+|-heal|p1a: Arcanine|228\/282 par|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|394\/420 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1711750720
+|move|p2a: Wigglytuff|Heal Bell|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Heal Bell
+|-curestatus|p2a: Wigglytuff|tox|[msg]
+|move|p1a: Arcanine|Flare Blitz|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|208\/420
+|-damage|p1a: Arcanine|167\/282 par|[from] Recoil
+|
+|-heal|p2a: Wigglytuff|418\/420|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|420\/420|[from] item: Leftovers
+|-heal|p1a: Arcanine|184\/282 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1711750732
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|cant|p1a: Arcanine|par
+|
+|-heal|p1a: Arcanine|201\/282 par|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1711750737
+|switch|p2a: Spinda|Spinda, L98, M|157\/276
+|move|p1a: Arcanine|Toxic|p2a: Spinda
+|-status|p2a: Spinda|tox
+|
+|-heal|p2a: Spinda|276\/276 tox|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p1a: Arcanine|218\/282 par|[from] item: Leftovers
+|-damage|p2a: Spinda|259\/276 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1711750751
+|switch|p2a: Wigglytuff|Wigglytuff, L95, M|420\/420
+|-item|p1a: Arcanine|Leftovers|[from] ability: Frisk|[of] p2a: Wigglytuff
+|switch|p1a: Quagsire|Quagsire, L85, M|246\/300
+|-damage|p1a: Quagsire|209\/300|[from] Spikes
+|-damage|p1a: Quagsire|191\/300|[from] Stealth Rock
+|
+|-heal|p1a: Quagsire|209\/300|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1711750768
+|move|p2a: Wigglytuff|Heal Bell|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Heal Bell
+|-curestatus|p2: Spinda|tox|[msg]
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|300\/300
+|
+|upkeep
+|turn|47
+|
+|t:|1711750788
+|switch|p1a: Arcanine|Arcanine, L82, F|218\/282 par
+|-damage|p1a: Arcanine|183\/282 par|[from] Spikes
+|-damage|p1a: Arcanine|113\/282 par|[from] Stealth Rock
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Wigglytuff|atk|1
+|move|p2a: Wigglytuff|Body Slam|p1a: Arcanine
+|-damage|p1a: Arcanine|40\/282 par
+|
+|-heal|p1a: Arcanine|57\/282 par|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1711750798
+|move|p2a: Wigglytuff|Body Slam|p1a: Arcanine
+|-crit|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|
+|upkeep
+|inactive|UwUniceShirt has 120 seconds left.
+|
+|t:|1711750845
+|switch|p1a: Delcatty|Delcatty, L95, F|287\/287
+|-damage|p1a: Delcatty|252\/287|[from] Spikes
+|-damage|p1a: Delcatty|217\/287|[from] Stealth Rock
+|turn|49
+|
+|t:|1711750851
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Delcatty|Fake Out|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Protect
+|
+|upkeep
+|turn|50
+|inactive|UwUniceShirt has 120 seconds left.
+|
+|t:|1711750859
+|move|p1a: Delcatty|Toxic|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|tox
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|
+|-damage|p2a: Wigglytuff|394\/420 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1711750865
+|move|p1a: Delcatty|Double-Edge|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|180\/420 tox
+|-damage|p1a: Delcatty|146\/287|[from] Recoil
+|move|p2a: Wigglytuff|Body Slam|p1a: Delcatty
+|-damage|p1a: Delcatty|76\/287
+|
+|-heal|p2a: Wigglytuff|390\/420 tox|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|416\/420 tox|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|364\/420 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1711750877
+|move|p1a: Delcatty|Double-Edge|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|165\/420 tox
+|-damage|p1a: Delcatty|10\/287|[from] Recoil
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|191\/420 tox|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|113\/420 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1711750887
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Delcatty|Double-Edge|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Protect
+|
+|-heal|p2a: Wigglytuff|323\/420 tox|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Wigglytuff|349\/420 tox|[from] item: Leftovers
+|-damage|p2a: Wigglytuff|245\/420 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1711750897
+|switch|p2a: Registeel|Registeel, L82|251\/265
+|move|p1a: Delcatty|Double-Edge|p2a: Registeel
+|-resisted|p2a: Registeel
+|-damage|p2a: Registeel|203\/265
+|-damage|p1a: Delcatty|0 fnt|[from] Recoil
+|faint|p1a: Delcatty
+|
+|-heal|p2a: Registeel|219\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1711750900
+|switch|p1a: Quagsire|Quagsire, L85, M|300\/300
+|-damage|p1a: Quagsire|263\/300|[from] Spikes
+|-damage|p1a: Quagsire|245\/300|[from] Stealth Rock
+|turn|55
+|
+|t:|1711750910
+|move|p2a: Registeel|Toxic|p1a: Quagsire
+|-status|p1a: Quagsire|tox
+|move|p1a: Quagsire|Earthquake|p2a: Registeel
+|-supereffective|p2a: Registeel
+|-damage|p2a: Registeel|79\/265
+|
+|-heal|p2a: Registeel|95\/265|[from] item: Leftovers
+|-heal|p1a: Quagsire|263\/300 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|245\/300 tox|[from] psn
+|upkeep
+|turn|56
+|l|☆UwUniceShirt
+|inactive|UwUniceShirt disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|UwUniceShirt has 30 seconds to reconnect!
+|inactive|UwUniceShirt has 20 seconds to reconnect!
+|inactive|UwUniceShirt has 15 seconds to reconnect!
+|inactive|UwUniceShirt has 10 seconds to reconnect!
+|inactive|UwUniceShirt has 5 seconds to reconnect!
+|-message|UwUniceShirt lost due to inactivity.
+|
+|win|konstantinopel
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆UwUniceShirt and ☆konstantinopel joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 5] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between UwUniceShirt and konstantinopel!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt sent out <strong>Arcanine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)</div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Arcanine!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−76/300">25.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="battle-history"><small>Spinda's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Scald</strong>!<br></div><div class="battle-history">[Maractus's Water Absorb]<br><small>It doesn't affect Maractus...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Quagsire!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Arcanine</strong>!<br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history"><small>Maractus's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Arcanine's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−229/229">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop fainted!<br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Arcanine!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−83/300">27.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="battle-history"><small>Spinda's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−97/300">32.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Scald</strong>!<br></div><div class="battle-history">[Maractus's Water Absorb]<br><small>It doesn't affect Maractus...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Quagsire!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Swanna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Swanna was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus, come back!<br></div><div class="battle-history">Go! <strong>Seismitoad</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Seismitoad lost <abbr title="−130/317">41.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Swanna was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swanna restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Seismitoad lost <abbr title="−142/317">44.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Swanna was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Seismitoad used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(The opposing Swanna lost <abbr title="−109/269">40.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Seismitoad lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swanna restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Seismitoad, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−38/265">14.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Swanna was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt sent out <strong>Exeggutor</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−77/308">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Exeggutor's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Maractus lost <abbr title="−132/302">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Maractus lost <abbr title="−148/302">49.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Exeggutor!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Arcanine</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history">[Registeel's Clear Body]<br><small>Registeel's stats were not lowered!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Seismitoad</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Seismitoad lost <abbr title="−14/317">4.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Seismitoad fainted!<br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Spinda was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−90/282">31.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spinda's Attack rose!</small><br></div><div class="battle-history"><small>Spinda's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−184/282">65.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Arcanine!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Exeggutor</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by the spikes!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−154/308">50%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by poison!</small><br></div><div class="battle-history">[The opposing Exeggutor's Harvest]<br><small>The opposing Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−117/308">38.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda, come back!<br></div><div class="battle-history">Go! <strong>Wigglytuff</strong>!<br></div><div class="battle-history">[Wigglytuff's Frisk]<br><small>Wigglytuff frisked the opposing Quagsire and found its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−151/420">36.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−277/420">66.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat message-error">UwUniceShirt has 120 seconds left.</div><div class="chat message-error">UwUniceShirt has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Quagsire!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Persian</strong>!<br></div><div class="battle-history"><small>The opposing Persian was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−192/420">45.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Persian lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Persian lost <abbr title="−115/263">43.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Persian is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Return</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Return</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−40/265">15.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Persian lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Hypnosis</strong>!<br></div><div class="battle-history"><small>Registeel fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Wigglytuff</strong>!<br></div><div class="battle-history">[Wigglytuff's Frisk]<br><small>Wigglytuff frisked the opposing Persian and found its Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Persian!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Arcanine</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Arcanine!</small><br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history"><small>Wigglytuff's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−69/282">24.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−175/420">41.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Spinda was cured of its poisoning!</small><br></div><div class="battle-history"><small>Registeel woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−195/420">46.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−199/420">47.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Wigglytuff was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Wigglytuff was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−199/420">47.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="chat message-error">UwUniceShirt has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Wigglytuff was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Wigglytuff was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−171/420">40.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Wigglytuff was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Wigglytuff was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−186/420">44.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff, come back!<br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Spinda was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda, come back!<br></div><div class="battle-history">Go! <strong>Wigglytuff</strong>!<br></div><div class="battle-history">[Wigglytuff's Frisk]<br><small>Wigglytuff frisked the opposing Arcanine and found its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Arcanine!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Quagsire!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Spinda was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt withdrew Quagsire!<br></div><div class="battle-history">UwUniceShirt sent out <strong>Arcanine</strong>!<br></div><div class="battle-history"><small>The opposing Arcanine was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Arcanine!</small><br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history"><small>Wigglytuff's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−73/282">25.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arcanine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−57/282">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine fainted!<br></div><div class="chat message-error">UwUniceShirt has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt sent out <strong>Delcatty</strong>!<br></div><div class="battle-history"><small>The opposing Delcatty was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Delcatty!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="chat message-error">UwUniceShirt has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Wigglytuff was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−214/420">51.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Delcatty was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Delcatty lost <abbr title="−70/287">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>(Wigglytuff lost <abbr title="−199/420">47.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Delcatty was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>Wigglytuff protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Wigglytuff's wish came true!</small><br></div><div class="battle-history"><small>Wigglytuff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Wigglytuff was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wigglytuff, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−48/265">18.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Delcatty was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delcatty fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">UwUniceShirt sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Quagsire!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−140/265">52.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Quagsire restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Quagsire was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="chat"><small>☆UwUniceShirt left</small></div><div class="chat message-error">UwUniceShirt disconnected and has a minute to reconnect!</div><div class="chat message-error">UwUniceShirt has 30 seconds to reconnect!</div><div class="chat message-error">UwUniceShirt has 20 seconds to reconnect!</div><div class="chat message-error">UwUniceShirt has 15 seconds to reconnect!</div><div class="chat message-error">UwUniceShirt has 10 seconds to reconnect!</div><div class="chat message-error">UwUniceShirt has 5 seconds to reconnect!</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>UwUniceShirt lost due to inactivity.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>konstantinopel</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 4] OU replay: WhatColorIsThis? vs. A1B2C3O</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen4ou-2098054545" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 4] OU</strong><br /><a href="http://pokemonshowdown.com/users/whatcoloristhis" class="subtle" target="_blank">WhatColorIsThis?</a> vs. <a href="http://pokemonshowdown.com/users/a1b2c3o" class="subtle" target="_blank">A1B2C3O</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆WhatColorIsThis?
+|j|☆A1B2C3O
+|t:|1712504982
+|gametype|singles
+|player|p1|WhatColorIsThis?|169|1162
+|player|p2|A1B2C3O|2|1120
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1712504982
+|start
+|switch|p1a: Aerodactyl|Aerodactyl, M|100\/100
+|switch|p2a: Flygon|Flygon, M|100\/100
+|-ability|p1a: Aerodactyl|Pressure
+|turn|1
+|
+|t:|1712504993
+|move|p2a: Flygon|U-turn|p1a: Aerodactyl
+|-resisted|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|82\/100
+|
+|t:|1712504997
+|switch|p2a: Bronzong|Bronzong, shiny|100\/100|[from] U-turn
+|move|p1a: Aerodactyl|Stealth Rock|p2a: Bronzong
+|-sidestart|p2: A1B2C3O|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1712505072
+|switch|p1a: Forretress|Forretress, F|100\/100
+|move|p2a: Bronzong|Trick Room|p2a: Bronzong
+|-fieldstart|move: Trick Room|[of] p2a: Bronzong
+|
+|upkeep
+|turn|3
+|
+|t:|1712505080
+|move|p2a: Bronzong|Earthquake|p1a: Forretress
+|-damage|p1a: Forretress|78\/100
+|move|p1a: Forretress|Spikes|p2a: Bronzong
+|-sidestart|p2: A1B2C3O|Spikes
+|
+|-heal|p1a: Forretress|84\/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1712505099
+|move|p2a: Bronzong|Gyro Ball|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|69\/100
+|move|p1a: Forretress|Spikes|p2a: Bronzong
+|-sidestart|p2: A1B2C3O|Spikes
+|
+|-heal|p1a: Forretress|75\/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1712505110
+|switch|p2a: Infernape|Infernape, F|100\/100
+|-damage|p2a: Infernape|88\/100|[from] Stealth Rock
+|-damage|p2a: Infernape|72\/100|[from] Spikes
+|move|p1a: Forretress|Spikes|p2a: Infernape
+|-sidestart|p2: A1B2C3O|Spikes
+|
+|-heal|p1a: Forretress|81\/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1712505120
+|move|p1a: Forretress|Explosion|p2a: Infernape
+|-damage|p2a: Infernape|0 fnt
+|faint|p1a: Forretress
+|faint|p2a: Infernape
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1712505140
+|switch|p2a: Starmie|Starmie|100\/100
+|switch|p1a: Pichu|Pichu-Spiky-eared, F|100\/100
+|-damage|p2a: Starmie|88\/100|[from] Stealth Rock
+|-damage|p2a: Starmie|63\/100|[from] Spikes
+|turn|7
+|
+|t:|1712505148
+|switch|p1a: Rotom|Rotom-Mow|100\/100
+|move|p2a: Starmie|Rapid Spin|p1a: Rotom
+|-immune|p1a: Rotom
+|
+|-heal|p2a: Starmie|69\/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1712505156
+|switch|p2a: Tyranitar|Tyranitar, M|100\/100
+|-damage|p2a: Tyranitar|88\/100|[from] Stealth Rock
+|-damage|p2a: Tyranitar|63\/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Rotom|Will-O-Wisp|p2a: Tyranitar
+|-status|p2a: Tyranitar|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|94\/100|[from] Sandstorm
+|-heal|p1a: Rotom|100\/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|51\/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1712505171
+|move|p1a: Rotom|Thunderbolt|p2a: Tyranitar
+|-damage|p2a: Tyranitar|21\/100 brn
+|move|p2a: Tyranitar|Pursuit|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|64\/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|58\/100|[from] Sandstorm
+|-heal|p1a: Rotom|64\/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|9\/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1712505183
+|move|p1a: Rotom|Thunderbolt|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|58\/100|[from] Sandstorm
+|-heal|p1a: Rotom|64\/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1712505205
+|switch|p2a: Flygon|Flygon, M|100\/100
+|-damage|p2a: Flygon|95\/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1712505218
+|move|p2a: Flygon|Outrage|p1a: Rotom
+|-damage|p1a: Rotom|2\/100
+|move|p1a: Rotom|Will-O-Wisp|p2a: Flygon
+|-status|p2a: Flygon|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|0 fnt|[from] Sandstorm
+|faint|p1a: Rotom
+|-damage|p2a: Flygon|82\/100 brn|[from] brn
+|upkeep
+|
+|t:|1712505224
+|switch|p1a: Pichu|Pichu-Spiky-eared, F|100\/100
+|turn|12
+|
+|t:|1712505235
+|move|p2a: Flygon|Outrage|p1a: Pichu|[from]lockedmove
+|-damage|p1a: Pichu|1\/100
+|-enditem|p1a: Pichu|Focus Sash
+|move|p1a: Pichu|Hidden Power|p2a: Flygon
+|-supereffective|p2a: Flygon
+|-damage|p2a: Flygon|20\/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pichu|0 fnt|[from] Sandstorm
+|faint|p1a: Pichu
+|-damage|p2a: Flygon|7\/100 brn|[from] brn
+|upkeep
+|c|☆WhatColorIsThis?|for the record pichu killed flygon
+|
+|t:|1712505270
+|switch|p1a: Empoleon|Empoleon, F|100\/100
+|turn|13
+|
+|t:|1712505277
+|move|p2a: Flygon|Outrage|p1a: Empoleon|[from]lockedmove
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|83\/100
+|move|p1a: Empoleon|Agility|p1a: Empoleon
+|-boost|p1a: Empoleon|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Flygon|0 fnt|[from] brn
+|faint|p2a: Flygon
+|upkeep
+|
+|t:|1712505291
+|switch|p2a: Breloom|Breloom, F|100\/100
+|-damage|p2a: Breloom|94\/100|[from] Stealth Rock
+|-damage|p2a: Breloom|70\/100|[from] Spikes
+|turn|14
+|
+|t:|1712505298
+|move|p1a: Empoleon|Substitute|p1a: Empoleon
+|-start|p1a: Empoleon|Substitute
+|-damage|p1a: Empoleon|58\/100
+|move|p2a: Breloom|Spore||[still]
+|-fail|p2a: Breloom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Breloom|63\/100|[from] Sandstorm
+|-status|p2a: Breloom|tox|[from] item: Toxic Orb
+|upkeep
+|turn|15
+|
+|t:|1712505302
+|move|p1a: Empoleon|Surf|p2a: Breloom
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|17\/100 tox
+|move|p2a: Breloom|Substitute|p2a: Breloom
+|-fail|p2a: Breloom|move: Substitute|[weak]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Breloom|11\/100 tox|[from] Sandstorm
+|-heal|p2a: Breloom|23\/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1712505310
+|switch|p2a: Starmie|Starmie|69\/100
+|-damage|p2a: Starmie|57\/100|[from] Stealth Rock
+|-damage|p2a: Starmie|32\/100|[from] Spikes
+|move|p1a: Empoleon|Surf|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|5\/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Starmie|0 fnt|[from] Sandstorm
+|faint|p2a: Starmie
+|upkeep
+|
+|t:|1712505312
+|switch|p2a: Bronzong|Bronzong, shiny|100\/100
+|-damage|p2a: Bronzong|94\/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1712505321
+|move|p1a: Empoleon|Surf|p2a: Bronzong
+|-damage|p2a: Bronzong|50\/100
+|move|p2a: Bronzong|Trick Room|p2a: Bronzong
+|-fieldstart|move: Trick Room|[of] p2a: Bronzong
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1712505327
+|move|p2a: Bronzong|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-end|p1a: Empoleon|Substitute
+|move|p1a: Empoleon|Substitute|p1a: Empoleon
+|-start|p1a: Empoleon|Substitute
+|-damage|p1a: Empoleon|33\/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1712505331
+|move|p2a: Bronzong|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-end|p1a: Empoleon|Substitute
+|move|p1a: Empoleon|Substitute|p1a: Empoleon
+|-start|p1a: Empoleon|Substitute
+|-damage|p1a: Empoleon|8\/100
+|-enditem|p1a: Empoleon|Petaya Berry|[eat]
+|-boost|p1a: Empoleon|spa|1|[from] item: Petaya Berry
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1712505342
+|move|p2a: Bronzong|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-end|p1a: Empoleon|Substitute
+|move|p1a: Empoleon|Surf|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1712505351
+|switch|p2a: Breloom|Breloom, F|23\/100 tox
+|-damage|p2a: Breloom|17\/100 tox|[from] Stealth Rock
+|-damage|p2a: Breloom|0 fnt|[from] Spikes
+|faint|p2a: Breloom
+|
+|win|WhatColorIsThis?
+|raw|WhatColorIsThis?'s rating: 1162 &rarr; <strong>1184<\/strong><br \/>(+22 for winning)
+|raw|A1B2C3O's rating: 1120 &rarr; <strong>1098<\/strong><br \/>(-22 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆WhatColorIsThis? and ☆A1B2C3O joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 4] OU</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>Species Clause:</em> Limit one of each Pokémon</small></div><div class=""><small><em>OHKO Clause:</em> OHKO moves are banned</small></div><div class=""><small><em>Evasion Items Clause:</em> Evasion items are banned</small></div><div class=""><small><em>Evasion Moves Clause:</em> Evasion moves are banned</small></div><div class=""><small><em>Endless Battle Clause:</em> Forcing endless battles is banned</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Evasion Abilities Clause:</em> Evasion abilities are banned</small></div><div class=""><small><em>Baton Pass Stat Trap Clause:</em> No Baton Passer may have a way to boost stats or trap Pokémon</small></div><div class=""><small><em>Freeze Clause Mod:</em> Limit one foe frozen</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between WhatColorIsThis? and A1B2C3O!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Aerodactyl</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Flygon</strong>!<br></div><div class="battle-history">[Aerodactyl's Pressure]<br><small>Aerodactyl is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Aerodactyl lost 18% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon went back to A1B2C3O!<br></div><div class="battle-history">A1B2C3O sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aerodactyl used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Aerodactyl, come back!<br></div><div class="battle-history">Go! <strong>Forretress</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Bronzong twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Forretress lost 22% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Forretress restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Forretress lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Forretress restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O withdrew Bronzong!<br></div><div class="battle-history">A1B2C3O sent out <strong>Infernape</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Infernape!</small><br></div><div class="battle-history"><small>The opposing Infernape was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Forretress restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Forretress used <strong>Explosion</strong>!<br></div><div class="battle-history"><small>(The opposing Infernape lost 72% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Forretress fainted!<br></div><div class="battle-history">The opposing Infernape fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The twisted dimensions returned to normal!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Starmie</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Pichu (<strong>Pichu-Spiky-eared</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Starmie!</small><br></div><div class="battle-history"><small>The opposing Starmie was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pichu, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie used <strong>Rapid Spin</strong>!<br></div><div class="battle-history"><small>It doesn't affect Rotom...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Starmie restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O withdrew Starmie!<br></div><div class="battle-history">A1B2C3O sent out <strong>Tyranitar</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tyranitar!</small><br></div><div class="battle-history"><small>The opposing Tyranitar was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Tyranitar's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Tyranitar was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Rotom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Rotom restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Tyranitar was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Tyranitar lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tyranitar used <strong>Pursuit</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Rotom lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Rotom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Rotom restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Tyranitar was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Tyranitar lost 9% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tyranitar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Rotom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Rotom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Flygon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Flygon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(Rotom lost 62% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Flygon was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Rotom is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom fainted!<br></div><div class="battle-history"><small>The opposing Flygon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Pichu (<strong>Pichu-Spiky-eared</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(Pichu lost 99% of its health!)</small><br></div><div class="battle-history"><small>Pichu hung on using its Focus Sash!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pichu used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Flygon lost 62% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Pichu is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pichu fainted!<br></div><div class="battle-history"><small>The opposing Flygon was hurt by its burn!</small><br></div><div class="chat chatmessage-whatcoloristhis"><strong style="color:#c48c12"><small>☆</small><span class="username" data-name="WhatColorIsThis?">WhatColorIsThis?</span>:</strong> <em>for the record pichu killed flygon</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Empoleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Empoleon lost 17% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Agility</strong>!<br></div><div class="battle-history"><small>Empoleon's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Flygon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Breloom</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Breloom!</small><br></div><div class="battle-history"><small>The opposing Breloom was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Empoleon put in a substitute!</small><br></div><div class="battle-history"><small>(Empoleon lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom used <strong>Spore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Breloom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Breloom was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Surf</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Breloom lost 46% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>But it does not have enough HP left to make a substitute!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Breloom is buffeted by the sandstorm!</small><br></div><div class="battle-history">[The opposing Breloom's Poison Heal]<br><small>The opposing Breloom had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O withdrew Breloom!<br></div><div class="battle-history">A1B2C3O sent out <strong>Starmie</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Starmie!</small><br></div><div class="battle-history"><small>The opposing Starmie was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Surf</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Starmie lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Starmie is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Bronzong</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Bronzong!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost 44% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Bronzong twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Empoleon's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Empoleon put in a substitute!</small><br></div><div class="battle-history"><small>(Empoleon lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Empoleon's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Empoleon put in a substitute!</small><br></div><div class="battle-history"><small>(Empoleon lost 25% of its health!)</small><br></div><div class="battle-history"><small>(Empoleon ate its Petaya Berry!)</small><br></div><div class="battle-history"><small>The Petaya Berry raised Empoleon's Sp. Atk!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Empoleon's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost 50% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">A1B2C3O sent out <strong>Breloom</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Breloom!</small><br></div><div class="battle-history"><small>The opposing Breloom was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>WhatColorIsThis?</strong> won the battle!<br></div><div class="chat">WhatColorIsThis?'s rating: 1162 → <strong>1184</strong><br>(+22 for winning)</div><div class="chat">A1B2C3O's rating: 1120 → <strong>1098</strong><br>(-22 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

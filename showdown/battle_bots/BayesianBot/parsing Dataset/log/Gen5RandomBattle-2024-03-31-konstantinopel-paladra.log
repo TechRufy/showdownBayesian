@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 5] Random Battle replay: konstantinopel vs. paladra</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen5randombattle-2092611263" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 5] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/konstantinopel" class="subtle" target="_blank">konstantinopel</a> vs. <a href="http://pokemonshowdown.com/users/paladra" class="subtle" target="_blank">paladra</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆konstantinopel
+|j|☆paladra
+|t:|1711839951
+|gametype|singles
+|player|p1|konstantinopel|169|1629
+|player|p2|paladra|acetrainer-gen4dp|1506
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711839951
+|start
+|switch|p1a: Tauros|Tauros, L82, M|257\/257
+|switch|p2a: Xatu|Xatu, L84, F|246\/246
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Xatu|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by paladra)
+|inactive|konstantinopel also wants the timer to be on.
+|inactive|paladra has 120 seconds left.
+|inactive|paladra has 90 seconds left.
+|
+|t:|1711840032
+|switch|p2a: Cofagrigus|Cofagrigus, L86, F|240\/240
+|move|p1a: Tauros|Stone Edge|p2a: Cofagrigus
+|-crit|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|101\/240
+|
+|-heal|p2a: Cofagrigus|116\/240|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711840056
+|switch|p1a: Vaporeon|Vaporeon, L83, F|351\/351
+|move|p2a: Cofagrigus|Will-O-Wisp|p1a: Vaporeon
+|-status|p1a: Vaporeon|brn
+|
+|-heal|p2a: Cofagrigus|131\/240|[from] item: Leftovers
+|-damage|p1a: Vaporeon|308\/351 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|konstantinopel has 120 seconds left.
+|
+|t:|1711840085
+|switch|p2a: Xatu|Xatu, L84, F|246\/246
+|move|p1a: Vaporeon|Toxic|p2a: Xatu
+|move|p2a: Xatu|Toxic||[from]ability: Magic Bounce|[still]
+|-fail|p2a: Xatu
+|
+|-heal|p1a: Vaporeon|329\/351 brn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|286\/351 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|konstantinopel has 120 seconds left.
+|inactive|paladra has 120 seconds left.
+|
+|t:|1711840115
+|switch|p2a: Cofagrigus|Cofagrigus, L86, F|131\/240
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|307\/351 brn|[from] item: Leftovers
+|-heal|p2a: Cofagrigus|146\/240|[from] item: Leftovers
+|-damage|p1a: Vaporeon|264\/351 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|paladra has 120 seconds left.
+|
+|t:|1711840141
+|switch|p2a: Exeggutor|Exeggutor, L88, F|308\/308
+|move|p1a: Vaporeon|Scald|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|251\/308
+|-status|p2a: Exeggutor|brn
+|
+|-heal|p1a: Vaporeon|351\/351 brn|[from] move: Wish|[wisher] Vaporeon
+|-damage|p1a: Vaporeon|308\/351 brn|[from] brn
+|-damage|p2a: Exeggutor|213\/308 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|konstantinopel has 120 seconds left.
+|
+|t:|1711840167
+|switch|p1a: Fearow|Fearow, L89, M|259\/259
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|136\/308 brn
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|213\/308 brn|[from] item: Sitrus Berry
+|
+|-damage|p2a: Exeggutor|175\/308 brn|[from] brn
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|7
+|inactive|konstantinopel has 90 seconds left.
+|
+|t:|1711840210
+|move|p1a: Fearow|Drill Peck|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Leech Seed|p1a: Fearow
+|-start|p1a: Fearow|move: Leech Seed
+|
+|-damage|p1a: Fearow|227\/259|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|207\/308 brn|[silent]
+|-damage|p2a: Exeggutor|169\/308 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1711840227
+|switch|p2a: Cofagrigus|Cofagrigus, L86, F|146\/240
+|move|p1a: Fearow|Drill Peck|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|56\/240
+|-activate|p2a: Cofagrigus|ability: Mummy|Sniper|[of] p1a: Fearow
+|
+|-heal|p2a: Cofagrigus|71\/240|[from] item: Leftovers
+|-damage|p1a: Fearow|195\/259|[from] Leech Seed|[of] p2a: Cofagrigus
+|-heal|p2a: Cofagrigus|103\/240|[silent]
+|upkeep
+|turn|9
+|inactive|konstantinopel has 90 seconds left.
+|inactive|paladra has 90 seconds left.
+|inactive|konstantinopel has 60 seconds left.
+|
+|t:|1711840267
+|switch|p1a: Vaporeon|Vaporeon, L83, F|308\/351 brn
+|switch|p2a: Exeggutor|Exeggutor, L88, F|169\/308 brn
+|
+|-heal|p1a: Vaporeon|329\/351 brn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|286\/351 brn|[from] brn
+|-damage|p2a: Exeggutor|131\/308 brn|[from] brn
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|208\/308 brn|[from] item: Sitrus Berry
+|turn|10
+|inactive|paladra has 90 seconds left.
+|inactive|konstantinopel has 60 seconds left.
+|
+|t:|1711840292
+|switch|p1a: Fearow|Fearow, L89, M|195\/259
+|move|p2a: Exeggutor|Leech Seed|p1a: Fearow
+|-start|p1a: Fearow|move: Leech Seed
+|
+|-damage|p1a: Fearow|163\/259|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|240\/308 brn|[silent]
+|-damage|p2a: Exeggutor|202\/308 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711840303
+|switch|p2a: Cofagrigus|Cofagrigus, L86, F|103\/240
+|move|p1a: Fearow|U-turn|p2a: Cofagrigus
+|-resisted|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|77\/240
+|-activate|p2a: Cofagrigus|ability: Mummy|Sniper|[of] p1a: Fearow
+|inactive|konstantinopel has 30 seconds left.
+|
+|t:|1711840330
+|switch|p1a: Vaporeon|Vaporeon, L83, F|286\/351 brn|[from] U-turn
+|
+|-heal|p1a: Vaporeon|307\/351 brn|[from] item: Leftovers
+|-heal|p2a: Cofagrigus|92\/240|[from] item: Leftovers
+|-damage|p1a: Vaporeon|264\/351 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|paladra has 90 seconds left.
+|
+|t:|1711840348
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|move|p2a: Cofagrigus|Shadow Ball|p1a: Vaporeon
+|-damage|p1a: Vaporeon|180\/351 brn
+|
+|-heal|p1a: Vaporeon|201\/351 brn|[from] item: Leftovers
+|-heal|p2a: Cofagrigus|107\/240|[from] item: Leftovers
+|-damage|p1a: Vaporeon|158\/351 brn|[from] brn
+|upkeep
+|turn|13
+|inactive|konstantinopel has 30 seconds left.
+|inactive|konstantinopel has 20 seconds left.
+|
+|t:|1711840375
+|switch|p2a: Exeggutor|Exeggutor, L88, F|202\/308 brn
+|move|p1a: Vaporeon|Toxic||[still]
+|-fail|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|333\/351 brn|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Vaporeon|351\/351 brn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|308\/351 brn|[from] brn
+|-damage|p2a: Exeggutor|164\/308 brn|[from] brn
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|14
+|inactive|konstantinopel has 30 seconds left this turn.
+|inactive|konstantinopel has 20 seconds left.
+|inactive|konstantinopel has 15 seconds left.
+|inactive|konstantinopel has 10 seconds left.
+|
+|t:|1711840398
+|switch|p1a: Fearow|Fearow, L89, M|163\/259
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|87\/308 brn
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|164\/308 brn|[from] item: Sitrus Berry
+|
+|-damage|p2a: Exeggutor|126\/308 brn|[from] brn
+|upkeep
+|turn|15
+|inactive|konstantinopel has 20 seconds left this turn.
+|inactive|konstantinopel has 15 seconds left.
+|
+|t:|1711840410
+|move|p1a: Fearow|U-turn|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|inactive|konstantinopel has 20 seconds left this turn.
+|inactive|konstantinopel has 15 seconds left.
+|inactive|konstantinopel has 10 seconds left.
+|inactive|konstantinopel has 5 seconds left.
+|
+|t:|1711840425
+|switch|p1a: Vileplume|Vileplume, L88, M|275\/275|[from] U-turn
+|move|p2a: Exeggutor|Leech Seed|p1a: Vileplume
+|-immune|p1a: Vileplume
+|
+|-damage|p2a: Exeggutor|88\/308 brn|[from] brn
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|165\/308 brn|[from] item: Sitrus Berry
+|turn|16
+|inactive|konstantinopel has 15 seconds left this turn.
+|inactive|konstantinopel has 10 seconds left.
+|
+|t:|1711840442
+|move|p2a: Exeggutor|Psychic|p1a: Vileplume
+|-supereffective|p1a: Vileplume
+|-damage|p1a: Vileplume|39\/275
+|move|p1a: Vileplume|Sludge Bomb|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|-heal|p1a: Vileplume|56\/275|[from] item: Black Sludge
+|upkeep
+|inactive|konstantinopel has 15 seconds left this turn.
+|inactive|paladra has 60 seconds left.
+|
+|t:|1711840459
+|switch|p2a: Xatu|Xatu, L84, F|246\/246
+|turn|17
+|inactive|konstantinopel has 25 seconds left this turn.
+|inactive|konstantinopel has 20 seconds left.
+|inactive|konstantinopel has 15 seconds left.
+|inactive|konstantinopel has 10 seconds left.
+|
+|t:|1711840478
+|switch|p1a: Vaporeon|Vaporeon, L83, F|308\/351 brn
+|move|p2a: Xatu|Psychic|p1a: Vaporeon
+|-damage|p1a: Vaporeon|218\/351 brn
+|
+|-heal|p1a: Vaporeon|239\/351 brn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|196\/351 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|konstantinopel has 20 seconds left this turn.
+|inactive|konstantinopel has 15 seconds left.
+|
+|t:|1711840490
+|move|p2a: Xatu|Calm Mind|p2a: Xatu
+|-boost|p2a: Xatu|spa|1
+|-boost|p2a: Xatu|spd|1
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|217\/351 brn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|174\/351 brn|[from] brn
+|upkeep
+|turn|19
+|inactive|konstantinopel has 25 seconds left this turn.
+|inactive|konstantinopel has 20 seconds left.
+|inactive|konstantinopel has 15 seconds left.
+|inactive|konstantinopel has 10 seconds left.
+|inactive|paladra has 60 seconds left.
+|
+|t:|1711840510
+|switch|p1a: Tauros|Tauros, L82, M|257\/257
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Xatu|atk|1
+|move|p2a: Xatu|Psychic|p1a: Tauros
+|-damage|p1a: Tauros|77\/257
+|
+|-heal|p1a: Tauros|252\/257|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|20
+|inactive|konstantinopel has 20 seconds left this turn.
+|inactive|konstantinopel has 15 seconds left.
+|inactive|paladra has 60 seconds left.
+|inactive|konstantinopel has 10 seconds left.
+|inactive|konstantinopel has 5 seconds left.
+|-message|konstantinopel lost due to inactivity.
+|
+|win|paladra
+|raw|konstantinopel's rating: 1641 &rarr; <strong>1614<\/strong><br \/>(-27 for losing)
+|raw|paladra's rating: 1506 &rarr; <strong>1533<\/strong><br \/>(+27 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆konstantinopel and ☆paladra joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 5] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between konstantinopel and paladra!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paladra sent out <strong>Xatu</strong>!<br></div><div class="battle-history">[Tauros's Intimidate]<br></div><div class="battle-history"><small>The opposing Xatu's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by paladra)</div><div class="chat message-error">konstantinopel also wants the timer to be on.</div><div class="chat message-error">paladra has 120 seconds left.</div><div class="chat message-error">paladra has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Xatu!<br></div><div class="battle-history">paladra sent out <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Cofagrigus lost <abbr title="−139/240">57.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros, come back!<br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cofagrigus used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Vaporeon was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">konstantinopel has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Cofagrigus!<br></div><div class="battle-history">paladra sent out <strong>Xatu</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Toxic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Xatu's Magic Bounce]<br>The opposing Xatu bounced the Toxic back!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">konstantinopel has 120 seconds left.</div><div class="chat message-error">paladra has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Xatu!<br></div><div class="battle-history">paladra sent out <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">paladra has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Cofagrigus!<br></div><div class="battle-history">paladra sent out <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−57/308">18.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon's wish came true!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">konstantinopel has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon, come back!<br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−77/308">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="battle-history">[The opposing Exeggutor's Harvest]<br><small>The opposing Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">konstantinopel has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Drill Peck</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Exeggutor's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Fearow was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fearow's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Exeggutor!<br></div><div class="battle-history">paladra sent out <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Drill Peck</strong>!<br></div><div class="battle-history"><small>(The opposing Cofagrigus lost <abbr title="−90/240">37.5%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Cofagrigus's Mummy]<br>[Fearow's Sniper]<br>[Fearow's Mummy]<br><small>Fearow's Ability became Mummy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Fearow's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">konstantinopel has 90 seconds left.</div><div class="chat message-error">paladra has 90 seconds left.</div><div class="chat message-error">konstantinopel has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow, come back!<br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Cofagrigus!<br></div><div class="battle-history">paladra sent out <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">paladra has 90 seconds left.</div><div class="chat message-error">konstantinopel has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon, come back!<br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Fearow was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Fearow's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Exeggutor!<br></div><div class="battle-history">paladra sent out <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Cofagrigus lost <abbr title="−26/240">10.8%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Cofagrigus's Mummy]<br>[Fearow's Sniper]<br>[Fearow's Mummy]<br><small>Fearow's Ability became Mummy!</small><br></div><div class="chat message-error">konstantinopel has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow went back to konstantinopel!<br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">paladra has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cofagrigus used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−84/351">23.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">konstantinopel has 30 seconds left.</div><div class="chat message-error">konstantinopel has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra withdrew Cofagrigus!<br></div><div class="battle-history">paladra sent out <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon's wish came true!</small><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="battle-history">[The opposing Exeggutor's Harvest]<br><small>The opposing Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">konstantinopel has 30 seconds left this turn.</div><div class="chat message-error">konstantinopel has 20 seconds left.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon, come back!<br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−77/308">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">konstantinopel has 20 seconds left this turn.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Exeggutor's substitute faded!</small><br></div><div class="chat message-error">konstantinopel has 20 seconds left this turn.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="chat message-error">konstantinopel has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow went back to konstantinopel!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>It doesn't affect Vileplume...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Exeggutor was hurt by its burn!</small><br></div><div class="battle-history">[The opposing Exeggutor's Harvest]<br><small>The opposing Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">konstantinopel has 15 seconds left this turn.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−236/275">85.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−165/308">53.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="chat message-error">konstantinopel has 15 seconds left this turn.</div><div class="chat message-error">paladra has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paladra sent out <strong>Xatu</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">konstantinopel has 25 seconds left this turn.</div><div class="chat message-error">konstantinopel has 20 seconds left.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xatu used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−90/351">25.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">konstantinopel has 20 seconds left this turn.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xatu used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Xatu's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Xatu's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">konstantinopel has 25 seconds left this turn.</div><div class="chat message-error">konstantinopel has 20 seconds left.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="chat message-error">paladra has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon, come back!<br></div><div class="battle-history">Go! <strong>Tauros</strong>!<br></div><div class="battle-history">[Tauros's Intimidate]<br></div><div class="battle-history"><small>The opposing Xatu's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xatu used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Tauros lost <abbr title="−180/257">70.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">konstantinopel has 20 seconds left this turn.</div><div class="chat message-error">konstantinopel has 15 seconds left.</div><div class="chat message-error">paladra has 60 seconds left.</div><div class="chat message-error">konstantinopel has 10 seconds left.</div><div class="chat message-error">konstantinopel has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>konstantinopel lost due to inactivity.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>paladra</strong> won the battle!<br></div><div class="chat">konstantinopel's rating: 1641 → <strong>1614</strong><br>(-27 for losing)</div><div class="chat">paladra's rating: 1506 → <strong>1533</strong><br>(+27 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

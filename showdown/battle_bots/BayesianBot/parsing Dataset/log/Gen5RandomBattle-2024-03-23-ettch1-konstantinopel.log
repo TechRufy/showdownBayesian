@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 5] Random Battle replay: Ettch1 vs. konstantinopel</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen5randombattle-2087292616" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 5] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/ettch1" class="subtle" target="_blank">Ettch1</a> vs. <a href="http://pokemonshowdown.com/users/konstantinopel" class="subtle" target="_blank">konstantinopel</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Ettch1
+|j|☆konstantinopel
+|t:|1711183804
+|gametype|singles
+|player|p1|Ettch1|nate|1337
+|player|p2|konstantinopel|265|1477
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711183804
+|start
+|switch|p1a: Mantine|Mantine, L90, M|263\/263
+|switch|p2a: Rotom|Rotom-Mow, L84|221\/221
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)
+|c|☆Ettch1|welp
+|c|☆Ettch1|good start :D
+|
+|t:|1711183826
+|switch|p1a: Plusle|Plusle, L90, F|254\/254
+|move|p2a: Rotom|Volt Switch|p1a: Plusle
+|-resisted|p1a: Plusle
+|-damage|p1a: Plusle|210\/254
+|c|☆konstantinopel|xD
+|
+|t:|1711183839
+|switch|p2a: Blissey|Blissey, L84, F|566\/566|[from] Volt Switch
+|
+|-heal|p1a: Plusle|225\/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711183846
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|move|p2a: Blissey|Seismic Toss|p1a: Plusle
+|-damage|p1a: Plusle|141\/254
+|
+|-heal|p1a: Plusle|156\/254|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711183853
+|move|p1a: Plusle|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|419\/566
+|move|p2a: Blissey|Seismic Toss|p1a: Plusle
+|-damage|p1a: Plusle|72\/254
+|
+|-heal|p1a: Plusle|87\/254|[from] item: Leftovers
+|-heal|p2a: Blissey|454\/566|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711183865
+|switch|p1a: Venomoth|Venomoth, L82, F|249\/249
+|move|p2a: Blissey|Seismic Toss|p1a: Venomoth
+|-damage|p1a: Venomoth|165\/249
+|
+|-heal|p1a: Venomoth|180\/249|[from] item: Black Sludge
+|-heal|p2a: Blissey|489\/566|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711183884
+|switch|p2a: Rotom|Rotom-Mow, L84|221\/221
+|move|p1a: Venomoth|Sleep Powder|p2a: Rotom
+|-status|p2a: Rotom|slp|[from] move: Sleep Powder
+|
+|-heal|p1a: Venomoth|195\/249|[from] item: Black Sludge
+|upkeep
+|turn|6
+|c|☆Ettch1|wait is grass not imune to powder in gen 5?
+|
+|t:|1711183900
+|switch|p2a: Murkrow|Murkrow, L89, M|251\/251
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|-heal|p1a: Venomoth|210\/249|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1711183911
+|move|p2a: Murkrow|Haze|p2a: Murkrow
+|-clearallboost
+|move|p1a: Venomoth|Bug Buzz|p2a: Murkrow
+|-damage|p2a: Murkrow|154\/251
+|
+|-heal|p1a: Venomoth|225\/249|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1711183919
+|switch|p1a: Mantine|Mantine, L90, M|263\/263
+|move|p2a: Murkrow|Thunder Wave|p1a: Mantine
+|-status|p1a: Mantine|par
+|
+|upkeep
+|turn|9
+|
+|t:|1711183928
+|switch|p2a: Blissey|Blissey, L84, F|489\/566
+|move|p1a: Mantine|Air Slash|p2a: Blissey
+|-damage|p2a: Blissey|437\/566
+|
+|-heal|p2a: Blissey|472\/566|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711183937
+|switch|p1a: Venomoth|Venomoth, L82, F|225\/249
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Venomoth|240\/249|[from] item: Black Sludge
+|-heal|p2a: Blissey|507\/566|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711183948
+|switch|p2a: Braviary|Braviary, L84, M|305\/305
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|-heal|p1a: Venomoth|249\/249|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1711183970
+|switch|p1a: Mantine|Mantine, L90, M|263\/263 par
+|move|p2a: Braviary|Brave Bird|p1a: Mantine
+|-crit|p1a: Mantine
+|-damage|p1a: Mantine|0 fnt
+|faint|p1a: Mantine
+|-damage|p2a: Braviary|218\/305|[from] Recoil
+|
+|upkeep
+|
+|t:|1711183973
+|switch|p1a: Plusle|Plusle, L90, F|87\/254
+|turn|13
+|
+|t:|1711183987
+|switch|p2a: Blissey|Blissey, L84, F|507\/566
+|move|p1a: Plusle|Thunderbolt|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|357\/566
+|-status|p2a: Blissey|par
+|
+|-heal|p1a: Plusle|102\/254|[from] item: Leftovers
+|-heal|p2a: Blissey|392\/566 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711183996
+|switch|p1a: Stoutland|Stoutland, L87, M|290\/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|cant|p2a: Blissey|par
+|
+|-heal|p2a: Blissey|427\/566 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711184005
+|-curestatus|p2a: Blissey|par|[from] ability: Natural Cure
+|switch|p2a: Dusknoir|Dusknoir, L85, M|215\/215
+|-ability|p2a: Dusknoir|Pressure
+|move|p1a: Stoutland|Superpower|p2a: Dusknoir
+|-immune|p2a: Dusknoir
+|
+|upkeep
+|turn|16
+|
+|t:|1711184015
+|switch|p1a: Luvdisc|Luvdisc, F|227\/227
+|move|p2a: Dusknoir|Will-O-Wisp|p1a: Luvdisc
+|-status|p1a: Luvdisc|brn
+|
+|-damage|p1a: Luvdisc|199\/227 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711184025
+|switch|p2a: Blissey|Blissey, L84, F|427\/566
+|move|p1a: Luvdisc|Protect||[still]
+|-fail|p1a: Luvdisc
+|
+|-heal|p1a: Luvdisc|213\/227 brn|[from] item: Leftovers
+|-heal|p2a: Blissey|462\/566|[from] item: Leftovers
+|-damage|p1a: Luvdisc|185\/227 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1711184036
+|move|p1a: Luvdisc|Toxic|p2a: Blissey|[miss]
+|-miss|p1a: Luvdisc|p2a: Blissey
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Luvdisc|199\/227 brn|[from] item: Leftovers
+|-heal|p2a: Blissey|497\/566|[from] item: Leftovers
+|-damage|p1a: Luvdisc|171\/227 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1711184048
+|move|p1a: Luvdisc|Toxic|p2a: Blissey|[miss]
+|-miss|p1a: Luvdisc|p2a: Blissey
+|move|p2a: Blissey|Seismic Toss|p1a: Luvdisc
+|-damage|p1a: Luvdisc|87\/227 brn
+|
+|-heal|p2a: Blissey|566\/566|[from] move: Wish|[wisher] Blissey
+|-heal|p1a: Luvdisc|101\/227 brn|[from] item: Leftovers
+|-damage|p1a: Luvdisc|73\/227 brn|[from] brn
+|upkeep
+|turn|20
+|n|!Ettch1|ettch1
+|
+|t:|1711184058
+|move|p1a: Luvdisc|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Seismic Toss|p1a: Luvdisc
+|-damage|p1a: Luvdisc|0 fnt
+|faint|p1a: Luvdisc
+|
+|-damage|p2a: Blissey|531\/566 tox|[from] psn
+|upkeep
+|
+|t:|1711184064
+|switch|p1a: Stoutland|Stoutland, L87, M|290\/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|turn|21
+|
+|t:|1711184083
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Kingler|Kingler, L89, M|243\/243
+|move|p1a: Stoutland|Crunch|p2a: Kingler
+|-damage|p2a: Kingler|194\/243
+|
+|upkeep
+|turn|22
+|
+|t:|1711184093
+|switch|p1a: Plusle|Plusle, L90, F|102\/254
+|move|p2a: Kingler|Crabhammer|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|faint|p1a: Plusle
+|-damage|p2a: Kingler|170\/243|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711184107
+|switch|p1a: Venomoth|Venomoth, L82, F|249\/249
+|turn|23
+|
+|t:|1711184116
+|switch|p2a: Murkrow|Murkrow, L89, M|154\/251
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1711184126
+|move|p2a: Murkrow|Thunder Wave|p1a: Venomoth
+|-status|p1a: Venomoth|par
+|move|p1a: Venomoth|Bug Buzz|p2a: Murkrow
+|-damage|p2a: Murkrow|10\/251
+|
+|upkeep
+|turn|25
+|
+|t:|1711184152
+|switch|p2a: Kingler|Kingler, L89, M|170\/243
+|move|p1a: Venomoth|Bug Buzz|p2a: Kingler
+|-damage|p2a: Kingler|0 fnt
+|faint|p2a: Kingler
+|
+|upkeep
+|
+|t:|1711184159
+|switch|p2a: Braviary|Braviary, L84, M|218\/305
+|turn|26
+|
+|t:|1711184162
+|move|p2a: Braviary|Brave Bird|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|-damage|p2a: Braviary|136\/305|[from] Recoil
+|
+|upkeep
+|
+|t:|1711184167
+|switch|p1a: Stoutland|Stoutland, L87, M|290\/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Braviary|atk|1
+|-ability|p2a: Braviary|Defiant|boost
+|-boost|p2a: Braviary|atk|2
+|turn|27
+|c|☆konstantinopel|xD i've done that a lot of times too accidentally
+|
+|t:|1711184183
+|move|p1a: Stoutland|Wild Charge|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|faint|p2a: Braviary
+|-damage|p1a: Stoutland|256\/290|[from] Recoil
+|
+|upkeep
+|c|☆konstantinopel|ow .. xD
+|
+|t:|1711184190
+|switch|p2a: Dusknoir|Dusknoir, L85, M|215\/215
+|-ability|p2a: Dusknoir|Pressure
+|turn|28
+|
+|t:|1711184195
+|switch|p1a: Victini|Victini, L79|287\/287
+|move|p2a: Dusknoir|Will-O-Wisp|p1a: Victini
+|-immune|p1a: Victini
+|
+|upkeep
+|turn|29
+|
+|t:|1711184206
+|switch|p2a: Rotom|Rotom-Mow, L84|221\/221 slp
+|move|p1a: Victini|Bolt Strike|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|196\/221 slp
+|
+|upkeep
+|turn|30
+|
+|t:|1711184215
+|switch|p1a: Stoutland|Stoutland, L87, M|256\/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Rotom|atk|1
+|cant|p2a: Rotom|slp
+|
+|upkeep
+|turn|31
+|
+|t:|1711184223
+|cant|p2a: Rotom|slp
+|move|p1a: Stoutland|Crunch|p2a: Rotom
+|-damage|p2a: Rotom|145\/221 slp
+|
+|upkeep
+|turn|32
+|
+|t:|1711184239
+|cant|p2a: Rotom|slp
+|move|p1a: Stoutland|Crunch|p2a: Rotom
+|-damage|p2a: Rotom|93\/221 slp
+|-unboost|p2a: Rotom|def|1
+|
+|upkeep
+|turn|33
+|
+|t:|1711184246
+|-curestatus|p2a: Rotom|slp|[msg]
+|move|p2a: Rotom|Volt Switch|p1a: Stoutland
+|-damage|p1a: Stoutland|175\/290
+|
+|t:|1711184252
+|switch|p2a: Blissey|Blissey, L84, F|531\/566|[from] Volt Switch
+|move|p1a: Stoutland|Crunch|p2a: Blissey
+|-damage|p2a: Blissey|343\/566
+|
+|-heal|p2a: Blissey|378\/566|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711184262
+|switch|p1a: Victini|Victini, L79|287\/287
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p2a: Blissey|413\/566|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711184270
+|switch|p2a: Dusknoir|Dusknoir, L85, M|215\/215
+|-ability|p2a: Dusknoir|Pressure
+|move|p1a: Victini|Zen Headbutt|p2a: Dusknoir
+|-damage|p2a: Dusknoir|131\/215
+|
+|-heal|p2a: Dusknoir|215\/215|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|36
+|
+|t:|1711184280
+|switch|p1a: Stoutland|Stoutland, L87, M|175\/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Dusknoir|atk|1
+|move|p2a: Dusknoir|Earthquake|p1a: Stoutland
+|-damage|p1a: Stoutland|124\/290
+|
+|upkeep
+|turn|37
+|
+|t:|1711184290
+|switch|p2a: Blissey|Blissey, L84, F|413\/566
+|move|p1a: Stoutland|Crunch|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|13\/566
+|
+|-heal|p2a: Blissey|48\/566|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1711184298
+|move|p1a: Stoutland|Crunch|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1711184303
+|switch|p2a: Murkrow|Murkrow, L89, M|10\/251
+|turn|39
+|
+|t:|1711184307
+|move|p2a: Murkrow|Roost|p2a: Murkrow
+|-heal|p2a: Murkrow|136\/251
+|-singleturn|p2a: Murkrow|move: Roost
+|move|p1a: Stoutland|Crunch|p2a: Murkrow
+|-resisted|p2a: Murkrow
+|-damage|p2a: Murkrow|106\/251
+|-unboost|p2a: Murkrow|def|1
+|
+|upkeep
+|turn|40
+|
+|t:|1711184318
+|move|p2a: Murkrow|Thunder Wave|p1a: Stoutland
+|-status|p1a: Stoutland|par
+|move|p1a: Stoutland|Crunch|p2a: Murkrow
+|-resisted|p2a: Murkrow
+|-damage|p2a: Murkrow|54\/251
+|-unboost|p2a: Murkrow|def|1
+|
+|upkeep
+|turn|41
+|
+|t:|1711184331
+|switch|p2a: Rotom|Rotom-Mow, L84|93\/221
+|move|p1a: Stoutland|Crunch|p2a: Rotom
+|-damage|p2a: Rotom|41\/221
+|
+|upkeep
+|turn|42
+|
+|t:|1711184339
+|move|p2a: Rotom|Leaf Storm|p1a: Stoutland
+|-damage|p1a: Stoutland|0 fnt
+|-unboost|p2a: Rotom|spa|2
+|faint|p1a: Stoutland
+|
+|upkeep
+|
+|t:|1711184342
+|switch|p1a: Victini|Victini, L79|287\/287
+|turn|43
+|
+|t:|1711184352
+|move|p2a: Rotom|Leaf Storm|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|250\/287
+|-unboost|p2a: Rotom|spa|2
+|move|p1a: Victini|U-turn|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1711184371
+|switch|p2a: Murkrow|Murkrow, L89, M|54\/251
+|turn|44
+|
+|t:|1711184375
+|move|p2a: Murkrow|Thunder Wave|p1a: Victini
+|-status|p1a: Victini|par
+|cant|p1a: Victini|par
+|
+|upkeep
+|turn|45
+|
+|t:|1711184381
+|move|p2a: Murkrow|Foul Play|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|64\/287 par
+|move|p1a: Victini|U-turn|p2a: Murkrow
+|-crit|p2a: Murkrow
+|-damage|p2a: Murkrow|0 fnt
+|faint|p2a: Murkrow
+|
+|upkeep
+|
+|t:|1711184388
+|switch|p2a: Dusknoir|Dusknoir, L85, M|215\/215
+|-ability|p2a: Dusknoir|Pressure
+|turn|46
+|
+|t:|1711184392
+|move|p2a: Dusknoir|Earthquake|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|win|konstantinopel
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Ettch1 and ☆konstantinopel joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 5] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Ettch1 and konstantinopel!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by konstantinopel)</div><div class="chat chatmessage-ettch1"><strong style="color:#35a885"><small>☆</small><span class="username" data-name="Ettch1">Ettch1</span>:</strong> <em>welp</em></div><div class="chat chatmessage-ettch1"><strong style="color:#35a885"><small>☆</small><span class="username" data-name="Ettch1">Ettch1</span>:</strong> <em>good start :D</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Mantine!<br></div><div class="battle-history">Ettch1 sent out <strong>Plusle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Plusle lost <abbr title="−44/254">17.3%</abbr> of its health!)</small><br></div><div class="chat chatmessage-konstantinopel"><strong style="color:#3a987f"><small>☆</small><span class="username" data-name="konstantinopel">konstantinopel</span>:</strong> <em>xD</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom went back to konstantinopel!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Plusle's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Plusle lost <abbr title="−84/254">33.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Blissey lost <abbr title="−147/566">26.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Plusle lost <abbr title="−84/254">33.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Plusle!<br></div><div class="battle-history">Ettch1 sent out <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Venomoth lost <abbr title="−84/249">33.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blissey, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Rotom fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-ettch1"><strong style="color:#35a885"><small>☆</small><span class="username" data-name="Ettch1">Ettch1</span>:</strong> <em>wait is grass not imune to powder in gen 5?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom, come back!<br></div><div class="battle-history">Go! <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Haze</strong>!<br></div><div class="battle-history"><small>All stat changes were eliminated!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(Murkrow lost <abbr title="−97/251">38.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Venomoth!<br></div><div class="battle-history">Ettch1 sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Mantine is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow, come back!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Blissey lost <abbr title="−52/566">9.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Mantine!<br></div><div class="battle-history">Ettch1 sent out <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blissey, come back!<br></div><div class="battle-history">Go! <strong>Braviary</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Venomoth!<br></div><div class="battle-history">Ettch1 sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Braviary used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Mantine lost <abbr title="−263/263">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine fainted!<br></div><div class="battle-history"><small>Braviary was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Plusle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Braviary, come back!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Blissey lost <abbr title="−150/566">26.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Blissey is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Plusle!<br></div><div class="battle-history">Ettch1 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Blissey's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Blissey is cured by its Natural Cure!)</small><br></div><div class="battle-history">Blissey, come back!<br></div><div class="battle-history">Go! <strong>Dusknoir</strong>!<br></div><div class="battle-history">[Dusknoir's Pressure]<br><small>Dusknoir is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It doesn't affect Dusknoir...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Stoutland!<br></div><div class="battle-history">Ettch1 sent out <strong>Luvdisc</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Luvdisc was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luvdisc was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir, come back!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luvdisc restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Luvdisc was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Blissey avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luvdisc restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Luvdisc was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Blissey avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Luvdisc lost <abbr title="−84/227">37.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey's wish came true!</small><br></div><div class="battle-history"><small>The opposing Luvdisc restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Luvdisc was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Blissey was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Luvdisc lost <abbr title="−73/227">32.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Blissey's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Blissey is cured by its Natural Cure!)</small><br></div><div class="battle-history">Blissey, come back!<br></div><div class="battle-history">Go! <strong>Kingler</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Kingler lost <abbr title="−49/243">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Stoutland!<br></div><div class="battle-history">Ettch1 sent out <strong>Plusle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingler used <strong>Crabhammer</strong>!<br></div><div class="battle-history"><small>(The opposing Plusle lost <abbr title="−102/254">40.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle fainted!<br></div><div class="battle-history"><small>Kingler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kingler, come back!<br></div><div class="battle-history">Go! <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Venomoth is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(Murkrow lost <abbr title="−144/251">57.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow, come back!<br></div><div class="battle-history">Go! <strong>Kingler</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(Kingler lost <abbr title="−170/243">70.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingler fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Braviary</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Braviary used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Venomoth lost <abbr title="−249/249">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth fainted!<br></div><div class="battle-history"><small>Braviary was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Braviary's Attack fell!</small><br></div><div class="battle-history">[Braviary's Defiant]<br></div><div class="battle-history"><small>Braviary's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat chatmessage-konstantinopel"><strong style="color:#3a987f"><small>☆</small><span class="username" data-name="konstantinopel">konstantinopel</span>:</strong> <em>xD i've done that a lot of times too accidentally</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Braviary lost <abbr title="−136/305">44.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Braviary fainted!<br></div><div class="battle-history"><small>The opposing Stoutland was damaged by the recoil!</small><br></div><div class="chat chatmessage-konstantinopel"><strong style="color:#3a987f"><small>☆</small><span class="username" data-name="konstantinopel">konstantinopel</span>:</strong> <em>ow .. xD</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dusknoir</strong>!<br></div><div class="battle-history">[Dusknoir's Pressure]<br><small>Dusknoir is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Stoutland!<br></div><div class="battle-history">Ettch1 sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Victini...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Rotom lost <abbr title="−25/221">11.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Victini!<br></div><div class="battle-history">Ettch1 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Rotom's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Rotom lost <abbr title="−51/221">23.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Rotom lost <abbr title="−52/221">23.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Rotom's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Rotom woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Stoutland lost <abbr title="−81/290">27.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom went back to konstantinopel!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Blissey lost <abbr title="−188/566">33.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Stoutland!<br></div><div class="battle-history">Ettch1 sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blissey, come back!<br></div><div class="battle-history">Go! <strong>Dusknoir</strong>!<br></div><div class="battle-history">[Dusknoir's Pressure]<br><small>Dusknoir is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>(Dusknoir lost <abbr title="−84/215">39.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 withdrew Victini!<br></div><div class="battle-history">Ettch1 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Dusknoir's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Stoutland lost <abbr title="−51/290">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir, come back!<br></div><div class="battle-history">Go! <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Blissey lost <abbr title="−400/566">70.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Blissey lost <abbr title="−48/566">8.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blissey fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Murkrow had its HP restored.</small><br></div><div class="battle-history"><small>(Murkrow loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Murkrow lost <abbr title="−30/251">12.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Murkrow's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Stoutland is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Murkrow lost <abbr title="−52/251">20.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Murkrow's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow, come back!<br></div><div class="battle-history">Go! Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Rotom lost <abbr title="−52/221">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>(The opposing Stoutland lost <abbr title="−124/290">42.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Rotom's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ettch1 sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rotom used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−37/287">12.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Rotom's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Rotom lost <abbr title="−41/221">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Victini is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow used <strong>Foul Play</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−186/287">64.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Murkrow lost <abbr title="−54/251">21.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Murkrow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dusknoir</strong>!<br></div><div class="battle-history">[Dusknoir's Pressure]<br><small>Dusknoir is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dusknoir used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−64/287">22.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>konstantinopel</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
