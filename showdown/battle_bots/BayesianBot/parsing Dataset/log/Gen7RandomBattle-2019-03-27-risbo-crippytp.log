@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: risbo vs. CrippyTP</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-882503502" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/risbo" class="subtle" target="_blank">risbo</a> vs. <a href="http://pokemonshowdown.com/users/crippytp" class="subtle" target="_blank">CrippyTP</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆risbo
+|j|☆CrippyTP
+|player|p1|risbo|red-gen1
+|player|p2|CrippyTP|2
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Tropius|Tropius, L84, F|304\/304
+|switch|p2a: Mandibuzz|Mandibuzz, L79, F|303\/303
+|turn|1
+|j| bupz
+|
+|switch|p1a: Durant|Durant, L78, F|219\/219
+|move|p2a: Mandibuzz|Brave Bird|p1a: Durant
+|-damage|p1a: Durant|144\/219
+|-damage|p2a: Mandibuzz|278\/303|[from] Recoil
+|
+|-heal|p2a: Mandibuzz|296\/303|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|move|p1a: Durant|Iron Head|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|113\/303
+|move|p2a: Mandibuzz|Foul Play|p1a: Durant
+|-damage|p1a: Durant|56\/219
+|
+|-heal|p2a: Mandibuzz|131\/303|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|move|p1a: Durant|Iron Head|p2a: Mandibuzz|[miss]
+|-miss|p1a: Durant|p2a: Mandibuzz
+|move|p2a: Mandibuzz|Brave Bird|p1a: Durant
+|-damage|p1a: Durant|0 fnt
+|-damage|p2a: Mandibuzz|113\/303|[from] Recoil
+|faint|p1a: Durant
+|
+|-heal|p2a: Mandibuzz|131\/303|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Gardevoir|Gardevoir, L79, F|237\/237
+|-ability|p1a: Gardevoir|Overcoat|[from] ability: Trace|[of] p2a: Mandibuzz
+|turn|4
+|
+|move|p2a: Mandibuzz|Brave Bird|p1a: Gardevoir
+|-damage|p1a: Gardevoir|123\/237
+|-damage|p2a: Mandibuzz|93\/303|[from] Recoil
+|move|p1a: Gardevoir|Moonblast|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|-damage|p1a: Gardevoir|100\/237|[from] item: Life Orb
+|faint|p2a: Mandibuzz
+|
+|upkeep
+|
+|switch|p2a: Garchomp|Garchomp, L75, M|286\/286
+|turn|5
+|
+|switch|p1a: Tropius|Tropius, L84, F|304\/304
+|move|p2a: Garchomp|Earthquake|p1a: Tropius
+|-immune|p1a: Tropius
+|
+|upkeep
+|turn|6
+|
+|switch|p2a: Kyurem|Kyurem, L78|323\/323
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Tropius|Leech Seed|p2a: Kyurem
+|-start|p2a: Kyurem|move: Leech Seed
+|
+|-damage|p2a: Kyurem|283\/323|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|7
+|
+|switch|p2a: Deoxys|Deoxys, L73|193\/193
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Tropius|Protect||[still]
+|-fail|p1a: Tropius
+|
+|upkeep
+|turn|8
+|
+|switch|p1a: Absol|Absol, L78, F|229\/229
+|move|p2a: Deoxys|Knock Off|p1a: Absol
+|-resisted|p1a: Absol
+|-damage|p1a: Absol|186\/229
+|-ability|p1a: Absol|Justified|boost
+|-boost|p1a: Absol|atk|1
+|-damage|p2a: Deoxys|174\/193|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|273\/273
+|detailschange|p1a: Absol|Absol-Mega, L78, F
+|-mega|p1a: Absol|Absol|Absolite
+|move|p1a: Absol|Sucker Punch||[still]
+|-fail|p1a: Absol
+|
+|upkeep
+|turn|10
+|
+|switch|p1a: Landorus|Landorus, L73, M|250\/250
+|move|p2a: Sylveon|Hyper Voice|p1a: Landorus
+|-damage|p1a: Landorus|127\/250
+|
+|upkeep
+|turn|11
+|
+|switch|p2a: Kyurem|Kyurem, L78|283\/323
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Landorus|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: CrippyTP|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|move|p2a: Kyurem|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|switch|p1a: Absol|Absol-Mega, L78, F|186\/229
+|turn|13
+|
+|move|p1a: Absol|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|157\/323
+|-enditem|p2a: Kyurem|Assault Vest|[from] move: Knock Off|[of] p1a: Absol
+|move|p2a: Kyurem|Outrage|p1a: Absol
+|-damage|p1a: Absol|0 fnt
+|faint|p1a: Absol
+|
+|upkeep
+|
+|switch|p1a: Gardevoir|Gardevoir, L79, F|100\/237
+|-ability|p1a: Gardevoir|Pressure|[from] ability: Trace|[of] p2a: Kyurem
+|-ability|p1a: Gardevoir|Pressure
+|turn|14
+|
+|move|p2a: Kyurem|Outrage|p1a: Gardevoir|[from]lockedmove
+|-immune|p1a: Gardevoir
+|move|p1a: Gardevoir|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-damage|p1a: Gardevoir|77\/237|[from] item: Life Orb
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|switch|p2a: Deoxys|Deoxys, L73|174\/193
+|-damage|p2a: Deoxys|150\/193|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|15
+|
+|switch|p1a: Torterra|Torterra, L81, F|287\/287
+|move|p2a: Deoxys|Knock Off|p1a: Torterra
+|-damage|p1a: Torterra|197\/287
+|-enditem|p1a: Torterra|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|131\/193|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|switch|p1a: Tropius|Tropius, L84, F|304\/304
+|move|p2a: Deoxys|Psycho Boost|p1a: Tropius
+|-damage|p1a: Tropius|105\/304
+|-unboost|p2a: Deoxys|spa|2
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|181\/304|[from] item: Sitrus Berry
+|-damage|p2a: Deoxys|112\/193|[from] item: Life Orb
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|17
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|273\/273
+|-damage|p2a: Sylveon|239\/273|[from] Stealth Rock
+|switch|p1a: Torterra|Torterra, L81, F|197\/287
+|
+|-heal|p2a: Sylveon|256\/273|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|move|p1a: Torterra|Synthesis|p1a: Torterra
+|-heal|p1a: Torterra|287\/287
+|move|p2a: Sylveon|Hyper Voice|p1a: Torterra
+|-damage|p1a: Torterra|176\/287
+|
+|-heal|p2a: Sylveon|273\/273|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|move|p2a: Sylveon|Hyper Voice|p1a: Torterra
+|-damage|p1a: Torterra|64\/287
+|move|p1a: Torterra|Synthesis|p1a: Torterra
+|-heal|p1a: Torterra|207\/287
+|
+|upkeep
+|turn|20
+|
+|switch|p1a: Tropius|Tropius, L84, F|181\/304
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|upkeep
+|turn|21
+|
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Tropius|Leech Seed|p2a: Sylveon
+|-start|p2a: Sylveon|move: Leech Seed
+|
+|-damage|p2a: Sylveon|239\/273|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|215\/304|[silent]
+|upkeep
+|turn|22
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Sylveon|Hyper Voice|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-heal|p2a: Sylveon|256\/273|[from] item: Leftovers
+|-damage|p2a: Sylveon|222\/273|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|249\/304|[silent]
+|upkeep
+|turn|23
+|
+|switch|p1a: Gardevoir|Gardevoir, L79, F|77\/237
+|-ability|p1a: Gardevoir|Pixilate|[from] ability: Trace|[of] p2a: Sylveon
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|239\/273|[from] item: Leftovers
+|-damage|p2a: Sylveon|205\/273|[from] Leech Seed|[of] p1a: Gardevoir
+|-heal|p1a: Gardevoir|111\/237|[silent]
+|upkeep
+|turn|24
+|
+|move|p1a: Gardevoir|Moonblast|p2a: Sylveon
+|-damage|p2a: Sylveon|162\/273
+|-unboost|p2a: Sylveon|spa|1
+|-damage|p1a: Gardevoir|88\/237|[from] item: Life Orb
+|move|p2a: Sylveon|Hyper Voice|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|-heal|p2a: Sylveon|179\/273|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Torterra|Torterra, L81, F|207\/287
+|turn|25
+|
+|move|p1a: Torterra|Wood Hammer|p2a: Sylveon
+|-damage|p2a: Sylveon|8\/273
+|-damage|p1a: Torterra|151\/287|[from] Recoil
+|move|p2a: Sylveon|Hyper Voice|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|
+|-heal|p2a: Sylveon|25\/273|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Tropius|Tropius, L84, F|249\/304
+|turn|26
+|
+|move|p2a: Sylveon|Hyper Voice|p1a: Tropius
+|-damage|p1a: Tropius|47\/304
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|123\/304|[from] item: Sitrus Berry
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|47\/304
+|
+|-heal|p2a: Sylveon|42\/273|[from] item: Leftovers
+|-damage|p2a: Sylveon|8\/273|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|81\/304|[silent]
+|upkeep
+|turn|27
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Sylveon|Hyper Voice|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-heal|p2a: Sylveon|25\/273|[from] item: Leftovers
+|-damage|p2a: Sylveon|0 fnt|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|106\/304|[silent]
+|faint|p2a: Sylveon
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|182\/304|[from] item: Sitrus Berry
+|
+|switch|p2a: Deoxys|Deoxys, L73|112\/193
+|-damage|p2a: Deoxys|88\/193|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|28
+|
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Deoxys|69\/193|[from] item: Life Orb
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|106\/304
+|
+|upkeep
+|turn|29
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|182\/304|[from] item: Sitrus Berry
+|turn|30
+|
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Deoxys|50\/193|[from] item: Life Orb
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|106\/304
+|
+|upkeep
+|turn|31
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|upkeep
+|turn|32
+|
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Deoxys|31\/193|[from] item: Life Orb
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|30\/304
+|
+|upkeep
+|turn|33
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|upkeep
+|turn|34
+|
+|move|p1a: Tropius|Protect||[still]
+|-fail|p1a: Tropius
+|move|p2a: Deoxys|Fire Punch|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Deoxys|12\/193|[from] item: Life Orb
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|106\/304|[from] item: Sitrus Berry
+|turn|35
+|-message|risbo forfeited.
+|
+|win|CrippyTP
+|l|☆risbo
+|raw|risbo's rating: 2463 &rarr; <strong>2441<\/strong><br \/>(-22 for losing)
+|raw|CrippyTP's rating: 2428 &rarr; <strong>2450<\/strong><br \/>(+22 for winning)
+|j| Eashy
+|c|☆CrippyTP|lmao
+|c|☆CrippyTP|beat the first place guy
+|c| Eashy|nice team
+|c| Eashy|jesus
+|c|☆CrippyTP|insane
+|c| Eashy|what was the last
+|c|☆CrippyTP|uhh the grass monkey guy
+|c|☆CrippyTP|simisage
+|c| Eashy|ok
+|c|☆CrippyTP|his team was good too
+|c|☆CrippyTP|but he misaplyed the durant
+|c| Eashy|ehhhh
+|c|☆CrippyTP|that thing woulda fucked me up
+|c| Eashy|what thing
+|c|☆CrippyTP|the durant
+|c| Eashy|u had chomp
+|c| Eashy|and mandibuzz
+|c|☆CrippyTP|mandibuzz doesn't wall durant
+|c| Eashy|was it scarf?
+|c| Eashy|or band
+|c|☆CrippyTP|idk
+|c|☆CrippyTP|i think scarf i guess
+|c|☆CrippyTP|he used it way too early
+|c| Eashy|then it does for sure i think
+|c| Eashy|buzz is so tanky
+|c|☆CrippyTP|i don't have roost
+|c| Eashy|oh lol
+|c|☆CrippyTP|it 3hko
+|j|☆risbo
+|c|☆CrippyTP|gg risbo
+|c|☆CrippyTP|that was for first :)
+|l|☆risbo
+|c|☆CrippyTP|LOL
+|c| Eashy|\/\/ tilt
+|l| bupz
+|l| Eashy
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆risbo and ☆CrippyTP joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between risbo and CrippyTP!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small> bupz joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius, come back!<br></div><div class="battle-history">Go! <strong>Durant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Durant lost <abbr title="−75/219">34.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Mandibuzz lost <abbr title="−183/303">60.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Foul Play</strong>!<br></div><div class="battle-history"><small>(Durant lost <abbr title="−88/219">40.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>The opposing Mandibuzz avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Durant lost <abbr title="−56/219">25.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Durant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gardevoir</strong>!<br></div><div class="battle-history">[Gardevoir's Trace]<br>[Gardevoir's Overcoat]<br><small>Gardevoir traced the opposing Mandibuzz's Overcoat!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Gardevoir lost <abbr title="−114/237">48.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mandibuzz lost <abbr title="−93/303">30.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Gardevoir lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP sent out <strong>Garchomp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir, come back!<br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Garchomp used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Tropius...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP withdrew Garchomp!<br></div><div class="battle-history">CrippyTP sent out <strong>Kyurem</strong>!<br></div><div class="battle-history">[The opposing Kyurem's Pressure]<br><small>The opposing Kyurem is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Kyurem was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP withdrew Kyurem!<br></div><div class="battle-history">CrippyTP sent out <strong>Deoxys</strong>!<br></div><div class="battle-history">[The opposing Deoxys's Pressure]<br><small>The opposing Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius, come back!<br></div><div class="battle-history">Go! <strong>Absol</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Absol lost <abbr title="−43/229">18.8%</abbr> of its health!)</small><br></div><div class="battle-history">[Absol's Justified]<br></div><div class="battle-history"><small>Absol's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP withdrew Deoxys!<br></div><div class="battle-history">CrippyTP sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Absol's Absolite is reacting to the Key Stone!</small><br>Absol has Mega Evolved into Mega Absol!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Absol used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Absol, come back!<br></div><div class="battle-history">Go! <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Landorus lost <abbr title="−123/250">49.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP withdrew Sylveon!<br></div><div class="battle-history">CrippyTP sent out <strong>Kyurem</strong>!<br></div><div class="battle-history">[The opposing Kyurem's Pressure]<br><small>The opposing Kyurem is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Landorus lost <abbr title="−127/250">50.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Absol (<strong>Absol-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Absol used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−126/323">39.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Absol knocked off the opposing Kyurem's Assault Vest!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(Absol lost <abbr title="−186/229">81.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Absol fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gardevoir</strong>!<br></div><div class="battle-history">[Gardevoir's Trace]<br>[Gardevoir's Pressure]<br><small>Gardevoir traced the opposing Kyurem's Pressure!</small><br></div><div class="battle-history">[Gardevoir's Pressure]<br><small>Gardevoir is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It doesn't affect Gardevoir...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−157/323">48.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Gardevoir lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP sent out <strong>Deoxys</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Deoxys!</small><br></div><div class="battle-history">[The opposing Deoxys's Pressure]<br><small>The opposing Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−90/287">31.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Deoxys knocked off Torterra's Leftovers!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Psycho Boost</strong>!<br></div><div class="battle-history"><small>(Tropius lost <abbr title="−199/304">65.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Deoxys's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Tropius's Harvest]<br><small>Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP withdrew Deoxys!<br></div><div class="battle-history">CrippyTP sent out <strong>Sylveon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Sylveon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Torterra had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−111/287">38.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−112/287">39.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Torterra had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius, come back!<br></div><div class="battle-history">Go! <strong>Gardevoir</strong>!<br></div><div class="battle-history">[Gardevoir's Trace]<br>[Gardevoir's Pixilate]<br><small>Gardevoir traced the opposing Sylveon's Pixilate!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−43/273">15.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk fell!</small><br></div><div class="battle-history"><small>Gardevoir lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Gardevoir lost <abbr title="−88/237">37.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gardevoir fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−171/273">62.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−151/287">52.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Tropius lost <abbr title="−202/304">66.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Tropius put in a substitute!</small><br></div><div class="battle-history"><small>(Tropius lost <abbr title="−76/304">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon fainted!<br></div><div class="battle-history">[Tropius's Harvest]<br><small>Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">CrippyTP sent out <strong>Deoxys</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Deoxys!</small><br></div><div class="battle-history">[The opposing Deoxys's Pressure]<br><small>The opposing Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Tropius's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Tropius put in a substitute!</small><br></div><div class="battle-history"><small>(Tropius lost <abbr title="−76/304">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Tropius's Harvest]<br><small>Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Tropius's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Tropius put in a substitute!</small><br></div><div class="battle-history"><small>(Tropius lost <abbr title="−76/304">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Tropius's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Tropius put in a substitute!</small><br></div><div class="battle-history"><small>(Tropius lost <abbr title="−76/304">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Tropius's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Deoxys lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Tropius's Harvest]<br><small>Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>risbo forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>CrippyTP</strong> won the battle!<br></div><div class="chat"><small>☆risbo left</small></div><div class="chat">risbo's rating: 2463 → <strong>2441</strong><br>(-22 for losing)</div><div class="chat">CrippyTP's rating: 2428 → <strong>2450</strong><br>(+22 for winning)</div><div class="chat"><small> Eashy joined</small></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>lmao</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>beat the first place guy</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>nice team</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>jesus</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>insane</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>what was the last</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>uhh the grass monkey guy</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>simisage</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>ok</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>his team was good too</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>but he misaplyed the durant</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>ehhhh</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>that thing woulda fucked me up</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>what thing</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>the durant</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>u had chomp</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>and mandibuzz</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>mandibuzz doesn't wall durant</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>was it scarf?</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>or band</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>idk</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>i think scarf i guess</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>he used it way too early</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>then it does for sure i think</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>buzz is so tanky</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>i don't have roost</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>oh lol</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>it 3hko</em></div><div class="chat"><small>☆risbo joined</small></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>gg risbo</em></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>that was for first :)</em></div><div class="chat"><small>☆risbo left</small></div><div class="chat chatmessage-crippytp"><strong style="color:#8c672f"><small>☆</small><span class="username" data-name="CrippyTP">CrippyTP</span>:</strong> <em>LOL</em></div><div class="chat chatmessage-eashy"><strong style="color:#0ca12f"><small> </small><span class="username" data-name="Eashy">Eashy</span>:</strong> <em>/ tilt</em></div><div class="chat"><small> bupz and  Eashy left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: rabbi ribuls vs. RomeoArturia</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-832107188" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/rabbiribuls" class="subtle" target="_blank">rabbi ribuls</a> vs. <a href="http://pokemonshowdown.com/users/romeoarturia" class="subtle" target="_blank">RomeoArturia</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆rabbi ribuls
+|j|‽RomeoArturia
+|player|p1|rabbi ribuls|101
+|player|p2|RomeoArturia|152
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|65057,51603,60594,60768
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Terrakion|Terrakion, L77|267\/267
+|switch|p2a: Girafarig|Girafarig, L83, F|252\/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)
+|
+|switch|p2a: Deoxys|Deoxys-Defense, L73|193\/193
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Terrakion|Stealth Rock|p2a: Deoxys
+|-sidestart|p2: RomeoArturia|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Victreebel|Victreebel, L83, M|268\/268
+|move|p2a: Deoxys|Spikes|p1a: Victreebel
+|-sidestart|p1: rabbi ribuls|Spikes
+|
+|upkeep
+|turn|3
+|
+|move|p2a: Deoxys|Spikes|p1a: Victreebel
+|-sidestart|p1: rabbi ribuls|Spikes
+|-zpower|p1a: Victreebel
+|move|p1a: Victreebel|Z-Sleep Powder|p2a: Deoxys|[anim]Sleep Powder
+|-boost|p1a: Victreebel|spe|1|[zeffect]
+|-status|p2a: Deoxys|slp
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: Bastiodon|Bastiodon, L83, F|235\/235
+|-damage|p2a: Bastiodon|221\/235|[from] Stealth Rock
+|-item|p2a: Bastiodon|Air Balloon
+|move|p1a: Victreebel|Swords Dance|p1a: Victreebel
+|-boost|p1a: Victreebel|atk|2
+|
+|upkeep
+|turn|5
+|inactive|rabbi ribuls has 120 seconds left.
+|inactive|rabbi ribuls has 90 seconds left.
+|
+|move|p1a: Victreebel|Knock Off|p2a: Bastiodon
+|-damage|p2a: Bastiodon|142\/235
+|-enditem|p2a: Bastiodon|Air Balloon
+|move|p2a: Bastiodon|Roar|p1a: Victreebel
+|drag|p1a: Kangaskhan|Kangaskhan, L73, F|274\/274
+|-damage|p1a: Kangaskhan|229\/274|[from] Spikes
+|
+|upkeep
+|turn|6
+|inactive|rabbi ribuls has 120 seconds left.
+|
+|switch|p2a: Girafarig|Girafarig, L83, F|252\/252
+|-damage|p2a: Girafarig|221\/252|[from] Stealth Rock
+|detailschange|p1a: Kangaskhan|Kangaskhan-Mega, L73, F
+|-mega|p1a: Kangaskhan|Kangaskhan|Kangaskhanite
+|move|p1a: Kangaskhan|Earthquake|p2a: Girafarig
+|-damage|p2a: Girafarig|141\/252
+|-damage|p2a: Girafarig|121\/252
+|-hitcount|p2a: Girafarig|2
+|
+|-heal|p2a: Girafarig|136\/252|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|rabbi ribuls has 120 seconds left.
+|
+|move|p2a: Girafarig|Hyper Voice|p1a: Kangaskhan
+|-damage|p1a: Kangaskhan|138\/274
+|move|p1a: Kangaskhan|Crunch|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|12\/252
+|-unboost|p2a: Girafarig|def|1
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|0 fnt
+|-hitcount|p2a: Girafarig|2
+|faint|p2a: Girafarig
+|
+|upkeep
+|
+|switch|p2a: Minior|Minior, L81|230\/230
+|-damage|p2a: Minior|173\/230|[from] Stealth Rock
+|-formechange|p2a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|8
+|inactive|rabbi ribuls has 120 seconds left.
+|inactive|rabbi ribuls has 90 seconds left.
+|
+|move|p1a: Kangaskhan|Crunch|p2a: Minior
+|-damage|p2a: Minior|127\/230
+|-damage|p2a: Minior|114\/230
+|-unboost|p2a: Minior|def|1
+|-enditem|p2a: Minior|White Herb
+|-clearnegativeboost|p2a: Minior|[silent]
+|-hitcount|p2a: Minior|2
+|move|p2a: Minior|Shell Smash|p2a: Minior
+|-unboost|p2a: Minior|def|1
+|-unboost|p2a: Minior|spd|1
+|-boost|p2a: Minior|atk|2
+|-boost|p2a: Minior|spa|2
+|-boost|p2a: Minior|spe|2
+|
+|-formechange|p2a: Minior|Minior||[from] ability: Shields Down
+|upkeep
+|turn|9
+|
+|move|p2a: Minior|Acrobatics|p1a: Kangaskhan
+|-damage|p1a: Kangaskhan|0 fnt
+|faint|p1a: Kangaskhan
+|
+|upkeep
+|
+|switch|p1a: Dragonite|Dragonite, L76, M|263\/263
+|turn|10
+|
+|move|p2a: Minior|Power Gem|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|95\/263
+|move|p1a: Dragonite|Outrage|p2a: Minior
+|-damage|p2a: Minior|0 fnt
+|faint|p2a: Minior
+|
+|upkeep
+|inactive|RomeoArturia has 120 seconds left.
+|
+|switch|p2a: Bastiodon|Bastiodon, L83, F|142\/235
+|-damage|p2a: Bastiodon|128\/235|[from] Stealth Rock
+|turn|11
+|
+|move|p1a: Dragonite|Outrage|p2a: Bastiodon|[from]lockedmove
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|85\/235
+|-start|p1a: Dragonite|confusion|[fatigue]
+|-enditem|p1a: Dragonite|Lum Berry|[eat]
+|-end|p1a: Dragonite|confusion
+|move|p2a: Bastiodon|Rock Blast|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|57\/263
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|21\/263
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-hitcount|p1a: Dragonite|3
+|faint|p1a: Dragonite
+|
+|upkeep
+|inactive|rabbi ribuls has 90 seconds left.
+|
+|switch|p1a: Terrakion|Terrakion, L77|267\/267
+|-damage|p1a: Terrakion|223\/267|[from] Spikes
+|turn|12
+|
+|move|p1a: Terrakion|Earthquake|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|-heal|p1a: Terrakion|239\/267|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Deoxys|Deoxys-Defense, L73|193\/193 slp
+|-damage|p2a: Deoxys|169\/193 slp|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|13
+|inactive|rabbi ribuls has 90 seconds left.
+|
+|switch|p1a: Victreebel|Victreebel, L83, M|268\/268
+|-damage|p1a: Victreebel|224\/268|[from] Spikes
+|cant|p2a: Deoxys|slp
+|
+|-heal|p2a: Deoxys|181\/193 slp|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|cant|p2a: Deoxys|slp
+|move|p1a: Victreebel|Swords Dance|p1a: Victreebel
+|-boost|p1a: Victreebel|atk|2
+|
+|-heal|p2a: Deoxys|193\/193 slp|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|cant|p2a: Deoxys|slp
+|move|p1a: Victreebel|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-enditem|p2a: Deoxys|Leftovers|[from] move: Knock Off|[of] p1a: Victreebel
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|switch|p2a: Blacephalon|Blacephalon, L75|203\/203
+|-damage|p2a: Blacephalon|153\/203|[from] Stealth Rock
+|turn|16
+|
+|switch|p1a: Mantine|Mantine, L79, M|263\/263
+|-zpower|p2a: Blacephalon
+|move|p2a: Blacephalon|Inferno Overdrive|p1a: Mantine|[zeffect]
+|-resisted|p1a: Mantine
+|-damage|p1a: Mantine|176\/263
+|
+|-heal|p1a: Mantine|192\/263|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|rabbi ribuls has 120 seconds left.
+|
+|move|p2a: Blacephalon|Calm Mind|p2a: Blacephalon
+|-boost|p2a: Blacephalon|spa|1
+|-boost|p2a: Blacephalon|spd|1
+|move|p1a: Mantine|Scald|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|49\/203
+|
+|-heal|p1a: Mantine|208\/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|rabbi ribuls has 120 seconds left.
+|
+|move|p2a: Blacephalon|Shadow Ball|p1a: Mantine
+|-damage|p1a: Mantine|90\/263
+|-unboost|p1a: Mantine|spd|1
+|move|p1a: Mantine|Roost|p1a: Mantine
+|-heal|p1a: Mantine|222\/263
+|
+|-heal|p1a: Mantine|238\/263|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|rabbi ribuls has 120 seconds left.
+|
+|move|p2a: Blacephalon|Shadow Ball|p1a: Mantine
+|-damage|p1a: Mantine|73\/263
+|move|p1a: Mantine|Scald|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Mantine|89\/263|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Linoone|Linoone, L79, F|252\/252
+|-damage|p2a: Linoone|221\/252|[from] Stealth Rock
+|turn|20
+|
+|move|p2a: Linoone|Belly Drum|p2a: Linoone
+|-damage|p2a: Linoone|95\/252
+|-setboost|p2a: Linoone|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Linoone|Iapapa Berry|[eat]
+|-heal|p2a: Linoone|221\/252|[from] item: Iapapa Berry
+|move|p1a: Mantine|Scald|p2a: Linoone
+|-damage|p2a: Linoone|133\/252
+|
+|-heal|p1a: Mantine|105\/263|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|move|p2a: Linoone|Extreme Speed|p1a: Mantine
+|-crit|p1a: Mantine
+|-damage|p1a: Mantine|0 fnt
+|faint|p1a: Mantine
+|
+|upkeep
+|
+|switch|p1a: Terrakion|Terrakion, L77|239\/267
+|-damage|p1a: Terrakion|195\/267|[from] Spikes
+|turn|22
+|
+|move|p2a: Linoone|Extreme Speed|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|62\/267
+|move|p1a: Terrakion|Close Combat|p2a: Linoone
+|-supereffective|p2a: Linoone
+|-damage|p2a: Linoone|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Linoone
+|
+|win|rabbi ribuls
+|raw|rabbi ribuls's rating: 2395 &rarr; <strong>2417<\/strong><br \/>(+22 for winning)
+|raw|RomeoArturia's rating: 2426 &rarr; <strong>2404<\/strong><br \/>(-22 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆rabbi ribuls and ‽RomeoArturia joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between rabbi ribuls and RomeoArturia!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Girafarig</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Girafarig!<br></div><div class="battle-history">RomeoArturia sent out Deoxys (<strong>Deoxys-Defense</strong>)!<br></div><div class="battle-history">[The opposing Deoxys's Pressure]<br><small>The opposing Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Victreebel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="battle-history"><small>Victreebel surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Z-Sleep Powder</strong>!<br></div><div class="battle-history"><small>Victreebel boosted its Speed using its Z-Power!</small><br></div><div class="battle-history"><small>The opposing Deoxys fell asleep!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Deoxys!<br></div><div class="battle-history">RomeoArturia sent out <strong>Bastiodon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Bastiodon!</small><br></div><div class="battle-history"><small>The opposing Bastiodon floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Victreebel's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="chat message-error">rabbi ribuls has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Bastiodon lost <abbr title="−79/235">33.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bastiodon's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bastiodon used <strong>Roar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Kangaskhan</strong> was dragged out!<br></div><div class="battle-history"><small>Kangaskhan was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Bastiodon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Girafarig</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Girafarig!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kangaskhan's Kangaskhanite is reacting to the Key Stone!</small><br>Kangaskhan has Mega Evolved into Mega Kangaskhan!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Girafarig lost <abbr title="−80/252">31.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Girafarig lost <abbr title="−20/252">7.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Girafarig restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Girafarig used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Kangaskhan lost <abbr title="−91/274">33.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Girafarig lost <abbr title="−124/252">49.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Girafarig's Defense fell!</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Girafarig lost <abbr title="−12/252">4.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Girafarig fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Minior</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Minior!</small><br></div><div class="battle-history">[The opposing Minior's Shields Down]<br>Shields Down deactivated!<br>(the opposing Minior shielded itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="chat message-error">rabbi ribuls has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(The opposing Minior lost <abbr title="−46/230">20%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Minior lost <abbr title="−13/230">5.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Minior's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Minior returned its stats to normal using its White Herb!</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>The opposing Minior's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>The opposing Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>The opposing Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>The opposing Minior's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Minior's Shields Down]<br>Shields Down activated!<br>(the opposing Minior stopped shielding itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minior used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(Kangaskhan lost <abbr title="−138/274">50.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dragonite</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minior used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dragonite lost <abbr title="−168/263">63.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragonite used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Minior lost <abbr title="−114/230">49.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minior fainted!<br></div><div class="chat message-error">RomeoArturia has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Bastiodon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Bastiodon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dragonite used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bastiodon lost <abbr title="−43/235">18.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dragonite became confused due to fatigue!</small><br></div><div class="battle-history"><small>(Dragonite ate its Lum Berry!)</small><br></div><div class="battle-history"><small>Dragonite snapped out of its confusion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bastiodon used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dragonite lost <abbr title="−38/263">14.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dragonite lost <abbr title="−36/263">13.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dragonite lost <abbr title="−21/263">8.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 3 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragonite fainted!<br></div><div class="chat message-error">rabbi ribuls has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Terrakion was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bastiodon lost <abbr title="−85/235">36.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bastiodon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Terrakion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out Deoxys (<strong>Deoxys-Defense</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Deoxys!</small><br></div><div class="battle-history">[The opposing Deoxys's Pressure]<br><small>The opposing Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">rabbi ribuls has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Victreebel</strong>!<br></div><div class="battle-history"><small>Victreebel was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Deoxys restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Victreebel's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Deoxys restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Deoxys lost <abbr title="−193/193">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Victreebel knocked off the opposing Deoxys's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Deoxys fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Blacephalon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Blacephalon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="battle-history"><small>The opposing Blacephalon surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blacephalon unleashes its full-force Z-Move!</small><br>The opposing Blacephalon used <strong>Inferno Overdrive</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Mantine lost <abbr title="−87/263">33.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blacephalon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Blacephalon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Blacephalon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Blacephalon lost <abbr title="−104/203">51.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blacephalon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Mantine lost <abbr title="−118/263">44.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mantine's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Mantine had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">rabbi ribuls has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blacephalon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Mantine lost <abbr title="−165/263">62.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Blacephalon lost <abbr title="−49/203">24.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blacephalon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Linoone</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Linoone!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Linoone used <strong>Belly Drum</strong>!<br></div><div class="battle-history"><small>(The opposing Linoone lost <abbr title="−126/252">50%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Linoone cut its own HP and maximized its Attack!</small><br></div><div class="battle-history"><small>(The opposing Linoone ate its Iapapa Berry!)</small><br></div><div class="battle-history"><small>The opposing Linoone restored HP using its Iapapa Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Linoone lost <abbr title="−88/252">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Linoone used <strong>Extreme Speed</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Mantine lost <abbr title="−105/263">39.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Terrakion was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Linoone used <strong>Extreme Speed</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Terrakion lost <abbr title="−133/267">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Linoone lost <abbr title="−133/252">52.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Linoone fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>rabbi ribuls</strong> won the battle!<br></div><div class="chat">rabbi ribuls's rating: 2395 → <strong>2417</strong><br>(+22 for winning)</div><div class="chat">RomeoArturia's rating: 2426 → <strong>2404</strong><br>(-22 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

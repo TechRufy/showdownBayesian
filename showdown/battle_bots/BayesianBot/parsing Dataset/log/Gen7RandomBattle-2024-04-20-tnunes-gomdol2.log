@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: TNunes vs. gomdol2</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2107659697" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/tnunes" class="subtle" target="_blank">TNunes</a> vs. <a href="http://pokemonshowdown.com/users/gomdol2" class="subtle" target="_blank">gomdol2</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆TNunes
+|j|☆gomdol2
+|t:|1713613909
+|gametype|singles
+|player|p1|TNunes|#scl3foxes2|
+|player|p2|gomdol2|jasmine|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713613909
+|start
+|switch|p1a: Stakataka|Stakataka, L83|237\/237
+|switch|p2a: Ampharos|Ampharos, L84, F|288\/288
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TNunes)
+|c|☆gomdol2|glhf!
+|c|☆TNunes|glhf
+|inactive|gomdol2 has 270 seconds left.
+|
+|t:|1713613947
+|switch|p1a: Machamp|Machamp, L84, F|288\/288
+|detailschange|p2a: Ampharos|Ampharos-Mega, L84, F
+|-mega|p2a: Ampharos|Ampharos|Ampharosite
+|-ability|p2a: Ampharos|Mold Breaker
+|move|p2a: Ampharos|Volt Switch|p1a: Machamp
+|-damage|p1a: Machamp|212\/288
+|j| sylvee1
+|inactive|gomdol2 has 270 seconds left.
+|
+|t:|1713613991
+|switch|p2a: Maractus|Maractus, L97, F|302\/302|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|c| sylvee1|wait is this open
+|j| ghostilex
+|
+|t:|1713614018
+|move|p2a: Maractus|Spikes|p1a: Machamp
+|-sidestart|p1: TNunes|Spikes
+|move|p1a: Machamp|Dynamic Punch|p2a: Maractus
+|-damage|p2a: Maractus|160\/302
+|-start|p2a: Maractus|confusion
+|
+|-heal|p2a: Maractus|178\/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|gomdol2 has 240 seconds left.
+|j|+Tarrembeau
+|
+|t:|1713614053
+|-activate|p2a: Maractus|confusion
+|move|p2a: Maractus|Giga Drain|p1a: Machamp
+|-damage|p1a: Machamp|139\/288
+|-heal|p2a: Maractus|215\/302|[from] drain|[of] p1a: Machamp
+|move|p1a: Machamp|Dynamic Punch|p2a: Maractus
+|-damage|p2a: Maractus|68\/302
+|
+|-heal|p2a: Maractus|86\/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713614068
+|-activate|p2a: Maractus|confusion
+|move|p2a: Maractus|Spikes|p1a: Machamp
+|-sidestart|p1: TNunes|Spikes
+|move|p1a: Machamp|Knock Off|p2a: Maractus
+|-damage|p2a: Maractus|0 fnt
+|-enditem|p2a: Maractus|Leftovers|[from] move: Knock Off|[of] p1a: Machamp
+|faint|p2a: Maractus
+|
+|upkeep
+|
+|t:|1713614085
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|turn|5
+|
+|t:|1713614099
+|switch|p1a: Stakataka|Stakataka, L83|237\/237
+|-damage|p1a: Stakataka|198\/237|[from] Spikes
+|move|p2a: Articuno|Hurricane|p1a: Stakataka
+|-resisted|p1a: Stakataka
+|-damage|p1a: Stakataka|170\/237
+|
+|upkeep
+|turn|6
+|c| sylvee1|goooo gom
+|inactive|TNunes has 270 seconds left.
+|
+|t:|1713614129
+|switch|p2a: Bouffalant|Bouffalant, L88, F|310\/310
+|move|p1a: Stakataka|Stone Edge|p2a: Bouffalant|[miss]
+|-miss|p1a: Stakataka|p2a: Bouffalant
+|
+|upkeep
+|turn|7
+|inactive|gomdol2 has 210 seconds left.
+|
+|t:|1713614157
+|move|p2a: Bouffalant|Superpower|p1a: Stakataka
+|-supereffective|p1a: Stakataka
+|-damage|p1a: Stakataka|0 fnt
+|-unboost|p2a: Bouffalant|atk|1
+|-unboost|p2a: Bouffalant|def|1
+|faint|p1a: Stakataka
+|
+|upkeep
+|inactive|TNunes has 240 seconds left.
+|j| latias999999999
+|
+|t:|1713614183
+|switch|p1a: Huntail|Huntail, L84, M|230\/230
+|-damage|p1a: Huntail|192\/230|[from] Spikes
+|turn|8
+|inactive|gomdol2 has 210 seconds left.
+|
+|t:|1713614197
+|switch|p2a: Liepard|Liepard, L91, M|264\/264
+|move|p1a: Huntail|Shell Smash|p1a: Huntail
+|-unboost|p1a: Huntail|def|1
+|-unboost|p1a: Huntail|spd|1
+|-boost|p1a: Huntail|atk|2
+|-boost|p1a: Huntail|spa|2
+|-boost|p1a: Huntail|spe|2
+|-enditem|p1a: Huntail|White Herb
+|-clearnegativeboost|p1a: Huntail|[silent]
+|
+|upkeep
+|turn|9
+|inactive|gomdol2 has 210 seconds left.
+|
+|t:|1713614211
+|switch|p1a: Machamp|Machamp, L84, F|139\/288
+|-damage|p1a: Machamp|91\/288|[from] Spikes
+|move|p2a: Liepard|Encore||[still]
+|-fail|p2a: Liepard
+|
+|upkeep
+|turn|10
+|inactive|gomdol2 has 210 seconds left.
+|j| paysa
+|
+|t:|1713614224
+|switch|p2a: Ampharos|Ampharos-Mega, L84, F|288\/288
+|-ability|p2a: Ampharos|Mold Breaker
+|move|p1a: Machamp|Dynamic Punch|p2a: Ampharos
+|-damage|p2a: Ampharos|168\/288
+|-start|p2a: Ampharos|confusion
+|
+|upkeep
+|turn|11
+|
+|t:|1713614228
+|move|p1a: Machamp|Dynamic Punch|p2a: Ampharos
+|-crit|p2a: Ampharos
+|-damage|p2a: Ampharos|8\/288
+|-activate|p2a: Ampharos|confusion
+|-damage|p2a: Ampharos|0 fnt|[from] confusion
+|faint|p2a: Ampharos
+|
+|upkeep
+|
+|t:|1713614240
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|turn|12
+|inactive|TNunes has 270 seconds left.
+|
+|t:|1713614256
+|switch|p1a: Audino|Audino, L92, F|339\/339
+|-damage|p1a: Audino|283\/339|[from] Spikes
+|move|p2a: Articuno|Hurricane|p1a: Audino
+|-damage|p1a: Audino|171\/339
+|
+|upkeep
+|turn|13
+|
+|t:|1713614262
+|switch|p2a: Bouffalant|Bouffalant, L88, F|310\/310
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|14
+|
+|t:|1713614275
+|detailschange|p1a: Audino|Audino-Mega, L92, F
+|-mega|p1a: Audino|Audino|Audinite
+|move|p2a: Bouffalant|Head Charge|p1a: Audino
+|-damage|p1a: Audino|8\/339
+|-damage|p2a: Bouffalant|269\/310|[from] Recoil
+|move|p1a: Audino|Toxic|p2a: Bouffalant|[miss]
+|-miss|p1a: Audino|p2a: Bouffalant
+|
+|-heal|p1a: Audino|177\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|15
+|inactive|TNunes has 270 seconds left.
+|
+|t:|1713614312
+|move|p2a: Bouffalant|Head Charge|p1a: Audino
+|-damage|p1a: Audino|20\/339
+|-damage|p2a: Bouffalant|230\/310|[from] Recoil
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|16
+|inactive|gomdol2 has 240 seconds left.
+|
+|t:|1713614320
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Bouffalant|Head Charge|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|189\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|17
+|
+|t:|1713614325
+|move|p2a: Bouffalant|Head Charge|p1a: Audino
+|-damage|p1a: Audino|23\/339
+|-damage|p2a: Bouffalant|188\/310|[from] Recoil
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|18
+|j| Slikkles
+|
+|t:|1713614334
+|switch|p2a: Castform|Castform, L99, F|299\/299
+|move|p1a: Audino|Protect||[still]
+|-fail|p1a: Audino
+|
+|-heal|p1a: Audino|192\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|19
+|
+|t:|1713614343
+|move|p2a: Castform|Thunder Wave|p1a: Audino
+|-status|p1a: Audino|par
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|20
+|inactive|gomdol2 has 270 seconds left.
+|
+|t:|1713614350
+|move|p2a: Castform|Return|p1a: Audino
+|-damage|p1a: Audino|107\/339 par
+|move|p1a: Audino|Toxic|p2a: Castform
+|-status|p2a: Castform|tox
+|
+|-heal|p1a: Audino|276\/339 par|[from] move: Wish|[wisher] Audino
+|-damage|p2a: Castform|281\/299 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|gomdol2 has 270 seconds left.
+|
+|t:|1713614360
+|move|p2a: Castform|Return|p1a: Audino
+|-damage|p1a: Audino|201\/339 par
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-heal|p2a: Castform|299\/299 tox|[from] item: Leftovers
+|-damage|p2a: Castform|263\/299 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1713614369
+|move|p2a: Castform|Return|p1a: Audino
+|-damage|p1a: Audino|120\/339 par
+|move|p1a: Audino|Dazzling Gleam|p2a: Castform
+|-damage|p2a: Castform|169\/299 tox
+|
+|-heal|p1a: Audino|289\/339 par|[from] move: Wish|[wisher] Audino
+|-heal|p2a: Castform|187\/299 tox|[from] item: Leftovers
+|-damage|p2a: Castform|133\/299 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1713614376
+|switch|p2a: Liepard|Liepard, L91, M|264\/264
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|24
+|inactive|TNunes has 270 seconds left.
+|inactive|TNunes has 240 seconds left.
+|j| saltvik
+|inactive|TNunes has 210 seconds left.
+|
+|t:|1713614494
+|move|p2a: Liepard|Knock Off|p1a: Audino
+|-resisted|p1a: Audino
+|-crit|p1a: Audino
+|-damage|p1a: Audino|252\/339 par
+|move|p1a: Audino|Dazzling Gleam|p2a: Liepard
+|-supereffective|p2a: Liepard
+|-damage|p2a: Liepard|12\/264
+|
+|-heal|p1a: Audino|339\/339 par|[from] move: Wish|[wisher] Audino
+|-heal|p2a: Liepard|28\/264|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1713614504
+|move|p2a: Liepard|Encore|p1a: Audino
+|-start|p1a: Audino|Encore
+|move|p1a: Audino|Dazzling Gleam|p2a: Liepard
+|-supereffective|p2a: Liepard
+|-damage|p2a: Liepard|0 fnt
+|faint|p2a: Liepard
+|
+|upkeep
+|
+|t:|1713614510
+|switch|p2a: Bouffalant|Bouffalant, L88, F|188\/310
+|turn|26
+|j| fefwewfw
+|
+|t:|1713614526
+|switch|p1a: Machamp|Machamp, L84, F|91\/288
+|-damage|p1a: Machamp|43\/288|[from] Spikes
+|move|p2a: Bouffalant|Head Charge|p1a: Machamp
+|-damage|p1a: Machamp|0 fnt
+|faint|p1a: Machamp
+|-damage|p2a: Bouffalant|177\/310|[from] Recoil
+|
+|upkeep
+|
+|t:|1713614533
+|switch|p1a: Exploud|Exploud, L86, M|319\/319
+|-damage|p1a: Exploud|266\/319|[from] Spikes
+|turn|27
+|
+|t:|1713614538
+|switch|p2a: Castform|Castform, L99, F|133\/299 tox
+|move|p1a: Exploud|Boomburst|p2a: Castform
+|-damage|p2a: Castform|0 fnt
+|faint|p2a: Castform
+|
+|upkeep
+|
+|t:|1713614542
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|turn|28
+|
+|t:|1713614547
+|move|p2a: Articuno|Hurricane|p1a: Exploud
+|-damage|p1a: Exploud|137\/319
+|move|p1a: Exploud|Boomburst|p2a: Articuno
+|-damage|p2a: Articuno|127\/298
+|
+|-heal|p2a: Articuno|145\/298|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|TNunes has 210 seconds left.
+|inactive|gomdol2 has 270 seconds left.
+|
+|t:|1713614583
+|move|p2a: Articuno|Hurricane|p1a: Exploud
+|-damage|p1a: Exploud|8\/319
+|-start|p1a: Exploud|confusion
+|-activate|p1a: Exploud|confusion
+|move|p1a: Exploud|Boomburst|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|faint|p2a: Articuno
+|
+|upkeep
+|
+|t:|1713614586
+|switch|p2a: Bouffalant|Bouffalant, L88, F|177\/310
+|turn|30
+|
+|t:|1713614591
+|-activate|p1a: Exploud|confusion
+|move|p1a: Exploud|Boomburst|p2a: Bouffalant
+|-damage|p2a: Bouffalant|0 fnt
+|faint|p2a: Bouffalant
+|
+|win|TNunes
+|c|☆gomdol2|ggwp1
+|l| paysa
+|c|☆TNunes|gg
+|l| sylvee1
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆TNunes and ☆gomdol2 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between TNunes and gomdol2!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stakataka</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by TNunes)</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>glhf!</em></div><div class="chat chatmessage-tnunes"><strong style="color:#2975a8"><small>☆</small><span class="username" data-name="TNunes">TNunes</span>:</strong> <em>glhf</em></div><div class="chat message-error">gomdol2 has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka, come back!<br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos's Ampharosite is reacting to the Key Stone!</small><br>The opposing Ampharos has Mega Evolved into Mega Ampharos!<br></div><div class="battle-history">[The opposing Ampharos's Mold Breaker]<br><small>The opposing Ampharos breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Machamp lost <abbr title="−76/288">26.4%</abbr> of its health!)</small><br></div><div class="chat"><small> sylvee1 joined</small></div><div class="chat message-error">gomdol2 has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos went back to gomdol2!<br></div><div class="battle-history">gomdol2 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-sylvee1"><strong style="color:#2f69e5"><small> </small><span class="username" data-name="sylvee1">sylvee1</span>:</strong> <em>wait is this open</em></div><div class="chat"><small> ghostilex joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−142/302">47.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Maractus became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">gomdol2 has 240 seconds left.</div><div class="chat"><small>+Tarrembeau joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus is confused!</small><br></div><div class="battle-history">The opposing Maractus used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Machamp lost <abbr title="−73/288">25.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Machamp had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−147/302">48.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus is confused!</small><br></div><div class="battle-history">The opposing Maractus used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−86/302">28.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Machamp knocked off the opposing Maractus's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Machamp, come back!<br></div><div class="battle-history">Go! <strong>Stakataka</strong>!<br></div><div class="battle-history"><small>Stakataka was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Stakataka lost <abbr title="−28/237">11.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-sylvee1"><strong style="color:#2f69e5"><small> </small><span class="username" data-name="sylvee1">sylvee1</span>:</strong> <em>goooo gom</em></div><div class="chat message-error">TNunes has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Articuno!<br></div><div class="battle-history">gomdol2 sent out <strong>Bouffalant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>The opposing Bouffalant avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">gomdol2 has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Stakataka lost <abbr title="−170/237">71.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bouffalant's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Bouffalant's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka fainted!<br></div><div class="chat message-error">TNunes has 240 seconds left.</div><div class="chat"><small> latias999999999 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Huntail</strong>!<br></div><div class="battle-history"><small>Huntail was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">gomdol2 has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Bouffalant!<br></div><div class="battle-history">gomdol2 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Huntail's Defense fell!</small><br></div><div class="battle-history"><small>Huntail's Sp. Def fell!</small><br></div><div class="battle-history"><small>Huntail's Attack rose sharply!</small><br></div><div class="battle-history"><small>Huntail's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Huntail's Speed rose sharply!</small><br></div><div class="battle-history"><small>Huntail returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">gomdol2 has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail, come back!<br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="battle-history"><small>Machamp was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">gomdol2 has 210 seconds left.</div><div class="chat"><small> paysa joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Liepard!<br></div><div class="battle-history">gomdol2 sent out Ampharos (<strong>Ampharos-Mega</strong>)!<br></div><div class="battle-history">[The opposing Ampharos's Mold Breaker]<br><small>The opposing Ampharos breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−120/288">41.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ampharos became confused!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−160/288">55.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">TNunes has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="battle-history"><small>Audino was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−112/339">33.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Articuno!<br></div><div class="battle-history">gomdol2 sent out <strong>Bouffalant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's Audinite is reacting to the Key Stone!</small><br>Audino has Mega Evolved into Mega Audino!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Head Charge</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−163/339">48.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bouffalant was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Bouffalant avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">TNunes has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Head Charge</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−157/339">46.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bouffalant was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">gomdol2 has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Head Charge</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Head Charge</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−166/339">49.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bouffalant was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat"><small> Slikkles joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Bouffalant!<br></div><div class="battle-history">gomdol2 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Audino is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">gomdol2 has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−85/339">25.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Castform was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">gomdol2 has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−75/339">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−81/339">23.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(The opposing Castform lost <abbr title="−94/299">31.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Castform!<br></div><div class="battle-history">gomdol2 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">TNunes has 270 seconds left.</div><div class="chat message-error">TNunes has 240 seconds left.</div><div class="chat"><small> saltvik joined</small></div><div class="chat message-error">TNunes has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Audino lost <abbr title="−37/339">10.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Liepard lost <abbr title="−252/264">95.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Audino must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Liepard lost <abbr title="−28/264">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Bouffalant</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat"><small> fefwewfw joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="battle-history"><small>Machamp was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Head Charge</strong>!<br></div><div class="battle-history"><small>(Machamp lost <abbr title="−43/288">14.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp fainted!<br></div><div class="battle-history"><small>The opposing Bouffalant was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Exploud was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Bouffalant!<br></div><div class="battle-history">gomdol2 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Castform lost <abbr title="−133/299">44.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−129/319">40.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−171/298">57.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">TNunes has 210 seconds left.</div><div class="chat message-error">gomdol2 has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−129/319">40.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exploud became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Exploud is confused!</small><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−145/298">48.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Bouffalant</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Exploud is confused!</small><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Bouffalant lost <abbr title="−177/310">57.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>TNunes</strong> won the battle!<br></div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>ggwp1</em></div><div class="chat"><small> paysa left</small></div><div class="chat chatmessage-tnunes"><strong style="color:#2975a8"><small>☆</small><span class="username" data-name="TNunes">TNunes</span>:</strong> <em>gg</em></div><div class="chat"><small> sylvee1 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

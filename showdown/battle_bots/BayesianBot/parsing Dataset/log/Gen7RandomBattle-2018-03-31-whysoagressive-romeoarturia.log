@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: WhySoAgressive? vs. RomeoArturia</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-725927610" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/whysoagressive" class="subtle" target="_blank">WhySoAgressive?</a> vs. <a href="http://pokemonshowdown.com/users/romeoarturia" class="subtle" target="_blank">RomeoArturia</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆WhySoAgressive?
+|j|‽RomeoArturia
+|player|p1|WhySoAgressive?|101
+|player|p2|RomeoArturia|152
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|26933,8396,14789,45174
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|293\/293
+|switch|p2a: Sylveon|Sylveon, L77, F|273\/273
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)
+|c|☆WhySoAgressive?|-_-
+|j| entropicvlad
+|
+|switch|p1a: Registeel|Registeel, L79|256\/256
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|upkeep
+|turn|2
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|295\/295
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|upkeep
+|turn|3
+|
+|move|p2a: Jellicent|Scald|p1a: Registeel
+|-crit|p1a: Registeel
+|-damage|p1a: Registeel|180\/256
+|-status|p1a: Registeel|brn
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|-heal|p1a: Registeel|196\/256 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|180\/256 brn|[from] brn
+|upkeep
+|turn|4
+|
+|switch|p2a: Volbeat|Volbeat, L83, M|243\/243
+|move|p1a: Registeel|Rest|p1a: Registeel
+|-status|p1a: Registeel|slp
+|-heal|p1a: Registeel|256\/256 slp|[silent]
+|-status|p1a: Registeel|slp|[from] move: Rest
+|
+|upkeep
+|turn|5
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|-item|p1a: Magcargo|Air Balloon
+|move|p2a: Volbeat|Substitute|p2a: Volbeat
+|-start|p2a: Volbeat|Substitute
+|-damage|p2a: Volbeat|183\/243
+|
+|-heal|p2a: Volbeat|198\/243|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|move|p2a: Volbeat|Baton Pass|p2a: Volbeat
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|295\/295|[from]move: Baton Pass
+|move|p1a: Magcargo|Earth Power|p2a: Jellicent
+|-activate|p2a: Jellicent|move: Substitute|[damage]
+|
+|upkeep
+|turn|7
+|
+|switch|p1a: Registeel|Registeel, L79|256\/256 slp
+|move|p2a: Jellicent|Scald|p1a: Registeel
+|-damage|p1a: Registeel|210\/256 slp
+|
+|-heal|p1a: Registeel|226\/256 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|move|p2a: Jellicent|Taunt|p1a: Registeel
+|-start|p1a: Registeel|move: Taunt
+|cant|p1a: Registeel|slp
+|cant|p1a: Registeel|move: Taunt|Sleep Talk
+|
+|-heal|p1a: Registeel|242\/256 slp|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|move|p2a: Jellicent|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|187\/256 slp
+|cant|p1a: Registeel|slp
+|
+|-heal|p1a: Registeel|203\/256 slp|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|move|p2a: Jellicent|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|151\/256 slp
+|-curestatus|p1a: Registeel|slp|[msg]
+|move|p1a: Registeel|Iron Head|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-end|p2a: Jellicent|Substitute
+|
+|-heal|p1a: Registeel|167\/256|[from] item: Leftovers
+|-end|p1a: Registeel|move: Taunt
+|upkeep
+|turn|11
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|293\/293
+|move|p2a: Jellicent|Shadow Ball|p1a: Exeggutor
+|-damage|p1a: Exeggutor|212\/293
+|-unboost|p1a: Exeggutor|spd|1
+|
+|upkeep
+|turn|12
+|
+|switch|p2a: Volbeat|Volbeat, L83, M|198\/243
+|switch|p1a: Registeel|Registeel, L79|167\/256
+|
+|-heal|p2a: Volbeat|213\/243|[from] item: Leftovers
+|-heal|p1a: Registeel|183\/256|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: Volbeat|Substitute|p2a: Volbeat
+|-start|p2a: Volbeat|Substitute
+|-damage|p2a: Volbeat|153\/243
+|move|p1a: Registeel|Iron Head|p2a: Volbeat
+|-end|p2a: Volbeat|Substitute
+|
+|-heal|p2a: Volbeat|168\/243|[from] item: Leftovers
+|-heal|p1a: Registeel|199\/256|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|move|p2a: Volbeat|Encore|p1a: Registeel
+|-start|p1a: Registeel|Encore
+|move|p1a: Registeel|Iron Head|p2a: Volbeat
+|-damage|p2a: Volbeat|90\/243
+|
+|-heal|p2a: Volbeat|105\/243|[from] item: Leftovers
+|-heal|p1a: Registeel|215\/256|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|295\/295
+|move|p1a: Registeel|Iron Head|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-damage|p2a: Jellicent|255\/295
+|
+|-heal|p2a: Jellicent|273\/295|[from] item: Leftovers
+|-heal|p1a: Registeel|231\/256|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|212\/293
+|move|p2a: Jellicent|Shadow Ball|p1a: Exeggutor
+|-damage|p1a: Exeggutor|131\/293
+|-unboost|p1a: Exeggutor|spd|1
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|204\/293|[from] item: Sitrus Berry
+|
+|-heal|p2a: Jellicent|291\/295|[from] item: Leftovers
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|17
+|c|☆WhySoAgressive?|-_-
+|
+|move|p2a: Jellicent|Shadow Ball|p1a: Exeggutor
+|-damage|p1a: Exeggutor|87\/293
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|160\/293|[from] item: Sitrus Berry
+|move|p1a: Exeggutor|Leaf Storm|p2a: Jellicent
+|-supereffective|p2a: Jellicent
+|-damage|p2a: Jellicent|13\/295
+|-unboost|p1a: Exeggutor|spa|2
+|
+|-heal|p2a: Jellicent|31\/295|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|move|p2a: Jellicent|Recover|p2a: Jellicent
+|-heal|p2a: Jellicent|179\/295
+|move|p1a: Exeggutor|Dragon Hammer|p2a: Jellicent
+|-damage|p2a: Jellicent|61\/295
+|
+|-heal|p2a: Jellicent|79\/295|[from] item: Leftovers
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|19
+|
+|move|p2a: Jellicent|Recover|p2a: Jellicent
+|-heal|p2a: Jellicent|227\/295
+|move|p1a: Exeggutor|Dragon Hammer|p2a: Jellicent
+|-damage|p2a: Jellicent|112\/295
+|
+|-heal|p2a: Jellicent|130\/295|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|switch|p1a: Greninja|Greninja, L75, M|232\/232
+|move|p2a: Jellicent|Recover|p2a: Jellicent
+|-heal|p2a: Jellicent|278\/295
+|
+|-heal|p2a: Jellicent|295\/295|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|273\/273
+|move|p1a: Greninja|Dark Pulse|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|244\/273
+|
+|-heal|p2a: Sylveon|261\/273|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|295\/295
+|move|p1a: Greninja|U-turn|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-damage|p2a: Jellicent|271\/295
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|160\/293|[from]move: U-turn
+|
+|-heal|p2a: Jellicent|289\/295|[from] item: Leftovers
+|upkeep
+|turn|23
+|j| Hal130
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266\/266
+|move|p1a: Exeggutor|Leaf Storm|p2a: Shaymin
+|-resisted|p2a: Shaymin
+|-damage|p2a: Shaymin|212\/266
+|-unboost|p1a: Exeggutor|spa|2
+|
+|-heal|p2a: Shaymin|228\/266|[from] item: Leftovers
+|upkeep
+|turn|24
+|c| Hal130|why is romeo banned
+|inactive|WhySoAgressive? has 135 seconds left.
+|c|☆WhySoAgressive?|no idea
+|
+|switch|p1a: Registeel|Registeel, L79|231\/256
+|move|p2a: Shaymin|Seed Flare|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|189\/256
+|
+|-heal|p2a: Shaymin|244\/266|[from] item: Leftovers
+|-heal|p1a: Registeel|205\/256|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|163\/256
+|move|p1a: Registeel|Iron Head|p2a: Shaymin
+|-damage|p2a: Shaymin|171\/266
+|
+|-heal|p2a: Shaymin|187\/266|[from] item: Leftovers
+|-heal|p1a: Registeel|179\/256|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|289\/295
+|move|p1a: Registeel|Iron Head|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-damage|p2a: Jellicent|250\/295
+|
+|-heal|p2a: Jellicent|268\/295|[from] item: Leftovers
+|-heal|p1a: Registeel|195\/256|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|switch|p1a: Greninja|Greninja, L75, M|232\/232
+|move|p2a: Jellicent|Scald|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|186\/232
+|
+|-heal|p2a: Jellicent|286\/295|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|261\/273
+|move|p1a: Greninja|U-turn|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|236\/273
+|
+|switch|p1a: Escavalier|Escavalier, L79, M|240\/240|[from]move: U-turn
+|
+|-heal|p2a: Sylveon|253\/273|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|switch|p2a: Sunflora|Sunflora, L83, F|260\/260
+|move|p1a: Escavalier|Knock Off|p2a: Sunflora
+|-damage|p2a: Sunflora|97\/260
+|-enditem|p2a: Sunflora|Life Orb|[from] move: Knock Off|[of] p1a: Escavalier
+|
+|upkeep
+|turn|30
+|inactive|WhySoAgressive? has 135 seconds left.
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|160\/293
+|move|p2a: Sunflora|Hidden Power|p1a: Exeggutor
+|-damage|p1a: Exeggutor|110\/293
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|183\/293|[from] item: Sitrus Berry
+|
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|31
+|inactive|RomeoArturia has 135 seconds left.
+|inactive|RomeoArturia has 120 seconds left.
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|286\/295
+|move|p1a: Exeggutor|Flamethrower|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-damage|p2a: Jellicent|250\/295
+|
+|-heal|p2a: Jellicent|268\/295|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p2a: Shaymin|Shaymin-Sky, L73|187\/266
+|move|p1a: Exeggutor|Leaf Storm|p2a: Shaymin
+|-resisted|p2a: Shaymin
+|-damage|p2a: Shaymin|132\/266
+|-unboost|p1a: Exeggutor|spa|2
+|
+|-heal|p2a: Shaymin|148\/266|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p1a: Registeel|Registeel, L79|195\/256
+|move|p2a: Shaymin|Air Slash|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|169\/256
+|
+|-heal|p2a: Shaymin|164\/266|[from] item: Leftovers
+|-heal|p1a: Registeel|185\/256|[from] item: Leftovers
+|upkeep
+|turn|34
+|l|☆WhySoAgressive?
+|inactive|WhySoAgressive? disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆WhySoAgressive?
+|inactive|WhySoAgressive? reconnected and has 130 seconds left.
+|player|p1|WhySoAgressive?|101
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|146\/256
+|move|p1a: Registeel|Iron Head|p2a: Shaymin
+|-damage|p2a: Shaymin|89\/266
+|
+|-heal|p2a: Shaymin|105\/266|[from] item: Leftovers
+|-heal|p1a: Registeel|162\/256|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|122\/256
+|move|p1a: Registeel|Rest|p1a: Registeel
+|-status|p1a: Registeel|slp
+|-heal|p1a: Registeel|256\/256 slp|[silent]
+|-status|p1a: Registeel|slp|[from] move: Rest
+|
+|-heal|p2a: Shaymin|121\/266|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|switch|p2a: Salamence|Salamence, L73, F|259\/259
+|cant|p1a: Registeel|slp
+|move|p1a: Registeel|Sleep Talk|p1a: Registeel
+|move|p1a: Registeel|Rest|p1a: Registeel|[from]Sleep Talk
+|-fail|p1a: Registeel
+|
+|upkeep
+|turn|37
+|inactive|WhySoAgressive? has 135 seconds left.
+|
+|switch|p1a: Froslass|Froslass, L81, F|246\/246
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|38
+|
+|-mega|p2a: Salamence|Salamence|Salamencite
+|detailschange|p2a: Salamence|Salamence-Mega, L73, F
+|move|p2a: Salamence|Double-Edge|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-damage|p2a: Salamence|178\/259|[from] Recoil
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|-item|p1a: Magcargo|Air Balloon
+|turn|39
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|268\/295
+|move|p1a: Magcargo|Toxic|p2a: Jellicent
+|-status|p2a: Jellicent|tox
+|
+|-heal|p2a: Jellicent|286\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|268\/295 tox|[from] psn
+|upkeep
+|turn|40
+|
+|switch|p1a: Registeel|Registeel, L79|256\/256 slp
+|move|p2a: Jellicent|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|208\/256 slp
+|
+|-heal|p2a: Jellicent|286\/295 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|224\/256 slp|[from] item: Leftovers
+|-damage|p2a: Jellicent|250\/295 tox|[from] psn
+|upkeep
+|turn|41
+|
+|switch|p2a: Salamence|Salamence-Mega, L73, F|178\/259
+|cant|p1a: Registeel|slp
+|move|p1a: Registeel|Sleep Talk|p1a: Registeel
+|move|p1a: Registeel|Rest|p1a: Registeel|[from]Sleep Talk
+|-fail|p1a: Registeel
+|
+|-heal|p1a: Registeel|240\/256 slp|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|-item|p1a: Magcargo|Air Balloon
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|43
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|250\/295 tox
+|move|p1a: Magcargo|Toxic|p2a: Jellicent|[miss]
+|-miss|p1a: Magcargo|p2a: Jellicent
+|
+|-heal|p2a: Jellicent|268\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|250\/295 tox|[from] psn
+|upkeep
+|turn|44
+|
+|switch|p1a: Registeel|Registeel, L79|240\/256 slp
+|move|p2a: Jellicent|Scald|p1a: Registeel
+|-damage|p1a: Registeel|192\/256 slp
+|
+|-heal|p2a: Jellicent|268\/295 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|208\/256 slp|[from] item: Leftovers
+|-damage|p2a: Jellicent|232\/295 tox|[from] psn
+|upkeep
+|turn|45
+|
+|switch|p2a: Salamence|Salamence-Mega, L73, F|178\/259
+|-curestatus|p1a: Registeel|slp|[msg]
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|129\/259
+|
+|-heal|p1a: Registeel|224\/256|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|-item|p1a: Magcargo|Air Balloon
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|259\/259
+|
+|upkeep
+|turn|47
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|232\/295 tox
+|move|p1a: Magcargo|Toxic|p2a: Jellicent
+|-fail|p2a: Jellicent|tox
+|
+|-heal|p2a: Jellicent|250\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|232\/295 tox|[from] psn
+|upkeep
+|turn|48
+|
+|switch|p1a: Registeel|Registeel, L79|224\/256
+|move|p2a: Jellicent|Scald|p1a: Registeel
+|-damage|p1a: Registeel|172\/256
+|
+|-heal|p2a: Jellicent|250\/295 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|188\/256|[from] item: Leftovers
+|-damage|p2a: Jellicent|214\/295 tox|[from] psn
+|upkeep
+|turn|49
+|
+|switch|p2a: Salamence|Salamence-Mega, L73, F|259\/259
+|switch|p1a: Greninja|Greninja, L75, M|186\/232
+|
+|upkeep
+|turn|50
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p2a: Volbeat|Volbeat, L83, M|105\/243
+|move|p1a: Greninja|Ice Beam|p2a: Volbeat
+|-damage|p2a: Volbeat|51\/243
+|
+|-heal|p2a: Volbeat|66\/243|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|move|p1a: Greninja|Dark Pulse|p2a: Volbeat
+|-damage|p2a: Volbeat|0 fnt
+|faint|p2a: Volbeat
+|-activate|p1a: Greninja|ability: Battle Bond
+|detailschange|p1a: Greninja|Greninja-Ash, L75, M
+|
+|upkeep
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|253\/273
+|turn|52
+|
+|move|p1a: Greninja|U-turn|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|217\/273
+|
+|switch|p1a: Registeel|Registeel, L79|188\/256|[from]move: U-turn
+|move|p2a: Sylveon|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|151\/256
+|
+|-heal|p2a: Sylveon|234\/273|[from] item: Leftovers
+|-heal|p1a: Registeel|167\/256|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|switch|p2a: Salamence|Salamence-Mega, L73, F|259\/259
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|-heal|p1a: Registeel|183\/256|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|-heal|p1a: Registeel|199\/256|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|157\/259
+|
+|-heal|p1a: Registeel|215\/256|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|move|p2a: Salamence|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|117\/256
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|52\/259
+|
+|-heal|p1a: Registeel|133\/256|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|182\/259
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|79\/259
+|
+|-heal|p1a: Registeel|149\/256|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|209\/259
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|110\/259
+|
+|-heal|p1a: Registeel|165\/256|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|move|p2a: Salamence|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|69\/256
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|-heal|p1a: Registeel|85\/256|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|240\/259
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|114\/259
+|
+|-heal|p1a: Registeel|101\/256|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|244\/259
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|123\/259
+|
+|-heal|p1a: Registeel|117\/256|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|253\/259
+|move|p1a: Registeel|Curse|p1a: Registeel
+|-unboost|p1a: Registeel|spe|1
+|-boost|p1a: Registeel|atk|1
+|-boost|p1a: Registeel|def|1
+|
+|-heal|p1a: Registeel|133\/256|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|move|p2a: Salamence|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|57\/256
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|94\/259
+|
+|-heal|p1a: Registeel|73\/256|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|move|p2a: Salamence|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|5\/256
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|-heal|p1a: Registeel|21\/256|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|234\/273
+|turn|65
+|
+|move|p2a: Sylveon|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|0 fnt
+|faint|p1a: Registeel
+|
+|-heal|p2a: Sylveon|251\/273|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Escavalier|Escavalier, L79, M|240\/240
+|turn|66
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|214\/295 tox
+|move|p1a: Escavalier|Iron Head|p2a: Jellicent
+|-resisted|p2a: Jellicent
+|-damage|p2a: Jellicent|122\/295 tox
+|
+|-heal|p2a: Jellicent|140\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|122\/295 tox|[from] psn
+|upkeep
+|turn|67
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|183\/293
+|move|p2a: Jellicent|Recover|p2a: Jellicent
+|-heal|p2a: Jellicent|270\/295 tox
+|
+|-heal|p2a: Jellicent|288\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|252\/295 tox|[from] psn
+|upkeep
+|turn|68
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|251\/273
+|move|p1a: Exeggutor|Dragon Hammer|p2a: Sylveon
+|-immune|p2a: Sylveon|[msg]
+|
+|-heal|p2a: Sylveon|268\/273|[from] item: Leftovers
+|upkeep
+|turn|69
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|-item|p1a: Magcargo|Air Balloon
+|move|p2a: Sylveon|Hyper Voice|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|174\/235
+|-enditem|p1a: Magcargo|Air Balloon
+|
+|-heal|p2a: Sylveon|273\/273|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|252\/295 tox
+|switch|p1a: Greninja|Greninja-Ash, L75, M|186\/232
+|
+|-heal|p2a: Jellicent|270\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|252\/295 tox|[from] psn
+|upkeep
+|turn|71
+|inactive|WhySoAgressive? has 135 seconds left.
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|273\/273
+|move|p1a: Greninja|Ice Beam|p2a: Sylveon
+|-damage|p2a: Sylveon|215\/273
+|
+|-heal|p2a: Sylveon|232\/273|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|move|p1a: Greninja|U-turn|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|195\/273
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|174\/235|[from]move: U-turn
+|move|p2a: Sylveon|Hyper Voice|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|119\/235
+|
+|-heal|p2a: Sylveon|212\/273|[from] item: Leftovers
+|upkeep
+|turn|73
+|
+|switch|p2a: Jellicent|Jellicent, L81, M|252\/295 tox
+|move|p1a: Magcargo|Recover|p1a: Magcargo
+|-heal|p1a: Magcargo|235\/235
+|
+|-heal|p2a: Jellicent|270\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|252\/295 tox|[from] psn
+|upkeep
+|turn|74
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|183\/293
+|move|p2a: Jellicent|Scald|p1a: Exeggutor
+|-resisted|p1a: Exeggutor
+|-damage|p1a: Exeggutor|164\/293
+|-status|p1a: Exeggutor|brn
+|
+|-heal|p2a: Jellicent|270\/295 tox|[from] item: Leftovers
+|-damage|p2a: Jellicent|234\/295 tox|[from] psn
+|-damage|p1a: Exeggutor|146\/293 brn|[from] brn
+|upkeep
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|219\/293 brn|[from] item: Sitrus Berry
+|turn|75
+|
+|switch|p2a: Shaymin|Shaymin-Sky, L73|121\/266
+|move|p1a: Exeggutor|Flamethrower|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|-damage|p1a: Exeggutor|201\/293 brn|[from] brn
+|upkeep
+|
+|switch|p2a: Sylveon|Sylveon, L77, F|212\/273
+|turn|76
+|
+|switch|p1a: Magcargo|Magcargo, L83, F|235\/235
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|229\/273|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Magcargo|Toxic|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-heal|p2a: Sylveon|246\/273|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Magcargo|Toxic|p2a: Sylveon
+|-status|p2a: Sylveon|tox
+|
+|-heal|p2a: Sylveon|263\/273 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|246\/273 tox|[from] psn
+|upkeep
+|turn|79
+|
+|move|p2a: Sylveon|Shadow Ball|p1a: Magcargo
+|-damage|p1a: Magcargo|131\/235
+|-unboost|p1a: Magcargo|spd|1
+|move|p1a: Magcargo|Lava Plume|p2a: Sylveon
+|-damage|p2a: Sylveon|215\/273 tox
+|
+|-heal|p2a: Sylveon|232\/273 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|198\/273 tox|[from] psn
+|upkeep
+|turn|80
+|
+|switch|p1a: Exeggutor|Exeggutor-Alola, L83, M|201\/293 brn
+|move|p2a: Sylveon|Shadow Ball|p1a: Exeggutor
+|-damage|p1a: Exeggutor|91\/293 brn
+|
+|-heal|p2a: Sylveon|215\/273 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|164\/273 tox|[from] psn
+|-damage|p1a: Exeggutor|73\/293 brn|[from] brn
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|146\/293 brn|[from] item: Sitrus Berry
+|turn|81
+|-message|RomeoArturia forfeited.
+|
+|win|WhySoAgressive?
+|l|‽RomeoArturia
+|c|☆WhySoAgressive?|1st place
+|raw|WhySoAgressive?'s rating: 2418 &rarr; <strong>2438<\/strong><br \/>(+20 for winning)
+|raw|RomeoArturia's rating: 2422 &rarr; <strong>2402<\/strong><br \/>(-20 for losing)
+|c|☆WhySoAgressive?|after losing it ti pure hax
+|c|☆WhySoAgressive?|to
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆WhySoAgressive? and ‽RomeoArturia joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between WhySoAgressive? and RomeoArturia!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)</div><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>-_-</em></div><div class="chat"><small> entropicvlad joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−76/256">29.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Registeel was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Registeel fell asleep!</small><br></div><div class="battle-history"><small>Registeel slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Magcargo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Volbeat put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−60/243">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Baton Pass</strong>!<br></div><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>The substitute took damage for the opposing Jellicent!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−46/256">18.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Registeel fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel can't use Sleep Talk after the taunt!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−55/256">21.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−52/256">20.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Registeel woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The opposing Jellicent's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel shook off the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−81/293">27.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Volbeat restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Volbeat put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−60/243">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>The opposing Volbeat's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Volbeat restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Registeel must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−78/243">32.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Volbeat restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Volbeat!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−40/295">13.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−81/293">27.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor's Sp. Def fell!</small><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>-_-</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−117/293">39.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−278/295">94.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Dragon Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−118/295">40%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Dragon Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−115/295">39.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Greninja</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−29/273">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−24/295">8.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja went back to WhySoAgressive?!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat"><small> Hal130 joined</small></div><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Shaymin (<strong>Shaymin-Sky</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Shaymin lost <abbr title="−54/266">20.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-hal130"><strong style="color:#cf1e79"><small> </small><span class="username" data-name="Hal130">Hal130</span>:</strong> <em>why is romeo banned</em></div><div class="chat message-error">WhySoAgressive? has 135 seconds left.</div><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>no idea</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−42/256">16.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−42/256">16.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Shaymin lost <abbr title="−73/266">27.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Shaymin!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−39/295">13.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Greninja</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Greninja lost <abbr title="−46/232">19.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−25/273">9.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja went back to WhySoAgressive?!<br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Sunflora lost <abbr title="−163/260">62.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Escavalier knocked off the opposing Sunflora's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="chat message-error">WhySoAgressive? has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sunflora used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−50/293">17.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="chat message-error">RomeoArturia has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sunflora!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Flamethrower</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−36/295">12.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Shaymin (<strong>Shaymin-Sky</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Shaymin lost <abbr title="−55/266">20.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−26/256">10.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat"><small>☆WhySoAgressive? left</small></div><div class="chat message-error">WhySoAgressive? disconnected and has a minute to reconnect!</div><div class="chat"><small>☆WhySoAgressive? joined</small></div><div class="chat message-error">WhySoAgressive? reconnected and has 130 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−39/256">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Shaymin lost <abbr title="−75/266">28.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−40/256">15.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Registeel fell asleep!</small><br></div><div class="battle-history"><small>Registeel slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Shaymin!<br></div><div class="battle-history">RomeoArturia sent out <strong>Salamence</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">WhySoAgressive? has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Froslass</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Salamence's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Salamence's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Salamence's Salamencite is reacting to the Key Stone!</small><br>The opposing Salamence has Mega Evolved into Mega Salamence!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>(Froslass lost <abbr title="−246/246">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Salamence was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Froslass fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Magcargo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Salamence!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−48/256">18.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Salamence (<strong>Salamence-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Magcargo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Salamence's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Salamence's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Salamence!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−48/256">18.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Salamence (<strong>Salamence-Mega</strong>)!<br></div><div class="battle-history"><small>Registeel woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−49/259">18.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Magcargo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Salamence!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−52/256">20.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Salamence (<strong>Salamence-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel, come back!<br></div><div class="battle-history">Go! <strong>Greninja</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Salamence!<br></div><div class="battle-history">RomeoArturia sent out <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−54/243">22.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−66/243">27.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat fainted!<br></div><div class="battle-history">[Greninja's Battle Bond]<br><small>Greninja became fully charged due to its bond with its Trainer!</small><br></div><div class="battle-history">Greninja became Ash-Greninja!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−36/273">13.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja went back to WhySoAgressive?!<br></div><div class="battle-history">Go! <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−37/256">14.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out Salamence (<strong>Salamence-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Salamence's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Salamence's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Salamence's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Salamence's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−102/259">39.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−98/256">38.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−105/259">40.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 57</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−103/259">39.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 58</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−99/259">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 59</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−96/256">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 60</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−126/259">48.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 61</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−121/259">46.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 62</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Salamence had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Registeel's Speed fell!</small><br></div><div class="battle-history"><small>Registeel's Attack rose!</small><br></div><div class="battle-history"><small>Registeel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 63</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−76/256">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−159/259">61.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 64</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Registeel lost <abbr title="−68/256">26.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Salamence lost <abbr title="−94/259">36.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salamence fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Registeel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 65</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Registeel lost <abbr title="−21/256">8.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Registeel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 66</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−92/295">31.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 67</h2><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Jellicent had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 68</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Dragon Hammer</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Sylveon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 69</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Magcargo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magcargo lost <abbr title="−61/235">26.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Magcargo's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 70</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! Greninja (<strong>Greninja-Ash</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 71</h2><div class="chat message-error">WhySoAgressive? has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−58/273">21.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 72</h2><div class="spacer battle-history"><br></div><div class="battle-history">Greninja used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−37/273">13.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Greninja went back to WhySoAgressive?!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magcargo lost <abbr title="−55/235">23.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 73</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Sylveon!<br></div><div class="battle-history">RomeoArturia sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Magcargo had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 74</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−19/293">6.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exeggutor was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jellicent was hurt by poison!</small><br></div><div class="battle-history"><small>Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 75</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Jellicent!<br></div><div class="battle-history">RomeoArturia sent out Shaymin (<strong>Shaymin-Sky</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Flamethrower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shaymin lost <abbr title="−121/266">45.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shaymin fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Exeggutor was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 76</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Magcargo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 77</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 78</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 79</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Magcargo lost <abbr title="−104/235">44.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Magcargo's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−31/273">11.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 80</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magcargo, come back!<br></div><div class="battle-history">Go! Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−110/293">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon was hurt by poison!</small><br></div><div class="battle-history"><small>Exeggutor was hurt by its burn!</small><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 81</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>RomeoArturia forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>WhySoAgressive?</strong> won the battle!<br></div><div class="chat"><small>‽RomeoArturia left</small></div><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>1st place</em></div><div class="chat">WhySoAgressive?'s rating: 2418 → <strong>2438</strong><br>(+20 for winning)</div><div class="chat">RomeoArturia's rating: 2422 → <strong>2402</strong><br>(-20 for losing)</div><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>after losing it ti pure hax</em></div><div class="chat chatmessage-whysoagressive"><strong style="color:#b74ab0"><small>☆</small><span class="username" data-name="WhySoAgressive?">WhySoAgressive?</span>:</strong> <em>to</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

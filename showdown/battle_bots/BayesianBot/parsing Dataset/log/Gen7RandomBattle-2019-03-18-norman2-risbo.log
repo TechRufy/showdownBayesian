@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Norman2! vs. Risbo</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-877972551" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/norman2" class="subtle" target="_blank">Norman2!</a> vs. <a href="http://pokemonshowdown.com/users/risbo" class="subtle" target="_blank">Risbo</a></h1>
+<script type="text/plain" class="battle-log-data">|j|‽Norman2!
+|j|☆Risbo
+|player|p1|Norman2!|37
+|player|p2|Risbo|red-gen1
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Jellicent|Jellicent, L83, F|302\/302
+|switch|p2a: Carracosta|Carracosta, L83, M|259\/259
+|turn|1
+|
+|switch|p2a: Rotom|Rotom-Mow, L79|209\/209
+|move|p1a: Jellicent|Will-O-Wisp|p2a: Rotom
+|-status|p2a: Rotom|brn
+|
+|-damage|p2a: Rotom|196\/209 brn|[from] brn
+|upkeep
+|turn|2
+|j| ash_won_kalos
+|j| Aoi531
+|
+|switch|p1a: Trevenant|Trevenant, L84, F|280\/280
+|move|p2a: Rotom|Volt Switch|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|232\/280
+|-damage|p2a: Rotom|176\/209 brn|[from] item: Life Orb
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Norman2!)
+|
+|switch|p2a: Tornadus|Tornadus, L78, M|251\/251|[from]move: Volt Switch
+|
+|-heal|p1a: Trevenant|249\/280|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|move|p2a: Tornadus|Acrobatics|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|117\/280
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Tornadus
+|-status|p2a: Tornadus|brn
+|
+|-heal|p1a: Trevenant|134\/280|[from] item: Leftovers
+|-damage|p2a: Tornadus|236\/251 brn|[from] brn
+|upkeep
+|turn|4
+|
+|move|p2a: Tornadus|Hurricane|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|-damage|p2a: Tornadus|221\/251 brn|[from] brn
+|upkeep
+|
+|switch|p1a: Galvantula|Galvantula, L79, M|239\/239
+|turn|5
+|
+|-zpower|p2a: Tornadus
+|move|p2a: Tornadus|Supersonic Skystrike|p1a: Galvantula|[zeffect]
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|-damage|p2a: Tornadus|206\/251 brn|[from] brn
+|upkeep
+|
+|switch|p1a: Malamar|Malamar, L81, M|272\/272
+|turn|6
+|
+|move|p2a: Tornadus|Hurricane|p1a: Malamar
+|-crit|p1a: Malamar
+|-damage|p1a: Malamar|53\/272
+|-start|p1a: Malamar|confusion
+|-activate|p1a: Malamar|confusion
+|-zpower|p1a: Malamar
+|move|p1a: Malamar|Z-Happy Hour|p1a: Malamar|[anim]Happy Hour
+|-boost|p1a: Malamar|atk|1|[zeffect]
+|-boost|p1a: Malamar|def|1|[zeffect]
+|-boost|p1a: Malamar|spa|1|[zeffect]
+|-boost|p1a: Malamar|spd|1|[zeffect]
+|-boost|p1a: Malamar|spe|1|[zeffect]
+|
+|-damage|p2a: Tornadus|191\/251 brn|[from] brn
+|upkeep
+|turn|7
+|
+|-activate|p1a: Malamar|confusion
+|-damage|p1a: Malamar|26\/272|[from] confusion
+|move|p2a: Tornadus|Hurricane|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|-damage|p2a: Tornadus|176\/251 brn|[from] brn
+|upkeep
+|
+|switch|p1a: Terrakion|Terrakion, L77|267\/267
+|turn|8
+|
+|move|p2a: Tornadus|Superpower|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|183\/267
+|-unboost|p2a: Tornadus|atk|1
+|-unboost|p2a: Tornadus|def|1
+|move|p1a: Terrakion|Swords Dance|p1a: Terrakion
+|-boost|p1a: Terrakion|atk|2
+|
+|-damage|p2a: Tornadus|161\/251 brn|[from] brn
+|upkeep
+|turn|9
+|
+|move|p2a: Tornadus|Hurricane|p1a: Terrakion|[miss]
+|-miss|p2a: Tornadus|p1a: Terrakion
+|move|p1a: Terrakion|Stone Edge|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-damage|p1a: Terrakion|157\/267|[from] item: Life Orb
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|switch|p2a: Carracosta|Carracosta, L83, M|259\/259
+|turn|10
+|
+|move|p1a: Terrakion|Close Combat|p2a: Carracosta
+|-supereffective|p2a: Carracosta
+|-ability|p2a: Carracosta|Sturdy
+|-damage|p2a: Carracosta|1\/259
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|131\/267|[from] item: Life Orb
+|move|p2a: Carracosta|Liquidation|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|
+|upkeep
+|
+|switch|p1a: Naganadel|Naganadel, L73|227\/227
+|turn|11
+|
+|switch|p2a: Jirachi|Jirachi, L75|274\/274
+|move|p1a: Naganadel|Sludge Wave|p2a: Jirachi
+|-immune|p2a: Jirachi
+|
+|upkeep
+|turn|12
+|
+|switch|p1a: Jellicent|Jellicent, L83, F|302\/302
+|move|p2a: Jirachi|Ice Punch|p1a: Jellicent
+|-resisted|p1a: Jellicent
+|-damage|p1a: Jellicent|277\/302
+|
+|-heal|p1a: Jellicent|295\/302|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|switch|p2a: Carracosta|Carracosta, L83, M|1\/259
+|move|p1a: Jellicent|Shadow Ball|p2a: Carracosta
+|-damage|p2a: Carracosta|0 fnt
+|faint|p2a: Carracosta
+|
+|-heal|p1a: Jellicent|302\/302|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Rotom|Rotom-Mow, L79|176\/209 brn
+|turn|14
+|
+|move|p2a: Rotom|Thunderbolt|p1a: Jellicent
+|-supereffective|p1a: Jellicent
+|-damage|p1a: Jellicent|91\/302
+|-damage|p2a: Rotom|156\/209 brn|[from] item: Life Orb
+|move|p1a: Jellicent|Ice Beam|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|56\/209 brn
+|
+|-heal|p1a: Jellicent|109\/302|[from] item: Leftovers
+|-damage|p2a: Rotom|43\/209 brn|[from] brn
+|upkeep
+|turn|15
+|
+|move|p2a: Rotom|Volt Switch|p1a: Jellicent
+|-supereffective|p1a: Jellicent
+|-damage|p1a: Jellicent|0 fnt
+|-damage|p2a: Rotom|23\/209 brn|[from] item: Life Orb
+|faint|p1a: Jellicent
+|
+|switch|p2a: Medicham|Medicham, L75, M|214\/214|[from]move: Volt Switch
+|
+|upkeep
+|
+|switch|p1a: Naganadel|Naganadel, L73|227\/227
+|turn|16
+|
+|detailschange|p2a: Medicham|Medicham-Mega, L75, M
+|-mega|p2a: Medicham|Medicham|Medichamite
+|move|p2a: Medicham|Fake Out|p1a: Naganadel
+|-damage|p1a: Naganadel|160\/227
+|cant|p1a: Naganadel|flinch
+|
+|upkeep
+|turn|17
+|
+|move|p1a: Naganadel|Draco Meteor|p2a: Medicham|[miss]
+|-miss|p1a: Naganadel|p2a: Medicham
+|move|p2a: Medicham|Ice Punch|p1a: Naganadel
+|-supereffective|p1a: Naganadel
+|-damage|p1a: Naganadel|0 fnt
+|faint|p1a: Naganadel
+|
+|win|Risbo
+|l|‽Norman2!
+|raw|Norman2!'s rating: 2415 &rarr; <strong>2395<\/strong><br \/>(-20 for losing)
+|raw|Risbo's rating: 2423 &rarr; <strong>2442<\/strong><br \/>(+19 for winning)
+|l| ash_won_kalos
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>‽Norman2! and ☆Risbo joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Norman2! and Risbo!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Risbo sent out <strong>Carracosta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Risbo withdrew Carracosta!<br></div><div class="battle-history">Risbo sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Rotom was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Rotom was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat"><small> ash_won_kalos and  Aoi531 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent, come back!<br></div><div class="battle-history">Go! <strong>Trevenant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Trevenant lost <abbr title="−48/280">17.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rotom lost some of its HP!</small><br></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Norman2!)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to Risbo!<br></div><div class="battle-history">Risbo sent out <strong>Tornadus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Trevenant lost <abbr title="−132/280">47.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trevenant used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Tornadus was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Trevenant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Trevenant lost <abbr title="−134/280">47.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trevenant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus unleashes its full-force Z-Move!</small><br>The opposing Tornadus used <strong>Supersonic Skystrike</strong>!<br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−239/239">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Malamar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Malamar lost <abbr title="−219/272">80.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Malamar became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Malamar is confused!</small><br></div><div class="battle-history"><small>Malamar surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Malamar used <strong>Z-Happy Hour</strong>!<br></div><div class="battle-history"><small>Malamar boosted its Attack using its Z-Power!</small><br></div><div class="battle-history"><small>Malamar boosted its Defense using its Z-Power!</small><br></div><div class="battle-history"><small>Malamar boosted its Sp. Atk using its Z-Power!</small><br></div><div class="battle-history"><small>Malamar boosted its Sp. Def using its Z-Power!</small><br></div><div class="battle-history"><small>Malamar boosted its Speed using its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Malamar is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Malamar lost <abbr title="−26/272">9.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Malamar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Terrakion lost <abbr title="−84/267">31.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tornadus's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Tornadus's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Terrakion's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tornadus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>Terrakion avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tornadus lost <abbr title="−161/251">64.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tornadus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Risbo sent out <strong>Carracosta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history">[The opposing Carracosta's Sturdy]<br><small>The opposing Carracosta endured the hit!</small><br></div><div class="battle-history"><small>(The opposing Carracosta lost <abbr title="−258/259">99.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="battle-history"><small>Terrakion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carracosta used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Terrakion lost <abbr title="−131/267">49.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Naganadel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Risbo withdrew Carracosta!<br></div><div class="battle-history">Risbo sent out <strong>Jirachi</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Naganadel used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Jirachi...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Naganadel, come back!<br></div><div class="battle-history">Go! <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Jellicent lost <abbr title="−25/302">8.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Risbo withdrew Jirachi!<br></div><div class="battle-history">Risbo sent out <strong>Carracosta</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Carracosta lost <abbr title="−1/259">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carracosta fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Risbo sent out Rotom (<strong>Rotom-Mow</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Jellicent lost <abbr title="−211/302">69.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rotom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−100/209">47.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Jellicent lost <abbr title="−109/302">36.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rotom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to Risbo!<br></div><div class="battle-history">Risbo sent out <strong>Medicham</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Naganadel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Medicham's Medichamite is reacting to the Key Stone!</small><br>The opposing Medicham has Mega Evolved into Mega Medicham!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Medicham used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(Naganadel lost <abbr title="−67/227">29.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Naganadel flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Naganadel used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>The opposing Medicham avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Medicham used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Naganadel lost <abbr title="−160/227">70.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Naganadel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Risbo</strong> won the battle!<br></div><div class="chat"><small>‽Norman2! left</small></div><div class="chat">Norman2!'s rating: 2415 → <strong>2395</strong><br>(-20 for losing)</div><div class="chat">Risbo's rating: 2423 → <strong>2442</strong><br>(+19 for winning)</div><div class="chat"><small> ash_won_kalos left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

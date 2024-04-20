@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: wav3y vs. Michielleus</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-729551549" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/wav3y" class="subtle" target="_blank">wav3y</a> vs. <a href="http://pokemonshowdown.com/users/michielleus" class="subtle" target="_blank">Michielleus</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆wav3y
+|j|☆Michielleus
+|player|p1|wav3y|3
+|player|p2|Michielleus|56
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|14231,39722,41338,17361
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Castform|Castform, L83, M|252\/252
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|turn|1
+|
+|move|p2a: Magnezone|Volt Switch|p1a: Castform
+|-damage|p1a: Castform|159\/252
+|
+|switch|p2a: Heatmor|Heatmor, L83, M|277\/277|[from]move: Volt Switch
+|move|p1a: Castform|Thunder|p2a: Heatmor|[miss]
+|-miss|p1a: Castform|p2a: Heatmor
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Castform|Rain Dance|p1a: Castform
+|-weather|RainDance
+|-formechange|p1a: Castform|Castform-Rainy|[msg]|[from] ability: Forecast
+|move|p2a: Heatmor|Fire Blast|p1a: Castform
+|-resisted|p1a: Castform
+|-damage|p1a: Castform|114\/252
+|-damage|p2a: Heatmor|250\/277|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|move|p2a: Heatmor|Sucker Punch|p1a: Castform
+|-damage|p1a: Castform|37\/252
+|-damage|p2a: Heatmor|223\/277|[from] item: Life Orb
+|move|p1a: Castform|Weather Ball|p2a: Heatmor
+|-supereffective|p2a: Heatmor
+|-damage|p2a: Heatmor|0 fnt
+|faint|p2a: Heatmor
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)
+|
+|move|p2a: Magnezone|Volt Switch|p1a: Castform
+|-supereffective|p1a: Castform
+|-damage|p1a: Castform|0 fnt
+|faint|p1a: Castform
+|
+|switch|p2a: Swampert|Swampert, L75, M|274\/274|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| pokeblade✮101
+|
+|switch|p1a: Lapras|Lapras, L83, M|351\/351
+|turn|5
+|
+|-mega|p2a: Swampert|Swampert|Swampertite
+|detailschange|p2a: Swampert|Swampert-Mega, L75, M
+|move|p2a: Swampert|Earthquake|p1a: Lapras
+|-damage|p1a: Lapras|228\/351
+|move|p1a: Lapras|Hydro Pump|p2a: Swampert
+|-damage|p2a: Swampert|121\/274
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Lapras|249\/351|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|move|p2a: Swampert|Earthquake|p1a: Lapras
+|-crit|p1a: Lapras
+|-damage|p1a: Lapras|48\/351
+|move|p1a: Lapras|Hydro Pump|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Lapras|69\/351|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Venomoth|Venomoth, L77, M|234\/234
+|turn|7
+|inactive|wav3y has 135 seconds left.
+|inactive|wav3y has 120 seconds left.
+|
+|switch|p1a: Accelgor|Accelgor, L81, F|262\/262
+|move|p2a: Venomoth|Sleep Powder|p1a: Accelgor
+|-status|p1a: Accelgor|slp
+|
+|-weather|RainDance|[upkeep]
+|-activate|p1a: Accelgor|ability: Hydration
+|-curestatus|p1a: Accelgor|slp|[msg]
+|upkeep
+|turn|8
+|c| pokeblade✮101|lol nice
+|
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|move|p1a: Accelgor|Encore|p2a: Magnezone
+|-fail|p1a: Accelgor
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|c|☆wav3y|xD
+|
+|switch|p1a: Landorus|Landorus, L73, M|250\/250
+|move|p2a: Magnezone|Thunderbolt|p1a: Landorus
+|-immune|p1a: Landorus|[msg]
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|switch|p2a: Drifblim|Drifblim, L83, F|385\/385
+|move|p1a: Landorus|Calm Mind|p1a: Landorus
+|-boost|p1a: Landorus|spa|1
+|-boost|p1a: Landorus|spd|1
+|
+|upkeep
+|turn|11
+|c| pokeblade✮101|lel
+|c| pokeblade✮101|counter after counter
+|inactive|wav3y has 135 seconds left.
+|c|☆wav3y|yeah lol :\/
+|inactive|wav3y has 120 seconds left.
+|
+|move|p1a: Landorus|Sludge Wave|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|288\/385
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-damage|p1a: Landorus|235\/250 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|wav3y has 135 seconds left.
+|inactive|wav3y has 120 seconds left.
+|
+|move|p1a: Landorus|Sludge Wave|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|180\/385
+|-enditem|p2a: Drifblim|Sitrus Berry|[eat]
+|-heal|p2a: Drifblim|276\/385|[from] item: Sitrus Berry
+|move|p2a: Drifblim|Hex|p1a: Landorus
+|-damage|p1a: Landorus|132\/250 brn
+|
+|-damage|p1a: Landorus|117\/250 brn|[from] brn
+|upkeep
+|turn|13
+|
+|switch|p1a: Lapras|Lapras, L83, M|69\/351
+|move|p2a: Drifblim|Acrobatics|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|
+|upkeep
+|
+|switch|p1a: Minior|Minior, L81|230\/230
+|-formechange|p1a: Minior|Minior-Meteor|[from] ability: Shields Down
+|turn|14
+|
+|move|p2a: Drifblim|Will-O-Wisp|p1a: Minior
+|-immune|p1a: Minior|[msg]|[from] ability: Shields Down
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|upkeep
+|turn|15
+|
+|move|p2a: Drifblim|Destiny Bond|p2a: Drifblim
+|-singlemove|p2a: Drifblim|Destiny Bond
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|
+|upkeep
+|turn|16
+|
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|move|p2a: Drifblim|Hex|p1a: Minior
+|-damage|p1a: Minior|116\/230
+|
+|upkeep
+|turn|17
+|
+|move|p1a: Minior|Power Gem|p2a: Drifblim
+|-supereffective|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|faint|p2a: Drifblim
+|
+|upkeep
+|
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|turn|18
+|
+|move|p1a: Minior|Earthquake|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|-message|Michielleus forfeited.
+|
+|win|wav3y
+|l|☆Michielleus
+|raw|wav3y's rating: 2397 &rarr; <strong>2419<\/strong><br \/>(+22 for winning)
+|raw|Michielleus's rating: 2430 &rarr; <strong>2408<\/strong><br \/>(-22 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆wav3y and ☆Michielleus joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between wav3y and Michielleus!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Castform lost <abbr title="−93/252">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone went back to Michielleus!<br></div><div class="battle-history">Michielleus sent out <strong>Heatmor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>The opposing Heatmor avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Rain Dance</strong>!<br></div><div class="battle-history"><small>It started to rain!</small><br></div><div class="battle-history">[Castform's Forecast]<br>Castform transformed!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Castform lost <abbr title="−45/252">17.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(Castform lost <abbr title="−77/252">30.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Weather Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Heatmor lost <abbr title="−223/277">80.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Castform lost <abbr title="−37/252">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone went back to Michielleus!<br></div><div class="battle-history">Michielleus sent out <strong>Swampert</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="chat"><small> pokeblade✮101 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swampert's Swampertite is reacting to the Key Stone!</small><br>The opposing Swampert has Mega Evolved into Mega Swampert!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Lapras lost <abbr title="−123/351">35.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lapras used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−153/274">55.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Lapras restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Lapras lost <abbr title="−201/351">57.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lapras used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−121/274">44.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Lapras restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="chat message-error">wav3y has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lapras, come back!<br></div><div class="battle-history">Go! <strong>Accelgor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Accelgor fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history">[Accelgor's Hydration]<br></div><div class="battle-history"><small>Accelgor woke up!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat chatmessage-pokeblade101"><strong style="color:#129f4f"><small> </small><span class="username" data-name="pokeblade✮101">pokeblade✮101</span>:</strong> <em>lol nice</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Venomoth!<br></div><div class="battle-history">Michielleus sent out <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Accelgor used <strong>Encore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat chatmessage-wav3y"><strong style="color:#306ad6"><small>☆</small><span class="username" data-name="wav3y">wav3y</span>:</strong> <em>xD</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Accelgor, come back!<br></div><div class="battle-history">Go! <strong>Landorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It doesn't affect Landorus...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Magnezone!<br></div><div class="battle-history">Michielleus sent out <strong>Drifblim</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Landorus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Landorus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-pokeblade101"><strong style="color:#129f4f"><small> </small><span class="username" data-name="pokeblade✮101">pokeblade✮101</span>:</strong> <em>lel</em></div><div class="chat chatmessage-pokeblade101"><strong style="color:#129f4f"><small> </small><span class="username" data-name="pokeblade✮101">pokeblade✮101</span>:</strong> <em>counter after counter</em></div><div class="chat message-error">wav3y has 135 seconds left.</div><div class="chat chatmessage-wav3y"><strong style="color:#306ad6"><small>☆</small><span class="username" data-name="wav3y">wav3y</span>:</strong> <em>yeah lol :/</em></div><div class="chat message-error">wav3y has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost <abbr title="−97/385">25.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Landorus was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Landorus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="chat message-error">wav3y has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost <abbr title="−108/385">28.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Drifblim ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Drifblim restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Hex</strong>!<br></div><div class="battle-history"><small>(Landorus lost <abbr title="−103/250">41.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Landorus was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Landorus, come back!<br></div><div class="battle-history">Go! <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(Lapras lost <abbr title="−69/351">19.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lapras fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Minior</strong>!<br></div><div class="battle-history">[Minior's Shields Down]<br>Shields Down deactivated!<br>(Minior shielded itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history">[Minior's Shields Down]<br><small>It doesn't affect Minior...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Minior's Defense fell!</small><br></div><div class="battle-history"><small>Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Minior's Speed rose sharply!</small><br></div><div class="battle-history"><small>Minior returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Destiny Bond</strong>!<br></div><div class="battle-history"><small>The opposing Drifblim is hoping to take its attacker down with it!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Minior's Defense fell!</small><br></div><div class="battle-history"><small>Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Minior's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Minior's Defense fell!</small><br></div><div class="battle-history"><small>Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Minior's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim used <strong>Hex</strong>!<br></div><div class="battle-history"><small>(Minior lost <abbr title="−114/230">49.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Drifblim lost <abbr title="−276/385">71.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Drifblim fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Magnezone lost <abbr title="−229/229">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Michielleus forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>wav3y</strong> won the battle!<br></div><div class="chat"><small>☆Michielleus left</small></div><div class="chat">wav3y's rating: 2397 → <strong>2419</strong><br>(+22 for winning)</div><div class="chat">Michielleus's rating: 2430 → <strong>2408</strong><br>(-22 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

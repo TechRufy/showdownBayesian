@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: cloudiness vs. mountain15</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-950873828" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/cloudiness" class="subtle" target="_blank">cloudiness</a> vs. <a href="http://pokemonshowdown.com/users/mountain15" class="subtle" target="_blank">mountain15</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆cloudiness
+|j|☆mountain15
+|player|p1|cloudiness|drake-gen3|2382
+|player|p2|mountain15|206|2419
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Cryogonal|Cryogonal, L88|283\/283
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings, L78|279\/279
+|turn|1
+|
+|switch|p2a: Carbink|Carbink, L89|234\/234
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Carbink
+|-damage|p2a: Carbink|182\/234
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Chansey|Chansey, L80, F|531\/531
+|move|p2a: Carbink|Stealth Rock|p1a: Chansey
+|-sidestart|p1: cloudiness|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|j| Michielleus
+|
+|switch|p2a: Donphan|Donphan, L84, F|288\/288
+|move|p1a: Chansey|Stealth Rock|p2a: Donphan
+|-sidestart|p2: mountain15|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|switch|p1a: Meganium|Meganium, L89, F|287\/287
+|-damage|p1a: Meganium|252\/287|[from] Stealth Rock
+|move|p2a: Donphan|Knock Off|p1a: Meganium
+|-damage|p1a: Meganium|142\/287
+|-enditem|p1a: Meganium|Leftovers|[from] move: Knock Off|[of] p2a: Donphan
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Nihilego|Nihilego, L82|313\/313
+|-damage|p2a: Nihilego|274\/313|[from] Stealth Rock
+|move|p1a: Meganium|Light Screen|p1a: Meganium
+|-sidestart|p1: cloudiness|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|switch|p1a: Cryogonal|Cryogonal, L88|283\/283
+|-damage|p1a: Cryogonal|213\/283|[from] Stealth Rock
+|move|p2a: Nihilego|Sludge Wave|p1a: Cryogonal
+|-damage|p1a: Cryogonal|171\/283
+|
+|-heal|p1a: Cryogonal|188\/283|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|switch|p2a: Carbink|Carbink, L89|182\/234
+|-damage|p2a: Carbink|153\/234|[from] Stealth Rock
+|move|p1a: Cryogonal|Toxic|p2a: Carbink
+|-status|p2a: Carbink|tox
+|
+|-heal|p1a: Cryogonal|205\/283|[from] item: Leftovers
+|-damage|p2a: Carbink|139\/234 tox|[from] psn
+|upkeep
+|turn|8
+|
+|move|p1a: Cryogonal|Rapid Spin|p2a: Carbink
+|-resisted|p2a: Carbink
+|-damage|p2a: Carbink|136\/234 tox
+|-sideend|p1: cloudiness|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Cryogonal
+|move|p2a: Carbink|Explosion|p1a: Cryogonal
+|-damage|p1a: Cryogonal|34\/283
+|faint|p2a: Carbink
+|
+|-heal|p1a: Cryogonal|51\/283|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Nihilego|Nihilego, L82|274\/313
+|-damage|p2a: Nihilego|235\/313|[from] Stealth Rock
+|turn|9
+|c|☆cloudiness|Oh wait not balloon
+|
+|switch|p1a: Chansey|Chansey, L80, F|531\/531
+|move|p2a: Nihilego|Power Gem|p1a: Chansey
+|-damage|p1a: Chansey|498\/531
+|
+|-sideend|p1: cloudiness|move: Light Screen
+|upkeep
+|turn|10
+|
+|switch|p2a: Donphan|Donphan, L84, F|288\/288
+|-damage|p2a: Donphan|270\/288|[from] Stealth Rock
+|switch|p1a: Meganium|Meganium, L89, F|142\/287
+|
+|upkeep
+|turn|11
+|
+|switch|p2a: Nihilego|Nihilego, L82|235\/313
+|-damage|p2a: Nihilego|196\/313|[from] Stealth Rock
+|move|p1a: Meganium|Giga Drain|p2a: Nihilego
+|-damage|p2a: Nihilego|132\/313
+|-heal|p1a: Meganium|174\/287|[from] drain|[of] p2a: Nihilego
+|
+|upkeep
+|turn|12
+|
+|switch|p1a: Chansey|Chansey, L80, F|498\/531
+|move|p2a: Nihilego|Sludge Wave|p1a: Chansey
+|-damage|p1a: Chansey|429\/531
+|
+|upkeep
+|turn|13
+|
+|switch|p2a: Donphan|Donphan, L84, F|270\/288
+|-damage|p2a: Donphan|252\/288|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Donphan
+|-damage|p2a: Donphan|172\/288
+|
+|upkeep
+|turn|14
+|
+|switch|p1a: Meganium|Meganium, L89, F|174\/287
+|move|p2a: Donphan|Knock Off|p1a: Meganium
+|-damage|p1a: Meganium|103\/287
+|
+|upkeep
+|turn|15
+|
+|switch|p2a: Victreebel|Victreebel, L88, M|284\/284
+|-damage|p2a: Victreebel|249\/284|[from] Stealth Rock
+|move|p1a: Meganium|Giga Drain|p2a: Victreebel
+|-resisted|p2a: Victreebel
+|-damage|p2a: Victreebel|228\/284
+|-heal|p1a: Meganium|114\/287|[from] drain|[of] p2a: Victreebel
+|
+|-heal|p2a: Victreebel|245\/284|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|switch|p1a: Torterra|Torterra, L86, M|304\/304
+|move|p2a: Victreebel|Swords Dance|p2a: Victreebel
+|-boost|p2a: Victreebel|atk|2
+|
+|-heal|p2a: Victreebel|262\/284|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|move|p2a: Victreebel|Knock Off|p1a: Torterra
+|-damage|p1a: Torterra|167\/304
+|-enditem|p1a: Torterra|Leftovers|[from] move: Knock Off|[of] p2a: Victreebel
+|move|p1a: Torterra|Earthquake|p2a: Victreebel
+|-damage|p2a: Victreebel|118\/284
+|
+|-heal|p2a: Victreebel|135\/284|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|switch|p1a: Meganium|Meganium, L89, F|114\/287
+|move|p2a: Victreebel|Power Whip|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|0 fnt
+|faint|p1a: Meganium
+|
+|-heal|p2a: Victreebel|152\/284|[from] item: Black Sludge
+|upkeep
+|
+|switch|p1a: Gengar|Gengar, L78, M|222\/222
+|turn|19
+|j| Ho-Oh Ha-Ah
+|
+|detailschange|p1a: Gengar|Gengar-Mega, L78, M
+|-mega|p1a: Gengar|Gengar|Gengarite
+|move|p1a: Gengar|Sludge Wave|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|upkeep
+|
+|switch|p2a: Donphan|Donphan, L84, F|172\/288
+|-damage|p2a: Donphan|154\/288|[from] Stealth Rock
+|turn|20
+|
+|move|p1a: Gengar|Protect|p1a: Gengar
+|-singleturn|p1a: Gengar|Protect
+|move|p2a: Donphan|Earthquake|p1a: Gengar
+|-activate|p1a: Gengar|move: Protect
+|
+|upkeep
+|turn|21
+|
+|switch|p1a: Torterra|Torterra, L86, M|167\/304
+|move|p2a: Donphan|Earthquake|p1a: Torterra
+|-resisted|p1a: Torterra
+|-damage|p1a: Torterra|82\/304
+|
+|upkeep
+|turn|22
+|
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings, L78|279\/279
+|-damage|p2a: Necrozma|245\/279|[from] Stealth Rock
+|move|p1a: Torterra|Synthesis|p1a: Torterra
+|-heal|p1a: Torterra|234\/304
+|
+|upkeep
+|turn|23
+|
+|switch|p1a: Cryogonal|Cryogonal, L88|51\/283
+|detailschange|p2a: Necrozma|Necrozma-Ultra, L78
+|-burst|p2a: Necrozma|Necrozma|Ultranecrozium Z
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|
+|-heal|p1a: Cryogonal|68\/283|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p2a: Necrozma|Photon Geyser|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|upkeep
+|
+|switch|p1a: Gengar|Gengar-Mega, L78, M|222\/222
+|turn|25
+|
+|move|p1a: Gengar|Destiny Bond|p1a: Gengar
+|-singlemove|p1a: Gengar|Destiny Bond
+|move|p2a: Necrozma|Photon Geyser|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|-activate|p1a: Gengar|move: Destiny Bond
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|switch|p1a: Torterra|Torterra, L86, M|234\/304
+|switch|p2a: Exploud|Exploud, L85, F|316\/316
+|-damage|p2a: Exploud|277\/316|[from] Stealth Rock
+|turn|26
+|
+|switch|p1a: Chansey|Chansey, L80, F|429\/531
+|move|p2a: Exploud|Boomburst|p1a: Chansey
+|-damage|p1a: Chansey|293\/531
+|
+|upkeep
+|turn|27
+|
+|move|p2a: Exploud|Boomburst|p1a: Chansey
+|-damage|p1a: Chansey|160\/531
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|426\/531
+|
+|upkeep
+|turn|28
+|
+|switch|p2a: Nihilego|Nihilego, L82|132\/313
+|-damage|p2a: Nihilego|93\/313|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Nihilego
+|-damage|p2a: Nihilego|13\/313
+|
+|upkeep
+|turn|29
+|
+|move|p2a: Nihilego|Sludge Wave|p1a: Chansey
+|-damage|p1a: Chansey|348\/531
+|move|p1a: Chansey|Seismic Toss|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|
+|switch|p2a: Donphan|Donphan, L84, F|154\/288
+|-damage|p2a: Donphan|136\/288|[from] Stealth Rock
+|turn|30
+|
+|switch|p1a: Torterra|Torterra, L86, M|234\/304
+|move|p2a: Donphan|Ice Shard|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-crit|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|
+|upkeep
+|
+|switch|p1a: Pikachu|Pikachu-Partner, L90, M|209\/209
+|turn|31
+|
+|move|p2a: Donphan|Ice Shard|p1a: Pikachu
+|-damage|p1a: Pikachu|124\/209
+|move|p1a: Pikachu|Grass Knot|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|switch|p2a: Exploud|Exploud, L85, F|277\/316
+|-damage|p2a: Exploud|238\/316|[from] Stealth Rock
+|turn|32
+|
+|move|p1a: Pikachu|Volt Tackle|p2a: Exploud
+|-damage|p2a: Exploud|0 fnt
+|-damage|p1a: Pikachu|45\/209|[from] Recoil
+|faint|p2a: Exploud
+|
+|win|cloudiness
+|l|☆mountain15
+|raw|cloudiness's rating: 2382 &rarr; <strong>2404<\/strong><br \/>(+22 for winning)
+|raw|mountain15's rating: 2419 &rarr; <strong>2397<\/strong><br \/>(-22 for losing)
+|l| Ho-Oh Ha-Ah
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆cloudiness and ☆mountain15 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between cloudiness and mountain15!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cryogonal</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out Necrozma (<strong>Necrozma-Dawn-Wings</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Necrozma!<br></div><div class="battle-history">mountain15 sent out <strong>Carbink</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Carbink lost <abbr title="−52/234">22.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carbink used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat"><small> Michielleus joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Carbink!<br></div><div class="battle-history">mountain15 sent out <strong>Donphan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chansey, come back!<br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Meganium!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Meganium lost <abbr title="−110/287">38.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Donphan knocked off Meganium's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Donphan!<br></div><div class="battle-history">mountain15 sent out <strong>Nihilego</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Nihilego!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meganium, come back!<br></div><div class="battle-history">Go! <strong>Cryogonal</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Cryogonal!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Cryogonal lost <abbr title="−42/283">14.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cryogonal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Nihilego!<br></div><div class="battle-history">mountain15 sent out <strong>Carbink</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Carbink!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Carbink was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cryogonal restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Carbink was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal used <strong>Rapid Spin</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Carbink lost <abbr title="−3/234">1.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carbink used <strong>Explosion</strong>!<br></div><div class="battle-history"><small>(Cryogonal lost <abbr title="−171/283">60.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carbink fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cryogonal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out <strong>Nihilego</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Nihilego!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat chatmessage-cloudiness"><strong style="color:#0fb4bc"><small>☆</small><span class="username" data-name="cloudiness">cloudiness</span>:</strong> <em>Oh wait not balloon</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−33/531">6.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Nihilego!<br></div><div class="battle-history">mountain15 sent out <strong>Donphan</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Donphan!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey, come back!<br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Donphan!<br></div><div class="battle-history">mountain15 sent out <strong>Nihilego</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Nihilego!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Nihilego lost <abbr title="−64/313">20.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Nihilego had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meganium, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−69/531">13.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Nihilego!<br></div><div class="battle-history">mountain15 sent out <strong>Donphan</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Donphan!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−80/288">27.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chansey, come back!<br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Meganium lost <abbr title="−71/287">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Donphan!<br></div><div class="battle-history">mountain15 sent out <strong>Victreebel</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Victreebel!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Victreebel lost <abbr title="−21/284">7.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Victreebel had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Victreebel restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meganium, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Victreebel's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Victreebel restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−137/304">45.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Victreebel knocked off Torterra's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Victreebel lost <abbr title="−144/284">50.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Victreebel restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Meganium lost <abbr title="−114/287">39.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Victreebel restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gengar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat"><small> Ho-Oh Ha-Ah joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gengar's Gengarite is reacting to the Key Stone!</small><br>Gengar has Mega Evolved into Mega Gengar!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gengar used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(The opposing Victreebel lost <abbr title="−152/284">53.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out <strong>Donphan</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Donphan!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gengar used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Gengar protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>Gengar protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gengar, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Torterra lost <abbr title="−85/304">28.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Donphan!<br></div><div class="battle-history">mountain15 sent out Necrozma (<strong>Necrozma-Dawn-Wings</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Necrozma!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Torterra had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Cryogonal</strong>!<br></div><div class="battle-history"><small>Bright light is about to burst out of the opposing Necrozma!</small><br></div><div class="battle-history">The opposing Necrozma regained its true power through Ultra Burst!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Necrozma's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Necrozma's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cryogonal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>(Cryogonal lost <abbr title="−68/283">24.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cryogonal fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Gengar (<strong>Gengar-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gengar used <strong>Destiny Bond</strong>!<br></div><div class="battle-history"><small>Gengar is hoping to take its attacker down with it!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gengar lost <abbr title="−222/222">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gengar fainted!<br></div><div class="battle-history">Gengar took its attacker down with it!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Exploud!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−136/531">25.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−133/531">25.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>Chansey had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 withdrew Exploud!<br></div><div class="battle-history">mountain15 sent out <strong>Nihilego</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Nihilego!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Nihilego lost <abbr title="−80/313">25.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−78/531">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Nihilego lost <abbr title="−13/313">4.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out <strong>Donphan</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Donphan!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chansey, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Torterra lost <abbr title="−234/304">77.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Pikachu (<strong>Pikachu-Partner</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>(Pikachu lost <abbr title="−85/209">40.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pikachu used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−136/288">47.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mountain15 sent out <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Exploud!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pikachu used <strong>Volt Tackle</strong>!<br></div><div class="battle-history"><small>(The opposing Exploud lost <abbr title="−238/316">75.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Pikachu was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>cloudiness</strong> won the battle!<br></div><div class="chat"><small>☆mountain15 left</small></div><div class="chat">cloudiness's rating: 2382 → <strong>2404</strong><br>(+22 for winning)</div><div class="chat">mountain15's rating: 2419 → <strong>2397</strong><br>(-22 for losing)</div><div class="chat"><small> Ho-Oh Ha-Ah left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

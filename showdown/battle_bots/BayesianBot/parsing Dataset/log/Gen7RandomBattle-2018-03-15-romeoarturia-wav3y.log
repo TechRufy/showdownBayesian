@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: RomeoArturia vs. Wav3y</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-718416231" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/romeoarturia" class="subtle" target="_blank">RomeoArturia</a> vs. <a href="http://pokemonshowdown.com/users/wav3y" class="subtle" target="_blank">Wav3y</a></h1>
+<script type="text/plain" class="battle-log-data">|j|‽RomeoArturia
+|j|☆Wav3y
+|player|p1|RomeoArturia|152
+|player|p2|Wav3y|3
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|6073,52620,12517,45857
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Zapdos|Zapdos, L75|259\/259
+|switch|p2a: Mesprit|Mesprit, L83|268\/268
+|turn|1
+|c|☆Wav3y|interesting
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)
+|inactive|Wav3y has 135 seconds left.
+|
+|switch|p2a: Sudowoodo|Sudowoodo, L83, F|252\/252
+|-item|p2a: Sudowoodo|Air Balloon
+|move|p1a: Zapdos|U-turn|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|213\/252
+|-enditem|p2a: Sudowoodo|Air Balloon
+|-damage|p1a: Zapdos|234\/259|[from] item: Life Orb
+|
+|switch|p1a: Pelipper|Pelipper, L75, F|214\/214|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|Wav3y has 135 seconds left.
+|
+|switch|p2a: Pelipper|Pelipper, L75, F|214\/214
+|move|p1a: Pelipper|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|151\/214
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|move|p2a: Pelipper|Hurricane|p1a: Pelipper
+|-damage|p1a: Pelipper|42\/214
+|-damage|p2a: Pelipper|130\/214|[from] item: Life Orb
+|move|p1a: Pelipper|Hurricane|p2a: Pelipper
+|-damage|p2a: Pelipper|6\/214
+|-start|p2a: Pelipper|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Pelipper|55\/214|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Wav3y has 135 seconds left.
+|
+|move|p1a: Pelipper|Hurricane|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Pelipper|68\/214|[from] item: Leftovers
+|upkeep
+|inactive|Wav3y has 135 seconds left.
+|
+|switch|p2a: Mesprit|Mesprit, L83|268\/268
+|turn|5
+|inactive|RomeoArturia has 135 seconds left.
+|
+|move|p2a: Mesprit|Psyshock|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|none
+|upkeep
+|inactive|RomeoArturia has 135 seconds left.
+|inactive|RomeoArturia has 120 seconds left.
+|
+|switch|p1a: Klefki|Klefki, L77, M|214\/214
+|turn|6
+|
+|switch|p2a: Sudowoodo|Sudowoodo, L83, F|213\/252
+|switch|p1a: Keldeo|Keldeo, L75|260\/260
+|
+|upkeep
+|turn|7
+|
+|switch|p2a: Jumpluff|Jumpluff, L83, F|259\/259
+|move|p1a: Keldeo|Scald|p2a: Jumpluff
+|-resisted|p2a: Jumpluff
+|-damage|p2a: Jumpluff|214\/259
+|
+|-heal|p2a: Jumpluff|230\/259|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p1a: Klefki|Klefki, L77, M|214\/214
+|move|p2a: Jumpluff|U-turn|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|206\/214
+|
+|switch|p2a: Sudowoodo|Sudowoodo, L83, F|213\/252|[from]move: U-turn
+|
+|-heal|p1a: Klefki|214\/214|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|move|p1a: Klefki|Spikes|p2a: Sudowoodo
+|-sidestart|p2: Wav3y|Spikes
+|move|p2a: Sudowoodo|Stealth Rock|p1a: Klefki
+|-sidestart|p1: RomeoArturia|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|switch|p2a: Cobalion|Cobalion, L77|267\/267
+|-damage|p2a: Cobalion|234\/267|[from] Spikes
+|move|p1a: Klefki|Magnet Rise|p1a: Klefki
+|-start|p1a: Klefki|Magnet Rise
+|
+|-heal|p2a: Cobalion|250\/267|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|move|p1a: Klefki|Spikes|p2a: Cobalion
+|-sidestart|p2: Wav3y|Spikes
+|move|p2a: Cobalion|Substitute|p2a: Cobalion
+|-start|p2a: Cobalion|Substitute
+|-damage|p2a: Cobalion|184\/267
+|
+|-heal|p2a: Cobalion|200\/267|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|move|p2a: Cobalion|Iron Head|p1a: Klefki
+|-crit|p1a: Klefki
+|-damage|p1a: Klefki|106\/214
+|cant|p1a: Klefki|flinch
+|
+|-heal|p2a: Cobalion|216\/267|[from] item: Leftovers
+|-heal|p1a: Klefki|119\/214|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: Cobalion|Iron Head|p1a: Klefki
+|-damage|p1a: Klefki|41\/214
+|move|p1a: Klefki|Play Rough|p2a: Cobalion
+|-activate|p2a: Cobalion|move: Substitute|[damage]
+|
+|-heal|p2a: Cobalion|232\/267|[from] item: Leftovers
+|-heal|p1a: Klefki|54\/214|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|move|p1a: Klefki|Spikes|p2a: Cobalion
+|-sidestart|p2: Wav3y|Spikes
+|move|p2a: Cobalion|Iron Head|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|-heal|p2a: Cobalion|248\/267|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Keldeo|Keldeo, L75|260\/260
+|-damage|p1a: Keldeo|244\/260|[from] Stealth Rock
+|turn|15
+|
+|move|p1a: Keldeo|Scald|p2a: Cobalion
+|-end|p2a: Cobalion|Substitute
+|move|p2a: Cobalion|Close Combat|p1a: Keldeo
+|-damage|p1a: Keldeo|135\/260
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|
+|-heal|p2a: Cobalion|264\/267|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|switch|p2a: Jumpluff|Jumpluff, L83, F|230\/259
+|move|p1a: Keldeo|Scald|p2a: Jumpluff
+|-resisted|p2a: Jumpluff
+|-damage|p2a: Jumpluff|185\/259
+|-status|p2a: Jumpluff|brn
+|
+|-heal|p2a: Jumpluff|201\/259 brn|[from] item: Leftovers
+|-damage|p2a: Jumpluff|185\/259 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p1a: Zapdos|Zapdos, L75|234\/259
+|-damage|p1a: Zapdos|170\/259|[from] Stealth Rock
+|move|p2a: Jumpluff|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-heal|p2a: Jumpluff|201\/259 brn|[from] item: Leftovers
+|-damage|p2a: Jumpluff|185\/259 brn|[from] brn
+|-damage|p1a: Zapdos|154\/259 tox|[from] psn
+|upkeep
+|turn|18
+|
+|move|p2a: Jumpluff|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|145\/259 tox
+|
+|switch|p2a: Sudowoodo|Sudowoodo, L83, F|213\/252|[from]move: U-turn
+|-damage|p2a: Sudowoodo|150\/252|[from] Spikes
+|move|p1a: Zapdos|Hidden Power|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|79\/252
+|-damage|p1a: Zapdos|120\/259 tox|[from] item: Life Orb
+|
+|-damage|p1a: Zapdos|88\/259 tox|[from] psn
+|upkeep
+|turn|19
+|
+|move|p2a: Sudowoodo|Sucker Punch|p1a: Zapdos|[still]
+|-fail|p2a: Sudowoodo
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|218\/259 tox
+|
+|-damage|p1a: Zapdos|170\/259 tox|[from] psn
+|upkeep
+|turn|20
+|
+|move|p2a: Sudowoodo|Sucker Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|116\/259 tox
+|move|p1a: Zapdos|Thunderbolt|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|-damage|p1a: Zapdos|91\/259 tox|[from] item: Life Orb
+|faint|p2a: Sudowoodo
+|
+|-damage|p1a: Zapdos|27\/259 tox|[from] psn
+|upkeep
+|
+|switch|p2a: Latias|Latias, L76, F|247\/247
+|turn|21
+|
+|-mega|p2a: Latias|Latias|Latiasite
+|detailschange|p2a: Latias|Latias-Mega, L76, F
+|move|p2a: Latias|Psyshock|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|inactive|RomeoArturia has 135 seconds left.
+|
+|switch|p1a: Keldeo|Keldeo, L75|135\/260
+|-damage|p1a: Keldeo|119\/260|[from] Stealth Rock
+|turn|22
+|
+|switch|p2a: Cobalion|Cobalion, L77|264\/267
+|-damage|p2a: Cobalion|198\/267|[from] Spikes
+|move|p1a: Keldeo|Icy Wind|p2a: Cobalion|[miss]
+|-miss|p1a: Keldeo|p2a: Cobalion
+|
+|-heal|p2a: Cobalion|214\/267|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|move|p1a: Keldeo|Icy Wind|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-crit|p2a: Cobalion
+|-damage|p2a: Cobalion|180\/267
+|-unboost|p2a: Cobalion|spe|1
+|move|p2a: Cobalion|Substitute|p2a: Cobalion
+|-start|p2a: Cobalion|Substitute
+|-damage|p2a: Cobalion|114\/267
+|
+|-heal|p2a: Cobalion|130\/267|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p1a: Roserade|Roserade, L79, F|224\/224
+|-damage|p1a: Roserade|196\/224|[from] Stealth Rock
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|103\/224
+|
+|-heal|p1a: Roserade|117\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|146\/267|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p1a: Roserade|Synthesis|p1a: Roserade
+|-heal|p1a: Roserade|224\/224
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|128\/224
+|
+|-heal|p1a: Roserade|142\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|162\/267|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|move|p1a: Roserade|Giga Drain|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-activate|p2a: Cobalion|move: Substitute|[damage]
+|-heal|p1a: Roserade|172\/224|[from] drain|[of] p2a: Cobalion
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|87\/224
+|
+|-heal|p1a: Roserade|101\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|178\/267|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|move|p1a: Roserade|Giga Drain|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-end|p2a: Cobalion|Substitute
+|-heal|p1a: Roserade|105\/224|[from] drain|[of] p2a: Cobalion
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|12\/224
+|
+|-heal|p1a: Roserade|26\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|194\/267|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|move|p1a: Roserade|Synthesis|p1a: Roserade
+|-heal|p1a: Roserade|138\/224
+|move|p2a: Cobalion|Substitute|p2a: Cobalion
+|-start|p2a: Cobalion|Substitute
+|-damage|p2a: Cobalion|128\/267
+|
+|-heal|p1a: Roserade|152\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|144\/267|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|move|p1a: Roserade|Giga Drain|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-activate|p2a: Cobalion|move: Substitute|[damage]
+|-heal|p1a: Roserade|177\/224|[from] drain|[of] p2a: Cobalion
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|80\/224
+|
+|-heal|p1a: Roserade|94\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|160\/267|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|move|p1a: Roserade|Synthesis|p1a: Roserade
+|-heal|p1a: Roserade|206\/224
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-crit|p1a: Roserade
+|-damage|p1a: Roserade|82\/224
+|
+|-heal|p1a: Roserade|96\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|176\/267|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|move|p1a: Roserade|Giga Drain|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-end|p2a: Cobalion|Substitute
+|-heal|p1a: Roserade|104\/224|[from] drain|[of] p2a: Cobalion
+|move|p2a: Cobalion|Iron Head|p1a: Roserade
+|-damage|p1a: Roserade|22\/224
+|
+|-heal|p1a: Roserade|36\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|192\/267|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|move|p1a: Roserade|Sleep Powder|p2a: Cobalion
+|-status|p2a: Cobalion|slp
+|cant|p2a: Cobalion|slp
+|
+|-heal|p1a: Roserade|50\/224|[from] item: Black Sludge
+|-heal|p2a: Cobalion|208\/267 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p1a: Braviary|Braviary, L81, M|295\/295
+|-damage|p1a: Braviary|222\/295|[from] Stealth Rock
+|switch|p2a: Mesprit|Mesprit, L83|268\/268
+|
+|upkeep
+|turn|34
+|
+|move|p2a: Mesprit|Ice Beam|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|52\/295
+|move|p1a: Braviary|Bulk Up|p1a: Braviary
+|-boost|p1a: Braviary|atk|1
+|-boost|p1a: Braviary|def|1
+|
+|upkeep
+|turn|35
+|-message|RomeoArturia forfeited.
+|
+|win|Wav3y
+|l|‽RomeoArturia
+|raw|RomeoArturia's rating: 2422 &rarr; <strong>2401<\/strong><br \/>(-21 for losing)
+|raw|Wav3y's rating: 2401 &rarr; <strong>2422<\/strong><br \/>(+21 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>‽RomeoArturia and ☆Wav3y joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between RomeoArturia and Wav3y!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-wav3y"><strong style="color:#306ad6"><small>☆</small><span class="username" data-name="Wav3y">Wav3y</span>:</strong> <em>interesting</em></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)</div><div class="chat message-error">Wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Mesprit!<br></div><div class="battle-history">Wav3y sent out <strong>Sudowoodo</strong>!<br></div><div class="battle-history"><small>The opposing Sudowoodo floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Sudowoodo lost <abbr title="−39/252">15.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sudowoodo's Air Balloon popped!</small><br></div><div class="battle-history"><small>Zapdos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos went back to RomeoArturia!<br></div><div class="battle-history">Go! <strong>Pelipper</strong>!<br></div><div class="battle-history">[Pelipper's Drizzle]<br><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">Wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Sudowoodo!<br></div><div class="battle-history">Wav3y sent out <strong>Pelipper</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pelipper used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Pelipper lost <abbr title="−63/214">29.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pelipper used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Pelipper lost <abbr title="−172/214">80.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Pelipper lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pelipper used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Pelipper lost <abbr title="−124/214">57.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Pelipper became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Pelipper restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">Wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pelipper used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Pelipper lost <abbr title="−6/214">2.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pelipper fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Pelipper restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">Wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mesprit used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Pelipper lost <abbr title="−68/214">31.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pelipper fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="chat message-error">RomeoArturia has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Mesprit!<br></div><div class="battle-history">Wav3y sent out <strong>Sudowoodo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klefki, come back!<br></div><div class="battle-history">Go! <strong>Keldeo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Sudowoodo!<br></div><div class="battle-history">Wav3y sent out <strong>Jumpluff</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jumpluff lost <abbr title="−45/259">17.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jumpluff restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo, come back!<br></div><div class="battle-history">Go! <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jumpluff used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Klefki lost <abbr title="−8/214">3.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jumpluff went back to Wav3y!<br></div><div class="battle-history">Wav3y sent out <strong>Sudowoodo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Klefki restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Klefki used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sudowoodo used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Sudowoodo!<br></div><div class="battle-history">Wav3y sent out <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klefki used <strong>Magnet Rise</strong>!<br></div><div class="battle-history"><small>Klefki levitated with electromagnetism!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Klefki used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost <abbr title="−66/267">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Klefki lost <abbr title="−108/214">50.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klefki flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Klefki restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Klefki lost <abbr title="−78/214">36.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klefki used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>The substitute took damage for the opposing Cobalion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Klefki restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Klefki used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Klefki lost <abbr title="−54/214">25.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klefki fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Keldeo</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Keldeo!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(Keldeo lost <abbr title="−109/260">41.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Cobalion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Cobalion!<br></div><div class="battle-history">Wav3y sent out <strong>Jumpluff</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jumpluff lost <abbr title="−45/259">17.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Jumpluff was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jumpluff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jumpluff was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo, come back!<br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Zapdos!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jumpluff used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Zapdos was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jumpluff restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Jumpluff was hurt by its burn!</small><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jumpluff used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−9/259">3.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jumpluff went back to Wav3y!<br></div><div class="battle-history">Wav3y sent out <strong>Sudowoodo</strong>!<br></div><div class="battle-history"><small>The opposing Sudowoodo was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(The opposing Sudowoodo lost <abbr title="−71/252">28.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Zapdos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sudowoodo used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Zapdos had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sudowoodo used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−54/259">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Sudowoodo lost <abbr title="−79/252">31.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Zapdos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sudowoodo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y sent out <strong>Latias</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Latias's Latiasite is reacting to the Key Stone!</small><br>The opposing Latias has Mega Evolved into Mega Latias!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Latias used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−27/259">10.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos fainted!<br></div><div class="chat message-error">RomeoArturia has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Keldeo</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Keldeo!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Latias!<br></div><div class="battle-history">Wav3y sent out <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Icy Wind</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Icy Wind</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost <abbr title="−34/267">12.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost <abbr title="−66/267">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo, come back!<br></div><div class="battle-history">Go! <strong>Roserade</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Roserade!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−93/224">41.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Roserade had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−96/224">42.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The substitute took damage for the opposing Cobalion!</small><br></div><div class="battle-history"><small>The opposing Cobalion had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−85/224">37.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The opposing Cobalion's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Cobalion had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−93/224">41.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Roserade had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost <abbr title="−66/267">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The substitute took damage for the opposing Cobalion!</small><br></div><div class="battle-history"><small>The opposing Cobalion had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−97/224">43.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Roserade had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Roserade lost <abbr title="−124/224">55.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The opposing Cobalion's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Cobalion had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Roserade lost <abbr title="−82/224">36.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Roserade restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade, come back!<br></div><div class="battle-history">Go! <strong>Braviary</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Braviary!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wav3y withdrew Cobalion!<br></div><div class="battle-history">Wav3y sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mesprit used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Braviary lost <abbr title="−170/295">57.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Braviary used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Braviary's Attack rose!</small><br></div><div class="battle-history"><small>Braviary's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>RomeoArturia forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Wav3y</strong> won the battle!<br></div><div class="chat"><small>‽RomeoArturia left</small></div><div class="chat">RomeoArturia's rating: 2422 → <strong>2401</strong><br>(-21 for losing)</div><div class="chat">Wav3y's rating: 2401 → <strong>2422</strong><br>(+21 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

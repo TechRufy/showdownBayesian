@@ -4367,6 +4367,41 @@
             "Mineral"
         ]
     },
+    "farfetch'd": {
+        "num": 83,
+        "name": "farfetch\u2019d",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "baseStats": {
+            "hp": 52,
+            "attack": 90,
+            "defense": 55,
+            "special-attack": 58,
+            "special-defense": 62,
+            "speed": 60
+        },
+        "abilities": {
+            "0": "Keen Eye",
+            "1": "Inner Focus",
+            "H": "Defiant"
+        },
+        "heightm": 0.8,
+        "weightkg": 15,
+        "color": "Brown",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "otherFormes": [
+            "Farfetch\u2019d-Galar"
+        ],
+        "formeOrder": [
+            "Farfetch\u2019d",
+            "Farfetch\u2019d-Galar"
+        ]
+    },
     "farfetch": {
         "num": 83,
         "name": "farfetch\u2019d",

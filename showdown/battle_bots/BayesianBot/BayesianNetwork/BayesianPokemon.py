@@ -9,7 +9,6 @@ import pandas as pd
 import numpy as np
 from pgmpy.inference import VariableElimination
 import json
-import array
 
 warnings.filterwarnings("ignore")
 

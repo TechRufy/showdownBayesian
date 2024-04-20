@@ -16,13 +16,16 @@ def parser(log_data):
     df = pd.DataFrame(columns=["User", "Sufferer", "name move", "TypesU",
                                "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather", "categoryMove", "Choose"])
 
+    df2 = pd.DataFrame(
+        columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPin", "HPout", "HPEnemy"])
+
     # Regular expressions for different types of log entries
     switch_regex = re.compile(r'\|switch\|p\da: (.*?)\|(.*?)\|[0-9]+\\/[0-9]+')
     move_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|p\da: [a-zA-Z0-9\s_.-]+')
     moveP_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|\|\[[a-zA-Z0-9\s_.-]+\]')
 
     # Function to parse the log data
-    mapping_table = str.maketrans({' ': '', '-': ''})
+    mapping_table = str.maketrans({' ': '', '-': '', '\'': ''})
     pokemon = {"p1a Pokemon": None, "p2a Pokemon": None, "hp p1a": 0, "hp p2a": 0, "weather": "none",
                "p1a mosse": [], "p2a mosse": []}
     for line in log_data:
@@ -31,10 +34,28 @@ def parser(log_data):
             matches = match.group().split("|")
             for token in matches:
                 if token.startswith("p1a"):
+                    if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
+                        df2.loc[len(df2)] = [token[5:], pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
+                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")]["types"],
+                                             pokedex[pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
+                                             pokedex[pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
+                                             matches[-1],
+                                             pokemon["hp p1a"],
+                                             pokemon["hp p2a"]]
                     pokemon["p1a Pokemon"] = token[5:]
                     pokemon["hp p1a"] = matches[-1]
                     pokemon["p1a mosse"] = []
+
                 if token.startswith("p2a"):
+                    if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
+                        df2.loc[len(df2)] = [token[5:], pokemon["p2a Pokemon"], pokemon["p1a Pokemon"],
+                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")][
+                                                 "types"],
+                                             pokedex[pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
+                                             pokedex[pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
+                                             matches[-1],
+                                             pokemon["hp p2a"],
+                                             pokemon["hp p1a"]]
                     pokemon["p2a Pokemon"] = token[5:]
                     pokemon["hp p2a"] = matches[-1]
                     pokemon["p2a mosse"] = []
@@ -131,4 +152,4 @@ def parser(log_data):
             matches = line.split("|")
             pokemon["weather"] = matches[2]
 
-    return df
+    return df, df2

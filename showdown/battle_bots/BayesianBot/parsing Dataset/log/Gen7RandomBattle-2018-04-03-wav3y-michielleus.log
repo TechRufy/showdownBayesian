@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: wav3y vs. Michielleus</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-727455803" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/wav3y" class="subtle" target="_blank">wav3y</a> vs. <a href="http://pokemonshowdown.com/users/michielleus" class="subtle" target="_blank">Michielleus</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆wav3y
+|j|☆Michielleus
+|player|p1|wav3y|3
+|player|p2|Michielleus|56
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|45930,60749,46058,16365
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Gumshoos|Gumshoos, L83, M|282\/282
+|switch|p2a: Hydreigon|Hydreigon, L77, M|268\/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)
+|
+|switch|p2a: Magearna|Magearna, L75|244\/244
+|move|p1a: Gumshoos|U-turn|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|226\/244
+|
+|switch|p1a: Nidoking|Nidoking, L77, M|251\/251|[from]move: U-turn
+|
+|-heal|p2a: Magearna|241\/244|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|wav3y has 135 seconds left.
+|inactive|Michielleus has 135 seconds left.
+|
+|switch|p2a: Hydreigon|Hydreigon, L77, M|268\/268
+|move|p1a: Nidoking|Fire Blast|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|234\/268
+|
+|upkeep
+|turn|3
+|inactive|wav3y has 135 seconds left.
+|
+|switch|p1a: Gumshoos|Gumshoos, L83, M|282\/282
+|move|p2a: Hydreigon|Draco Meteor|p1a: Gumshoos
+|-damage|p1a: Gumshoos|83\/282
+|-unboost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|4
+|inactive|wav3y has 135 seconds left.
+|
+|switch|p1a: Toxicroak|Toxicroak, L81, F|267\/267
+|move|p2a: Hydreigon|Draco Meteor|p1a: Toxicroak
+|-damage|p1a: Toxicroak|171\/267
+|-unboost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Zapdos|Zapdos, L75|259\/259
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Toxicroak|Drain Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|204\/259
+|-heal|p1a: Toxicroak|199\/267|[from] drain|[of] p2a: Zapdos
+|-damage|p1a: Toxicroak|173\/267|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|inactive|wav3y has 135 seconds left.
+|
+|switch|p1a: Nidoking|Nidoking, L77, M|251\/251
+|move|p2a: Zapdos|Thunderbolt|p1a: Nidoking
+|-immune|p1a: Nidoking|[msg]
+|
+|upkeep
+|turn|7
+|
+|move|p2a: Zapdos|Hidden Power|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|126\/251
+|-damage|p2a: Zapdos|179\/259|[from] item: Life Orb
+|move|p1a: Nidoking|Sludge Wave|p2a: Zapdos
+|-damage|p2a: Zapdos|35\/259
+|
+|upkeep
+|turn|8
+|inactive|wav3y has 135 seconds left.
+|
+|switch|p1a: Tyranitar|Tyranitar, L75, F|274\/274
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Hidden Power|p1a: Tyranitar
+|-damage|p1a: Tyranitar|238\/274
+|-damage|p2a: Zapdos|10\/259|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|0 fnt|[from] Sandstorm
+|upkeep
+|faint|p2a: Zapdos
+|
+|switch|p2a: Magearna|Magearna, L75|241\/244
+|turn|9
+|inactive|wav3y has 135 seconds left.
+|
+|-mega|p1a: Tyranitar|Tyranitar|Tyranitarite
+|detailschange|p1a: Tyranitar|Tyranitar-Mega, L75, F
+|move|p1a: Tyranitar|Earthquake|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|77\/244
+|move|p2a: Magearna|Aura Sphere|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|14\/274
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Magearna|92\/244|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|wav3y has 135 seconds left.
+|
+|move|p1a: Tyranitar|Ice Punch|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|64\/244
+|move|p2a: Magearna|Shift Gear|p2a: Magearna
+|-boost|p2a: Magearna|spe|2
+|-boost|p2a: Magearna|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Magearna|79\/244|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|wav3y has 135 seconds left.
+|
+|move|p2a: Magearna|Aura Sphere|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Magearna|94\/244|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Toxicroak|Toxicroak, L81, F|173\/267
+|turn|12
+|
+|move|p1a: Toxicroak|Sucker Punch|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|65\/244
+|-damage|p1a: Toxicroak|147\/267|[from] item: Life Orb
+|move|p2a: Magearna|Fleur Cannon|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|-unboost|p2a: Magearna|spa|2
+|faint|p1a: Toxicroak
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|-weather|none
+|-heal|p2a: Magearna|80\/244|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Crawdaunt|Crawdaunt, L77, F|224\/224
+|turn|13
+|
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Magearna
+|-damage|p2a: Magearna|7\/244
+|-damage|p1a: Crawdaunt|202\/224|[from] item: Life Orb
+|move|p2a: Magearna|Fleur Cannon|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-crit|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|-unboost|p2a: Magearna|spa|2
+|faint|p1a: Crawdaunt
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|-heal|p2a: Magearna|22\/244|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Nidoking|Nidoking, L77, M|126\/251
+|turn|14
+|
+|move|p2a: Magearna|Fleur Cannon|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|64\/251
+|-unboost|p2a: Magearna|spa|2
+|move|p1a: Nidoking|Earth Power|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|
+|upkeep
+|
+|switch|p2a: Hydreigon|Hydreigon, L77, M|234\/268
+|turn|15
+|
+|switch|p1a: Gumshoos|Gumshoos, L83, M|83\/282
+|move|p2a: Hydreigon|Flash Cannon|p1a: Gumshoos
+|-damage|p1a: Gumshoos|0 fnt
+|faint|p1a: Gumshoos
+|
+|upkeep
+|
+|switch|p1a: Pheromosa|Pheromosa, L73|224\/224
+|turn|16
+|
+|switch|p2a: Gyarados|Gyarados, L75, M|266\/266
+|move|p1a: Pheromosa|Bug Buzz|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|216\/266
+|
+|upkeep
+|turn|17
+|
+|move|p1a: Pheromosa|Ice Beam|p2a: Gyarados
+|-damage|p2a: Gyarados|154\/266
+|move|p2a: Gyarados|Waterfall|p1a: Pheromosa
+|-damage|p1a: Pheromosa|43\/224
+|
+|upkeep
+|turn|18
+|c|☆wav3y|gg
+|c|☆Michielleus|gg
+|-message|wav3y forfeited.
+|
+|win|Michielleus
+|l|☆wav3y
+|raw|wav3y's rating: 2433 &rarr; <strong>2408<\/strong><br \/>(-25 for losing)
+|raw|Michielleus's rating: 2358 &rarr; <strong>2382<\/strong><br \/>(+24 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆wav3y and ☆Michielleus joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between wav3y and Michielleus!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gumshoos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)</div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Hydreigon!<br></div><div class="battle-history">Michielleus sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gumshoos used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−18/244">7.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gumshoos went back to wav3y!<br></div><div class="battle-history">Go! <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="chat message-error">Michielleus has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Magearna!<br></div><div class="battle-history">Michielleus sent out <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Hydreigon lost <abbr title="−34/268">12.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking, come back!<br></div><div class="battle-history">Go! <strong>Gumshoos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hydreigon used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Gumshoos lost <abbr title="−199/282">70.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hydreigon's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gumshoos, come back!<br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hydreigon used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−96/267">36.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hydreigon's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Hydreigon!<br></div><div class="battle-history">Michielleus sent out <strong>Zapdos</strong>!<br></div><div class="battle-history">[The opposing Zapdos's Pressure]<br><small>The opposing Zapdos is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Zapdos lost <abbr title="−55/259">21.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Zapdos had its energy drained!</small><br></div><div class="battle-history"><small>Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak, come back!<br></div><div class="battle-history">Go! <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It doesn't affect Nidoking...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Nidoking lost <abbr title="−125/251">49.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Zapdos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(The opposing Zapdos lost <abbr title="−144/259">55.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking, come back!<br></div><div class="battle-history">Go! <strong>Tyranitar</strong>!<br></div><div class="battle-history">[Tyranitar's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Tyranitar lost <abbr title="−36/274">13.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Zapdos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Zapdos is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zapdos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tyranitar's Tyranitarite is reacting to the Key Stone!</small><br>Tyranitar has Mega Evolved into Mega Tyranitar!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tyranitar used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−164/244">67.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Aura Sphere</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Tyranitar lost <abbr title="−224/274">81.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Tyranitar used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−28/244">11.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Shift Gear</strong>!<br></div><div class="battle-history"><small>The opposing Magearna's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Magearna's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">wav3y has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Aura Sphere</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tyranitar lost <abbr title="−14/274">5.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tyranitar fainted!<br></div><div class="battle-history">[The opposing Magearna's Soul-Heart]<br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−29/244">11.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Fleur Cannon</strong>!<br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−147/267">55.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak fainted!<br></div><div class="battle-history">[The opposing Magearna's Soul-Heart]<br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The sandstorm subsided.</small><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−73/244">29.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Fleur Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Crawdaunt lost <abbr title="−202/224">90.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt fainted!<br></div><div class="battle-history">[The opposing Magearna's Soul-Heart]<br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magearna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Fleur Cannon</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Nidoking lost <abbr title="−62/251">24.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−22/244">9.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nidoking, come back!<br></div><div class="battle-history">Go! <strong>Gumshoos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hydreigon used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Gumshoos lost <abbr title="−83/282">29.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gumshoos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Pheromosa</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Hydreigon!<br></div><div class="battle-history">Michielleus sent out <strong>Gyarados</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pheromosa used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Gyarados lost <abbr title="−50/266">18.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pheromosa used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Gyarados lost <abbr title="−62/266">23.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gyarados used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(Pheromosa lost <abbr title="−181/224">80.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat chatmessage-wav3y"><strong style="color:#306ad6"><small>☆</small><span class="username" data-name="wav3y">wav3y</span>:</strong> <em>gg</em></div><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>wav3y forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Michielleus</strong> won the battle!<br></div><div class="chat"><small>☆wav3y left</small></div><div class="chat">wav3y's rating: 2433 → <strong>2408</strong><br>(-25 for losing)</div><div class="chat">Michielleus's rating: 2358 → <strong>2382</strong><br>(+24 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

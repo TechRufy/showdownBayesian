@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Norman2! vs. risbo</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-878613229" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/norman2" class="subtle" target="_blank">Norman2!</a> vs. <a href="http://pokemonshowdown.com/users/risbo" class="subtle" target="_blank">risbo</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Norman2!
+|j|☆risbo
+|player|p1|Norman2!|37
+|player|p2|risbo|red-gen1
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Stantler|Stantler, L84, F|260\/260
+|switch|p2a: Mesprit|Mesprit, L83|268\/268
+|turn|1
+|
+|switch|p2a: Giratina|Giratina, L73|339\/339
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Stantler|Double-Edge|p2a: Giratina
+|-immune|p2a: Giratina
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Suicune|Suicune, L77|281\/281
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Giratina|Dragon Tail|p1a: Suicune
+|-damage|p1a: Suicune|238\/281
+|drag|p1a: Excadrill|Excadrill, L75, F|289\/289
+|-ability|p1a: Excadrill|Mold Breaker
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Norman2!)
+|
+|switch|p1a: Suicune|Suicune, L77|238\/281
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Giratina|Dragon Tail|p1a: Suicune
+|-damage|p1a: Suicune|195\/281
+|drag|p1a: Claydol|Claydol, L83|235\/235
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: Hitmonlee|Hitmonlee, L81, M|214\/214
+|move|p1a: Claydol|Stealth Rock|p2a: Hitmonlee
+|-sidestart|p2: risbo|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|move|p2a: Hitmonlee|Knock Off|p1a: Claydol
+|-supereffective|p1a: Claydol
+|-damage|p1a: Claydol|51\/235
+|-enditem|p1a: Claydol|Leftovers|[from] move: Knock Off|[of] p2a: Hitmonlee
+|move|p1a: Claydol|Psychic|p2a: Hitmonlee
+|-supereffective|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|94\/214
+|
+|upkeep
+|turn|6
+|
+|move|p2a: Hitmonlee|Knock Off|p1a: Claydol
+|-supereffective|p1a: Claydol
+|-damage|p1a: Claydol|0 fnt
+|faint|p1a: Claydol
+|
+|upkeep
+|
+|switch|p1a: Stantler|Stantler, L84, F|260\/260
+|turn|7
+|
+|switch|p2a: Giratina|Giratina, L73|339\/339
+|-damage|p2a: Giratina|297\/339|[from] Stealth Rock
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Stantler|Earthquake|p2a: Giratina
+|-damage|p2a: Giratina|209\/339
+|-damage|p1a: Stantler|234\/260|[from] item: Life Orb
+|
+|-heal|p2a: Giratina|230\/339|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|switch|p1a: Suicune|Suicune, L77|195\/281
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Giratina|Rest|p2a: Giratina
+|-status|p2a: Giratina|slp
+|-heal|p2a: Giratina|339\/339 slp|[silent]
+|-status|p2a: Giratina|slp|[from] move: Rest
+|
+|-heal|p1a: Suicune|212\/281|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|move|p1a: Suicune|Scald|p2a: Giratina
+|-resisted|p2a: Giratina
+|-damage|p2a: Giratina|306\/339 slp
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Pulse|p1a: Suicune|[from]Sleep Talk
+|-damage|p1a: Suicune|143\/281
+|
+|-heal|p1a: Suicune|160\/281|[from] item: Leftovers
+|-heal|p2a: Giratina|327\/339 slp|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Pulse|p1a: Suicune|[from]Sleep Talk
+|-damage|p1a: Suicune|117\/281
+|
+|-heal|p1a: Suicune|134\/281|[from] item: Leftovers
+|-heal|p2a: Giratina|339\/339 slp|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|switch|p2a: Tentacruel|Tentacruel, L77, F|250\/250
+|-damage|p2a: Tentacruel|219\/250|[from] Stealth Rock
+|move|p1a: Suicune|Ice Beam|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|199\/250
+|
+|-heal|p1a: Suicune|151\/281|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|move|p2a: Tentacruel|Rapid Spin|p1a: Suicune
+|-damage|p1a: Suicune|142\/281
+|-sideend|p2: risbo|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Tentacruel
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|159\/281|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: Tentacruel|Acid Spray|p1a: Suicune
+|-damage|p1a: Suicune|146\/281
+|-unboost|p1a: Suicune|spd|2
+|move|p1a: Suicune|Scald|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|163\/250
+|
+|-heal|p1a: Suicune|163\/281|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|move|p2a: Tentacruel|Scald|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|137\/281
+|-status|p1a: Suicune|brn
+|move|p1a: Suicune|Scald|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|127\/250
+|
+|-heal|p1a: Suicune|154\/281 brn|[from] item: Leftovers
+|-damage|p1a: Suicune|137\/281 brn|[from] brn
+|upkeep
+|turn|15
+|
+|move|p2a: Tentacruel|Acid Spray|p1a: Suicune
+|-damage|p1a: Suicune|107\/281 brn
+|-unboost|p1a: Suicune|spd|2
+|move|p1a: Suicune|Scald|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|89\/250
+|
+|-heal|p1a: Suicune|124\/281 brn|[from] item: Leftovers
+|-damage|p1a: Suicune|107\/281 brn|[from] brn
+|upkeep
+|turn|16
+|
+|switch|p1a: Kyurem|Kyurem, L78|323\/323
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|245\/323
+|-status|p1a: Kyurem|psn
+|
+|-heal|p1a: Kyurem|265\/323 psn|[from] item: Leftovers
+|-damage|p1a: Kyurem|225\/323 psn|[from] psn
+|upkeep
+|turn|17
+|
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|158\/323 psn
+|move|p1a: Kyurem|Draco Meteor|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|-unboost|p1a: Kyurem|spa|2
+|faint|p2a: Tentacruel
+|
+|-heal|p1a: Kyurem|178\/323 psn|[from] item: Leftovers
+|-damage|p1a: Kyurem|138\/323 psn|[from] psn
+|upkeep
+|inactive|risbo has 120 seconds left.
+|
+|switch|p2a: Sharpedo|Sharpedo, L77, M|234\/234
+|turn|18
+|
+|detailschange|p2a: Sharpedo|Sharpedo-Mega, L77, M
+|-mega|p2a: Sharpedo|Sharpedo|Sharpedonite
+|move|p2a: Sharpedo|Crunch|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|switch|p1a: Machamp|Machamp, L79, F|272\/272
+|turn|19
+|inactive|risbo has 120 seconds left.
+|
+|switch|p2a: Mesprit|Mesprit, L83|268\/268
+|move|p1a: Machamp|Substitute|p1a: Machamp
+|-start|p1a: Machamp|Substitute
+|-damage|p1a: Machamp|204\/272
+|
+|-heal|p1a: Machamp|221\/272|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p2a: Mesprit|Psyshock|p1a: Machamp
+|-supereffective|p1a: Machamp
+|-end|p1a: Machamp|Substitute
+|move|p1a: Machamp|Ice Punch|p2a: Mesprit
+|-damage|p2a: Mesprit|213\/268
+|
+|-heal|p2a: Mesprit|229\/268|[from] item: Leftovers
+|-heal|p1a: Machamp|238\/272|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p1a: Excadrill|Excadrill, L75, F|289\/289
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Mesprit|Psyshock|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|229\/289
+|
+|-heal|p2a: Mesprit|245\/268|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|switch|p2a: Sharpedo|Sharpedo-Mega, L77, M|234\/234
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|23
+|
+|switch|p1a: Machamp|Machamp, L79, F|238\/272
+|move|p2a: Sharpedo|Waterfall|p1a: Machamp
+|-damage|p1a: Machamp|133\/272
+|
+|-heal|p1a: Machamp|150\/272|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p2a: Mesprit|Mesprit, L83|245\/268
+|move|p1a: Machamp|Dynamic Punch|p2a: Mesprit
+|-resisted|p2a: Mesprit
+|-damage|p2a: Mesprit|191\/268
+|-start|p2a: Mesprit|confusion
+|
+|-heal|p2a: Mesprit|207\/268|[from] item: Leftovers
+|-heal|p1a: Machamp|167\/272|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|switch|p1a: Excadrill|Excadrill, L75, F|229\/289
+|-ability|p1a: Excadrill|Mold Breaker
+|-activate|p2a: Mesprit|confusion
+|move|p2a: Mesprit|Psyshock|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|167\/289
+|
+|-heal|p2a: Mesprit|223\/268|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|switch|p2a: Sharpedo|Sharpedo-Mega, L77, M|234\/234
+|move|p1a: Excadrill|Earthquake|p2a: Sharpedo
+|-damage|p2a: Sharpedo|34\/234
+|-damage|p1a: Excadrill|139\/289|[from] item: Life Orb
+|
+|upkeep
+|turn|27
+|
+|switch|p1a: Suicune|Suicune, L77|107\/281 brn
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Sharpedo|Waterfall|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|68\/281 brn
+|
+|-heal|p1a: Suicune|85\/281 brn|[from] item: Leftovers
+|-damage|p1a: Suicune|68\/281 brn|[from] brn
+|upkeep
+|turn|28
+|
+|move|p2a: Sharpedo|Crunch|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|upkeep
+|
+|switch|p1a: Machamp|Machamp, L79, F|167\/272
+|turn|29
+|
+|switch|p2a: Mesprit|Mesprit, L83|223\/268
+|move|p1a: Machamp|Ice Punch|p2a: Mesprit
+|-damage|p2a: Mesprit|166\/268
+|-status|p2a: Mesprit|frz
+|
+|-heal|p2a: Mesprit|182\/268 frz|[from] item: Leftovers
+|-heal|p1a: Machamp|184\/272|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p2a: Giratina|Giratina, L73|339\/339 slp
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Machamp|Substitute|p1a: Machamp
+|-start|p1a: Machamp|Substitute
+|-damage|p1a: Machamp|116\/272
+|
+|-heal|p1a: Machamp|133\/272|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|-curestatus|p2a: Giratina|slp|[msg]
+|move|p2a: Giratina|Dragon Pulse|p1a: Machamp
+|-end|p1a: Machamp|Substitute
+|move|p1a: Machamp|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|223\/339
+|-status|p2a: Giratina|frz
+|
+|-heal|p2a: Giratina|244\/339 frz|[from] item: Leftovers
+|-heal|p1a: Machamp|150\/272|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|switch|p2a: Hitmonlee|Hitmonlee, L81, M|94\/214
+|move|p1a: Machamp|Ice Punch|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|2\/214
+|
+|-heal|p1a: Machamp|167\/272|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p1a: Excadrill|Excadrill, L75, F|139\/289
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Hitmonlee|High Jump Kick|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|switch|p1a: Stantler|Stantler, L84, F|234\/260
+|turn|34
+|
+|move|p1a: Stantler|Sucker Punch|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|-damage|p1a: Stantler|208\/260|[from] item: Life Orb
+|faint|p2a: Hitmonlee
+|
+|upkeep
+|
+|switch|p2a: Glaceon|Glaceon, L84, M|246\/246
+|turn|35
+|
+|move|p1a: Stantler|Jump Kick|p2a: Glaceon|[miss]
+|-miss|p1a: Stantler|p2a: Glaceon
+|-damage|p1a: Stantler|78\/260|[from] Jump Kick
+|move|p2a: Glaceon|Heal Bell|p2a: Glaceon
+|-activate|p2a: Glaceon|move: Heal Bell
+|-curestatus|p2: Mesprit|frz|[msg]
+|-curestatus|p2: Giratina|frz|[msg]
+|
+|upkeep
+|turn|36
+|
+|switch|p2a: Giratina|Giratina, L73|244\/339
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Stantler|Double-Edge|p2a: Giratina
+|-immune|p2a: Giratina
+|
+|-heal|p2a: Giratina|265\/339|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|move|p1a: Stantler|Sucker Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-crit|p2a: Giratina
+|-damage|p2a: Giratina|88\/339
+|-damage|p1a: Stantler|52\/260|[from] item: Life Orb
+|move|p2a: Giratina|Dragon Pulse|p1a: Stantler
+|-crit|p1a: Stantler
+|-damage|p1a: Stantler|0 fnt
+|faint|p1a: Stantler
+|
+|-heal|p2a: Giratina|109\/339|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Machamp|Machamp, L79, F|167\/272
+|turn|38
+|
+|move|p2a: Giratina|Dragon Pulse|p1a: Machamp
+|-damage|p1a: Machamp|88\/272
+|move|p1a: Machamp|Ice Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|-heal|p1a: Machamp|105\/272|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Mesprit|Mesprit, L83|182\/268
+|turn|39
+|-message|Norman2! forfeited.
+|
+|win|risbo
+|l|☆Norman2!
+|raw|Norman2!'s rating: 2450 &rarr; <strong>2426<\/strong><br \/>(-24 for losing)
+|raw|risbo's rating: 2383 &rarr; <strong>2407<\/strong><br \/>(+24 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Norman2! and ☆risbo joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Norman2! and risbo!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stantler</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">risbo sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Mesprit!<br></div><div class="battle-history">risbo sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Giratina...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stantler, come back!<br></div><div class="battle-history">Go! <strong>Suicune</strong>!<br></div><div class="battle-history">[Suicune's Pressure]<br><small>Suicune is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−43/281">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Excadrill</strong> was dragged out!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Norman2!)</div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill, come back!<br></div><div class="battle-history">Go! <strong>Suicune</strong>!<br></div><div class="battle-history">[Suicune's Pressure]<br><small>Suicune is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−43/281">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Claydol</strong> was dragged out!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Giratina!<br></div><div class="battle-history">risbo sent out <strong>Hitmonlee</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Claydol used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmonlee used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Claydol lost <abbr title="−184/235">78.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hitmonlee knocked off Claydol's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Hitmonlee lost <abbr title="−120/214">56.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmonlee used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Claydol lost <abbr title="−51/235">21.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Claydol fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stantler</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Hitmonlee!<br></div><div class="battle-history">risbo sent out <strong>Giratina</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Giratina!</small><br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−88/339">26.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stantler, come back!<br></div><div class="battle-history">Go! <strong>Suicune</strong>!<br></div><div class="battle-history">[Suicune's Pressure]<br><small>Suicune is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Giratina fell asleep!</small><br></div><div class="battle-history"><small>The opposing Giratina slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−33/339">9.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−69/281">24.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Suicune's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Suicune's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−43/281">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Giratina!<br></div><div class="battle-history">risbo sent out <strong>Tentacruel</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tentacruel!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−20/250">8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Rapid Spin</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−9/281">3.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Suicune's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Suicune's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Acid Spray</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−13/281">4.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Suicune's Sp. Def fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−36/250">14.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Suicune lost <abbr title="−26/281">9.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Suicune was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−36/250">14.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Suicune was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Acid Spray</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−30/281">10.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Suicune's Sp. Def fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−38/250">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Suicune was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Suicune, come back!<br></div><div class="battle-history">Go! <strong>Kyurem</strong>!<br></div><div class="battle-history">[Kyurem's Pressure]<br><small>Kyurem is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Kyurem lost <abbr title="−78/323">24.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kyurem was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Kyurem was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Kyurem lost <abbr title="−67/323">20.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−89/250">35.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kyurem's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Kyurem was hurt by poison!</small><br></div><div class="chat message-error">risbo has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">risbo sent out <strong>Sharpedo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sharpedo's Sharpedonite is reacting to the Key Stone!</small><br>The opposing Sharpedo has Mega Evolved into Mega Sharpedo!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Kyurem lost <abbr title="−138/323">42.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">risbo has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Sharpedo!<br></div><div class="battle-history">risbo sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Machamp put in a substitute!</small><br></div><div class="battle-history"><small>(Machamp lost <abbr title="−68/272">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mesprit used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Machamp's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Mesprit lost <abbr title="−55/268">20.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Machamp, come back!<br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mesprit used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−60/289">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Mesprit!<br></div><div class="battle-history">risbo sent out Sharpedo (<strong>Sharpedo-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Excadrill's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill, come back!<br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(Machamp lost <abbr title="−105/272">38.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Sharpedo!<br></div><div class="battle-history">risbo sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Mesprit lost <abbr title="−54/268">20.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mesprit became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Machamp, come back!<br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit is confused!</small><br></div><div class="battle-history">The opposing Mesprit used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−62/289">21.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Mesprit!<br></div><div class="battle-history">risbo sent out Sharpedo (<strong>Sharpedo-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Sharpedo lost <abbr title="−200/234">85.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill, come back!<br></div><div class="battle-history">Go! <strong>Suicune</strong>!<br></div><div class="battle-history">[Suicune's Pressure]<br><small>Suicune is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Suicune lost <abbr title="−39/281">13.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Suicune restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Suicune was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Suicune lost <abbr title="−68/281">24.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Suicune fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Sharpedo!<br></div><div class="battle-history">risbo sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Mesprit lost <abbr title="−57/268">21.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mesprit was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mesprit restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Mesprit!<br></div><div class="battle-history">risbo sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Machamp put in a substitute!</small><br></div><div class="battle-history"><small>(Machamp lost <abbr title="−68/272">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>Machamp's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−116/339">34.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Giratina was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Giratina!<br></div><div class="battle-history">risbo sent out <strong>Hitmonlee</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Hitmonlee lost <abbr title="−92/214">43.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Machamp, come back!<br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmonlee used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−139/289">48.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stantler</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Hitmonlee lost <abbr title="−2/214">0.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmonlee fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">risbo sent out <strong>Glaceon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Jump Kick</strong>!<br></div><div class="battle-history"><small>The opposing Glaceon avoided the attack!</small><br></div><div class="battle-history"><small>Stantler kept going and crashed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Glaceon used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>The opposing Mesprit thawed out!</small><br></div><div class="battle-history"><small>The opposing Giratina thawed out!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">risbo withdrew Glaceon!<br></div><div class="battle-history">risbo sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Giratina...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stantler used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−177/339">52.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Stantler lost <abbr title="−52/260">20%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stantler fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>(Machamp lost <abbr title="−79/272">29.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Machamp used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−109/339">32.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Machamp restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">risbo sent out <strong>Mesprit</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Norman2! forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>risbo</strong> won the battle!<br></div><div class="chat"><small>☆Norman2! left</small></div><div class="chat">Norman2!'s rating: 2450 → <strong>2426</strong><br>(-24 for losing)</div><div class="chat">risbo's rating: 2383 → <strong>2407</strong><br>(+24 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

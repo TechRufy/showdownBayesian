@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: chemcoop vs. RomeoArturia</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-832046044" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/chemcoop" class="subtle" target="_blank">chemcoop</a> vs. <a href="http://pokemonshowdown.com/users/romeoarturia" class="subtle" target="_blank">RomeoArturia</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆chemcoop
+|j|‽RomeoArturia
+|player|p1|chemcoop|161
+|player|p2|RomeoArturia|152
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|54662,10592,47634,53129
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Manectric|Manectric, L77, F|234\/234
+|switch|p2a: Noctowl|Noctowl, L83, F|302\/302
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)
+|
+|detailschange|p1a: Manectric|Manectric-Mega, L77, F
+|-mega|p1a: Manectric|Manectric|Manectite
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Noctowl|atk|1
+|move|p1a: Manectric|Volt Switch|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|150\/302
+|
+|switch|p1a: Dunsparce|Dunsparce, L83, F|302\/302|[from]move: Volt Switch
+|move|p2a: Noctowl|Heat Wave|p1a: Dunsparce
+|-damage|p1a: Dunsparce|226\/302
+|
+|-heal|p2a: Noctowl|168\/302|[from] item: Leftovers
+|-heal|p1a: Dunsparce|244\/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|move|p2a: Noctowl|Air Slash|p1a: Dunsparce
+|-crit|p1a: Dunsparce
+|-damage|p1a: Dunsparce|121\/302
+|move|p1a: Dunsparce|Body Slam|p2a: Noctowl
+|-damage|p2a: Noctowl|62\/302
+|-status|p2a: Noctowl|par
+|
+|-heal|p1a: Dunsparce|139\/302|[from] item: Leftovers
+|-heal|p2a: Noctowl|80\/302 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|switch|p2a: Spiritomb|Spiritomb, L83, M|219\/219
+|move|p1a: Dunsparce|Stealth Rock|p2a: Spiritomb
+|-sidestart|p2: RomeoArturia|move: Stealth Rock
+|
+|-heal|p1a: Dunsparce|157\/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|switch|p1a: Beartic|Beartic, L83, M|293\/293
+|move|p2a: Spiritomb|Dark Pulse|p1a: Beartic
+|-damage|p1a: Beartic|209\/293
+|
+|upkeep
+|turn|5
+|
+|move|p1a: Beartic|Swords Dance|p1a: Beartic
+|-boost|p1a: Beartic|atk|2
+|move|p2a: Spiritomb|Dark Pulse|p1a: Beartic
+|-damage|p1a: Beartic|122\/293
+|
+|upkeep
+|turn|6
+|
+|move|p2a: Spiritomb|Sucker Punch|p1a: Beartic
+|-damage|p1a: Beartic|44\/293
+|move|p1a: Beartic|Icicle Crash|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|-damage|p1a: Beartic|15\/293|[from] item: Life Orb
+|faint|p2a: Spiritomb
+|
+|upkeep
+|
+|switch|p2a: Lycanroc|Lycanroc-Midnight, L83, F|277\/277
+|-damage|p2a: Lycanroc|243\/277|[from] Stealth Rock
+|turn|7
+|
+|move|p2a: Lycanroc|Sucker Punch|p1a: Beartic
+|-crit|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|-damage|p2a: Lycanroc|216\/277|[from] item: Life Orb
+|faint|p1a: Beartic
+|
+|upkeep
+|
+|switch|p1a: Roserade|Roserade, L79, F|224\/224
+|turn|8
+|inactive|RomeoArturia has 120 seconds left.
+|
+|switch|p2a: Scolipede|Scolipede, L76, F|215\/215
+|-damage|p2a: Scolipede|162\/215|[from] Stealth Rock
+|move|p1a: Roserade|Leaf Storm|p2a: Scolipede
+|-resisted|p2a: Scolipede
+|-damage|p2a: Scolipede|105\/215
+|-unboost|p1a: Roserade|spa|2
+|-damage|p1a: Roserade|202\/224|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|switch|p1a: Dunsparce|Dunsparce, L83, F|157\/302
+|move|p2a: Scolipede|Megahorn|p1a: Dunsparce
+|-damage|p1a: Dunsparce|1\/302
+|-damage|p2a: Scolipede|84\/215|[from] item: Life Orb
+|
+|-heal|p1a: Dunsparce|19\/302|[from] item: Leftovers
+|-ability|p2a: Scolipede|Speed Boost|boost
+|-boost|p2a: Scolipede|spe|1
+|upkeep
+|turn|10
+|
+|move|p2a: Scolipede|Poison Jab|p1a: Dunsparce
+|-damage|p1a: Dunsparce|0 fnt
+|-damage|p2a: Scolipede|63\/215|[from] item: Life Orb
+|faint|p1a: Dunsparce
+|
+|-ability|p2a: Scolipede|Speed Boost|boost
+|-boost|p2a: Scolipede|spe|1
+|upkeep
+|
+|switch|p1a: Manectric|Manectric-Mega, L77, F|234\/234
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Scolipede|atk|1
+|turn|11
+|
+|move|p2a: Scolipede|Poison Jab|p1a: Manectric
+|-damage|p1a: Manectric|164\/234
+|-damage|p2a: Scolipede|42\/215|[from] item: Life Orb
+|move|p1a: Manectric|Volt Switch|p2a: Scolipede
+|-damage|p2a: Scolipede|0 fnt
+|faint|p2a: Scolipede
+|
+|switch|p1a: Roserade|Roserade, L79, F|202\/224|[from]move: Volt Switch
+|
+|upkeep
+|
+|switch|p2a: Reuniclus|Reuniclus, L78, M|300\/300
+|turn|12
+|
+|switch|p1a: Grumpig|Grumpig, L83, M|268\/268
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|13
+|
+|move|p1a: Grumpig|Light Screen|p1a: Grumpig
+|-sidestart|p1: chemcoop|move: Light Screen
+|move|p2a: Reuniclus|Psyshock|p1a: Grumpig
+|-resisted|p1a: Grumpig
+|-damage|p1a: Grumpig|215\/268
+|
+|-heal|p1a: Grumpig|231\/268|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|move|p1a: Grumpig|Whirlwind|p2a: Reuniclus
+|drag|p2a: Crawdaunt|Crawdaunt, L77, F|224\/224
+|-damage|p2a: Crawdaunt|196\/224|[from] Stealth Rock
+|
+|-heal|p1a: Grumpig|247\/268|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|move|p1a: Grumpig|Toxic|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|tox
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|
+|-heal|p1a: Grumpig|263\/268|[from] item: Leftovers
+|-damage|p2a: Crawdaunt|182\/224 tox|[from] psn
+|upkeep
+|turn|16
+|
+|move|p2a: Crawdaunt|Knock Off|p1a: Grumpig
+|-supereffective|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|-enditem|p1a: Grumpig|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|160\/224 tox|[from] item: Life Orb
+|faint|p1a: Grumpig
+|
+|-damage|p2a: Crawdaunt|132\/224 tox|[from] psn
+|upkeep
+|
+|switch|p1a: Manectric|Manectric-Mega, L77, F|164\/234
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Crawdaunt|atk|1
+|turn|17
+|
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Manectric
+|-damage|p1a: Manectric|81\/234
+|-damage|p2a: Crawdaunt|110\/224 tox|[from] item: Life Orb
+|move|p1a: Manectric|Thunderbolt|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|-sideend|p1: chemcoop|move: Light Screen
+|upkeep
+|
+|switch|p2a: Reuniclus|Reuniclus, L78, M|300\/300
+|turn|18
+|
+|move|p1a: Manectric|Volt Switch|p2a: Reuniclus
+|-damage|p2a: Reuniclus|206\/300
+|
+|switch|p1a: Bellossom|Bellossom, L83, F|260\/260|[from]move: Volt Switch
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|19
+|
+|move|p1a: Bellossom|Sleep Powder|p2a: Reuniclus
+|-status|p2a: Reuniclus|slp
+|cant|p2a: Reuniclus|slp
+|
+|upkeep
+|turn|20
+|
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|-curestatus|p2a: Reuniclus|slp|[msg]
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|21
+|
+|move|p1a: Bellossom|Sleep Powder|p2a: Reuniclus
+|-status|p2a: Reuniclus|slp
+|cant|p2a: Reuniclus|slp
+|
+|upkeep
+|turn|22
+|
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|-curestatus|p2a: Reuniclus|slp|[msg]
+|move|p2a: Reuniclus|Psyshock|p1a: Bellossom
+|-damage|p1a: Bellossom|17\/260
+|
+|upkeep
+|turn|23
+|
+|move|p1a: Bellossom|Sleep Powder|p2a: Reuniclus
+|-status|p2a: Reuniclus|slp
+|cant|p2a: Reuniclus|slp
+|
+|upkeep
+|turn|24
+|
+|-zpower|p1a: Bellossom
+|move|p1a: Bellossom|Bloom Doom|p2a: Reuniclus|[zeffect]
+|-damage|p2a: Reuniclus|61\/300 slp
+|cant|p2a: Reuniclus|slp
+|
+|upkeep
+|turn|25
+|
+|move|p1a: Bellossom|Giga Drain|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|-heal|p1a: Bellossom|48\/260|[from] drain|[of] p2a: Reuniclus
+|faint|p2a: Reuniclus
+|
+|upkeep
+|
+|switch|p2a: Lycanroc|Lycanroc-Midnight, L83, F|216\/277
+|-damage|p2a: Lycanroc|182\/277|[from] Stealth Rock
+|turn|26
+|
+|move|p1a: Bellossom|Sleep Powder|p2a: Lycanroc
+|-status|p2a: Lycanroc|slp
+|cant|p2a: Lycanroc|slp
+|
+|upkeep
+|turn|27
+|
+|cant|p2a: Lycanroc|slp
+|move|p1a: Bellossom|Giga Drain|p2a: Lycanroc
+|-supereffective|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|-heal|p1a: Bellossom|139\/260|[from] drain|[of] p2a: Lycanroc
+|faint|p2a: Lycanroc
+|
+|upkeep
+|c|☆chemcoop|gg
+|l|‽RomeoArturia
+|inactive|RomeoArturia disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|RomeoArturia has 60 seconds to reconnect!
+|j| tessp
+|c| tessp|so sad
+|c|☆chemcoop|yeah
+|c|☆chemcoop|imagine losing and then doing this shit
+|c| tessp|lol
+|inactive|RomeoArturia has 30 seconds to reconnect!
+|c|☆chemcoop|no wonder that dude is permalocked lol
+|inactive|RomeoArturia has 20 seconds to reconnect!
+|c| tessp|he is pathetic
+|inactive|RomeoArturia has 15 seconds to reconnect!
+|inactive|RomeoArturia has 10 seconds to reconnect!
+|inactive|RomeoArturia has 5 seconds to reconnect!
+|-message|RomeoArturia lost due to inactivity.
+|
+|win|chemcoop
+|raw|chemcoop's rating: 2395 &rarr; <strong>2418<\/strong><br \/>(+23 for winning)
+|raw|RomeoArturia's rating: 2437 &rarr; <strong>2415<\/strong><br \/>(-22 for losing)
+|l|☆chemcoop
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆chemcoop and ‽RomeoArturia joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between chemcoop and RomeoArturia!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Manectric</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Noctowl</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by RomeoArturia)</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Manectric's Manectite is reacting to the Key Stone!</small><br>Manectric has Mega Evolved into Mega Manectric!<br></div><div class="battle-history">[Manectric's Intimidate]<br></div><div class="battle-history"><small>The opposing Noctowl's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Noctowl lost <abbr title="−152/302">50.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric went back to chemcoop!<br></div><div class="battle-history">Go! <strong>Dunsparce</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Noctowl used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>(Dunsparce lost <abbr title="−76/302">25.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Noctowl restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dunsparce restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Noctowl used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Dunsparce lost <abbr title="−123/302">40.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dunsparce used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Noctowl lost <abbr title="−106/302">35.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Noctowl is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dunsparce restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Noctowl restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Noctowl!<br></div><div class="battle-history">RomeoArturia sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dunsparce used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dunsparce restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dunsparce, come back!<br></div><div class="battle-history">Go! <strong>Beartic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−84/293">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Beartic used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Beartic's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−87/293">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−78/293">26.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−219/219">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Beartic lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out Lycanroc (<strong>Lycanroc-Midnight</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lycanroc!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Beartic lost <abbr title="−15/293">5.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lycanroc lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">RomeoArturia has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia withdrew Lycanroc!<br></div><div class="battle-history">RomeoArturia sent out <strong>Scolipede</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Scolipede!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Roserade used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Scolipede lost <abbr title="−57/215">26.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Roserade's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>Roserade lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade, come back!<br></div><div class="battle-history">Go! <strong>Dunsparce</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scolipede used <strong>Megahorn</strong>!<br></div><div class="battle-history"><small>(Dunsparce lost <abbr title="−156/302">51.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scolipede lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dunsparce restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[The opposing Scolipede's Speed Boost]<br></div><div class="battle-history"><small>The opposing Scolipede's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scolipede used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>(Dunsparce lost <abbr title="−19/302">6.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scolipede lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dunsparce fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Scolipede's Speed Boost]<br></div><div class="battle-history"><small>The opposing Scolipede's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[Manectric's Intimidate]<br></div><div class="battle-history"><small>The opposing Scolipede's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scolipede used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>(Manectric lost <abbr title="−70/234">29.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scolipede lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Scolipede lost <abbr title="−42/215">19.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scolipede fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric went back to chemcoop!<br></div><div class="battle-history">Go! <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Reuniclus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Roserade, come back!<br></div><div class="battle-history">Go! <strong>Grumpig</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Grumpig used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Grumpig lost <abbr title="−53/268">19.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Grumpig restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Grumpig used <strong>Whirlwind</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Crawdaunt</strong> was dragged out!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Crawdaunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Grumpig restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Grumpig used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Crawdaunt was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Crawdaunt's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Grumpig restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Grumpig lost <abbr title="−263/268">98.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt knocked off Grumpig's Leftovers!</small><br></div><div class="battle-history"><small>The opposing Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Grumpig fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crawdaunt was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[Manectric's Intimidate]<br></div><div class="battle-history"><small>The opposing Crawdaunt's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>(Manectric lost <abbr title="−83/234">35.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Crawdaunt lost <abbr title="−110/224">49.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out <strong>Reuniclus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Reuniclus lost <abbr title="−94/300">31.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manectric went back to chemcoop!<br></div><div class="battle-history">Go! <strong>Bellossom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Bellossom's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Bellossom's Sp. Def rose!</small><br></div><div class="battle-history"><small>Bellossom's Speed rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Bellossom's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Bellossom's Sp. Def rose!</small><br></div><div class="battle-history"><small>Bellossom's Speed rose!</small><br></div><div class="battle-history"><small>The opposing Reuniclus woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Bellossom lost <abbr title="−243/260">93.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Reuniclus fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Bellossom surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Bellossom unleashes its full-force Z-Move!</small><br>Bellossom used <strong>Bloom Doom</strong>!<br></div><div class="battle-history"><small>(The opposing Reuniclus lost <abbr title="−145/300">48.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Reuniclus lost <abbr title="−61/300">20.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Reuniclus had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RomeoArturia sent out Lycanroc (<strong>Lycanroc-Midnight</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lycanroc!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Lycanroc fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lycanroc lost <abbr title="−182/277">65.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lycanroc had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc fainted!<br></div><div class="chat chatmessage-chemcoop"><strong style="color:#c01dc9"><small>☆</small><span class="username" data-name="chemcoop">chemcoop</span>:</strong> <em>gg</em></div><div class="chat"><small>‽RomeoArturia left</small></div><div class="chat message-error">RomeoArturia disconnected and has a minute to reconnect!</div><div class="chat message-error">RomeoArturia has 60 seconds to reconnect!</div><div class="chat"><small> tessp joined</small></div><div class="chat chatmessage-tessp"><strong style="color:#3d948c"><small> </small><span class="username" data-name="tessp">tessp</span>:</strong> <em>so sad</em></div><div class="chat chatmessage-chemcoop"><strong style="color:#c01dc9"><small>☆</small><span class="username" data-name="chemcoop">chemcoop</span>:</strong> <em>yeah</em></div><div class="chat chatmessage-chemcoop"><strong style="color:#c01dc9"><small>☆</small><span class="username" data-name="chemcoop">chemcoop</span>:</strong> <em>imagine losing and then doing this shit</em></div><div class="chat chatmessage-tessp"><strong style="color:#3d948c"><small> </small><span class="username" data-name="tessp">tessp</span>:</strong> <em>lol</em></div><div class="chat message-error">RomeoArturia has 30 seconds to reconnect!</div><div class="chat chatmessage-chemcoop"><strong style="color:#c01dc9"><small>☆</small><span class="username" data-name="chemcoop">chemcoop</span>:</strong> <em>no wonder that dude is permalocked lol</em></div><div class="chat message-error">RomeoArturia has 20 seconds to reconnect!</div><div class="chat chatmessage-tessp"><strong style="color:#3d948c"><small> </small><span class="username" data-name="tessp">tessp</span>:</strong> <em>he is pathetic</em></div><div class="chat message-error">RomeoArturia has 15 seconds to reconnect!</div><div class="chat message-error">RomeoArturia has 10 seconds to reconnect!</div><div class="chat message-error">RomeoArturia has 5 seconds to reconnect!</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>RomeoArturia lost due to inactivity.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>chemcoop</strong> won the battle!<br></div><div class="chat">chemcoop's rating: 2395 → <strong>2418</strong><br>(+23 for winning)</div><div class="chat">RomeoArturia's rating: 2437 → <strong>2415</strong><br>(-22 for losing)</div><div class="chat"><small>☆chemcoop left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
