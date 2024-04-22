@@ -14,11 +14,12 @@ def parser(log_data):
         pokedexfile.close()
 
     df = pd.DataFrame(columns=["User", "Sufferer", "name move", "TypesU",
-                               "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather", "categoryMove", "Choose"])
+                               "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather", "categoryMove",
+                               "Status enemy", "Choose"])
 
     df2 = pd.DataFrame(
-        columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPout", "HPEnemy",
-                 "Switch"])
+        columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPout", "HPEnemy", "StatusP",
+                 "Weather","Switch", ])
 
     # Regular expressions for different types of log entries
     switch_regex = re.compile(r'\|switch\|p\da: (.*?)\|(.*?)\|[0-9]+\\/[0-9]+')
@@ -30,8 +31,20 @@ def parser(log_data):
     team = {"p1a": [], "p2a": []}
     mapping_table = str.maketrans({' ': '', '-': '', '\'': ''})
     pokemon = {"p1a Pokemon": None, "p2a Pokemon": None, "hp p1a": -1, "hp p2a": -1, "weather": "none",
-               "p1a mosse": [], "p2a mosse": []}
+               "p1a mosse": [], "p2a mosse": [], "p1a status": "normal", "p2a status": "normal"}
     for line in log_data:
+        if line.startswith('|-status|'):
+            group = line.split("|")
+            if group[2].startswith("p1a"):
+                pokemon["p1a status"] = group[3]
+            if group[2].startswith("p2a"):
+                pokemon["p2a status"] = group[3]
+        if line.startswith('|-curestatus|'):
+            group = line.split("|")
+            if group[2].startswith("p1a"):
+                pokemon["p1a status"] = "normal"
+            if group[2].startswith("p2a"):
+                pokemon["p2a status"] = "normal"
         if line.startswith('|drag|'):
             match = drag_regex.match(line)
             matches = match.group().split("|")
@@ -77,6 +90,8 @@ def parser(log_data):
                                                  "types"],
                                              pokemon["hp p1a"],
                                              pokemon["hp p2a"],
+                                             pokemon["p1a status"],
+                                             pokemon["weather"],
                                              1]
                         for pkmn in team["p1a"]:
                             if pkmn == token[5:] or pkmn == pokemon["p1a Pokemon"]:
@@ -96,6 +111,8 @@ def parser(log_data):
                                                      "types"],
                                                  pokemon["hp p1a"],
                                                  pokemon["hp p2a"],
+                                                 pokemon["p1a status"],
+                                                 pokemon["weather"],
                                                  0]
                     pokemon["p1a Pokemon"] = token[5:]
                     pokemon["hp p1a"] = matches[-1]
@@ -118,6 +135,8 @@ def parser(log_data):
                                                  "types"],
                                              pokemon["hp p2a"],
                                              pokemon["hp p1a"],
+                                             pokemon["p2a status"],
+                                             pokemon["weather"],
                                              1]
                         for pkmn in team["p2a"]:
                             if pkmn == token[5:] or pkmn == pokemon["p2a Pokemon"]:
@@ -137,6 +156,8 @@ def parser(log_data):
                                                      "types"],
                                                  pokemon["hp p2a"],
                                                  pokemon["hp p1a"],
+                                                 pokemon["p2a status"],
+                                                 pokemon["weather"],
                                                  0]
                     pokemon["p2a Pokemon"] = token[5:]
                     pokemon["hp p2a"] = matches[-1]
@@ -176,20 +197,22 @@ def parser(log_data):
                                    pokemon["hp " + Sufferer[:3]],
                                    pokemon["weather"],
                                    moves[Move.translate(mapping_table).lower()]["category"],
+                                   pokemon[Sufferer[:3] + " status"],
                                    1
                                    ]
                 for move in pokemon[User[:3] + " mosse"]:
                     if move == Move:
                         continue
                     df.loc[len(df)] = [User[5:], Sufferer[5:], move,
-                                       pokedex[User[5:].lower()]["types"],
-                                       pokedex[User[5:].lower()]["types"],
+                                       pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
+                                       pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
                                        moves[move.translate(mapping_table).lower()]["type"],
                                        moves[move.translate(mapping_table).lower()]["basePower"],
                                        pokemon["hp " + User[:3]],
                                        pokemon["hp " + User[:3]],
                                        pokemon["weather"],
                                        moves[move.translate(mapping_table).lower()]["category"],
+                                       pokemon[Sufferer[:3] + " status"],
                                        0
                                        ]
 
@@ -205,28 +228,30 @@ def parser(log_data):
                 if not pokemon[User[:3] + " mosse"].__contains__(Move):
                     pokemon[User[:3] + " mosse"].append(Move)
                 df.loc[len(df)] = [User[5:], User[5:], Move,
-                                   pokedex[User[5:].lower()]["types"],
-                                   pokedex[User[5:].lower()]["types"],
+                                   pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
+                                   pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
                                    moves[Move.translate(mapping_table).lower()]["type"],
                                    moves[Move.translate(mapping_table).lower()]["basePower"],
                                    pokemon["hp " + User[:3]],
                                    pokemon["hp " + User[:3]],
                                    pokemon["weather"],
                                    moves[Move.translate(mapping_table).lower()]["category"],
+                                   pokemon[User[:3] + " status"],
                                    1
                                    ]
                 for move in pokemon[User[:3] + " mosse"]:
                     if move == Move:
                         continue
                     df.loc[len(df)] = [User[5:], User[5:], move,
-                                       pokedex[User[5:].lower()]["types"],
-                                       pokedex[User[5:].lower()]["types"],
+                                       pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
+                                       pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
                                        moves[move.translate(mapping_table).lower()]["type"],
                                        moves[move.translate(mapping_table).lower()]["basePower"],
                                        pokemon["hp " + User[:3]],
                                        pokemon["hp " + User[:3]],
                                        pokemon["weather"],
                                        moves[move.translate(mapping_table).lower()]["category"],
+                                       pokemon[User[:3] + " status"],
                                        0
                                        ]
 
