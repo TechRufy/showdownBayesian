@@ -247,17 +247,8 @@ for node in switch_model.nodes():
                                        equivalent_sample_size=10))
 switch_model.add_cpds(*cpds)
 
-print('Checking the model...')
-print(f'The model is {switch_model.check_model()}\n\n')
-
-for cpd in [cpd for cpd in switch_model.get_cpds()]:
-    print(f'CPD for {cpd.variable}:')
-    print(cpd)
-
 choose = switch_model.get_cpds("Switch")
-print(choose)
 
-import time
 
 EVIDENCE = {'Multiplicator In': 2,
             'Multiplicator Out': 0.5,
@@ -265,22 +256,15 @@ EVIDENCE = {'Multiplicator In': 2,
             "Pokemon HP": 9}
 
 ordering_heuristics = ['MinFill', 'MinNeighbors', 'MinWeight', 'WeightedMinFill']
-inference = VariableElimination(switch_model)
+inferenceS = VariableElimination(switch_model)
 
 
 def switch_run_query(target_var, evidence, print_output=True):
     probs = []
-    for order in ordering_heuristics:
-        if print_output:
-            print('Using ' + order)
-        start = time.time()
-        prob = inference.query([target_var],
-                               evidence,
-                               elimination_order=order,
-                               show_progress=False)
-        probs.append(prob.get_value(Switch=1))
-        end = time.time() - start
-        if print_output:
-            print(prob)
-            print('----- Query solved in {:.4f} seconds -----\n\n'.format(end))
-    return probs
+    evidence["Enemy HP"] = int(encHPE.transform(np.array(evidence["Enemy HP"]).reshape((1, -1)))[0][0])
+    evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
+    prob = inferenceS.query([target_var],
+                                evidence,
+                                show_progress=False)
+    probs.append(prob.get_value(Switch=1))
+    return probs[0]

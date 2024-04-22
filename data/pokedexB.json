@@ -11050,6 +11050,36 @@
             "Undiscovered"
         ]
     },
+    "hooh": {
+        "num": 250,
+        "name": "ho-oh",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+        },
+        "abilities": {
+            "0": "Pressure",
+            "H": "Regenerator"
+        },
+        "heightm": 3.8,
+        "weightkg": 199,
+        "color": "Red",
+        "tags": [
+            "Restricted Legendary"
+        ],
+        "eggGroups": [
+            "Undiscovered"
+        ]
+    },
     "celebi": {
         "num": 251,
         "name": "celebi",
@@ -32220,6 +32250,42 @@
         ]
     },
     "kommo-o": {
+        "num": 784,
+        "name": "kommo-o",
+        "types": [
+            "dragon",
+            "fighting"
+        ],
+        "baseStats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 100,
+            "special-defense": 105,
+            "speed": 85
+        },
+        "abilities": {
+            "0": "Bulletproof",
+            "1": "Soundproof",
+            "H": "Overcoat"
+        },
+        "heightm": 1.6,
+        "weightkg": 78.2,
+        "color": "Gray",
+        "prevo": "Hakamo-o",
+        "evoLevel": 45,
+        "eggGroups": [
+            "Dragon"
+        ],
+        "otherFormes": [
+            "Kommo-o-Totem"
+        ],
+        "formeOrder": [
+            "Kommo-o",
+            "Kommo-o-Totem"
+        ]
+    },
+    "kommoo": {
         "num": 784,
         "name": "kommo-o",
         "types": [

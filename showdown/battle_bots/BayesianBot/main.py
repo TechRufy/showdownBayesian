@@ -17,7 +17,7 @@ class BattleBot(Battle):
     def find_best_move(self):
         state = self.create_state()
         my_options = self.get_all_options()[0]
-
+        choice = None
         moves = []
         switches = []
         for option in my_options:
@@ -25,12 +25,15 @@ class BattleBot(Battle):
                 switches.append(option)
             else:
                 moves.append(option)
-
-        if self.force_switch or not moves:
-            return format_decision(self, switches[0])
-
         best_probability = -1
-        choice = None
+        if self.force_switch or not moves:
+            for switch in switches:
+                probability = get_probability_Switch(state, switch)
+                print(probability)
+                if probability > best_probability:
+                    choice = switch
+                    best_probability = probability
+
         for move in moves:
             probability = get_probability_Move(state, move)
             print(probability)
@@ -40,9 +43,11 @@ class BattleBot(Battle):
                 best_probability = probability
 
         for switch in switches:
-            print(switch)
-            #probability = get_probability_Switch(state, switch)
-            #print(probability)
+            probability = get_probability_Switch(state, switch)
+            print(probability)
+            if probability > best_probability:
+                choice = switch
+                best_probability = probability
 
-
+        print(choice)
         return format_decision(self, choice)
