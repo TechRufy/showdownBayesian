@@ -63,7 +63,6 @@ def check_stab(df):
     return df
 
 
-
 df = pd.read_csv("./showdown/battle_bots/BayesianBot/parsing Dataset/log/Dataset.csv")
 
 df["UserHP"] = df["UserHP"].map(percentual_Transform)
@@ -94,16 +93,15 @@ df
 
 custom_model = BayesianNetwork([('Pokemon HP', 'Choose'), ('Enemy HP', 'Choose'),
                                 ('stab', 'Choose'), ('Multiplicator', 'Choose'), ('Power', 'Choose'),
-                                ("Weather", "Choose"),("Category","Choose")])
+                                ("Weather", "Choose"), ("Category", "Choose")])
 pos = {'Pokemon HP': [0.75, -0.5], 'Enemy HP': [1.25, -0.5],
        "stab": [0.75, -1.], 'Multiplicator': [1.25, -1],
        'Power': [1.25, 0], "Weather": [1.1, 0],
-       'Choose': [1, -0.5],"Category" : [0.9, 0]}
+       'Choose': [1, -0.5], "Category": [0.9, 0]}
 fig, ax = plt.subplots(1, 1, figsize=(12, 12))
 nx.draw_networkx(custom_model, pos=pos, ax=ax, node_size=5000)
 ax.set_title('Custom model')
 fig.savefig('custom_bn')
-
 
 estimator = BayesianEstimator(model=custom_model, data=df)
 
