@@ -1,0 +1,1416 @@
+Switch In,Switch out,enemy,TypeIN,TypeOUT,TypeEnemy,HPout,HPEnemy,Switch
+Emboar,Hydreigon,Klinklang,"['fire', 'fighting']","['dark', 'dragon']",['steel'],275\/275,241\/241,1.0
+Lugia,Klinklang,Emboar,"['psychic', 'flying']",['steel'],"['fire', 'fighting']",241\/241,326\/326,1.0
+Hydreigon,Emboar,Lugia,"['dark', 'dragon']","['fire', 'fighting']","['psychic', 'flying']",326\/326,272\/272,1.0
+Emboar,Hydreigon,Lugia,"['fire', 'fighting']","['dark', 'dragon']","['psychic', 'flying']",275\/275,272\/272,1.0
+Hydreigon,Emboar,Lugia,"['dark', 'dragon']","['fire', 'fighting']","['psychic', 'flying']",202\/326,272\/272,1.0
+Klinklang,Lugia,Hydreigon,['steel'],"['psychic', 'flying']","['dark', 'dragon']",272\/272,275\/275,1.0
+Arcanine,Hydreigon,Klinklang,['fire'],"['dark', 'dragon']",['steel'],275\/275,211\/241,1.0
+Raticate,Klinklang,Arcanine,['normal'],['steel'],['fire'],211\/241,282\/282,1.0
+Lugia,Klinklang,Arcanine,"['psychic', 'flying']",['steel'],['fire'],211\/241,282\/282,0.0
+Blastoise,Arcanine,Raticate,['water'],['fire'],['normal'],282\/282,243\/243,1.0
+Hydreigon,Arcanine,Raticate,"['dark', 'dragon']",['fire'],['normal'],282\/282,243\/243,0.0
+Arcanine,Blastoise,Raticate,['fire'],['water'],['normal'],267\/267,243\/243,1.0
+Hydreigon,Blastoise,Raticate,"['dark', 'dragon']",['water'],['normal'],267\/267,243\/243,0.0
+Forretress,Raticate,Arcanine,"['bug', 'steel']",['normal'],['fire'],243\/243,62\/282,1.0
+Lugia,Raticate,Arcanine,"['psychic', 'flying']",['normal'],['fire'],243\/243,62\/282,0.0
+Jynx,Arcanine,Forretress,"['ice', 'psychic']",['fire'],"['bug', 'steel']",62\/282,251\/251,1.0
+Hydreigon,Arcanine,Forretress,"['dark', 'dragon']",['fire'],"['bug', 'steel']",62\/282,251\/251,0.0
+Raticate,Forretress,Jynx,['normal'],"['bug', 'steel']","['ice', 'psychic']",251\/251,249\/249,1.0
+Lugia,Forretress,Jynx,"['psychic', 'flying']","['bug', 'steel']","['ice', 'psychic']",251\/251,249\/249,0.0
+Beautifly,Raticate,Jynx,"['bug', 'flying']",['normal'],"['ice', 'psychic']",71\/243,249\/249,1.0
+Lugia,Raticate,Jynx,"['psychic', 'flying']",['normal'],"['ice', 'psychic']",71\/243,249\/249,0.0
+Forretress,Raticate,Jynx,"['bug', 'steel']",['normal'],"['ice', 'psychic']",71\/243,249\/249,0.0
+Arcanine,Jynx,Beautifly,['fire'],"['ice', 'psychic']","['bug', 'flying']",249\/249,271\/271,1.0
+Hydreigon,Jynx,Beautifly,"['dark', 'dragon']","['ice', 'psychic']","['bug', 'flying']",249\/249,271\/271,0.0
+Arceus,Beautifly,Arcanine,['normal'],"['bug', 'flying']",['fire'],271\/271,62\/282,1.0
+Lugia,Beautifly,Arcanine,"['psychic', 'flying']","['bug', 'flying']",['fire'],271\/271,62\/282,0.0
+Forretress,Beautifly,Arcanine,"['bug', 'steel']","['bug', 'flying']",['fire'],271\/271,62\/282,0.0
+Electivire,Arcanine,Arceus,['electric'],['fire'],['normal'],62\/282,288\/288,1.0
+Hydreigon,Arcanine,Arceus,"['dark', 'dragon']",['fire'],['normal'],62\/282,288\/288,0.0
+Arcanine,Electivire,Arceus,['fire'],['electric'],['normal'],263\/263,288\/288,1.0
+Hydreigon,Electivire,Arceus,"['dark', 'dragon']",['electric'],['normal'],263\/263,288\/288,0.0
+Hydreigon,Arcanine,Arceus,"['dark', 'dragon']",['fire'],['normal'],62\/282,288\/288,1.0
+Leavanny,Jumpluff,Excadrill,"['bug', 'grass']","['grass', 'flying']","['ground', 'steel']",275\/275,307\/307,1.0
+Dustox,Excadrill,Leavanny,"['bug', 'poison']","['ground', 'steel']","['bug', 'grass']",307\/307,281\/281,1.0
+Gigalith,Leavanny,Dustox,['rock'],"['bug', 'grass']","['bug', 'poison']",281\/281,260\/260,1.0
+Groudon,Dustox,Gigalith,['ground'],"['bug', 'poison']",['rock'],260\/260,286\/286,1.0
+Excadrill,Dustox,Gigalith,"['ground', 'steel']","['bug', 'poison']",['rock'],260\/260,286\/286,0.0
+Feraligatr,Gigalith,Groudon,['water'],['rock'],['ground'],286\/286,270\/270,1.0
+Leavanny,Gigalith,Groudon,"['bug', 'grass']",['rock'],['ground'],286\/286,270\/270,0.0
+Leavanny,Feraligatr,Groudon,"['bug', 'grass']",['water'],['ground'],280\/280,270\/270,1.0
+Gigalith,Feraligatr,Groudon,['rock'],['water'],['ground'],280\/280,270\/270,0.0
+Darmanitan,Porygon2,Lilligant,['fire'],['normal'],['grass'],274\/274,249\/249,1.0
+Whiscash,Lilligant,Darmanitan,"['water', 'ground']",['grass'],['fire'],249\/249,303\/303,1.0
+Maractus,Darmanitan,Whiscash,['grass'],['fire'],"['water', 'ground']",303\/303,341\/341,1.0
+Porygon2,Darmanitan,Whiscash,['normal'],['fire'],"['water', 'ground']",303\/303,341\/341,0.0
+Lilligant,Whiscash,Maractus,['grass'],"['water', 'ground']",['grass'],341\/341,299\/299,1.0
+Magcargo,Maractus,Lilligant,"['fire', 'rock']",['grass'],['grass'],299\/299,249\/249,1.0
+Porygon2,Maractus,Lilligant,['normal'],['grass'],['grass'],299\/299,249\/249,0.0
+Darmanitan,Maractus,Lilligant,['fire'],['grass'],['grass'],299\/299,249\/249,0.0
+Zapdos,Lilligant,Magcargo,"['electric', 'flying']",['grass'],"['fire', 'rock']",249\/249,246\/246,1.0
+Whiscash,Lilligant,Magcargo,"['water', 'ground']",['grass'],"['fire', 'rock']",249\/249,246\/246,0.0
+Darmanitan,Magcargo,Zapdos,['fire'],"['fire', 'rock']","['electric', 'flying']",246\/246,272\/272,1.0
+Porygon2,Magcargo,Zapdos,['normal'],"['fire', 'rock']","['electric', 'flying']",246\/246,272\/272,0.0
+Maractus,Magcargo,Zapdos,['grass'],"['fire', 'rock']","['electric', 'flying']",246\/246,272\/272,0.0
+Tauros,Zapdos,Darmanitan,['normal'],"['electric', 'flying']",['fire'],272\/272,257\/303,1.0
+Whiscash,Zapdos,Darmanitan,"['water', 'ground']","['electric', 'flying']",['fire'],272\/272,257\/303,0.0
+Maractus,Darmanitan,Tauros,['grass'],['fire'],['normal'],257\/303,260\/260,1.0
+Porygon2,Darmanitan,Tauros,['normal'],['fire'],['normal'],257\/303,260\/260,0.0
+Bellossom,Maractus,Tauros,['grass'],['grass'],['normal'],96\/299,260\/260,1.0
+Porygon2,Maractus,Tauros,['normal'],['grass'],['normal'],96\/299,260\/260,0.0
+Darmanitan,Maractus,Tauros,['fire'],['grass'],['normal'],96\/299,260\/260,0.0
+Abomasnow,Tauros,Bellossom,"['grass', 'ice']",['normal'],['grass'],260\/260,290\/290,1.0
+Whiscash,Tauros,Bellossom,"['water', 'ground']",['normal'],['grass'],260\/260,290\/290,0.0
+Darmanitan,Bellossom,Abomasnow,['fire'],['grass'],"['grass', 'ice']",290\/290,288\/288,1.0
+Porygon2,Bellossom,Abomasnow,['normal'],['grass'],"['grass', 'ice']",290\/290,288\/288,0.0
+Bellossom,Darmanitan,Abomasnow,['grass'],['fire'],"['grass', 'ice']",167\/303,288\/288,1.0
+Porygon2,Darmanitan,Abomasnow,['normal'],['fire'],"['grass', 'ice']",167\/303,288\/288,0.0
+Tauros,Abomasnow,Bellossom,['normal'],"['grass', 'ice']",['grass'],288\/288,155\/290,1.0
+Whiscash,Abomasnow,Bellossom,"['water', 'ground']","['grass', 'ice']",['grass'],288\/288,155\/290,0.0
+Whiscash,Tauros,Bellossom,"['water', 'ground']",['normal'],['grass'],228\/260,155\/290,1.0
+Darmanitan,Bellossom,Whiscash,['fire'],['grass'],"['water', 'ground']",155\/290,201\/341,1.0
+Porygon2,Bellossom,Whiscash,['normal'],['grass'],"['water', 'ground']",155\/290,201\/341,0.0
+Crawdaunt,Whiscash,Darmanitan,"['water', 'dark']","['water', 'ground']",['fire'],201\/341,92\/303,1.0
+Porygon2,Darmanitan,Crawdaunt,['normal'],['fire'],"['water', 'dark']",92\/303,246\/246,1.0
+Cresselia,Porygon2,Crawdaunt,['psychic'],['normal'],"['water', 'dark']",274\/274,246\/246,1.0
+Plusle,Mantine,Rotom,['electric'],"['water', 'flying']","['electric', 'ghost']",263\/263,221\/221,1.0
+Blissey,Rotom,Plusle,['normal'],"['electric', 'ghost']",['electric'],221\/221,254\/254,1.0
+Venomoth,Plusle,Blissey,"['bug', 'poison']",['electric'],['normal'],254\/254,566\/566,1.0
+Mantine,Plusle,Blissey,"['water', 'flying']",['electric'],['normal'],254\/254,566\/566,0.0
+Rotom,Blissey,Venomoth,"['electric', 'ghost']",['normal'],"['bug', 'poison']",566\/566,249\/249,1.0
+Murkrow,Rotom,Venomoth,"['dark', 'flying']","['electric', 'ghost']","['bug', 'poison']",221\/221,249\/249,1.0
+Blissey,Rotom,Venomoth,['normal'],"['electric', 'ghost']","['bug', 'poison']",221\/221,249\/249,0.0
+Mantine,Venomoth,Murkrow,"['water', 'flying']","['bug', 'poison']","['dark', 'flying']",249\/249,251\/251,1.0
+Plusle,Venomoth,Murkrow,['electric'],"['bug', 'poison']","['dark', 'flying']",249\/249,251\/251,0.0
+Blissey,Murkrow,Mantine,['normal'],"['dark', 'flying']","['water', 'flying']",251\/251,263\/263,1.0
+Rotom,Murkrow,Mantine,"['electric', 'ghost']","['dark', 'flying']","['water', 'flying']",251\/251,263\/263,0.0
+Venomoth,Mantine,Blissey,"['bug', 'poison']","['water', 'flying']",['normal'],263\/263,489\/566,1.0
+Plusle,Mantine,Blissey,['electric'],"['water', 'flying']",['normal'],263\/263,489\/566,0.0
+Braviary,Blissey,Venomoth,"['normal', 'flying']",['normal'],"['bug', 'poison']",489\/566,225\/249,1.0
+Rotom,Blissey,Venomoth,"['electric', 'ghost']",['normal'],"['bug', 'poison']",489\/566,225\/249,0.0
+Murkrow,Blissey,Venomoth,"['dark', 'flying']",['normal'],"['bug', 'poison']",489\/566,225\/249,0.0
+Mantine,Venomoth,Braviary,"['water', 'flying']","['bug', 'poison']","['normal', 'flying']",225\/249,305\/305,1.0
+Plusle,Venomoth,Braviary,['electric'],"['bug', 'poison']","['normal', 'flying']",225\/249,305\/305,0.0
+Plusle,Mantine,Braviary,['electric'],"['water', 'flying']","['normal', 'flying']",263\/263,305\/305,1.0
+Venomoth,Mantine,Braviary,"['bug', 'poison']","['water', 'flying']","['normal', 'flying']",263\/263,305\/305,0.0
+Blissey,Braviary,Plusle,['normal'],"['normal', 'flying']",['electric'],305\/305,87\/254,1.0
+Rotom,Braviary,Plusle,"['electric', 'ghost']","['normal', 'flying']",['electric'],305\/305,87\/254,0.0
+Murkrow,Braviary,Plusle,"['dark', 'flying']","['normal', 'flying']",['electric'],305\/305,87\/254,0.0
+Stoutland,Plusle,Blissey,['normal'],['electric'],['normal'],87\/254,507\/566,1.0
+Venomoth,Plusle,Blissey,"['bug', 'poison']",['electric'],['normal'],87\/254,507\/566,0.0
+Dusknoir,Blissey,Stoutland,['ghost'],['normal'],['normal'],507\/566,290\/290,1.0
+Rotom,Blissey,Stoutland,"['electric', 'ghost']",['normal'],['normal'],507\/566,290\/290,0.0
+Murkrow,Blissey,Stoutland,"['dark', 'flying']",['normal'],['normal'],507\/566,290\/290,0.0
+Braviary,Blissey,Stoutland,"['normal', 'flying']",['normal'],['normal'],507\/566,290\/290,0.0
+Luvdisc,Stoutland,Dusknoir,['water'],['normal'],['ghost'],290\/290,215\/215,1.0
+Plusle,Stoutland,Dusknoir,['electric'],['normal'],['ghost'],290\/290,215\/215,0.0
+Venomoth,Stoutland,Dusknoir,"['bug', 'poison']",['normal'],['ghost'],290\/290,215\/215,0.0
+Blissey,Dusknoir,Luvdisc,['normal'],['ghost'],['water'],215\/215,227\/227,1.0
+Rotom,Dusknoir,Luvdisc,"['electric', 'ghost']",['ghost'],['water'],215\/215,227\/227,0.0
+Murkrow,Dusknoir,Luvdisc,"['dark', 'flying']",['ghost'],['water'],215\/215,227\/227,0.0
+Braviary,Dusknoir,Luvdisc,"['normal', 'flying']",['ghost'],['water'],215\/215,227\/227,0.0
+Stoutland,Luvdisc,Blissey,['normal'],['water'],['normal'],227\/227,427\/566,1.0
+Plusle,Luvdisc,Blissey,['electric'],['water'],['normal'],227\/227,427\/566,0.0
+Venomoth,Luvdisc,Blissey,"['bug', 'poison']",['water'],['normal'],227\/227,427\/566,0.0
+Kingler,Blissey,Stoutland,['water'],['normal'],['normal'],427\/566,290\/290,1.0
+Rotom,Blissey,Stoutland,"['electric', 'ghost']",['normal'],['normal'],427\/566,290\/290,0.0
+Murkrow,Blissey,Stoutland,"['dark', 'flying']",['normal'],['normal'],427\/566,290\/290,0.0
+Braviary,Blissey,Stoutland,"['normal', 'flying']",['normal'],['normal'],427\/566,290\/290,0.0
+Dusknoir,Blissey,Stoutland,['ghost'],['normal'],['normal'],427\/566,290\/290,0.0
+Plusle,Stoutland,Kingler,['electric'],['normal'],['water'],290\/290,243\/243,1.0
+Venomoth,Stoutland,Kingler,"['bug', 'poison']",['normal'],['water'],290\/290,243\/243,0.0
+Venomoth,Plusle,Kingler,"['bug', 'poison']",['electric'],['water'],102\/254,243\/243,1.0
+Stoutland,Plusle,Kingler,['normal'],['electric'],['water'],102\/254,243\/243,0.0
+Murkrow,Kingler,Venomoth,"['dark', 'flying']",['water'],"['bug', 'poison']",243\/243,249\/249,1.0
+Rotom,Kingler,Venomoth,"['electric', 'ghost']",['water'],"['bug', 'poison']",243\/243,249\/249,0.0
+Blissey,Kingler,Venomoth,['normal'],['water'],"['bug', 'poison']",243\/243,249\/249,0.0
+Braviary,Kingler,Venomoth,"['normal', 'flying']",['water'],"['bug', 'poison']",243\/243,249\/249,0.0
+Dusknoir,Kingler,Venomoth,['ghost'],['water'],"['bug', 'poison']",243\/243,249\/249,0.0
+Kingler,Murkrow,Venomoth,['water'],"['dark', 'flying']","['bug', 'poison']",154\/251,249\/249,1.0
+Rotom,Murkrow,Venomoth,"['electric', 'ghost']","['dark', 'flying']","['bug', 'poison']",154\/251,249\/249,0.0
+Blissey,Murkrow,Venomoth,['normal'],"['dark', 'flying']","['bug', 'poison']",154\/251,249\/249,0.0
+Braviary,Murkrow,Venomoth,"['normal', 'flying']","['dark', 'flying']","['bug', 'poison']",154\/251,249\/249,0.0
+Dusknoir,Murkrow,Venomoth,['ghost'],"['dark', 'flying']","['bug', 'poison']",154\/251,249\/249,0.0
+Braviary,Kingler,Venomoth,"['normal', 'flying']",['water'],"['bug', 'poison']",170\/243,249\/249,1.0
+Rotom,Kingler,Venomoth,"['electric', 'ghost']",['water'],"['bug', 'poison']",170\/243,249\/249,0.0
+Blissey,Kingler,Venomoth,['normal'],['water'],"['bug', 'poison']",170\/243,249\/249,0.0
+Murkrow,Kingler,Venomoth,"['dark', 'flying']",['water'],"['bug', 'poison']",170\/243,249\/249,0.0
+Dusknoir,Kingler,Venomoth,['ghost'],['water'],"['bug', 'poison']",170\/243,249\/249,0.0
+Stoutland,Venomoth,Braviary,['normal'],"['bug', 'poison']","['normal', 'flying']",249\/249,218\/305,1.0
+Dusknoir,Braviary,Stoutland,['ghost'],"['normal', 'flying']",['normal'],218\/305,290\/290,1.0
+Rotom,Braviary,Stoutland,"['electric', 'ghost']","['normal', 'flying']",['normal'],218\/305,290\/290,0.0
+Blissey,Braviary,Stoutland,['normal'],"['normal', 'flying']",['normal'],218\/305,290\/290,0.0
+Murkrow,Braviary,Stoutland,"['dark', 'flying']","['normal', 'flying']",['normal'],218\/305,290\/290,0.0
+Victini,Stoutland,Dusknoir,"['psychic', 'fire']",['normal'],['ghost'],290\/290,215\/215,1.0
+Rotom,Dusknoir,Victini,"['electric', 'ghost']",['ghost'],"['psychic', 'fire']",215\/215,287\/287,1.0
+Blissey,Dusknoir,Victini,['normal'],['ghost'],"['psychic', 'fire']",215\/215,287\/287,0.0
+Murkrow,Dusknoir,Victini,"['dark', 'flying']",['ghost'],"['psychic', 'fire']",215\/215,287\/287,0.0
+Stoutland,Victini,Rotom,['normal'],"['psychic', 'fire']","['electric', 'ghost']",287\/287,221\/221,1.0
+Blissey,Rotom,Stoutland,['normal'],"['electric', 'ghost']",['normal'],221\/221,256\/290,1.0
+Murkrow,Rotom,Stoutland,"['dark', 'flying']","['electric', 'ghost']",['normal'],221\/221,256\/290,0.0
+Dusknoir,Rotom,Stoutland,['ghost'],"['electric', 'ghost']",['normal'],221\/221,256\/290,0.0
+Victini,Stoutland,Blissey,"['psychic', 'fire']",['normal'],['normal'],256\/290,531\/566,1.0
+Dusknoir,Blissey,Victini,['ghost'],['normal'],"['psychic', 'fire']",531\/566,287\/287,1.0
+Rotom,Blissey,Victini,"['electric', 'ghost']",['normal'],"['psychic', 'fire']",531\/566,287\/287,0.0
+Murkrow,Blissey,Victini,"['dark', 'flying']",['normal'],"['psychic', 'fire']",531\/566,287\/287,0.0
+Stoutland,Victini,Dusknoir,['normal'],"['psychic', 'fire']",['ghost'],287\/287,215\/215,1.0
+Blissey,Dusknoir,Stoutland,['normal'],['ghost'],['normal'],215\/215,175\/290,1.0
+Rotom,Dusknoir,Stoutland,"['electric', 'ghost']",['ghost'],['normal'],215\/215,175\/290,0.0
+Murkrow,Dusknoir,Stoutland,"['dark', 'flying']",['ghost'],['normal'],215\/215,175\/290,0.0
+Murkrow,Blissey,Stoutland,"['dark', 'flying']",['normal'],['normal'],413\/566,175\/290,1.0
+Rotom,Blissey,Stoutland,"['electric', 'ghost']",['normal'],['normal'],413\/566,175\/290,0.0
+Dusknoir,Blissey,Stoutland,['ghost'],['normal'],['normal'],413\/566,175\/290,0.0
+Rotom,Murkrow,Stoutland,"['electric', 'ghost']","['dark', 'flying']",['normal'],10\/251,175\/290,1.0
+Dusknoir,Murkrow,Stoutland,['ghost'],"['dark', 'flying']",['normal'],10\/251,175\/290,0.0
+Victini,Stoutland,Rotom,"['psychic', 'fire']",['normal'],"['electric', 'ghost']",175\/290,93\/221,1.0
+Murkrow,Rotom,Victini,"['dark', 'flying']","['electric', 'ghost']","['psychic', 'fire']",93\/221,287\/287,1.0
+Dusknoir,Rotom,Victini,['ghost'],"['electric', 'ghost']","['psychic', 'fire']",93\/221,287\/287,0.0
+Dusknoir,Murkrow,Victini,['ghost'],"['dark', 'flying']","['psychic', 'fire']",54\/251,287\/287,1.0
+Giratina,Latias,Spinda,"['ghost', 'dragon']","['dragon', 'psychic']",['normal'],231\/231,276\/276,1.0
+Escavalier,Giratina,Spinda,"['bug', 'steel']","['ghost', 'dragon']",['normal'],335\/335,276\/276,1.0
+Latias,Giratina,Spinda,"['dragon', 'psychic']","['ghost', 'dragon']",['normal'],335\/335,276\/276,0.0
+Latias,Escavalier,Spinda,"['dragon', 'psychic']","['bug', 'steel']",['normal'],255\/255,276\/276,1.0
+Tornadus,Spinda,Latias,['flying'],['normal'],"['dragon', 'psychic']",276\/276,231\/231,1.0
+Octillery,Latias,Tornadus,['water'],"['dragon', 'psychic']",['flying'],231\/231,254\/254,1.0
+Escavalier,Latias,Tornadus,"['bug', 'steel']","['dragon', 'psychic']",['flying'],231\/231,254\/254,0.0
+Porygon2,Octillery,Tornadus,['normal'],['water'],['flying'],281\/281,254\/254,1.0
+Latias,Octillery,Tornadus,"['dragon', 'psychic']",['water'],['flying'],281\/281,254\/254,0.0
+Escavalier,Octillery,Tornadus,"['bug', 'steel']",['water'],['flying'],281\/281,254\/254,0.0
+Ho-Oh,Porygon2,Tornadus,"['fire', 'flying']",['normal'],['flying'],274\/274,254\/254,1.0
+Latias,Porygon2,Tornadus,"['dragon', 'psychic']",['normal'],['flying'],274\/274,254\/254,0.0
+Escavalier,Porygon2,Tornadus,"['bug', 'steel']",['normal'],['flying'],274\/274,254\/254,0.0
+Relicanth,Tornadus,Ho-Oh,"['water', 'rock']",['flying'],"['fire', 'flying']",254\/254,275\/275,1.0
+Escavalier,Ho-Oh,Relicanth,"['bug', 'steel']","['fire', 'flying']","['water', 'rock']",275\/275,316\/316,1.0
+Latias,Ho-Oh,Relicanth,"['dragon', 'psychic']","['fire', 'flying']","['water', 'rock']",275\/275,316\/316,0.0
+Latias,Escavalier,Relicanth,"['dragon', 'psychic']","['bug', 'steel']","['water', 'rock']",180\/255,316\/316,1.0
+Ho-Oh,Escavalier,Relicanth,"['fire', 'flying']","['bug', 'steel']","['water', 'rock']",180\/255,316\/316,0.0
+Magnezone,Relicanth,Latias,"['electric', 'steel']","['water', 'rock']","['dragon', 'psychic']",316\/316,160\/231,1.0
+Tornadus,Relicanth,Latias,['flying'],"['water', 'rock']","['dragon', 'psychic']",316\/316,160\/231,0.0
+Quagsire,Arcanine,Spinda,"['water', 'ground']",['fire'],['normal'],282\/282,276\/276,1.0
+Maractus,Spinda,Quagsire,['grass'],['normal'],"['water', 'ground']",276\/276,300\/300,1.0
+Arcanine,Quagsire,Maractus,['fire'],"['water', 'ground']",['grass'],300\/300,302\/302,1.0
+Hitmontop,Maractus,Arcanine,['fighting'],['grass'],['fire'],302\/302,282\/282,1.0
+Spinda,Maractus,Arcanine,['normal'],['grass'],['fire'],302\/302,282\/282,0.0
+Spinda,Hitmontop,Arcanine,['normal'],['fighting'],['fire'],229\/229,282\/282,1.0
+Maractus,Hitmontop,Arcanine,['grass'],['fighting'],['fire'],229\/229,282\/282,0.0
+Quagsire,Arcanine,Spinda,"['water', 'ground']",['fire'],['normal'],282\/282,276\/276,1.0
+Maractus,Spinda,Quagsire,['grass'],['normal'],"['water', 'ground']",276\/276,260\/300,1.0
+Swanna,Quagsire,Maractus,"['water', 'flying']","['water', 'ground']",['grass'],260\/300,302\/302,1.0
+Arcanine,Quagsire,Maractus,['fire'],"['water', 'ground']",['grass'],260\/300,302\/302,0.0
+Seismitoad,Maractus,Swanna,"['water', 'ground']",['grass'],"['water', 'flying']",302\/302,269\/269,1.0
+Spinda,Maractus,Swanna,['normal'],['grass'],"['water', 'flying']",302\/302,269\/269,0.0
+Registeel,Seismitoad,Swanna,['steel'],"['water', 'ground']","['water', 'flying']",317\/317,269\/269,1.0
+Spinda,Seismitoad,Swanna,['normal'],"['water', 'ground']","['water', 'flying']",317\/317,269\/269,0.0
+Maractus,Seismitoad,Swanna,['grass'],"['water', 'ground']","['water', 'flying']",317\/317,269\/269,0.0
+Exeggutor,Swanna,Registeel,"['grass', 'psychic']","['water', 'flying']",['steel'],269\/269,265\/265,1.0
+Arcanine,Swanna,Registeel,['fire'],"['water', 'flying']",['steel'],269\/269,265\/265,0.0
+Quagsire,Swanna,Registeel,"['water', 'ground']","['water', 'flying']",['steel'],269\/269,265\/265,0.0
+Maractus,Registeel,Exeggutor,['grass'],['steel'],"['grass', 'psychic']",265\/265,308\/308,1.0
+Spinda,Registeel,Exeggutor,['normal'],['steel'],"['grass', 'psychic']",265\/265,308\/308,0.0
+Seismitoad,Registeel,Exeggutor,"['water', 'ground']",['steel'],"['grass', 'psychic']",265\/265,308\/308,0.0
+Registeel,Maractus,Exeggutor,['steel'],['grass'],"['grass', 'psychic']",302\/302,308\/308,1.0
+Spinda,Maractus,Exeggutor,['normal'],['grass'],"['grass', 'psychic']",302\/302,308\/308,0.0
+Seismitoad,Maractus,Exeggutor,"['water', 'ground']",['grass'],"['grass', 'psychic']",302\/302,308\/308,0.0
+Arcanine,Exeggutor,Registeel,['fire'],"['grass', 'psychic']",['steel'],308\/308,243\/265,1.0
+Quagsire,Exeggutor,Registeel,"['water', 'ground']","['grass', 'psychic']",['steel'],308\/308,243\/265,0.0
+Seismitoad,Registeel,Arcanine,"['water', 'ground']",['steel'],['fire'],243\/265,223\/282,1.0
+Spinda,Registeel,Arcanine,['normal'],['steel'],['fire'],243\/265,223\/282,0.0
+Maractus,Registeel,Arcanine,['grass'],['steel'],['fire'],243\/265,223\/282,0.0
+Spinda,Seismitoad,Arcanine,['normal'],"['water', 'ground']",['fire'],14\/317,223\/282,1.0
+Maractus,Seismitoad,Arcanine,['grass'],"['water', 'ground']",['fire'],14\/317,223\/282,0.0
+Registeel,Seismitoad,Arcanine,['steel'],"['water', 'ground']",['fire'],14\/317,223\/282,0.0
+Exeggutor,Arcanine,Spinda,"['grass', 'psychic']",['fire'],['normal'],223\/282,276\/276,1.0
+Quagsire,Arcanine,Spinda,"['water', 'ground']",['fire'],['normal'],223\/282,276\/276,0.0
+Quagsire,Exeggutor,Spinda,"['water', 'ground']","['grass', 'psychic']",['normal'],174\/308,276\/276,1.0
+Arcanine,Exeggutor,Spinda,['fire'],"['grass', 'psychic']",['normal'],174\/308,276\/276,0.0
+Wigglytuff,Spinda,Quagsire,"['normal', 'fairy']",['normal'],"['water', 'ground']",276\/276,247\/300,1.0
+Maractus,Spinda,Quagsire,['grass'],['normal'],"['water', 'ground']",276\/276,247\/300,0.0
+Registeel,Spinda,Quagsire,['steel'],['normal'],"['water', 'ground']",276\/276,247\/300,0.0
+Persian,Quagsire,Wigglytuff,['normal'],"['water', 'ground']","['normal', 'fairy']",247\/300,420\/420,1.0
+Arcanine,Quagsire,Wigglytuff,['fire'],"['water', 'ground']","['normal', 'fairy']",247\/300,420\/420,0.0
+Registeel,Wigglytuff,Persian,['steel'],"['normal', 'fairy']",['normal'],420\/420,263\/263,1.0
+Spinda,Wigglytuff,Persian,['normal'],"['normal', 'fairy']",['normal'],420\/420,263\/263,0.0
+Maractus,Wigglytuff,Persian,['grass'],"['normal', 'fairy']",['normal'],420\/420,263\/263,0.0
+Wigglytuff,Registeel,Persian,"['normal', 'fairy']",['steel'],['normal'],259\/265,263\/263,1.0
+Spinda,Registeel,Persian,['normal'],['steel'],['normal'],259\/265,263\/263,0.0
+Maractus,Registeel,Persian,['grass'],['steel'],['normal'],259\/265,263\/263,0.0
+Arcanine,Persian,Wigglytuff,['fire'],['normal'],"['normal', 'fairy']",263\/263,166\/420,1.0
+Quagsire,Persian,Wigglytuff,"['water', 'ground']",['normal'],"['normal', 'fairy']",263\/263,166\/420,0.0
+Spinda,Wigglytuff,Arcanine,['normal'],"['normal', 'fairy']",['fire'],166\/420,115\/282,1.0
+Maractus,Wigglytuff,Arcanine,['grass'],"['normal', 'fairy']",['fire'],166\/420,115\/282,0.0
+Registeel,Wigglytuff,Arcanine,['steel'],"['normal', 'fairy']",['fire'],166\/420,115\/282,0.0
+Wigglytuff,Spinda,Arcanine,"['normal', 'fairy']",['normal'],['fire'],157\/276,115\/282,1.0
+Maractus,Spinda,Arcanine,['grass'],['normal'],['fire'],157\/276,115\/282,0.0
+Registeel,Spinda,Arcanine,['steel'],['normal'],['fire'],157\/276,115\/282,0.0
+Quagsire,Arcanine,Wigglytuff,"['water', 'ground']",['fire'],"['normal', 'fairy']",115\/282,420\/420,1.0
+Persian,Arcanine,Wigglytuff,['normal'],['fire'],"['normal', 'fairy']",115\/282,420\/420,0.0
+Arcanine,Quagsire,Wigglytuff,['fire'],"['water', 'ground']","['normal', 'fairy']",246\/300,420\/420,1.0
+Persian,Quagsire,Wigglytuff,['normal'],"['water', 'ground']","['normal', 'fairy']",246\/300,420\/420,0.0
+Delcatty,Arcanine,Wigglytuff,['normal'],['fire'],"['normal', 'fairy']",218\/282,420\/420,1.0
+Quagsire,Arcanine,Wigglytuff,"['water', 'ground']",['fire'],"['normal', 'fairy']",218\/282,420\/420,0.0
+Persian,Arcanine,Wigglytuff,['normal'],['fire'],"['normal', 'fairy']",218\/282,420\/420,0.0
+Registeel,Wigglytuff,Delcatty,['steel'],"['normal', 'fairy']",['normal'],420\/420,287\/287,1.0
+Spinda,Wigglytuff,Delcatty,['normal'],"['normal', 'fairy']",['normal'],420\/420,287\/287,0.0
+Maractus,Wigglytuff,Delcatty,['grass'],"['normal', 'fairy']",['normal'],420\/420,287\/287,0.0
+Quagsire,Delcatty,Registeel,"['water', 'ground']",['normal'],['steel'],287\/287,251\/265,1.0
+Persian,Delcatty,Registeel,['normal'],['normal'],['steel'],287\/287,251\/265,0.0
+Cofagrigus,Xatu,Tauros,['ghost'],"['psychic', 'flying']",['normal'],246\/246,257\/257,1.0
+Vaporeon,Tauros,Cofagrigus,['water'],['normal'],['ghost'],257\/257,240\/240,1.0
+Xatu,Cofagrigus,Vaporeon,"['psychic', 'flying']",['ghost'],['water'],240\/240,351\/351,1.0
+Cofagrigus,Xatu,Vaporeon,['ghost'],"['psychic', 'flying']",['water'],246\/246,351\/351,1.0
+Exeggutor,Cofagrigus,Vaporeon,"['grass', 'psychic']",['ghost'],['water'],131\/240,351\/351,1.0
+Xatu,Cofagrigus,Vaporeon,"['psychic', 'flying']",['ghost'],['water'],131\/240,351\/351,0.0
+Fearow,Vaporeon,Exeggutor,"['normal', 'flying']",['water'],"['grass', 'psychic']",351\/351,308\/308,1.0
+Tauros,Vaporeon,Exeggutor,['normal'],['water'],"['grass', 'psychic']",351\/351,308\/308,0.0
+Cofagrigus,Exeggutor,Fearow,['ghost'],"['grass', 'psychic']","['normal', 'flying']",308\/308,259\/259,1.0
+Xatu,Exeggutor,Fearow,"['psychic', 'flying']","['grass', 'psychic']","['normal', 'flying']",308\/308,259\/259,0.0
+Vaporeon,Fearow,Cofagrigus,['water'],"['normal', 'flying']",['ghost'],259\/259,146\/240,1.0
+Tauros,Fearow,Cofagrigus,['normal'],"['normal', 'flying']",['ghost'],259\/259,146\/240,0.0
+Exeggutor,Cofagrigus,Vaporeon,"['grass', 'psychic']",['ghost'],['water'],146\/240,308\/351,1.0
+Xatu,Cofagrigus,Vaporeon,"['psychic', 'flying']",['ghost'],['water'],146\/240,308\/351,0.0
+Fearow,Vaporeon,Exeggutor,"['normal', 'flying']",['water'],"['grass', 'psychic']",308\/351,169\/308,1.0
+Tauros,Vaporeon,Exeggutor,['normal'],['water'],"['grass', 'psychic']",308\/351,169\/308,0.0
+Cofagrigus,Exeggutor,Fearow,['ghost'],"['grass', 'psychic']","['normal', 'flying']",169\/308,195\/259,1.0
+Xatu,Exeggutor,Fearow,"['psychic', 'flying']","['grass', 'psychic']","['normal', 'flying']",169\/308,195\/259,0.0
+Vaporeon,Fearow,Cofagrigus,['water'],"['normal', 'flying']",['ghost'],195\/259,103\/240,1.0
+Tauros,Fearow,Cofagrigus,['normal'],"['normal', 'flying']",['ghost'],195\/259,103\/240,0.0
+Exeggutor,Cofagrigus,Vaporeon,"['grass', 'psychic']",['ghost'],['water'],103\/240,286\/351,1.0
+Xatu,Cofagrigus,Vaporeon,"['psychic', 'flying']",['ghost'],['water'],103\/240,286\/351,0.0
+Fearow,Vaporeon,Exeggutor,"['normal', 'flying']",['water'],"['grass', 'psychic']",286\/351,202\/308,1.0
+Tauros,Vaporeon,Exeggutor,['normal'],['water'],"['grass', 'psychic']",286\/351,202\/308,0.0
+Vileplume,Fearow,Exeggutor,"['grass', 'poison']","['normal', 'flying']","['grass', 'psychic']",163\/259,202\/308,1.0
+Tauros,Fearow,Exeggutor,['normal'],"['normal', 'flying']","['grass', 'psychic']",163\/259,202\/308,0.0
+Vaporeon,Fearow,Exeggutor,['water'],"['normal', 'flying']","['grass', 'psychic']",163\/259,202\/308,0.0
+Xatu,Exeggutor,Vileplume,"['psychic', 'flying']","['grass', 'psychic']","['grass', 'poison']",202\/308,275\/275,1.0
+Cofagrigus,Exeggutor,Vileplume,['ghost'],"['grass', 'psychic']","['grass', 'poison']",202\/308,275\/275,0.0
+Vaporeon,Vileplume,Xatu,['water'],"['grass', 'poison']","['psychic', 'flying']",275\/275,246\/246,1.0
+Tauros,Vileplume,Xatu,['normal'],"['grass', 'poison']","['psychic', 'flying']",275\/275,246\/246,0.0
+Fearow,Vileplume,Xatu,"['normal', 'flying']","['grass', 'poison']","['psychic', 'flying']",275\/275,246\/246,0.0
+Tauros,Vaporeon,Xatu,['normal'],['water'],"['psychic', 'flying']",308\/351,246\/246,1.0
+Fearow,Vaporeon,Xatu,"['normal', 'flying']",['water'],"['psychic', 'flying']",308\/351,246\/246,0.0
+Vileplume,Vaporeon,Xatu,"['grass', 'poison']",['water'],"['psychic', 'flying']",308\/351,246\/246,0.0
+Rotom,Samurott,Carnivine,"['electric', 'ghost']",['water'],['grass'],100\/100,100\/100,1.0
+Aromatisse,Carnivine,Rotom,['fairy'],['grass'],"['electric', 'ghost']",100\/100,100\/100,1.0
+Unfezant,Rotom,Aromatisse,"['normal', 'flying']","['electric', 'ghost']",['fairy'],100\/100,100\/100,1.0
+Samurott,Rotom,Aromatisse,['water'],"['electric', 'ghost']",['fairy'],100\/100,100\/100,0.0
+Rotom,Unfezant,Aromatisse,"['electric', 'ghost']","['normal', 'flying']",['fairy'],100\/100,100\/100,1.0
+Samurott,Unfezant,Aromatisse,['water'],"['normal', 'flying']",['fairy'],100\/100,100\/100,0.0
+Carnivine,Aromatisse,Rotom,['grass'],['fairy'],"['electric', 'ghost']",100\/100,62\/100,1.0
+Aromatisse,Carnivine,Rotom,['fairy'],['grass'],"['electric', 'ghost']",100\/100,62\/100,1.0
+Samurott,Rotom,Aromatisse,['water'],"['electric', 'ghost']",['fairy'],62\/100,86\/100,1.0
+Unfezant,Rotom,Aromatisse,"['normal', 'flying']","['electric', 'ghost']",['fairy'],62\/100,86\/100,0.0
+Unfezant,Samurott,Aromatisse,"['normal', 'flying']",['water'],['fairy'],100\/100,86\/100,1.0
+Ninetales,Unfezant,Aromatisse,['fire'],"['normal', 'flying']",['fairy'],82\/100,86\/100,1.0
+Samurott,Unfezant,Aromatisse,['water'],"['normal', 'flying']",['fairy'],82\/100,86\/100,0.0
+Muk,Aromatisse,Ninetales,['poison'],['fairy'],['fire'],86\/100,100\/100,1.0
+Carnivine,Aromatisse,Ninetales,['grass'],['fairy'],['fire'],86\/100,100\/100,0.0
+Samurott,Ninetales,Muk,['water'],['fire'],['poison'],100\/100,100\/100,1.0
+Dewgong,Muk,Samurott,"['water', 'ice']",['poison'],['water'],100\/100,100\/100,1.0
+Carnivine,Muk,Samurott,['grass'],['poison'],['water'],100\/100,100\/100,0.0
+Carnivine,Dewgong,Samurott,['grass'],"['water', 'ice']",['water'],100\/100,100\/100,1.0
+Muk,Dewgong,Samurott,['poison'],"['water', 'ice']",['water'],100\/100,100\/100,0.0
+Sceptile,Samurott,Carnivine,['grass'],['water'],['grass'],100\/100,53\/100,1.0
+Muk,Carnivine,Sceptile,['poison'],['grass'],['grass'],53\/100,100\/100,1.0
+Dewgong,Carnivine,Sceptile,"['water', 'ice']",['grass'],['grass'],53\/100,100\/100,0.0
+Lickilicky,Muk,Sceptile,['normal'],['poison'],['grass'],16\/100,100\/100,1.0
+Carnivine,Muk,Sceptile,['grass'],['poison'],['grass'],16\/100,100\/100,0.0
+Dewgong,Muk,Sceptile,"['water', 'ice']",['poison'],['grass'],16\/100,100\/100,0.0
+Carnivine,Lickilicky,Sceptile,['grass'],['normal'],['grass'],100\/100,100\/100,1.0
+Dewgong,Lickilicky,Sceptile,"['water', 'ice']",['normal'],['grass'],100\/100,100\/100,0.0
+Dewgong,Carnivine,Sceptile,"['water', 'ice']",['grass'],['grass'],86\/100,100\/100,1.0
+Samurott,Sceptile,Dewgong,['water'],['grass'],"['water', 'ice']",100\/100,33\/100,1.0
+Drifblim,Dewgong,Samurott,"['ghost', 'flying']","['water', 'ice']",['water'],33\/100,82\/100,1.0
+Hitmontop,Samurott,Drifblim,['fighting'],['water'],"['ghost', 'flying']",82\/100,100\/100,1.0
+Sceptile,Samurott,Drifblim,['grass'],['water'],"['ghost', 'flying']",82\/100,100\/100,0.0
+Sceptile,Hitmontop,Drifblim,['grass'],['fighting'],"['ghost', 'flying']",100\/100,100\/100,1.0
+Hitmontop,Sceptile,Drifblim,['fighting'],['grass'],"['ghost', 'flying']",33\/100,100\/100,1.0
+Luxray,Volcarona,Kingdra,['electric'],"['bug', 'fire']","['water', 'dragon']",257\/257,266\/266,1.0
+Forretress,Kingdra,Luxray,"['bug', 'steel']","['water', 'dragon']",['electric'],266\/266,284\/284,1.0
+Volcarona,Luxray,Forretress,"['bug', 'fire']",['electric'],"['bug', 'steel']",284\/284,260\/260,1.0
+Kingdra,Forretress,Volcarona,"['water', 'dragon']","['bug', 'steel']","['bug', 'fire']",260\/260,257\/257,1.0
+Gardevoir,Volcarona,Kingdra,"['psychic', 'fairy']","['bug', 'fire']","['water', 'dragon']",257\/257,240\/266,1.0
+Luxray,Volcarona,Kingdra,['electric'],"['bug', 'fire']","['water', 'dragon']",257\/257,240\/266,0.0
+Luxray,Gardevoir,Kingdra,['electric'],"['psychic', 'fairy']","['water', 'dragon']",246\/246,240\/266,1.0
+Volcarona,Gardevoir,Kingdra,"['bug', 'fire']","['psychic', 'fairy']","['water', 'dragon']",246\/246,240\/266,0.0
+Gardevoir,Luxray,Kingdra,"['psychic', 'fairy']",['electric'],"['water', 'dragon']",159\/284,240\/266,1.0
+Volcarona,Luxray,Kingdra,"['bug', 'fire']",['electric'],"['water', 'dragon']",159\/284,240\/266,0.0
+Forretress,Kingdra,Gardevoir,"['bug', 'steel']","['water', 'dragon']","['psychic', 'fairy']",240\/266,30\/246,1.0
+Volcarona,Gardevoir,Forretress,"['bug', 'fire']","['psychic', 'fairy']","['bug', 'steel']",30\/246,165\/260,1.0
+Kingdra,Forretress,Volcarona,"['water', 'dragon']","['bug', 'steel']","['bug', 'fire']",165\/260,257\/257,1.0
+Sandslash,Kingdra,Volcarona,['ground'],"['water', 'dragon']","['bug', 'fire']",77\/266,257\/257,1.0
+Forretress,Kingdra,Volcarona,"['bug', 'steel']","['water', 'dragon']","['bug', 'fire']",77\/266,257\/257,0.0
+Gardevoir,Volcarona,Sandslash,"['psychic', 'fairy']","['bug', 'fire']",['ground'],257\/257,275\/275,1.0
+Durant,Gardevoir,Sandslash,"['bug', 'steel']","['psychic', 'fairy']",['ground'],30\/246,275\/275,1.0
+Kecleon,Sandslash,Durant,['normal'],['ground'],"['bug', 'steel']",275\/275,221\/221,1.0
+Forretress,Sandslash,Durant,"['bug', 'steel']",['ground'],"['bug', 'steel']",275\/275,221\/221,0.0
+Forretress,Kecleon,Durant,"['bug', 'steel']",['normal'],"['bug', 'steel']",252\/252,221\/221,1.0
+Darmanitan,Durant,Forretress,['fire'],"['bug', 'steel']","['bug', 'steel']",221\/221,124\/260,1.0
+Kecleon,Forretress,Darmanitan,['normal'],"['bug', 'steel']",['fire'],124\/260,303\/303,1.0
+Cradily,Kecleon,Darmanitan,"['rock', 'grass']",['normal'],['fire'],227\/252,303\/303,1.0
+Kecleon,Cradily,Darmanitan,['normal'],"['rock', 'grass']",['fire'],298\/298,303\/303,1.0
+Alakazam,Darmanitan,Kecleon,['psychic'],['fire'],['normal'],303\/303,202\/252,1.0
+Slurpuff,Kecleon,Alakazam,['fairy'],['normal'],['psychic'],202\/252,216\/216,1.0
+Kecleon,Slurpuff,Alakazam,['normal'],['fairy'],['psychic'],256\/256,216\/216,1.0
+Umbreon,Torkoal,Diancie,['dark'],['fire'],"['rock', 'fairy']",343\/343,304\/304,1.0
+Tsareena,Diancie,Umbreon,['grass'],"['rock', 'fairy']",['dark'],304\/304,394\/394,1.0
+Sableye,Umbreon,Tsareena,"['dark', 'ghost']",['dark'],['grass'],394\/394,285\/285,1.0
+Torkoal,Umbreon,Tsareena,['fire'],['dark'],['grass'],394\/394,285\/285,0.0
+Diancie,Tsareena,Sableye,"['rock', 'fairy']",['grass'],"['dark', 'ghost']",285\/285,303\/303,1.0
+Torkoal,Sableye,Diancie,['fire'],"['dark', 'ghost']","['rock', 'fairy']",303\/303,304\/304,1.0
+Umbreon,Sableye,Diancie,['dark'],"['dark', 'ghost']","['rock', 'fairy']",303\/303,304\/304,0.0
+Umbreon,Torkoal,Diancie,['dark'],['fire'],"['rock', 'fairy']",124\/343,304\/304,1.0
+Sableye,Torkoal,Diancie,"['dark', 'ghost']",['fire'],"['rock', 'fairy']",124\/343,304\/304,0.0
+Tsareena,Diancie,Umbreon,['grass'],"['rock', 'fairy']",['dark'],304\/304,394\/394,1.0
+Sudowoodo,Mesprit,Zapdos,['rock'],['psychic'],"['electric', 'flying']",268\/268,259\/259,1.0
+Pelipper,Zapdos,Sudowoodo,"['water', 'flying']","['electric', 'flying']",['rock'],259\/259,252\/252,1.0
+Pelipper,Sudowoodo,Pelipper,"['water', 'flying']",['rock'],"['water', 'flying']",252\/252,214\/214,1.0
+Mesprit,Sudowoodo,Pelipper,['psychic'],['rock'],"['water', 'flying']",252\/252,214\/214,0.0
+Mesprit,Pelipper,Pelipper,['psychic'],"['water', 'flying']","['water', 'flying']",214\/214,214\/214,1.0
+Sudowoodo,Pelipper,Pelipper,['rock'],"['water', 'flying']","['water', 'flying']",214\/214,214\/214,0.0
+Klefki,Pelipper,Mesprit,"['steel', 'fairy']","['water', 'flying']",['psychic'],214\/214,268\/268,1.0
+Zapdos,Pelipper,Mesprit,"['electric', 'flying']","['water', 'flying']",['psychic'],214\/214,268\/268,0.0
+Sudowoodo,Mesprit,Klefki,['rock'],['psychic'],"['steel', 'fairy']",268\/268,214\/214,1.0
+Keldeo,Klefki,Sudowoodo,"['water', 'fighting']","['steel', 'fairy']",['rock'],214\/214,213\/252,1.0
+Zapdos,Klefki,Sudowoodo,"['electric', 'flying']","['steel', 'fairy']",['rock'],214\/214,213\/252,0.0
+Jumpluff,Sudowoodo,Keldeo,"['grass', 'flying']",['rock'],"['water', 'fighting']",213\/252,260\/260,1.0
+Mesprit,Sudowoodo,Keldeo,['psychic'],['rock'],"['water', 'fighting']",213\/252,260\/260,0.0
+Klefki,Keldeo,Jumpluff,"['steel', 'fairy']","['water', 'fighting']","['grass', 'flying']",260\/260,259\/259,1.0
+Zapdos,Keldeo,Jumpluff,"['electric', 'flying']","['water', 'fighting']","['grass', 'flying']",260\/260,259\/259,0.0
+Sudowoodo,Jumpluff,Klefki,['rock'],"['grass', 'flying']","['steel', 'fairy']",259\/259,214\/214,1.0
+Mesprit,Jumpluff,Klefki,['psychic'],"['grass', 'flying']","['steel', 'fairy']",259\/259,214\/214,0.0
+Cobalion,Sudowoodo,Klefki,"['steel', 'fighting']",['rock'],"['steel', 'fairy']",213\/252,214\/214,1.0
+Mesprit,Sudowoodo,Klefki,['psychic'],['rock'],"['steel', 'fairy']",213\/252,214\/214,0.0
+Jumpluff,Sudowoodo,Klefki,"['grass', 'flying']",['rock'],"['steel', 'fairy']",213\/252,214\/214,0.0
+Keldeo,Klefki,Cobalion,"['water', 'fighting']","['steel', 'fairy']","['steel', 'fighting']",214\/214,267\/267,1.0
+Zapdos,Klefki,Cobalion,"['electric', 'flying']","['steel', 'fairy']","['steel', 'fighting']",214\/214,267\/267,0.0
+Jumpluff,Cobalion,Keldeo,"['grass', 'flying']","['steel', 'fighting']","['water', 'fighting']",267\/267,260\/260,1.0
+Mesprit,Cobalion,Keldeo,['psychic'],"['steel', 'fighting']","['water', 'fighting']",267\/267,260\/260,0.0
+Sudowoodo,Cobalion,Keldeo,['rock'],"['steel', 'fighting']","['water', 'fighting']",267\/267,260\/260,0.0
+Zapdos,Keldeo,Jumpluff,"['electric', 'flying']","['water', 'fighting']","['grass', 'flying']",260\/260,230\/259,1.0
+Sudowoodo,Jumpluff,Zapdos,['rock'],"['grass', 'flying']","['electric', 'flying']",230\/259,234\/259,1.0
+Mesprit,Jumpluff,Zapdos,['psychic'],"['grass', 'flying']","['electric', 'flying']",230\/259,234\/259,0.0
+Cobalion,Jumpluff,Zapdos,"['steel', 'fighting']","['grass', 'flying']","['electric', 'flying']",230\/259,234\/259,0.0
+Latias,Sudowoodo,Zapdos,"['dragon', 'psychic']",['rock'],"['electric', 'flying']",213\/252,234\/259,1.0
+Mesprit,Sudowoodo,Zapdos,['psychic'],['rock'],"['electric', 'flying']",213\/252,234\/259,0.0
+Jumpluff,Sudowoodo,Zapdos,"['grass', 'flying']",['rock'],"['electric', 'flying']",213\/252,234\/259,0.0
+Cobalion,Sudowoodo,Zapdos,"['steel', 'fighting']",['rock'],"['electric', 'flying']",213\/252,234\/259,0.0
+Keldeo,Zapdos,Latias,"['water', 'fighting']","['electric', 'flying']","['dragon', 'psychic']",234\/259,247\/247,1.0
+Cobalion,Latias,Keldeo,"['steel', 'fighting']","['dragon', 'psychic']","['water', 'fighting']",247\/247,135\/260,1.0
+Mesprit,Latias,Keldeo,['psychic'],"['dragon', 'psychic']","['water', 'fighting']",247\/247,135\/260,0.0
+Jumpluff,Latias,Keldeo,"['grass', 'flying']","['dragon', 'psychic']","['water', 'fighting']",247\/247,135\/260,0.0
+Roserade,Keldeo,Cobalion,"['grass', 'poison']","['water', 'fighting']","['steel', 'fighting']",135\/260,264\/267,1.0
+Braviary,Roserade,Cobalion,"['normal', 'flying']","['grass', 'poison']","['steel', 'fighting']",224\/224,264\/267,1.0
+Keldeo,Roserade,Cobalion,"['water', 'fighting']","['grass', 'poison']","['steel', 'fighting']",224\/224,264\/267,0.0
+Mesprit,Cobalion,Braviary,['psychic'],"['steel', 'fighting']","['normal', 'flying']",264\/267,295\/295,1.0
+Jumpluff,Cobalion,Braviary,"['grass', 'flying']","['steel', 'fighting']","['normal', 'flying']",264\/267,295\/295,0.0
+Latias,Cobalion,Braviary,"['dragon', 'psychic']","['steel', 'fighting']","['normal', 'flying']",264\/267,295\/295,0.0
+Volbeat,Kyurem,Scrafty,['bug'],"['dragon', 'ice']","['dark', 'fighting']",311\/311,238\/238,1.0
+Wishiwashi,Volbeat,Scrafty,['water'],['bug'],"['dark', 'fighting']",243\/243,238\/238,1.0
+Kyurem,Volbeat,Scrafty,"['dragon', 'ice']",['bug'],"['dark', 'fighting']",243\/243,238\/238,0.0
+Mandibuzz,Wishiwashi,Scrafty,"['dark', 'flying']",['water'],"['dark', 'fighting']",210\/210,238\/238,1.0
+Kyurem,Wishiwashi,Scrafty,"['dragon', 'ice']",['water'],"['dark', 'fighting']",210\/210,238\/238,0.0
+Volbeat,Wishiwashi,Scrafty,['bug'],['water'],"['dark', 'fighting']",210\/210,238\/238,0.0
+Kyurem,Mandibuzz,Volcanion,"['dragon', 'ice']","['dark', 'flying']","['fire', 'water']",303\/303,250\/250,1.0
+Volbeat,Mandibuzz,Volcanion,['bug'],"['dark', 'flying']","['fire', 'water']",303\/303,250\/250,0.0
+Hypno,Volcanion,Kyurem,['psychic'],"['fire', 'water']","['dragon', 'ice']",250\/250,311\/311,1.0
+Scrafty,Volcanion,Kyurem,"['dark', 'fighting']","['fire', 'water']","['dragon', 'ice']",250\/250,311\/311,0.0
+Bronzong,Kyurem,Hypno,"['steel', 'psychic']","['dragon', 'ice']",['psychic'],311\/311,277\/277,1.0
+Volbeat,Kyurem,Hypno,['bug'],"['dragon', 'ice']",['psychic'],311\/311,277\/277,0.0
+Mandibuzz,Kyurem,Hypno,"['dark', 'flying']","['dragon', 'ice']",['psychic'],311\/311,277\/277,0.0
+Volcanion,Hypno,Bronzong,"['fire', 'water']",['psychic'],"['steel', 'psychic']",277\/277,235\/235,1.0
+Scrafty,Hypno,Bronzong,"['dark', 'fighting']",['psychic'],"['steel', 'psychic']",277\/277,235\/235,0.0
+Kyurem,Bronzong,Volcanion,"['dragon', 'ice']","['steel', 'psychic']","['fire', 'water']",235\/235,250\/250,1.0
+Volbeat,Bronzong,Volcanion,['bug'],"['steel', 'psychic']","['fire', 'water']",235\/235,250\/250,0.0
+Mandibuzz,Bronzong,Volcanion,"['dark', 'flying']","['steel', 'psychic']","['fire', 'water']",235\/235,250\/250,0.0
+Hypno,Volcanion,Kyurem,['psychic'],"['fire', 'water']","['dragon', 'ice']",250\/250,286\/311,1.0
+Scrafty,Volcanion,Kyurem,"['dark', 'fighting']","['fire', 'water']","['dragon', 'ice']",250\/250,286\/311,0.0
+Shiinotic,Hypno,Kyurem,"['grass', 'fairy']",['psychic'],"['dragon', 'ice']",205\/277,286\/311,1.0
+Scrafty,Hypno,Kyurem,"['dark', 'fighting']",['psychic'],"['dragon', 'ice']",205\/277,286\/311,0.0
+Volcanion,Hypno,Kyurem,"['fire', 'water']",['psychic'],"['dragon', 'ice']",205\/277,286\/311,0.0
+Volbeat,Kyurem,Shiinotic,['bug'],"['dragon', 'ice']","['grass', 'fairy']",286\/311,235\/235,1.0
+Mandibuzz,Kyurem,Shiinotic,"['dark', 'flying']","['dragon', 'ice']","['grass', 'fairy']",286\/311,235\/235,0.0
+Bronzong,Kyurem,Shiinotic,"['steel', 'psychic']","['dragon', 'ice']","['grass', 'fairy']",286\/311,235\/235,0.0
+Scrafty,Shiinotic,Volbeat,"['dark', 'fighting']","['grass', 'fairy']",['bug'],235\/235,243\/243,1.0
+Volcanion,Shiinotic,Volbeat,"['fire', 'water']","['grass', 'fairy']",['bug'],235\/235,243\/243,0.0
+Mandibuzz,Volbeat,Scrafty,"['dark', 'flying']",['bug'],"['dark', 'fighting']",243\/243,187\/238,1.0
+Kyurem,Volbeat,Scrafty,"['dragon', 'ice']",['bug'],"['dark', 'fighting']",243\/243,187\/238,0.0
+Bronzong,Volbeat,Scrafty,"['steel', 'psychic']",['bug'],"['dark', 'fighting']",243\/243,187\/238,0.0
+Bronzong,Mandibuzz,Volcanion,"['steel', 'psychic']","['dark', 'flying']","['fire', 'water']",153\/303,250\/250,1.0
+Kyurem,Mandibuzz,Volcanion,"['dragon', 'ice']","['dark', 'flying']","['fire', 'water']",153\/303,250\/250,0.0
+Volbeat,Mandibuzz,Volcanion,['bug'],"['dark', 'flying']","['fire', 'water']",153\/303,250\/250,0.0
+Shiinotic,Volcanion,Bronzong,"['grass', 'fairy']","['fire', 'water']","['steel', 'psychic']",250\/250,13\/235,1.0
+Scrafty,Volcanion,Bronzong,"['dark', 'fighting']","['fire', 'water']","['steel', 'psychic']",250\/250,13\/235,0.0
+Volbeat,Bronzong,Shiinotic,['bug'],"['steel', 'psychic']","['grass', 'fairy']",13\/235,235\/235,1.0
+Kyurem,Bronzong,Shiinotic,"['dragon', 'ice']","['steel', 'psychic']","['grass', 'fairy']",13\/235,235\/235,0.0
+Mandibuzz,Bronzong,Shiinotic,"['dark', 'flying']","['steel', 'psychic']","['grass', 'fairy']",13\/235,235\/235,0.0
+Scrafty,Shiinotic,Volbeat,"['dark', 'fighting']","['grass', 'fairy']",['bug'],235\/235,198\/243,1.0
+Volcanion,Shiinotic,Volbeat,"['fire', 'water']","['grass', 'fairy']",['bug'],235\/235,198\/243,0.0
+Mandibuzz,Volbeat,Scrafty,"['dark', 'flying']",['bug'],"['dark', 'fighting']",198\/243,203\/238,1.0
+Kyurem,Volbeat,Scrafty,"['dragon', 'ice']",['bug'],"['dark', 'fighting']",198\/243,203\/238,0.0
+Bronzong,Volbeat,Scrafty,"['steel', 'psychic']",['bug'],"['dark', 'fighting']",198\/243,203\/238,0.0
+Bronzong,Mandibuzz,Volcanion,"['steel', 'psychic']","['dark', 'flying']","['fire', 'water']",171\/303,203\/250,1.0
+Kyurem,Mandibuzz,Volcanion,"['dragon', 'ice']","['dark', 'flying']","['fire', 'water']",171\/303,203\/250,0.0
+Kyurem,Bronzong,Volcanion,"['dragon', 'ice']","['steel', 'psychic']","['fire', 'water']",13\/235,203\/250,1.0
+Mandibuzz,Bronzong,Volcanion,"['dark', 'flying']","['steel', 'psychic']","['fire', 'water']",13\/235,203\/250,0.0
+Giratina,Volcanion,Kyurem,"['ghost', 'dragon']","['fire', 'water']","['dragon', 'ice']",203\/250,310\/311,1.0
+Scrafty,Volcanion,Kyurem,"['dark', 'fighting']","['fire', 'water']","['dragon', 'ice']",203\/250,310\/311,0.0
+Shiinotic,Volcanion,Kyurem,"['grass', 'fairy']","['fire', 'water']","['dragon', 'ice']",203\/250,310\/311,0.0
+Scrafty,Giratina,Kyurem,"['dark', 'fighting']","['ghost', 'dragon']","['dragon', 'ice']",339\/339,310\/311,1.0
+Shiinotic,Giratina,Kyurem,"['grass', 'fairy']","['ghost', 'dragon']","['dragon', 'ice']",339\/339,310\/311,0.0
+Rayquaza,Kyurem,Scrafty,"['dragon', 'flying']","['dragon', 'ice']","['dark', 'fighting']",310\/311,195\/238,1.0
+Mandibuzz,Kyurem,Scrafty,"['dark', 'flying']","['dragon', 'ice']","['dark', 'fighting']",310\/311,195\/238,0.0
+Mandibuzz,Rayquaza,Scrafty,"['dark', 'flying']","['dragon', 'flying']","['dark', 'fighting']",274\/274,195\/238,1.0
+Kyurem,Rayquaza,Scrafty,"['dragon', 'ice']","['dragon', 'flying']","['dark', 'fighting']",274\/274,195\/238,0.0
+Kyurem,Mandibuzz,Altaria,"['dragon', 'ice']","['dark', 'flying']","['dragon', 'flying']",185\/303,242\/242,1.0
+Registeel,Exeggutor,Sylveon,['steel'],"['grass', 'psychic']",['fairy'],293\/293,273\/273,1.0
+Jellicent,Sylveon,Registeel,"['water', 'ghost']",['fairy'],['steel'],273\/273,256\/256,1.0
+Volbeat,Jellicent,Registeel,['bug'],"['water', 'ghost']",['steel'],295\/295,256\/256,1.0
+Sylveon,Jellicent,Registeel,['fairy'],"['water', 'ghost']",['steel'],295\/295,256\/256,0.0
+Magcargo,Registeel,Volbeat,"['fire', 'rock']",['steel'],['bug'],256\/256,243\/243,1.0
+Exeggutor,Registeel,Volbeat,"['grass', 'psychic']",['steel'],['bug'],256\/256,243\/243,0.0
+Jellicent,Volbeat,Magcargo,"['water', 'ghost']",['bug'],"['fire', 'rock']",243\/243,235\/235,1.0
+Sylveon,Volbeat,Magcargo,['fairy'],['bug'],"['fire', 'rock']",243\/243,235\/235,0.0
+Registeel,Magcargo,Jellicent,['steel'],"['fire', 'rock']","['water', 'ghost']",235\/235,295\/295,1.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",235\/235,295\/295,0.0
+Exeggutor,Registeel,Jellicent,"['grass', 'psychic']",['steel'],"['water', 'ghost']",256\/256,295\/295,1.0
+Magcargo,Registeel,Jellicent,"['fire', 'rock']",['steel'],"['water', 'ghost']",256\/256,295\/295,0.0
+Volbeat,Jellicent,Exeggutor,['bug'],"['water', 'ghost']","['grass', 'psychic']",295\/295,293\/293,1.0
+Sylveon,Jellicent,Exeggutor,['fairy'],"['water', 'ghost']","['grass', 'psychic']",295\/295,293\/293,0.0
+Registeel,Exeggutor,Volbeat,['steel'],"['grass', 'psychic']",['bug'],293\/293,198\/243,1.0
+Magcargo,Exeggutor,Volbeat,"['fire', 'rock']","['grass', 'psychic']",['bug'],293\/293,198\/243,0.0
+Jellicent,Volbeat,Registeel,"['water', 'ghost']",['bug'],['steel'],198\/243,167\/256,1.0
+Sylveon,Volbeat,Registeel,['fairy'],['bug'],['steel'],198\/243,167\/256,0.0
+Exeggutor,Registeel,Jellicent,"['grass', 'psychic']",['steel'],"['water', 'ghost']",167\/256,295\/295,1.0
+Magcargo,Registeel,Jellicent,"['fire', 'rock']",['steel'],"['water', 'ghost']",167\/256,295\/295,0.0
+Greninja,Exeggutor,Jellicent,"['water', 'dark']","['grass', 'psychic']","['water', 'ghost']",212\/293,295\/295,1.0
+Registeel,Exeggutor,Jellicent,['steel'],"['grass', 'psychic']","['water', 'ghost']",212\/293,295\/295,0.0
+Magcargo,Exeggutor,Jellicent,"['fire', 'rock']","['grass', 'psychic']","['water', 'ghost']",212\/293,295\/295,0.0
+Sylveon,Jellicent,Greninja,['fairy'],"['water', 'ghost']","['water', 'dark']",295\/295,232\/232,1.0
+Volbeat,Jellicent,Greninja,['bug'],"['water', 'ghost']","['water', 'dark']",295\/295,232\/232,0.0
+Jellicent,Sylveon,Greninja,"['water', 'ghost']",['fairy'],"['water', 'dark']",273\/273,232\/232,1.0
+Volbeat,Sylveon,Greninja,['bug'],['fairy'],"['water', 'dark']",273\/273,232\/232,0.0
+Exeggutor,Greninja,Jellicent,"['grass', 'psychic']","['water', 'dark']","['water', 'ghost']",232\/232,295\/295,1.0
+Registeel,Greninja,Jellicent,['steel'],"['water', 'dark']","['water', 'ghost']",232\/232,295\/295,0.0
+Magcargo,Greninja,Jellicent,"['fire', 'rock']","['water', 'dark']","['water', 'ghost']",232\/232,295\/295,0.0
+Shaymin,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",295\/295,160\/293,1.0
+Sylveon,Jellicent,Exeggutor,['fairy'],"['water', 'ghost']","['grass', 'psychic']",295\/295,160\/293,0.0
+Volbeat,Jellicent,Exeggutor,['bug'],"['water', 'ghost']","['grass', 'psychic']",295\/295,160\/293,0.0
+Registeel,Exeggutor,Shaymin,['steel'],"['grass', 'psychic']",['grass'],160\/293,266\/266,1.0
+Magcargo,Exeggutor,Shaymin,"['fire', 'rock']","['grass', 'psychic']",['grass'],160\/293,266\/266,0.0
+Greninja,Exeggutor,Shaymin,"['water', 'dark']","['grass', 'psychic']",['grass'],160\/293,266\/266,0.0
+Jellicent,Shaymin,Registeel,"['water', 'ghost']",['grass'],['steel'],266\/266,231\/256,1.0
+Sylveon,Shaymin,Registeel,['fairy'],['grass'],['steel'],266\/266,231\/256,0.0
+Volbeat,Shaymin,Registeel,['bug'],['grass'],['steel'],266\/266,231\/256,0.0
+Greninja,Registeel,Jellicent,"['water', 'dark']",['steel'],"['water', 'ghost']",231\/256,289\/295,1.0
+Exeggutor,Registeel,Jellicent,"['grass', 'psychic']",['steel'],"['water', 'ghost']",231\/256,289\/295,0.0
+Magcargo,Registeel,Jellicent,"['fire', 'rock']",['steel'],"['water', 'ghost']",231\/256,289\/295,0.0
+Sylveon,Jellicent,Greninja,['fairy'],"['water', 'ghost']","['water', 'dark']",289\/295,232\/232,1.0
+Volbeat,Jellicent,Greninja,['bug'],"['water', 'ghost']","['water', 'dark']",289\/295,232\/232,0.0
+Shaymin,Jellicent,Greninja,['grass'],"['water', 'ghost']","['water', 'dark']",289\/295,232\/232,0.0
+Escavalier,Greninja,Sylveon,"['bug', 'steel']","['water', 'dark']",['fairy'],232\/232,261\/273,1.0
+Exeggutor,Greninja,Sylveon,"['grass', 'psychic']","['water', 'dark']",['fairy'],232\/232,261\/273,0.0
+Registeel,Greninja,Sylveon,['steel'],"['water', 'dark']",['fairy'],232\/232,261\/273,0.0
+Magcargo,Greninja,Sylveon,"['fire', 'rock']","['water', 'dark']",['fairy'],232\/232,261\/273,0.0
+Sunflora,Sylveon,Escavalier,['grass'],['fairy'],"['bug', 'steel']",261\/273,240\/240,1.0
+Jellicent,Sylveon,Escavalier,"['water', 'ghost']",['fairy'],"['bug', 'steel']",261\/273,240\/240,0.0
+Volbeat,Sylveon,Escavalier,['bug'],['fairy'],"['bug', 'steel']",261\/273,240\/240,0.0
+Shaymin,Sylveon,Escavalier,['grass'],['fairy'],"['bug', 'steel']",261\/273,240\/240,0.0
+Exeggutor,Escavalier,Sunflora,"['grass', 'psychic']","['bug', 'steel']",['grass'],240\/240,260\/260,1.0
+Registeel,Escavalier,Sunflora,['steel'],"['bug', 'steel']",['grass'],240\/240,260\/260,0.0
+Magcargo,Escavalier,Sunflora,"['fire', 'rock']","['bug', 'steel']",['grass'],240\/240,260\/260,0.0
+Greninja,Escavalier,Sunflora,"['water', 'dark']","['bug', 'steel']",['grass'],240\/240,260\/260,0.0
+Jellicent,Sunflora,Exeggutor,"['water', 'ghost']",['grass'],"['grass', 'psychic']",260\/260,160\/293,1.0
+Sylveon,Sunflora,Exeggutor,['fairy'],['grass'],"['grass', 'psychic']",260\/260,160\/293,0.0
+Volbeat,Sunflora,Exeggutor,['bug'],['grass'],"['grass', 'psychic']",260\/260,160\/293,0.0
+Shaymin,Sunflora,Exeggutor,['grass'],['grass'],"['grass', 'psychic']",260\/260,160\/293,0.0
+Shaymin,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",286\/295,160\/293,1.0
+Sylveon,Jellicent,Exeggutor,['fairy'],"['water', 'ghost']","['grass', 'psychic']",286\/295,160\/293,0.0
+Volbeat,Jellicent,Exeggutor,['bug'],"['water', 'ghost']","['grass', 'psychic']",286\/295,160\/293,0.0
+Sunflora,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",286\/295,160\/293,0.0
+Registeel,Exeggutor,Shaymin,['steel'],"['grass', 'psychic']",['grass'],160\/293,187\/266,1.0
+Magcargo,Exeggutor,Shaymin,"['fire', 'rock']","['grass', 'psychic']",['grass'],160\/293,187\/266,0.0
+Greninja,Exeggutor,Shaymin,"['water', 'dark']","['grass', 'psychic']",['grass'],160\/293,187\/266,0.0
+Escavalier,Exeggutor,Shaymin,"['bug', 'steel']","['grass', 'psychic']",['grass'],160\/293,187\/266,0.0
+Salamence,Shaymin,Registeel,"['dragon', 'flying']",['grass'],['steel'],187\/266,195\/256,1.0
+Sylveon,Shaymin,Registeel,['fairy'],['grass'],['steel'],187\/266,195\/256,0.0
+Jellicent,Shaymin,Registeel,"['water', 'ghost']",['grass'],['steel'],187\/266,195\/256,0.0
+Volbeat,Shaymin,Registeel,['bug'],['grass'],['steel'],187\/266,195\/256,0.0
+Sunflora,Shaymin,Registeel,['grass'],['grass'],['steel'],187\/266,195\/256,0.0
+Froslass,Registeel,Salamence,"['ice', 'ghost']",['steel'],"['dragon', 'flying']",195\/256,259\/259,1.0
+Exeggutor,Registeel,Salamence,"['grass', 'psychic']",['steel'],"['dragon', 'flying']",195\/256,259\/259,0.0
+Magcargo,Registeel,Salamence,"['fire', 'rock']",['steel'],"['dragon', 'flying']",195\/256,259\/259,0.0
+Greninja,Registeel,Salamence,"['water', 'dark']",['steel'],"['dragon', 'flying']",195\/256,259\/259,0.0
+Escavalier,Registeel,Salamence,"['bug', 'steel']",['steel'],"['dragon', 'flying']",195\/256,259\/259,0.0
+Magcargo,Froslass,Salamence,"['fire', 'rock']","['ice', 'ghost']","['dragon', 'flying']",246\/246,259\/259,1.0
+Exeggutor,Froslass,Salamence,"['grass', 'psychic']","['ice', 'ghost']","['dragon', 'flying']",246\/246,259\/259,0.0
+Registeel,Froslass,Salamence,['steel'],"['ice', 'ghost']","['dragon', 'flying']",246\/246,259\/259,0.0
+Greninja,Froslass,Salamence,"['water', 'dark']","['ice', 'ghost']","['dragon', 'flying']",246\/246,259\/259,0.0
+Escavalier,Froslass,Salamence,"['bug', 'steel']","['ice', 'ghost']","['dragon', 'flying']",246\/246,259\/259,0.0
+Jellicent,Salamence,Magcargo,"['water', 'ghost']","['dragon', 'flying']","['fire', 'rock']",259\/259,235\/235,1.0
+Sylveon,Salamence,Magcargo,['fairy'],"['dragon', 'flying']","['fire', 'rock']",259\/259,235\/235,0.0
+Volbeat,Salamence,Magcargo,['bug'],"['dragon', 'flying']","['fire', 'rock']",259\/259,235\/235,0.0
+Shaymin,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",259\/259,235\/235,0.0
+Sunflora,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",259\/259,235\/235,0.0
+Registeel,Magcargo,Jellicent,['steel'],"['fire', 'rock']","['water', 'ghost']",235\/235,268\/295,1.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",235\/235,268\/295,0.0
+Greninja,Magcargo,Jellicent,"['water', 'dark']","['fire', 'rock']","['water', 'ghost']",235\/235,268\/295,0.0
+Escavalier,Magcargo,Jellicent,"['bug', 'steel']","['fire', 'rock']","['water', 'ghost']",235\/235,268\/295,0.0
+Salamence,Jellicent,Registeel,"['dragon', 'flying']","['water', 'ghost']",['steel'],268\/295,256\/256,1.0
+Sylveon,Jellicent,Registeel,['fairy'],"['water', 'ghost']",['steel'],268\/295,256\/256,0.0
+Volbeat,Jellicent,Registeel,['bug'],"['water', 'ghost']",['steel'],268\/295,256\/256,0.0
+Shaymin,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],268\/295,256\/256,0.0
+Sunflora,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],268\/295,256\/256,0.0
+Magcargo,Registeel,Salamence,"['fire', 'rock']",['steel'],"['dragon', 'flying']",256\/256,178\/259,1.0
+Exeggutor,Registeel,Salamence,"['grass', 'psychic']",['steel'],"['dragon', 'flying']",256\/256,178\/259,0.0
+Greninja,Registeel,Salamence,"['water', 'dark']",['steel'],"['dragon', 'flying']",256\/256,178\/259,0.0
+Escavalier,Registeel,Salamence,"['bug', 'steel']",['steel'],"['dragon', 'flying']",256\/256,178\/259,0.0
+Jellicent,Salamence,Magcargo,"['water', 'ghost']","['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,1.0
+Sylveon,Salamence,Magcargo,['fairy'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Volbeat,Salamence,Magcargo,['bug'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Shaymin,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Sunflora,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Registeel,Magcargo,Jellicent,['steel'],"['fire', 'rock']","['water', 'ghost']",235\/235,250\/295,1.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",235\/235,250\/295,0.0
+Greninja,Magcargo,Jellicent,"['water', 'dark']","['fire', 'rock']","['water', 'ghost']",235\/235,250\/295,0.0
+Escavalier,Magcargo,Jellicent,"['bug', 'steel']","['fire', 'rock']","['water', 'ghost']",235\/235,250\/295,0.0
+Salamence,Jellicent,Registeel,"['dragon', 'flying']","['water', 'ghost']",['steel'],250\/295,240\/256,1.0
+Sylveon,Jellicent,Registeel,['fairy'],"['water', 'ghost']",['steel'],250\/295,240\/256,0.0
+Volbeat,Jellicent,Registeel,['bug'],"['water', 'ghost']",['steel'],250\/295,240\/256,0.0
+Shaymin,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],250\/295,240\/256,0.0
+Sunflora,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],250\/295,240\/256,0.0
+Magcargo,Registeel,Salamence,"['fire', 'rock']",['steel'],"['dragon', 'flying']",240\/256,178\/259,1.0
+Exeggutor,Registeel,Salamence,"['grass', 'psychic']",['steel'],"['dragon', 'flying']",240\/256,178\/259,0.0
+Greninja,Registeel,Salamence,"['water', 'dark']",['steel'],"['dragon', 'flying']",240\/256,178\/259,0.0
+Escavalier,Registeel,Salamence,"['bug', 'steel']",['steel'],"['dragon', 'flying']",240\/256,178\/259,0.0
+Jellicent,Salamence,Magcargo,"['water', 'ghost']","['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,1.0
+Sylveon,Salamence,Magcargo,['fairy'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Volbeat,Salamence,Magcargo,['bug'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Shaymin,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Sunflora,Salamence,Magcargo,['grass'],"['dragon', 'flying']","['fire', 'rock']",178\/259,235\/235,0.0
+Registeel,Magcargo,Jellicent,['steel'],"['fire', 'rock']","['water', 'ghost']",235\/235,232\/295,1.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",235\/235,232\/295,0.0
+Greninja,Magcargo,Jellicent,"['water', 'dark']","['fire', 'rock']","['water', 'ghost']",235\/235,232\/295,0.0
+Escavalier,Magcargo,Jellicent,"['bug', 'steel']","['fire', 'rock']","['water', 'ghost']",235\/235,232\/295,0.0
+Salamence,Jellicent,Registeel,"['dragon', 'flying']","['water', 'ghost']",['steel'],232\/295,224\/256,1.0
+Sylveon,Jellicent,Registeel,['fairy'],"['water', 'ghost']",['steel'],232\/295,224\/256,0.0
+Volbeat,Jellicent,Registeel,['bug'],"['water', 'ghost']",['steel'],232\/295,224\/256,0.0
+Shaymin,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],232\/295,224\/256,0.0
+Sunflora,Jellicent,Registeel,['grass'],"['water', 'ghost']",['steel'],232\/295,224\/256,0.0
+Greninja,Registeel,Salamence,"['water', 'dark']",['steel'],"['dragon', 'flying']",224\/256,259\/259,1.0
+Exeggutor,Registeel,Salamence,"['grass', 'psychic']",['steel'],"['dragon', 'flying']",224\/256,259\/259,0.0
+Magcargo,Registeel,Salamence,"['fire', 'rock']",['steel'],"['dragon', 'flying']",224\/256,259\/259,0.0
+Escavalier,Registeel,Salamence,"['bug', 'steel']",['steel'],"['dragon', 'flying']",224\/256,259\/259,0.0
+Volbeat,Salamence,Greninja,['bug'],"['dragon', 'flying']","['water', 'dark']",259\/259,186\/232,1.0
+Sylveon,Salamence,Greninja,['fairy'],"['dragon', 'flying']","['water', 'dark']",259\/259,186\/232,0.0
+Jellicent,Salamence,Greninja,"['water', 'ghost']","['dragon', 'flying']","['water', 'dark']",259\/259,186\/232,0.0
+Shaymin,Salamence,Greninja,['grass'],"['dragon', 'flying']","['water', 'dark']",259\/259,186\/232,0.0
+Sunflora,Salamence,Greninja,['grass'],"['dragon', 'flying']","['water', 'dark']",259\/259,186\/232,0.0
+Sylveon,Volbeat,Greninja,['fairy'],['bug'],"['water', 'dark']",105\/243,186\/232,1.0
+Jellicent,Volbeat,Greninja,"['water', 'ghost']",['bug'],"['water', 'dark']",105\/243,186\/232,0.0
+Shaymin,Volbeat,Greninja,['grass'],['bug'],"['water', 'dark']",105\/243,186\/232,0.0
+Sunflora,Volbeat,Greninja,['grass'],['bug'],"['water', 'dark']",105\/243,186\/232,0.0
+Salamence,Volbeat,Greninja,"['dragon', 'flying']",['bug'],"['water', 'dark']",105\/243,186\/232,0.0
+Registeel,Greninja,Sylveon,['steel'],"['water', 'dark']",['fairy'],186\/232,253\/273,1.0
+Exeggutor,Greninja,Sylveon,"['grass', 'psychic']","['water', 'dark']",['fairy'],186\/232,253\/273,0.0
+Magcargo,Greninja,Sylveon,"['fire', 'rock']","['water', 'dark']",['fairy'],186\/232,253\/273,0.0
+Escavalier,Greninja,Sylveon,"['bug', 'steel']","['water', 'dark']",['fairy'],186\/232,253\/273,0.0
+Salamence,Sylveon,Registeel,"['dragon', 'flying']",['fairy'],['steel'],253\/273,188\/256,1.0
+Jellicent,Sylveon,Registeel,"['water', 'ghost']",['fairy'],['steel'],253\/273,188\/256,0.0
+Shaymin,Sylveon,Registeel,['grass'],['fairy'],['steel'],253\/273,188\/256,0.0
+Sunflora,Sylveon,Registeel,['grass'],['fairy'],['steel'],253\/273,188\/256,0.0
+Sylveon,Salamence,Registeel,['fairy'],"['dragon', 'flying']",['steel'],259\/259,188\/256,1.0
+Jellicent,Salamence,Registeel,"['water', 'ghost']","['dragon', 'flying']",['steel'],259\/259,188\/256,0.0
+Shaymin,Salamence,Registeel,['grass'],"['dragon', 'flying']",['steel'],259\/259,188\/256,0.0
+Sunflora,Salamence,Registeel,['grass'],"['dragon', 'flying']",['steel'],259\/259,188\/256,0.0
+Escavalier,Registeel,Sylveon,"['bug', 'steel']",['steel'],['fairy'],188\/256,234\/273,1.0
+Exeggutor,Registeel,Sylveon,"['grass', 'psychic']",['steel'],['fairy'],188\/256,234\/273,0.0
+Magcargo,Registeel,Sylveon,"['fire', 'rock']",['steel'],['fairy'],188\/256,234\/273,0.0
+Greninja,Registeel,Sylveon,"['water', 'dark']",['steel'],['fairy'],188\/256,234\/273,0.0
+Jellicent,Sylveon,Escavalier,"['water', 'ghost']",['fairy'],"['bug', 'steel']",234\/273,240\/240,1.0
+Shaymin,Sylveon,Escavalier,['grass'],['fairy'],"['bug', 'steel']",234\/273,240\/240,0.0
+Sunflora,Sylveon,Escavalier,['grass'],['fairy'],"['bug', 'steel']",234\/273,240\/240,0.0
+Exeggutor,Escavalier,Jellicent,"['grass', 'psychic']","['bug', 'steel']","['water', 'ghost']",240\/240,214\/295,1.0
+Magcargo,Escavalier,Jellicent,"['fire', 'rock']","['bug', 'steel']","['water', 'ghost']",240\/240,214\/295,0.0
+Greninja,Escavalier,Jellicent,"['water', 'dark']","['bug', 'steel']","['water', 'ghost']",240\/240,214\/295,0.0
+Sylveon,Jellicent,Exeggutor,['fairy'],"['water', 'ghost']","['grass', 'psychic']",214\/295,183\/293,1.0
+Shaymin,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",214\/295,183\/293,0.0
+Sunflora,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",214\/295,183\/293,0.0
+Magcargo,Exeggutor,Sylveon,"['fire', 'rock']","['grass', 'psychic']",['fairy'],183\/293,251\/273,1.0
+Greninja,Exeggutor,Sylveon,"['water', 'dark']","['grass', 'psychic']",['fairy'],183\/293,251\/273,0.0
+Escavalier,Exeggutor,Sylveon,"['bug', 'steel']","['grass', 'psychic']",['fairy'],183\/293,251\/273,0.0
+Jellicent,Sylveon,Magcargo,"['water', 'ghost']",['fairy'],"['fire', 'rock']",251\/273,235\/235,1.0
+Shaymin,Sylveon,Magcargo,['grass'],['fairy'],"['fire', 'rock']",251\/273,235\/235,0.0
+Sunflora,Sylveon,Magcargo,['grass'],['fairy'],"['fire', 'rock']",251\/273,235\/235,0.0
+Greninja,Magcargo,Jellicent,"['water', 'dark']","['fire', 'rock']","['water', 'ghost']",235\/235,252\/295,1.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",235\/235,252\/295,0.0
+Escavalier,Magcargo,Jellicent,"['bug', 'steel']","['fire', 'rock']","['water', 'ghost']",235\/235,252\/295,0.0
+Sylveon,Jellicent,Greninja,['fairy'],"['water', 'ghost']","['water', 'dark']",252\/295,186\/232,1.0
+Shaymin,Jellicent,Greninja,['grass'],"['water', 'ghost']","['water', 'dark']",252\/295,186\/232,0.0
+Sunflora,Jellicent,Greninja,['grass'],"['water', 'ghost']","['water', 'dark']",252\/295,186\/232,0.0
+Magcargo,Greninja,Sylveon,"['fire', 'rock']","['water', 'dark']",['fairy'],186\/232,273\/273,1.0
+Exeggutor,Greninja,Sylveon,"['grass', 'psychic']","['water', 'dark']",['fairy'],186\/232,273\/273,0.0
+Escavalier,Greninja,Sylveon,"['bug', 'steel']","['water', 'dark']",['fairy'],186\/232,273\/273,0.0
+Jellicent,Sylveon,Magcargo,"['water', 'ghost']",['fairy'],"['fire', 'rock']",273\/273,174\/235,1.0
+Shaymin,Sylveon,Magcargo,['grass'],['fairy'],"['fire', 'rock']",273\/273,174\/235,0.0
+Sunflora,Sylveon,Magcargo,['grass'],['fairy'],"['fire', 'rock']",273\/273,174\/235,0.0
+Exeggutor,Magcargo,Jellicent,"['grass', 'psychic']","['fire', 'rock']","['water', 'ghost']",174\/235,252\/295,1.0
+Greninja,Magcargo,Jellicent,"['water', 'dark']","['fire', 'rock']","['water', 'ghost']",174\/235,252\/295,0.0
+Escavalier,Magcargo,Jellicent,"['bug', 'steel']","['fire', 'rock']","['water', 'ghost']",174\/235,252\/295,0.0
+Shaymin,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",252\/295,183\/293,1.0
+Sylveon,Jellicent,Exeggutor,['fairy'],"['water', 'ghost']","['grass', 'psychic']",252\/295,183\/293,0.0
+Sunflora,Jellicent,Exeggutor,['grass'],"['water', 'ghost']","['grass', 'psychic']",252\/295,183\/293,0.0
+Sylveon,Shaymin,Exeggutor,['fairy'],['grass'],"['grass', 'psychic']",121\/266,183\/293,1.0
+Jellicent,Shaymin,Exeggutor,"['water', 'ghost']",['grass'],"['grass', 'psychic']",121\/266,183\/293,0.0
+Sunflora,Shaymin,Exeggutor,['grass'],['grass'],"['grass', 'psychic']",121\/266,183\/293,0.0
+Magcargo,Exeggutor,Sylveon,"['fire', 'rock']","['grass', 'psychic']",['fairy'],183\/293,212\/273,1.0
+Greninja,Exeggutor,Sylveon,"['water', 'dark']","['grass', 'psychic']",['fairy'],183\/293,212\/273,0.0
+Escavalier,Exeggutor,Sylveon,"['bug', 'steel']","['grass', 'psychic']",['fairy'],183\/293,212\/273,0.0
+Exeggutor,Magcargo,Sylveon,"['grass', 'psychic']","['fire', 'rock']",['fairy'],235\/235,212\/273,1.0
+Greninja,Magcargo,Sylveon,"['water', 'dark']","['fire', 'rock']",['fairy'],235\/235,212\/273,0.0
+Escavalier,Magcargo,Sylveon,"['bug', 'steel']","['fire', 'rock']",['fairy'],235\/235,212\/273,0.0
+Magearna,Hydreigon,Gumshoos,"['steel', 'fairy']","['dark', 'dragon']",['normal'],268\/268,282\/282,1.0
+Nidoking,Gumshoos,Magearna,"['poison', 'ground']",['normal'],"['steel', 'fairy']",282\/282,244\/244,1.0
+Hydreigon,Magearna,Nidoking,"['dark', 'dragon']","['steel', 'fairy']","['poison', 'ground']",244\/244,251\/251,1.0
+Gumshoos,Nidoking,Hydreigon,['normal'],"['poison', 'ground']","['dark', 'dragon']",251\/251,268\/268,1.0
+Toxicroak,Gumshoos,Hydreigon,"['poison', 'fighting']",['normal'],"['dark', 'dragon']",282\/282,268\/268,1.0
+Nidoking,Gumshoos,Hydreigon,"['poison', 'ground']",['normal'],"['dark', 'dragon']",282\/282,268\/268,0.0
+Zapdos,Hydreigon,Toxicroak,"['electric', 'flying']","['dark', 'dragon']","['poison', 'fighting']",268\/268,267\/267,1.0
+Magearna,Hydreigon,Toxicroak,"['steel', 'fairy']","['dark', 'dragon']","['poison', 'fighting']",268\/268,267\/267,0.0
+Nidoking,Toxicroak,Zapdos,"['poison', 'ground']","['poison', 'fighting']","['electric', 'flying']",267\/267,259\/259,1.0
+Gumshoos,Toxicroak,Zapdos,['normal'],"['poison', 'fighting']","['electric', 'flying']",267\/267,259\/259,0.0
+Tyranitar,Nidoking,Zapdos,"['rock', 'dark']","['poison', 'ground']","['electric', 'flying']",251\/251,259\/259,1.0
+Gumshoos,Nidoking,Zapdos,['normal'],"['poison', 'ground']","['electric', 'flying']",251\/251,259\/259,0.0
+Toxicroak,Nidoking,Zapdos,"['poison', 'fighting']","['poison', 'ground']","['electric', 'flying']",251\/251,259\/259,0.0
+Magearna,Zapdos,Tyranitar,"['steel', 'fairy']","['electric', 'flying']","['rock', 'dark']",259\/259,274\/274,1.0
+Hydreigon,Zapdos,Tyranitar,"['dark', 'dragon']","['electric', 'flying']","['rock', 'dark']",259\/259,274\/274,0.0
+Toxicroak,Tyranitar,Magearna,"['poison', 'fighting']","['rock', 'dark']","['steel', 'fairy']",274\/274,241\/244,1.0
+Gumshoos,Tyranitar,Magearna,['normal'],"['rock', 'dark']","['steel', 'fairy']",274\/274,241\/244,0.0
+Nidoking,Tyranitar,Magearna,"['poison', 'ground']","['rock', 'dark']","['steel', 'fairy']",274\/274,241\/244,0.0
+Crawdaunt,Toxicroak,Magearna,"['water', 'dark']","['poison', 'fighting']","['steel', 'fairy']",173\/267,241\/244,1.0
+Gumshoos,Toxicroak,Magearna,['normal'],"['poison', 'fighting']","['steel', 'fairy']",173\/267,241\/244,0.0
+Nidoking,Toxicroak,Magearna,"['poison', 'ground']","['poison', 'fighting']","['steel', 'fairy']",173\/267,241\/244,0.0
+Nidoking,Crawdaunt,Magearna,"['poison', 'ground']","['water', 'dark']","['steel', 'fairy']",224\/224,241\/244,1.0
+Gumshoos,Crawdaunt,Magearna,['normal'],"['water', 'dark']","['steel', 'fairy']",224\/224,241\/244,0.0
+Hydreigon,Magearna,Nidoking,"['dark', 'dragon']","['steel', 'fairy']","['poison', 'ground']",241\/244,126\/251,1.0
+Gumshoos,Nidoking,Hydreigon,['normal'],"['poison', 'ground']","['dark', 'dragon']",126\/251,234\/268,1.0
+Pheromosa,Gumshoos,Hydreigon,"['bug', 'fighting']",['normal'],"['dark', 'dragon']",83\/282,234\/268,1.0
+Nidoking,Gumshoos,Hydreigon,"['poison', 'ground']",['normal'],"['dark', 'dragon']",83\/282,234\/268,0.0
+Gyarados,Hydreigon,Pheromosa,"['water', 'flying']","['dark', 'dragon']","['bug', 'fighting']",234\/268,224\/224,1.0
+Heatmor,Magnezone,Castform,['fire'],"['electric', 'steel']",['normal'],229\/229,252\/252,1.0
+Magnezone,Heatmor,Castform,"['electric', 'steel']",['fire'],['normal'],277\/277,252\/252,1.0
+Swampert,Magnezone,Castform,"['water', 'ground']","['electric', 'steel']",['normal'],229\/229,252\/252,1.0
+Lapras,Castform,Swampert,"['water', 'ice']",['normal'],"['water', 'ground']",252\/252,274\/274,1.0
+Venomoth,Swampert,Lapras,"['bug', 'poison']","['water', 'ground']","['water', 'ice']",274\/274,351\/351,1.0
+Magnezone,Swampert,Lapras,"['electric', 'steel']","['water', 'ground']","['water', 'ice']",274\/274,351\/351,0.0
+Accelgor,Lapras,Venomoth,['bug'],"['water', 'ice']","['bug', 'poison']",351\/351,234\/234,1.0
+Magnezone,Venomoth,Accelgor,"['electric', 'steel']","['bug', 'poison']",['bug'],234\/234,262\/262,1.0
+Landorus,Accelgor,Magnezone,"['ground', 'flying']",['bug'],"['electric', 'steel']",262\/262,229\/229,1.0
+Lapras,Accelgor,Magnezone,"['water', 'ice']",['bug'],"['electric', 'steel']",262\/262,229\/229,0.0
+Drifblim,Magnezone,Landorus,"['ghost', 'flying']","['electric', 'steel']","['ground', 'flying']",229\/229,250\/250,1.0
+Venomoth,Magnezone,Landorus,"['bug', 'poison']","['electric', 'steel']","['ground', 'flying']",229\/229,250\/250,0.0
+Lapras,Landorus,Drifblim,"['water', 'ice']","['ground', 'flying']","['ghost', 'flying']",250\/250,385\/385,1.0
+Accelgor,Landorus,Drifblim,['bug'],"['ground', 'flying']","['ghost', 'flying']",250\/250,385\/385,0.0
+Minior,Lapras,Drifblim,"['rock', 'flying']","['water', 'ice']","['ghost', 'flying']",69\/351,385\/385,1.0
+Accelgor,Lapras,Drifblim,['bug'],"['water', 'ice']","['ghost', 'flying']",69\/351,385\/385,0.0
+Landorus,Lapras,Drifblim,"['ground', 'flying']","['water', 'ice']","['ghost', 'flying']",69\/351,385\/385,0.0
+Magnezone,Drifblim,Minior,"['electric', 'steel']","['ghost', 'flying']","['rock', 'flying']",385\/385,230\/230,1.0
+Venomoth,Drifblim,Minior,"['bug', 'poison']","['ghost', 'flying']","['rock', 'flying']",385\/385,230\/230,0.0
+Terrakion,Plusle,Mightyena,"['rock', 'fighting']",['electric'],['dark'],219\/219,252\/252,1.0
+Shiinotic,Mightyena,Terrakion,"['grass', 'fairy']",['dark'],"['rock', 'fighting']",252\/252,267\/267,1.0
+Gengar,Shiinotic,Terrakion,"['ghost', 'poison']","['grass', 'fairy']","['rock', 'fighting']",235\/235,267\/267,1.0
+Mightyena,Shiinotic,Terrakion,['dark'],"['grass', 'fairy']","['rock', 'fighting']",235\/235,267\/267,0.0
+Arcanine,Terrakion,Gengar,['fire'],"['rock', 'fighting']","['ghost', 'poison']",267\/267,208\/208,1.0
+Plusle,Terrakion,Gengar,['electric'],"['rock', 'fighting']","['ghost', 'poison']",267\/267,208\/208,0.0
+Pelipper,Gengar,Arcanine,"['water', 'flying']","['ghost', 'poison']",['fire'],208\/208,265\/265,1.0
+Mightyena,Gengar,Arcanine,['dark'],"['ghost', 'poison']",['fire'],208\/208,265\/265,0.0
+Plusle,Arcanine,Pelipper,['electric'],['fire'],"['water', 'flying']",265\/265,223\/223,1.0
+Mightyena,Pelipper,Plusle,['dark'],"['water', 'flying']",['electric'],223\/223,219\/219,1.0
+Gengar,Pelipper,Plusle,"['ghost', 'poison']","['water', 'flying']",['electric'],223\/223,219\/219,0.0
+Volcarona,Plusle,Mightyena,"['bug', 'fire']",['electric'],['dark'],219\/219,252\/252,1.0
+Arcanine,Plusle,Mightyena,['fire'],['electric'],['dark'],219\/219,252\/252,0.0
+Dunsparce,Manectric,Noctowl,['normal'],['electric'],"['normal', 'flying']",234\/234,302\/302,1.0
+Spiritomb,Noctowl,Dunsparce,"['ghost', 'dark']","['normal', 'flying']",['normal'],302\/302,302\/302,1.0
+Beartic,Dunsparce,Spiritomb,['ice'],['normal'],"['ghost', 'dark']",302\/302,219\/219,1.0
+Manectric,Dunsparce,Spiritomb,['electric'],['normal'],"['ghost', 'dark']",302\/302,219\/219,0.0
+Lycanroc,Spiritomb,Beartic,['rock'],"['ghost', 'dark']",['ice'],219\/219,293\/293,1.0
+Noctowl,Spiritomb,Beartic,"['normal', 'flying']","['ghost', 'dark']",['ice'],219\/219,293\/293,0.0
+Roserade,Beartic,Lycanroc,"['grass', 'poison']",['ice'],['rock'],293\/293,277\/277,1.0
+Manectric,Beartic,Lycanroc,['electric'],['ice'],['rock'],293\/293,277\/277,0.0
+Dunsparce,Beartic,Lycanroc,['normal'],['ice'],['rock'],293\/293,277\/277,0.0
+Scolipede,Lycanroc,Roserade,"['bug', 'poison']",['rock'],"['grass', 'poison']",277\/277,224\/224,1.0
+Noctowl,Lycanroc,Roserade,"['normal', 'flying']",['rock'],"['grass', 'poison']",277\/277,224\/224,0.0
+Dunsparce,Roserade,Scolipede,['normal'],"['grass', 'poison']","['bug', 'poison']",224\/224,215\/215,1.0
+Manectric,Roserade,Scolipede,['electric'],"['grass', 'poison']","['bug', 'poison']",224\/224,215\/215,0.0
+Manectric,Dunsparce,Scolipede,['electric'],['normal'],"['bug', 'poison']",157\/302,215\/215,1.0
+Roserade,Dunsparce,Scolipede,"['grass', 'poison']",['normal'],"['bug', 'poison']",157\/302,215\/215,0.0
+Roserade,Manectric,Scolipede,"['grass', 'poison']",['electric'],"['bug', 'poison']",234\/234,215\/215,1.0
+Reuniclus,Scolipede,Roserade,['psychic'],"['bug', 'poison']","['grass', 'poison']",215\/215,202\/224,1.0
+Noctowl,Scolipede,Roserade,"['normal', 'flying']","['bug', 'poison']","['grass', 'poison']",215\/215,202\/224,0.0
+Lycanroc,Scolipede,Roserade,['rock'],"['bug', 'poison']","['grass', 'poison']",215\/215,202\/224,0.0
+Grumpig,Roserade,Reuniclus,['psychic'],"['grass', 'poison']",['psychic'],202\/224,300\/300,1.0
+Manectric,Roserade,Reuniclus,['electric'],"['grass', 'poison']",['psychic'],202\/224,300\/300,0.0
+Manectric,Grumpig,Crawdaunt,['electric'],['psychic'],"['water', 'dark']",268\/268,224\/224,1.0
+Roserade,Grumpig,Crawdaunt,"['grass', 'poison']",['psychic'],"['water', 'dark']",268\/268,224\/224,0.0
+Reuniclus,Crawdaunt,Manectric,['psychic'],"['water', 'dark']",['electric'],224\/224,164\/234,1.0
+Noctowl,Crawdaunt,Manectric,"['normal', 'flying']","['water', 'dark']",['electric'],224\/224,164\/234,0.0
+Lycanroc,Crawdaunt,Manectric,['rock'],"['water', 'dark']",['electric'],224\/224,164\/234,0.0
+Bellossom,Manectric,Reuniclus,['grass'],['electric'],['psychic'],164\/234,300\/300,1.0
+Roserade,Manectric,Reuniclus,"['grass', 'poison']",['electric'],['psychic'],164\/234,300\/300,0.0
+Lycanroc,Reuniclus,Bellossom,['rock'],['psychic'],['grass'],300\/300,260\/260,1.0
+Noctowl,Reuniclus,Bellossom,"['normal', 'flying']",['psychic'],['grass'],300\/300,260\/260,0.0
+Deoxys,Girafarig,Terrakion,['psychic'],"['normal', 'psychic']","['rock', 'fighting']",252\/252,267\/267,1.0
+Victreebel,Terrakion,Deoxys,"['grass', 'poison']","['rock', 'fighting']",['psychic'],267\/267,193\/193,1.0
+Bastiodon,Deoxys,Victreebel,"['rock', 'steel']",['psychic'],"['grass', 'poison']",193\/193,268\/268,1.0
+Girafarig,Deoxys,Victreebel,"['normal', 'psychic']",['psychic'],"['grass', 'poison']",193\/193,268\/268,0.0
+Girafarig,Bastiodon,Kangaskhan,"['normal', 'psychic']","['rock', 'steel']",['normal'],235\/235,274\/274,1.0
+Deoxys,Bastiodon,Kangaskhan,['psychic'],"['rock', 'steel']",['normal'],235\/235,274\/274,0.0
+Minior,Girafarig,Kangaskhan,"['rock', 'flying']","['normal', 'psychic']",['normal'],252\/252,274\/274,1.0
+Deoxys,Girafarig,Kangaskhan,['psychic'],"['normal', 'psychic']",['normal'],252\/252,274\/274,0.0
+Bastiodon,Girafarig,Kangaskhan,"['rock', 'steel']","['normal', 'psychic']",['normal'],252\/252,274\/274,0.0
+Dragonite,Kangaskhan,Minior,"['dragon', 'flying']",['normal'],"['rock', 'flying']",274\/274,230\/230,1.0
+Terrakion,Kangaskhan,Minior,"['rock', 'fighting']",['normal'],"['rock', 'flying']",274\/274,230\/230,0.0
+Victreebel,Kangaskhan,Minior,"['grass', 'poison']",['normal'],"['rock', 'flying']",274\/274,230\/230,0.0
+Bastiodon,Minior,Dragonite,"['rock', 'steel']","['rock', 'flying']","['dragon', 'flying']",230\/230,263\/263,1.0
+Deoxys,Minior,Dragonite,['psychic'],"['rock', 'flying']","['dragon', 'flying']",230\/230,263\/263,0.0
+Terrakion,Dragonite,Bastiodon,"['rock', 'fighting']","['dragon', 'flying']","['rock', 'steel']",263\/263,142\/235,1.0
+Victreebel,Dragonite,Bastiodon,"['grass', 'poison']","['dragon', 'flying']","['rock', 'steel']",263\/263,142\/235,0.0
+Deoxys,Bastiodon,Terrakion,['psychic'],"['rock', 'steel']","['rock', 'fighting']",142\/235,267\/267,1.0
+Victreebel,Terrakion,Deoxys,"['grass', 'poison']","['rock', 'fighting']",['psychic'],267\/267,193\/193,1.0
+Blacephalon,Deoxys,Victreebel,"['fire', 'ghost']",['psychic'],"['grass', 'poison']",193\/193,268\/268,1.0
+Mantine,Victreebel,Blacephalon,"['water', 'flying']","['grass', 'poison']","['fire', 'ghost']",268\/268,203\/203,1.0
+Terrakion,Victreebel,Blacephalon,"['rock', 'fighting']","['grass', 'poison']","['fire', 'ghost']",268\/268,203\/203,0.0
+Linoone,Blacephalon,Mantine,['normal'],"['fire', 'ghost']","['water', 'flying']",203\/203,263\/263,1.0
+Terrakion,Mantine,Linoone,"['rock', 'fighting']","['water', 'flying']",['normal'],263\/263,252\/252,1.0
+Victreebel,Mantine,Linoone,"['grass', 'poison']","['water', 'flying']",['normal'],263\/263,252\/252,0.0
+Rotom,Carracosta,Jellicent,"['electric', 'ghost']","['water', 'rock']","['water', 'ghost']",259\/259,302\/302,1.0
+Trevenant,Jellicent,Rotom,"['ghost', 'grass']","['water', 'ghost']","['electric', 'ghost']",302\/302,209\/209,1.0
+Tornadus,Rotom,Trevenant,['flying'],"['electric', 'ghost']","['ghost', 'grass']",209\/209,280\/280,1.0
+Carracosta,Rotom,Trevenant,"['water', 'rock']","['electric', 'ghost']","['ghost', 'grass']",209\/209,280\/280,0.0
+Galvantula,Trevenant,Tornadus,"['bug', 'electric']","['ghost', 'grass']",['flying'],280\/280,251\/251,1.0
+Jellicent,Trevenant,Tornadus,"['water', 'ghost']","['ghost', 'grass']",['flying'],280\/280,251\/251,0.0
+Malamar,Galvantula,Tornadus,"['dark', 'psychic']","['bug', 'electric']",['flying'],239\/239,251\/251,1.0
+Jellicent,Galvantula,Tornadus,"['water', 'ghost']","['bug', 'electric']",['flying'],239\/239,251\/251,0.0
+Terrakion,Malamar,Tornadus,"['rock', 'fighting']","['dark', 'psychic']",['flying'],272\/272,251\/251,1.0
+Jellicent,Malamar,Tornadus,"['water', 'ghost']","['dark', 'psychic']",['flying'],272\/272,251\/251,0.0
+Carracosta,Tornadus,Terrakion,"['water', 'rock']",['flying'],"['rock', 'fighting']",251\/251,267\/267,1.0
+Rotom,Tornadus,Terrakion,"['electric', 'ghost']",['flying'],"['rock', 'fighting']",251\/251,267\/267,0.0
+Naganadel,Terrakion,Carracosta,"['poison', 'dragon']","['rock', 'fighting']","['water', 'rock']",267\/267,259\/259,1.0
+Jellicent,Terrakion,Carracosta,"['water', 'ghost']","['rock', 'fighting']","['water', 'rock']",267\/267,259\/259,0.0
+Jirachi,Carracosta,Naganadel,"['steel', 'psychic']","['water', 'rock']","['poison', 'dragon']",259\/259,227\/227,1.0
+Rotom,Carracosta,Naganadel,"['electric', 'ghost']","['water', 'rock']","['poison', 'dragon']",259\/259,227\/227,0.0
+Jellicent,Naganadel,Jirachi,"['water', 'ghost']","['poison', 'dragon']","['steel', 'psychic']",227\/227,274\/274,1.0
+Carracosta,Jirachi,Jellicent,"['water', 'rock']","['steel', 'psychic']","['water', 'ghost']",274\/274,302\/302,1.0
+Rotom,Jirachi,Jellicent,"['electric', 'ghost']","['steel', 'psychic']","['water', 'ghost']",274\/274,302\/302,0.0
+Rotom,Carracosta,Jellicent,"['electric', 'ghost']","['water', 'rock']","['water', 'ghost']",1\/259,302\/302,1.0
+Jirachi,Carracosta,Jellicent,"['steel', 'psychic']","['water', 'rock']","['water', 'ghost']",1\/259,302\/302,0.0
+Medicham,Rotom,Jellicent,"['fighting', 'psychic']","['electric', 'ghost']","['water', 'ghost']",176\/209,302\/302,1.0
+Jirachi,Rotom,Jellicent,"['steel', 'psychic']","['electric', 'ghost']","['water', 'ghost']",176\/209,302\/302,0.0
+Naganadel,Jellicent,Medicham,"['poison', 'dragon']","['water', 'ghost']","['fighting', 'psychic']",302\/302,214\/214,1.0
+Giratina,Mesprit,Stantler,"['ghost', 'dragon']",['psychic'],['normal'],268\/268,260\/260,1.0
+Suicune,Stantler,Giratina,['water'],['normal'],"['ghost', 'dragon']",260\/260,339\/339,1.0
+Suicune,Excadrill,Giratina,['water'],"['ground', 'steel']","['ghost', 'dragon']",289\/289,339\/339,1.0
+Stantler,Excadrill,Giratina,['normal'],"['ground', 'steel']","['ghost', 'dragon']",289\/289,339\/339,0.0
+Hitmonlee,Giratina,Claydol,['fighting'],"['ghost', 'dragon']","['ground', 'psychic']",339\/339,235\/235,1.0
+Mesprit,Giratina,Claydol,['psychic'],"['ghost', 'dragon']","['ground', 'psychic']",339\/339,235\/235,0.0
+Stantler,Claydol,Hitmonlee,['normal'],"['ground', 'psychic']",['fighting'],235\/235,214\/214,1.0
+Suicune,Claydol,Hitmonlee,['water'],"['ground', 'psychic']",['fighting'],235\/235,214\/214,0.0
+Excadrill,Claydol,Hitmonlee,"['ground', 'steel']","['ground', 'psychic']",['fighting'],235\/235,214\/214,0.0
+Giratina,Hitmonlee,Stantler,"['ghost', 'dragon']",['fighting'],['normal'],214\/214,260\/260,1.0
+Mesprit,Hitmonlee,Stantler,['psychic'],['fighting'],['normal'],214\/214,260\/260,0.0
+Suicune,Stantler,Giratina,['water'],['normal'],"['ghost', 'dragon']",260\/260,339\/339,1.0
+Excadrill,Stantler,Giratina,"['ground', 'steel']",['normal'],"['ghost', 'dragon']",260\/260,339\/339,0.0
+Tentacruel,Giratina,Suicune,"['water', 'poison']","['ghost', 'dragon']",['water'],339\/339,195\/281,1.0
+Mesprit,Giratina,Suicune,['psychic'],"['ghost', 'dragon']",['water'],339\/339,195\/281,0.0
+Hitmonlee,Giratina,Suicune,['fighting'],"['ghost', 'dragon']",['water'],339\/339,195\/281,0.0
+Kyurem,Suicune,Tentacruel,"['dragon', 'ice']",['water'],"['water', 'poison']",195\/281,250\/250,1.0
+Stantler,Suicune,Tentacruel,['normal'],['water'],"['water', 'poison']",195\/281,250\/250,0.0
+Excadrill,Suicune,Tentacruel,"['ground', 'steel']",['water'],"['water', 'poison']",195\/281,250\/250,0.0
+Sharpedo,Tentacruel,Kyurem,"['water', 'dark']","['water', 'poison']","['dragon', 'ice']",250\/250,323\/323,1.0
+Mesprit,Tentacruel,Kyurem,['psychic'],"['water', 'poison']","['dragon', 'ice']",250\/250,323\/323,0.0
+Giratina,Tentacruel,Kyurem,"['ghost', 'dragon']","['water', 'poison']","['dragon', 'ice']",250\/250,323\/323,0.0
+Hitmonlee,Tentacruel,Kyurem,['fighting'],"['water', 'poison']","['dragon', 'ice']",250\/250,323\/323,0.0
+Machamp,Kyurem,Sharpedo,['fighting'],"['dragon', 'ice']","['water', 'dark']",323\/323,234\/234,1.0
+Stantler,Kyurem,Sharpedo,['normal'],"['dragon', 'ice']","['water', 'dark']",323\/323,234\/234,0.0
+Suicune,Kyurem,Sharpedo,['water'],"['dragon', 'ice']","['water', 'dark']",323\/323,234\/234,0.0
+Excadrill,Kyurem,Sharpedo,"['ground', 'steel']","['dragon', 'ice']","['water', 'dark']",323\/323,234\/234,0.0
+Mesprit,Sharpedo,Machamp,['psychic'],"['water', 'dark']",['fighting'],234\/234,272\/272,1.0
+Giratina,Sharpedo,Machamp,"['ghost', 'dragon']","['water', 'dark']",['fighting'],234\/234,272\/272,0.0
+Hitmonlee,Sharpedo,Machamp,['fighting'],"['water', 'dark']",['fighting'],234\/234,272\/272,0.0
+Excadrill,Machamp,Mesprit,"['ground', 'steel']",['fighting'],['psychic'],272\/272,268\/268,1.0
+Stantler,Machamp,Mesprit,['normal'],['fighting'],['psychic'],272\/272,268\/268,0.0
+Suicune,Machamp,Mesprit,['water'],['fighting'],['psychic'],272\/272,268\/268,0.0
+Sharpedo,Mesprit,Excadrill,"['water', 'dark']",['psychic'],"['ground', 'steel']",268\/268,289\/289,1.0
+Giratina,Mesprit,Excadrill,"['ghost', 'dragon']",['psychic'],"['ground', 'steel']",268\/268,289\/289,0.0
+Hitmonlee,Mesprit,Excadrill,['fighting'],['psychic'],"['ground', 'steel']",268\/268,289\/289,0.0
+Machamp,Excadrill,Sharpedo,['fighting'],"['ground', 'steel']","['water', 'dark']",289\/289,234\/234,1.0
+Stantler,Excadrill,Sharpedo,['normal'],"['ground', 'steel']","['water', 'dark']",289\/289,234\/234,0.0
+Suicune,Excadrill,Sharpedo,['water'],"['ground', 'steel']","['water', 'dark']",289\/289,234\/234,0.0
+Mesprit,Sharpedo,Machamp,['psychic'],"['water', 'dark']",['fighting'],234\/234,238\/272,1.0
+Giratina,Sharpedo,Machamp,"['ghost', 'dragon']","['water', 'dark']",['fighting'],234\/234,238\/272,0.0
+Hitmonlee,Sharpedo,Machamp,['fighting'],"['water', 'dark']",['fighting'],234\/234,238\/272,0.0
+Excadrill,Machamp,Mesprit,"['ground', 'steel']",['fighting'],['psychic'],238\/272,245\/268,1.0
+Stantler,Machamp,Mesprit,['normal'],['fighting'],['psychic'],238\/272,245\/268,0.0
+Suicune,Machamp,Mesprit,['water'],['fighting'],['psychic'],238\/272,245\/268,0.0
+Sharpedo,Mesprit,Excadrill,"['water', 'dark']",['psychic'],"['ground', 'steel']",245\/268,229\/289,1.0
+Giratina,Mesprit,Excadrill,"['ghost', 'dragon']",['psychic'],"['ground', 'steel']",245\/268,229\/289,0.0
+Hitmonlee,Mesprit,Excadrill,['fighting'],['psychic'],"['ground', 'steel']",245\/268,229\/289,0.0
+Suicune,Excadrill,Sharpedo,['water'],"['ground', 'steel']","['water', 'dark']",229\/289,234\/234,1.0
+Stantler,Excadrill,Sharpedo,['normal'],"['ground', 'steel']","['water', 'dark']",229\/289,234\/234,0.0
+Machamp,Excadrill,Sharpedo,['fighting'],"['ground', 'steel']","['water', 'dark']",229\/289,234\/234,0.0
+Machamp,Suicune,Sharpedo,['fighting'],['water'],"['water', 'dark']",107\/281,234\/234,1.0
+Stantler,Suicune,Sharpedo,['normal'],['water'],"['water', 'dark']",107\/281,234\/234,0.0
+Excadrill,Suicune,Sharpedo,"['ground', 'steel']",['water'],"['water', 'dark']",107\/281,234\/234,0.0
+Mesprit,Sharpedo,Machamp,['psychic'],"['water', 'dark']",['fighting'],234\/234,167\/272,1.0
+Giratina,Sharpedo,Machamp,"['ghost', 'dragon']","['water', 'dark']",['fighting'],234\/234,167\/272,0.0
+Hitmonlee,Sharpedo,Machamp,['fighting'],"['water', 'dark']",['fighting'],234\/234,167\/272,0.0
+Giratina,Mesprit,Machamp,"['ghost', 'dragon']",['psychic'],['fighting'],223\/268,167\/272,1.0
+Hitmonlee,Mesprit,Machamp,['fighting'],['psychic'],['fighting'],223\/268,167\/272,0.0
+Sharpedo,Mesprit,Machamp,"['water', 'dark']",['psychic'],['fighting'],223\/268,167\/272,0.0
+Hitmonlee,Giratina,Machamp,['fighting'],"['ghost', 'dragon']",['fighting'],339\/339,167\/272,1.0
+Mesprit,Giratina,Machamp,['psychic'],"['ghost', 'dragon']",['fighting'],339\/339,167\/272,0.0
+Sharpedo,Giratina,Machamp,"['water', 'dark']","['ghost', 'dragon']",['fighting'],339\/339,167\/272,0.0
+Excadrill,Machamp,Hitmonlee,"['ground', 'steel']",['fighting'],['fighting'],167\/272,94\/214,1.0
+Stantler,Machamp,Hitmonlee,['normal'],['fighting'],['fighting'],167\/272,94\/214,0.0
+Stantler,Excadrill,Hitmonlee,['normal'],"['ground', 'steel']",['fighting'],139\/289,94\/214,1.0
+Machamp,Excadrill,Hitmonlee,['fighting'],"['ground', 'steel']",['fighting'],139\/289,94\/214,0.0
+Glaceon,Hitmonlee,Stantler,['ice'],['fighting'],['normal'],94\/214,234\/260,1.0
+Mesprit,Hitmonlee,Stantler,['psychic'],['fighting'],['normal'],94\/214,234\/260,0.0
+Giratina,Hitmonlee,Stantler,"['ghost', 'dragon']",['fighting'],['normal'],94\/214,234\/260,0.0
+Sharpedo,Hitmonlee,Stantler,"['water', 'dark']",['fighting'],['normal'],94\/214,234\/260,0.0
+Giratina,Glaceon,Stantler,"['ghost', 'dragon']",['ice'],['normal'],246\/246,234\/260,1.0
+Mesprit,Glaceon,Stantler,['psychic'],['ice'],['normal'],246\/246,234\/260,0.0
+Sharpedo,Glaceon,Stantler,"['water', 'dark']",['ice'],['normal'],246\/246,234\/260,0.0
+Machamp,Stantler,Giratina,['fighting'],['normal'],"['ghost', 'dragon']",234\/260,244\/339,1.0
+Mesprit,Giratina,Machamp,['psychic'],"['ghost', 'dragon']",['fighting'],244\/339,167\/272,1.0
+Sharpedo,Giratina,Machamp,"['water', 'dark']","['ghost', 'dragon']",['fighting'],244\/339,167\/272,0.0
+Glaceon,Giratina,Machamp,['ice'],"['ghost', 'dragon']",['fighting'],244\/339,167\/272,0.0
+Carracosta,Rayquaza,Incineroar,"['water', 'rock']","['dragon', 'flying']","['fire', 'dark']",274\/274,287\/287,1.0
+Lilligant,Incineroar,Carracosta,['grass'],"['fire', 'dark']","['water', 'rock']",287\/287,259\/259,1.0
+Exeggutor,Carracosta,Lilligant,"['grass', 'psychic']","['water', 'rock']",['grass'],259\/259,252\/252,1.0
+Rayquaza,Carracosta,Lilligant,"['dragon', 'flying']","['water', 'rock']",['grass'],259\/259,252\/252,0.0
+Tentacruel,Lilligant,Exeggutor,"['water', 'poison']",['grass'],"['grass', 'psychic']",252\/252,290\/290,1.0
+Incineroar,Lilligant,Exeggutor,"['fire', 'dark']",['grass'],"['grass', 'psychic']",252\/252,290\/290,0.0
+Machamp,Tentacruel,Exeggutor,['fighting'],"['water', 'poison']","['grass', 'psychic']",250\/250,290\/290,1.0
+Incineroar,Tentacruel,Exeggutor,"['fire', 'dark']","['water', 'poison']","['grass', 'psychic']",250\/250,290\/290,0.0
+Lilligant,Tentacruel,Exeggutor,['grass'],"['water', 'poison']","['grass', 'psychic']",250\/250,290\/290,0.0
+Azumarill,Exeggutor,Machamp,"['water', 'fairy']","['grass', 'psychic']",['fighting'],290\/290,272\/272,1.0
+Rayquaza,Exeggutor,Machamp,"['dragon', 'flying']","['grass', 'psychic']",['fighting'],290\/290,272\/272,0.0
+Carracosta,Exeggutor,Machamp,"['water', 'rock']","['grass', 'psychic']",['fighting'],290\/290,272\/272,0.0
+Torkoal,Machamp,Azumarill,['fire'],['fighting'],"['water', 'fairy']",272\/272,277\/277,1.0
+Incineroar,Machamp,Azumarill,"['fire', 'dark']",['fighting'],"['water', 'fairy']",272\/272,277\/277,0.0
+Lilligant,Machamp,Azumarill,['grass'],['fighting'],"['water', 'fairy']",272\/272,277\/277,0.0
+Lilligant,Torkoal,Azumarill,['grass'],['fire'],"['water', 'fairy']",255\/255,277\/277,1.0
+Incineroar,Torkoal,Azumarill,"['fire', 'dark']",['fire'],"['water', 'fairy']",255\/255,277\/277,0.0
+Machamp,Torkoal,Azumarill,['fighting'],['fire'],"['water', 'fairy']",255\/255,277\/277,0.0
+Exeggutor,Azumarill,Lilligant,"['grass', 'psychic']","['water', 'fairy']",['grass'],277\/277,252\/252,1.0
+Rayquaza,Azumarill,Lilligant,"['dragon', 'flying']","['water', 'fairy']",['grass'],277\/277,252\/252,0.0
+Carracosta,Azumarill,Lilligant,"['water', 'rock']","['water', 'fairy']",['grass'],277\/277,252\/252,0.0
+Machamp,Lilligant,Exeggutor,['fighting'],['grass'],"['grass', 'psychic']",252\/252,290\/290,1.0
+Incineroar,Lilligant,Exeggutor,"['fire', 'dark']",['grass'],"['grass', 'psychic']",252\/252,290\/290,0.0
+Torkoal,Lilligant,Exeggutor,['fire'],['grass'],"['grass', 'psychic']",252\/252,290\/290,0.0
+Tornadus,Exeggutor,Machamp,['flying'],"['grass', 'psychic']",['fighting'],290\/290,272\/272,1.0
+Rayquaza,Exeggutor,Machamp,"['dragon', 'flying']","['grass', 'psychic']",['fighting'],290\/290,272\/272,0.0
+Carracosta,Exeggutor,Machamp,"['water', 'rock']","['grass', 'psychic']",['fighting'],290\/290,272\/272,0.0
+Azumarill,Exeggutor,Machamp,"['water', 'fairy']","['grass', 'psychic']",['fighting'],290\/290,272\/272,0.0
+Torkoal,Machamp,Tornadus,['fire'],['fighting'],['flying'],272\/272,242\/242,1.0
+Incineroar,Machamp,Tornadus,"['fire', 'dark']",['fighting'],['flying'],272\/272,242\/242,0.0
+Lilligant,Machamp,Tornadus,['grass'],['fighting'],['flying'],272\/272,242\/242,0.0
+Carracosta,Tornadus,Torkoal,"['water', 'rock']",['flying'],['fire'],242\/242,192\/255,1.0
+Rayquaza,Tornadus,Torkoal,"['dragon', 'flying']",['flying'],['fire'],242\/242,192\/255,0.0
+Exeggutor,Tornadus,Torkoal,"['grass', 'psychic']",['flying'],['fire'],242\/242,192\/255,0.0
+Azumarill,Tornadus,Torkoal,"['water', 'fairy']",['flying'],['fire'],242\/242,192\/255,0.0
+Barbaracle,Torkoal,Carracosta,"['rock', 'water']",['fire'],"['water', 'rock']",192\/255,211\/259,1.0
+Incineroar,Torkoal,Carracosta,"['fire', 'dark']",['fire'],"['water', 'rock']",192\/255,211\/259,0.0
+Lilligant,Torkoal,Carracosta,['grass'],['fire'],"['water', 'rock']",192\/255,211\/259,0.0
+Azumarill,Carracosta,Barbaracle,"['water', 'fairy']","['water', 'rock']","['rock', 'water']",211\/259,246\/246,1.0
+Rayquaza,Carracosta,Barbaracle,"['dragon', 'flying']","['water', 'rock']","['rock', 'water']",211\/259,246\/246,0.0
+Exeggutor,Carracosta,Barbaracle,"['grass', 'psychic']","['water', 'rock']","['rock', 'water']",211\/259,246\/246,0.0
+Tornadus,Carracosta,Barbaracle,['flying'],"['water', 'rock']","['rock', 'water']",211\/259,246\/246,0.0
+Carracosta,Azumarill,Barbaracle,"['water', 'rock']","['water', 'fairy']","['rock', 'water']",71\/277,246\/246,1.0
+Rayquaza,Azumarill,Barbaracle,"['dragon', 'flying']","['water', 'fairy']","['rock', 'water']",71\/277,246\/246,0.0
+Exeggutor,Azumarill,Barbaracle,"['grass', 'psychic']","['water', 'fairy']","['rock', 'water']",71\/277,246\/246,0.0
+Tornadus,Azumarill,Barbaracle,['flying'],"['water', 'fairy']","['rock', 'water']",71\/277,246\/246,0.0
+Rayquaza,Carracosta,Barbaracle,"['dragon', 'flying']","['water', 'rock']","['rock', 'water']",19\/259,246\/246,1.0
+Exeggutor,Carracosta,Barbaracle,"['grass', 'psychic']","['water', 'rock']","['rock', 'water']",19\/259,246\/246,0.0
+Tornadus,Carracosta,Barbaracle,['flying'],"['water', 'rock']","['rock', 'water']",19\/259,246\/246,0.0
+Lilligant,Barbaracle,Rayquaza,['grass'],"['rock', 'water']","['dragon', 'flying']",246\/246,274\/274,1.0
+Incineroar,Barbaracle,Rayquaza,"['fire', 'dark']","['rock', 'water']","['dragon', 'flying']",246\/246,274\/274,0.0
+Exeggutor,Rayquaza,Lilligant,"['grass', 'psychic']","['dragon', 'flying']",['grass'],274\/274,139\/252,1.0
+Tornadus,Rayquaza,Lilligant,['flying'],"['dragon', 'flying']",['grass'],274\/274,139\/252,0.0
+Incineroar,Lilligant,Exeggutor,"['fire', 'dark']",['grass'],"['grass', 'psychic']",139\/252,162\/290,1.0
+Tornadus,Exeggutor,Incineroar,['flying'],"['grass', 'psychic']","['fire', 'dark']",162\/290,287\/287,1.0
+Rayquaza,Exeggutor,Incineroar,"['dragon', 'flying']","['grass', 'psychic']","['fire', 'dark']",162\/290,287\/287,0.0
+Lilligant,Incineroar,Tornadus,['grass'],"['fire', 'dark']",['flying'],287\/287,232\/242,1.0
+Exeggutor,Tornadus,Lilligant,"['grass', 'psychic']",['flying'],['grass'],232\/242,123\/252,1.0
+Rayquaza,Tornadus,Lilligant,"['dragon', 'flying']",['flying'],['grass'],232\/242,123\/252,0.0
+Durant,Tropius,Mandibuzz,"['bug', 'steel']","['grass', 'flying']","['dark', 'flying']",304\/304,303\/303,1.0
+Gardevoir,Durant,Mandibuzz,"['psychic', 'fairy']","['bug', 'steel']","['dark', 'flying']",219\/219,303\/303,1.0
+Tropius,Durant,Mandibuzz,"['grass', 'flying']","['bug', 'steel']","['dark', 'flying']",219\/219,303\/303,0.0
+Garchomp,Mandibuzz,Gardevoir,"['dragon', 'ground']","['dark', 'flying']","['psychic', 'fairy']",303\/303,237\/237,1.0
+Tropius,Gardevoir,Garchomp,"['grass', 'flying']","['psychic', 'fairy']","['dragon', 'ground']",237\/237,286\/286,1.0
+Kyurem,Garchomp,Tropius,"['dragon', 'ice']","['dragon', 'ground']","['grass', 'flying']",286\/286,304\/304,1.0
+Deoxys,Kyurem,Tropius,['psychic'],"['dragon', 'ice']","['grass', 'flying']",323\/323,304\/304,1.0
+Garchomp,Kyurem,Tropius,"['dragon', 'ground']","['dragon', 'ice']","['grass', 'flying']",323\/323,304\/304,0.0
+Absol,Tropius,Deoxys,['dark'],"['grass', 'flying']",['psychic'],304\/304,193\/193,1.0
+Gardevoir,Tropius,Deoxys,"['psychic', 'fairy']","['grass', 'flying']",['psychic'],304\/304,193\/193,0.0
+Sylveon,Deoxys,Absol,['fairy'],['psychic'],['dark'],193\/193,229\/229,1.0
+Garchomp,Deoxys,Absol,"['dragon', 'ground']",['psychic'],['dark'],193\/193,229\/229,0.0
+Kyurem,Deoxys,Absol,"['dragon', 'ice']",['psychic'],['dark'],193\/193,229\/229,0.0
+Landorus,Absol,Sylveon,"['ground', 'flying']",['dark'],['fairy'],229\/229,273\/273,1.0
+Tropius,Absol,Sylveon,"['grass', 'flying']",['dark'],['fairy'],229\/229,273\/273,0.0
+Gardevoir,Absol,Sylveon,"['psychic', 'fairy']",['dark'],['fairy'],229\/229,273\/273,0.0
+Kyurem,Sylveon,Landorus,"['dragon', 'ice']",['fairy'],"['ground', 'flying']",273\/273,250\/250,1.0
+Garchomp,Sylveon,Landorus,"['dragon', 'ground']",['fairy'],"['ground', 'flying']",273\/273,250\/250,0.0
+Deoxys,Sylveon,Landorus,['psychic'],['fairy'],"['ground', 'flying']",273\/273,250\/250,0.0
+Absol,Landorus,Kyurem,['dark'],"['ground', 'flying']","['dragon', 'ice']",250\/250,283\/323,1.0
+Tropius,Landorus,Kyurem,"['grass', 'flying']","['ground', 'flying']","['dragon', 'ice']",250\/250,283\/323,0.0
+Gardevoir,Landorus,Kyurem,"['psychic', 'fairy']","['ground', 'flying']","['dragon', 'ice']",250\/250,283\/323,0.0
+Gardevoir,Absol,Kyurem,"['psychic', 'fairy']",['dark'],"['dragon', 'ice']",186\/229,283\/323,1.0
+Tropius,Absol,Kyurem,"['grass', 'flying']",['dark'],"['dragon', 'ice']",186\/229,283\/323,0.0
+Deoxys,Kyurem,Gardevoir,['psychic'],"['dragon', 'ice']","['psychic', 'fairy']",283\/323,100\/237,1.0
+Garchomp,Kyurem,Gardevoir,"['dragon', 'ground']","['dragon', 'ice']","['psychic', 'fairy']",283\/323,100\/237,0.0
+Sylveon,Kyurem,Gardevoir,['fairy'],"['dragon', 'ice']","['psychic', 'fairy']",283\/323,100\/237,0.0
+Torterra,Gardevoir,Deoxys,"['grass', 'ground']","['psychic', 'fairy']",['psychic'],100\/237,174\/193,1.0
+Tropius,Gardevoir,Deoxys,"['grass', 'flying']","['psychic', 'fairy']",['psychic'],100\/237,174\/193,0.0
+Tropius,Torterra,Deoxys,"['grass', 'flying']","['grass', 'ground']",['psychic'],287\/287,174\/193,1.0
+Gardevoir,Torterra,Deoxys,"['psychic', 'fairy']","['grass', 'ground']",['psychic'],287\/287,174\/193,0.0
+Sylveon,Deoxys,Tropius,['fairy'],['psychic'],"['grass', 'flying']",174\/193,304\/304,1.0
+Garchomp,Deoxys,Tropius,"['dragon', 'ground']",['psychic'],"['grass', 'flying']",174\/193,304\/304,0.0
+Torterra,Tropius,Sylveon,"['grass', 'ground']","['grass', 'flying']",['fairy'],304\/304,273\/273,1.0
+Gardevoir,Tropius,Sylveon,"['psychic', 'fairy']","['grass', 'flying']",['fairy'],304\/304,273\/273,0.0
+Tropius,Torterra,Sylveon,"['grass', 'flying']","['grass', 'ground']",['fairy'],197\/287,273\/273,1.0
+Gardevoir,Torterra,Sylveon,"['psychic', 'fairy']","['grass', 'ground']",['fairy'],197\/287,273\/273,0.0
+Gardevoir,Tropius,Sylveon,"['psychic', 'fairy']","['grass', 'flying']",['fairy'],181\/304,273\/273,1.0
+Torterra,Tropius,Sylveon,"['grass', 'ground']","['grass', 'flying']",['fairy'],181\/304,273\/273,0.0
+Torterra,Gardevoir,Sylveon,"['grass', 'ground']","['psychic', 'fairy']",['fairy'],77\/237,273\/273,1.0
+Tropius,Gardevoir,Sylveon,"['grass', 'flying']","['psychic', 'fairy']",['fairy'],77\/237,273\/273,0.0
+Tropius,Torterra,Sylveon,"['grass', 'flying']","['grass', 'ground']",['fairy'],207\/287,273\/273,1.0
+Deoxys,Sylveon,Tropius,['psychic'],['fairy'],"['grass', 'flying']",273\/273,249\/304,1.0
+Garchomp,Sylveon,Tropius,"['dragon', 'ground']",['fairy'],"['grass', 'flying']",273\/273,249\/304,0.0
+Carbink,Necrozma,Cryogonal,"['rock', 'fairy']",['psychic'],['ice'],279\/279,283\/283,1.0
+Chansey,Cryogonal,Carbink,['normal'],['ice'],"['rock', 'fairy']",283\/283,234\/234,1.0
+Donphan,Carbink,Chansey,['ground'],"['rock', 'fairy']",['normal'],234\/234,531\/531,1.0
+Necrozma,Carbink,Chansey,['psychic'],"['rock', 'fairy']",['normal'],234\/234,531\/531,0.0
+Meganium,Chansey,Donphan,['grass'],['normal'],['ground'],531\/531,288\/288,1.0
+Cryogonal,Chansey,Donphan,['ice'],['normal'],['ground'],531\/531,288\/288,0.0
+Nihilego,Donphan,Meganium,"['rock', 'poison']",['ground'],['grass'],288\/288,287\/287,1.0
+Necrozma,Donphan,Meganium,['psychic'],['ground'],['grass'],288\/288,287\/287,0.0
+Carbink,Donphan,Meganium,"['rock', 'fairy']",['ground'],['grass'],288\/288,287\/287,0.0
+Cryogonal,Meganium,Nihilego,['ice'],['grass'],"['rock', 'poison']",287\/287,313\/313,1.0
+Chansey,Meganium,Nihilego,['normal'],['grass'],"['rock', 'poison']",287\/287,313\/313,0.0
+Carbink,Nihilego,Cryogonal,"['rock', 'fairy']","['rock', 'poison']",['ice'],313\/313,283\/283,1.0
+Necrozma,Nihilego,Cryogonal,['psychic'],"['rock', 'poison']",['ice'],313\/313,283\/283,0.0
+Donphan,Nihilego,Cryogonal,['ground'],"['rock', 'poison']",['ice'],313\/313,283\/283,0.0
+Nihilego,Carbink,Cryogonal,"['rock', 'poison']","['rock', 'fairy']",['ice'],182\/234,283\/283,1.0
+Necrozma,Carbink,Cryogonal,['psychic'],"['rock', 'fairy']",['ice'],182\/234,283\/283,0.0
+Donphan,Carbink,Cryogonal,['ground'],"['rock', 'fairy']",['ice'],182\/234,283\/283,0.0
+Chansey,Cryogonal,Nihilego,['normal'],['ice'],"['rock', 'poison']",283\/283,274\/313,1.0
+Meganium,Cryogonal,Nihilego,['grass'],['ice'],"['rock', 'poison']",283\/283,274\/313,0.0
+Donphan,Nihilego,Chansey,['ground'],"['rock', 'poison']",['normal'],274\/313,531\/531,1.0
+Necrozma,Nihilego,Chansey,['psychic'],"['rock', 'poison']",['normal'],274\/313,531\/531,0.0
+Meganium,Chansey,Donphan,['grass'],['normal'],['ground'],531\/531,288\/288,1.0
+Cryogonal,Chansey,Donphan,['ice'],['normal'],['ground'],531\/531,288\/288,0.0
+Nihilego,Donphan,Meganium,"['rock', 'poison']",['ground'],['grass'],288\/288,142\/287,1.0
+Necrozma,Donphan,Meganium,['psychic'],['ground'],['grass'],288\/288,142\/287,0.0
+Chansey,Meganium,Nihilego,['normal'],['grass'],"['rock', 'poison']",142\/287,235\/313,1.0
+Cryogonal,Meganium,Nihilego,['ice'],['grass'],"['rock', 'poison']",142\/287,235\/313,0.0
+Donphan,Nihilego,Chansey,['ground'],"['rock', 'poison']",['normal'],235\/313,498\/531,1.0
+Necrozma,Nihilego,Chansey,['psychic'],"['rock', 'poison']",['normal'],235\/313,498\/531,0.0
+Meganium,Chansey,Donphan,['grass'],['normal'],['ground'],498\/531,270\/288,1.0
+Cryogonal,Chansey,Donphan,['ice'],['normal'],['ground'],498\/531,270\/288,0.0
+Victreebel,Donphan,Meganium,"['grass', 'poison']",['ground'],['grass'],270\/288,174\/287,1.0
+Necrozma,Donphan,Meganium,['psychic'],['ground'],['grass'],270\/288,174\/287,0.0
+Nihilego,Donphan,Meganium,"['rock', 'poison']",['ground'],['grass'],270\/288,174\/287,0.0
+Torterra,Meganium,Victreebel,"['grass', 'ground']",['grass'],"['grass', 'poison']",174\/287,284\/284,1.0
+Cryogonal,Meganium,Victreebel,['ice'],['grass'],"['grass', 'poison']",174\/287,284\/284,0.0
+Chansey,Meganium,Victreebel,['normal'],['grass'],"['grass', 'poison']",174\/287,284\/284,0.0
+Meganium,Torterra,Victreebel,['grass'],"['grass', 'ground']","['grass', 'poison']",304\/304,284\/284,1.0
+Cryogonal,Torterra,Victreebel,['ice'],"['grass', 'ground']","['grass', 'poison']",304\/304,284\/284,0.0
+Chansey,Torterra,Victreebel,['normal'],"['grass', 'ground']","['grass', 'poison']",304\/304,284\/284,0.0
+Gengar,Meganium,Victreebel,"['ghost', 'poison']",['grass'],"['grass', 'poison']",114\/287,284\/284,1.0
+Cryogonal,Meganium,Victreebel,['ice'],['grass'],"['grass', 'poison']",114\/287,284\/284,0.0
+Chansey,Meganium,Victreebel,['normal'],['grass'],"['grass', 'poison']",114\/287,284\/284,0.0
+Torterra,Meganium,Victreebel,"['grass', 'ground']",['grass'],"['grass', 'poison']",114\/287,284\/284,0.0
+Donphan,Victreebel,Gengar,['ground'],"['grass', 'poison']","['ghost', 'poison']",284\/284,222\/222,1.0
+Necrozma,Victreebel,Gengar,['psychic'],"['grass', 'poison']","['ghost', 'poison']",284\/284,222\/222,0.0
+Nihilego,Victreebel,Gengar,"['rock', 'poison']","['grass', 'poison']","['ghost', 'poison']",284\/284,222\/222,0.0
+Torterra,Gengar,Donphan,"['grass', 'ground']","['ghost', 'poison']",['ground'],222\/222,172\/288,1.0
+Cryogonal,Gengar,Donphan,['ice'],"['ghost', 'poison']",['ground'],222\/222,172\/288,0.0
+Chansey,Gengar,Donphan,['normal'],"['ghost', 'poison']",['ground'],222\/222,172\/288,0.0
+Necrozma,Donphan,Torterra,['psychic'],['ground'],"['grass', 'ground']",172\/288,167\/304,1.0
+Nihilego,Donphan,Torterra,"['rock', 'poison']",['ground'],"['grass', 'ground']",172\/288,167\/304,0.0
+Cryogonal,Torterra,Necrozma,['ice'],"['grass', 'ground']",['psychic'],167\/304,279\/279,1.0
+Chansey,Torterra,Necrozma,['normal'],"['grass', 'ground']",['psychic'],167\/304,279\/279,0.0
+Gengar,Torterra,Necrozma,"['ghost', 'poison']","['grass', 'ground']",['psychic'],167\/304,279\/279,0.0
+Gengar,Cryogonal,Necrozma,"['ghost', 'poison']",['ice'],['psychic'],51\/283,279\/279,1.0
+Chansey,Cryogonal,Necrozma,['normal'],['ice'],['psychic'],51\/283,279\/279,0.0
+Torterra,Cryogonal,Necrozma,"['grass', 'ground']",['ice'],['psychic'],51\/283,279\/279,0.0
+Torterra,Gengar,Necrozma,"['grass', 'ground']","['ghost', 'poison']",['psychic'],222\/222,279\/279,1.0
+Chansey,Gengar,Necrozma,['normal'],"['ghost', 'poison']",['psychic'],222\/222,279\/279,0.0
+Exploud,Necrozma,Torterra,['normal'],['psychic'],"['grass', 'ground']",279\/279,234\/304,1.0
+Donphan,Necrozma,Torterra,['ground'],['psychic'],"['grass', 'ground']",279\/279,234\/304,0.0
+Nihilego,Necrozma,Torterra,"['rock', 'poison']",['psychic'],"['grass', 'ground']",279\/279,234\/304,0.0
+Chansey,Torterra,Exploud,['normal'],"['grass', 'ground']",['normal'],234\/304,316\/316,1.0
+Nihilego,Exploud,Chansey,"['rock', 'poison']",['normal'],['normal'],316\/316,429\/531,1.0
+Donphan,Exploud,Chansey,['ground'],['normal'],['normal'],316\/316,429\/531,0.0
+Donphan,Nihilego,Chansey,['ground'],"['rock', 'poison']",['normal'],132\/313,429\/531,1.0
+Exploud,Nihilego,Chansey,['normal'],"['rock', 'poison']",['normal'],132\/313,429\/531,0.0
+Torterra,Chansey,Donphan,"['grass', 'ground']",['normal'],['ground'],429\/531,154\/288,1.0
+Pikachu,Torterra,Donphan,['electric'],"['grass', 'ground']",['ground'],234\/304,154\/288,1.0
+Chansey,Torterra,Donphan,['normal'],"['grass', 'ground']",['ground'],234\/304,154\/288,0.0
+Exploud,Donphan,Pikachu,['normal'],['ground'],['electric'],154\/288,209\/209,1.0
+Darkrai,Crawdaunt,Lanturn,['dark'],"['water', 'dark']","['water', 'electric']",237\/237,363\/363,1.0
+Serperior,Lanturn,Darkrai,['grass'],"['water', 'electric']",['dark'],363\/363,237\/237,1.0
+Rapidash,Darkrai,Serperior,['fire'],['dark'],['grass'],237\/237,251\/251,1.0
+Manaphy,Serperior,Rapidash,['water'],['grass'],['fire'],251\/251,259\/259,1.0
+Lanturn,Serperior,Rapidash,"['water', 'electric']",['grass'],['fire'],251\/251,259\/259,0.0
+Kingdra,Rapidash,Manaphy,"['water', 'dragon']",['fire'],['water'],259\/259,295\/295,1.0
+Darkrai,Rapidash,Manaphy,['dark'],['fire'],['water'],259\/259,295\/295,0.0
+Darkrai,Kingdra,Manaphy,['dark'],"['water', 'dragon']",['water'],266\/266,295\/295,1.0
+Rapidash,Kingdra,Manaphy,['fire'],"['water', 'dragon']",['water'],266\/266,295\/295,0.0
+Ariados,Manaphy,Darkrai,"['bug', 'poison']",['water'],['dark'],295\/295,237\/237,1.0
+Lanturn,Manaphy,Darkrai,"['water', 'electric']",['water'],['dark'],295\/295,237\/237,0.0
+Serperior,Manaphy,Darkrai,['grass'],['water'],['dark'],295\/295,237\/237,0.0
+Dodrio,Darkrai,Ariados,"['normal', 'flying']",['dark'],"['bug', 'poison']",237\/237,269\/269,1.0
+Rapidash,Darkrai,Ariados,['fire'],['dark'],"['bug', 'poison']",237\/237,269\/269,0.0
+Serperior,Ariados,Dodrio,['grass'],"['bug', 'poison']","['normal', 'flying']",269\/269,249\/249,1.0
+Lanturn,Ariados,Dodrio,"['water', 'electric']","['bug', 'poison']","['normal', 'flying']",269\/269,249\/249,0.0
+Houndoom,Serperior,Dodrio,"['dark', 'fire']",['grass'],"['normal', 'flying']",176\/251,249\/249,1.0
+Lanturn,Serperior,Dodrio,"['water', 'electric']",['grass'],"['normal', 'flying']",176\/251,249\/249,0.0
+Lanturn,Houndoom,Dodrio,"['water', 'electric']","['dark', 'fire']","['normal', 'flying']",259\/259,249\/249,1.0
+Houndoom,Lanturn,Dodrio,"['dark', 'fire']","['water', 'electric']","['normal', 'flying']",276\/363,249\/249,1.0
+Heliolisk,Houndoom,Dodrio,"['electric', 'normal']","['dark', 'fire']","['normal', 'flying']",259\/259,249\/249,1.0
+Primarina,Darmanitan,Rayquaza,"['water', 'fairy']",['fire'],"['dragon', 'flying']",310\/310,291\/291,1.0
+Nidoqueen,Rayquaza,Primarina,"['poison', 'ground']","['dragon', 'flying']","['water', 'fairy']",291\/291,265\/265,1.0
+Darmanitan,Primarina,Nidoqueen,['fire'],"['water', 'fairy']","['poison', 'ground']",265\/265,288\/288,1.0
+Unown,Nidoqueen,Darmanitan,['psychic'],"['poison', 'ground']",['fire'],288\/288,279\/310,1.0
+Rayquaza,Nidoqueen,Darmanitan,"['dragon', 'flying']","['poison', 'ground']",['fire'],288\/288,279\/310,0.0
+Greninja,Unown,Darmanitan,"['water', 'dark']",['psychic'],['fire'],258\/258,279\/310,1.0
+Rayquaza,Unown,Darmanitan,"['dragon', 'flying']",['psychic'],['fire'],258\/258,279\/310,0.0
+Nidoqueen,Unown,Darmanitan,"['poison', 'ground']",['psychic'],['fire'],258\/258,279\/310,0.0
+Magearna,Darmanitan,Greninja,"['steel', 'fairy']",['fire'],"['water', 'dark']",279\/310,246\/246,1.0
+Primarina,Darmanitan,Greninja,"['water', 'fairy']",['fire'],"['water', 'dark']",279\/310,246\/246,0.0
+Primarina,Magearna,Greninja,"['water', 'fairy']","['steel', 'fairy']","['water', 'dark']",259\/259,246\/246,1.0
+Darmanitan,Magearna,Greninja,['fire'],"['steel', 'fairy']","['water', 'dark']",259\/259,246\/246,0.0
+Aromatisse,Greninja,Primarina,['fairy'],"['water', 'dark']","['water', 'fairy']",246\/246,265\/265,1.0
+Rayquaza,Greninja,Primarina,"['dragon', 'flying']","['water', 'dark']","['water', 'fairy']",246\/246,265\/265,0.0
+Nidoqueen,Greninja,Primarina,"['poison', 'ground']","['water', 'dark']","['water', 'fairy']",246\/246,265\/265,0.0
+Nidoqueen,Aromatisse,Primarina,"['poison', 'ground']",['fairy'],"['water', 'fairy']",317\/317,265\/265,1.0
+Rayquaza,Aromatisse,Primarina,"['dragon', 'flying']",['fairy'],"['water', 'fairy']",317\/317,265\/265,0.0
+Greninja,Aromatisse,Primarina,"['water', 'dark']",['fairy'],"['water', 'fairy']",317\/317,265\/265,0.0
+Chimecho,Primarina,Nidoqueen,['psychic'],"['water', 'fairy']","['poison', 'ground']",265\/265,203\/288,1.0
+Darmanitan,Primarina,Nidoqueen,['fire'],"['water', 'fairy']","['poison', 'ground']",265\/265,203\/288,0.0
+Greninja,Nidoqueen,Chimecho,"['water', 'dark']","['poison', 'ground']",['psychic'],203\/288,278\/278,1.0
+Rayquaza,Nidoqueen,Chimecho,"['dragon', 'flying']","['poison', 'ground']",['psychic'],203\/288,278\/278,0.0
+Rayquaza,Greninja,Chimecho,"['dragon', 'flying']","['water', 'dark']",['psychic'],246\/246,278\/278,1.0
+Primarina,Chimecho,Rayquaza,"['water', 'fairy']",['psychic'],"['dragon', 'flying']",278\/278,247\/291,1.0
+Darmanitan,Chimecho,Rayquaza,['fire'],['psychic'],"['dragon', 'flying']",278\/278,247\/291,0.0
+Meloetta,Rayquaza,Primarina,"['normal', 'psychic']","['dragon', 'flying']","['water', 'fairy']",247\/291,198\/265,1.0
+Greninja,Rayquaza,Primarina,"['water', 'dark']","['dragon', 'flying']","['water', 'fairy']",247\/291,198\/265,0.0
+Cofagrigus,Primarina,Meloetta,['ghost'],"['water', 'fairy']","['normal', 'psychic']",198\/265,302\/302,1.0
+Darmanitan,Primarina,Meloetta,['fire'],"['water', 'fairy']","['normal', 'psychic']",198\/265,302\/302,0.0
+Darmanitan,Cofagrigus,Meloetta,['fire'],['ghost'],"['normal', 'psychic']",237\/237,302\/302,1.0
+Primarina,Cofagrigus,Meloetta,"['water', 'fairy']",['ghost'],"['normal', 'psychic']",237\/237,302\/302,0.0
+Rayquaza,Meloetta,Darmanitan,"['dragon', 'flying']","['normal', 'psychic']",['fire'],302\/302,194\/310,1.0
+Greninja,Meloetta,Darmanitan,"['water', 'dark']","['normal', 'psychic']",['fire'],302\/302,194\/310,0.0
+Sceptile,Darmanitan,Rayquaza,['grass'],['fire'],"['dragon', 'flying']",194\/310,247\/291,1.0
+Primarina,Darmanitan,Rayquaza,"['water', 'fairy']",['fire'],"['dragon', 'flying']",194\/310,247\/291,0.0
+Greninja,Rayquaza,Sceptile,"['water', 'dark']","['dragon', 'flying']",['grass'],247\/291,255\/255,1.0
+Primarina,Sceptile,Greninja,"['water', 'fairy']",['grass'],"['water', 'dark']",255\/255,246\/246,1.0
+Genesect,Tornadus,Alomomola,"['bug', 'steel']",['flying'],['water'],258\/258,405\/405,1.0
+Volcarona,Alomomola,Genesect,"['bug', 'fire']",['water'],"['bug', 'steel']",405\/405,239\/239,1.0
+Bruxish,Genesect,Volcarona,"['water', 'psychic']","['bug', 'steel']","['bug', 'fire']",239\/239,267\/267,1.0
+Tornadus,Genesect,Volcarona,['flying'],"['bug', 'steel']","['bug', 'fire']",239\/239,267\/267,0.0
+Tyrantrum,Volcarona,Bruxish,"['rock', 'dragon']","['bug', 'fire']","['water', 'psychic']",267\/267,254\/254,1.0
+Alomomola,Volcarona,Bruxish,['water'],"['bug', 'fire']","['water', 'psychic']",267\/267,254\/254,0.0
+Sawk,Bruxish,Tyrantrum,['fighting'],"['water', 'psychic']","['rock', 'dragon']",254\/254,275\/275,1.0
+Tornadus,Bruxish,Tyrantrum,['flying'],"['water', 'psychic']","['rock', 'dragon']",254\/254,275\/275,0.0
+Genesect,Bruxish,Tyrantrum,"['bug', 'steel']","['water', 'psychic']","['rock', 'dragon']",254\/254,275\/275,0.0
+Aromatisse,Tyrantrum,Sawk,['fairy'],"['rock', 'dragon']",['fighting'],275\/275,272\/272,1.0
+Alomomola,Tyrantrum,Sawk,['water'],"['rock', 'dragon']",['fighting'],275\/275,272\/272,0.0
+Volcarona,Tyrantrum,Sawk,"['bug', 'fire']","['rock', 'dragon']",['fighting'],275\/275,272\/272,0.0
+Tornadus,Sawk,Aromatisse,['flying'],['fighting'],['fairy'],272\/272,317\/317,1.0
+Genesect,Sawk,Aromatisse,"['bug', 'steel']",['fighting'],['fairy'],272\/272,317\/317,0.0
+Bruxish,Sawk,Aromatisse,"['water', 'psychic']",['fighting'],['fairy'],272\/272,317\/317,0.0
+Unfezant,Tornadus,Aromatisse,"['normal', 'flying']",['flying'],['fairy'],258\/258,317\/317,1.0
+Genesect,Tornadus,Aromatisse,"['bug', 'steel']",['flying'],['fairy'],258\/258,317\/317,0.0
+Bruxish,Tornadus,Aromatisse,"['water', 'psychic']",['flying'],['fairy'],258\/258,317\/317,0.0
+Sawk,Tornadus,Aromatisse,['fighting'],['flying'],['fairy'],258\/258,317\/317,0.0
+Stunfisk,Aromatisse,Unfezant,"['ground', 'electric']",['fairy'],"['normal', 'flying']",317\/317,287\/287,1.0
+Alomomola,Aromatisse,Unfezant,['water'],['fairy'],"['normal', 'flying']",317\/317,287\/287,0.0
+Volcarona,Aromatisse,Unfezant,"['bug', 'fire']",['fairy'],"['normal', 'flying']",317\/317,287\/287,0.0
+Tyrantrum,Aromatisse,Unfezant,"['rock', 'dragon']",['fairy'],"['normal', 'flying']",317\/317,287\/287,0.0
+Sawk,Unfezant,Stunfisk,['fighting'],"['normal', 'flying']","['ground', 'electric']",287\/287,346\/346,1.0
+Tornadus,Unfezant,Stunfisk,['flying'],"['normal', 'flying']","['ground', 'electric']",287\/287,346\/346,0.0
+Genesect,Unfezant,Stunfisk,"['bug', 'steel']","['normal', 'flying']","['ground', 'electric']",287\/287,346\/346,0.0
+Bruxish,Unfezant,Stunfisk,"['water', 'psychic']","['normal', 'flying']","['ground', 'electric']",287\/287,346\/346,0.0
+Alomomola,Stunfisk,Sawk,['water'],"['ground', 'electric']",['fighting'],346\/346,165\/272,1.0
+Volcarona,Stunfisk,Sawk,"['bug', 'fire']","['ground', 'electric']",['fighting'],346\/346,165\/272,0.0
+Tyrantrum,Stunfisk,Sawk,"['rock', 'dragon']","['ground', 'electric']",['fighting'],346\/346,165\/272,0.0
+Tornadus,Sawk,Alomomola,['flying'],['fighting'],['water'],165\/272,405\/405,1.0
+Genesect,Sawk,Alomomola,"['bug', 'steel']",['fighting'],['water'],165\/272,405\/405,0.0
+Bruxish,Sawk,Alomomola,"['water', 'psychic']",['fighting'],['water'],165\/272,405\/405,0.0
+Genesect,Tornadus,Alomomola,"['bug', 'steel']",['flying'],['water'],258\/258,405\/405,1.0
+Bruxish,Tornadus,Alomomola,"['water', 'psychic']",['flying'],['water'],258\/258,405\/405,0.0
+Sawk,Tornadus,Alomomola,['fighting'],['flying'],['water'],258\/258,405\/405,0.0
+Volcarona,Alomomola,Genesect,"['bug', 'fire']",['water'],"['bug', 'steel']",405\/405,182\/239,1.0
+Tyrantrum,Alomomola,Genesect,"['rock', 'dragon']",['water'],"['bug', 'steel']",405\/405,182\/239,0.0
+Stunfisk,Alomomola,Genesect,"['ground', 'electric']",['water'],"['bug', 'steel']",405\/405,182\/239,0.0
+Bruxish,Genesect,Volcarona,"['water', 'psychic']","['bug', 'steel']","['bug', 'fire']",182\/239,251\/267,1.0
+Tornadus,Genesect,Volcarona,['flying'],"['bug', 'steel']","['bug', 'fire']",182\/239,251\/267,0.0
+Sawk,Genesect,Volcarona,['fighting'],"['bug', 'steel']","['bug', 'fire']",182\/239,251\/267,0.0
+Alomomola,Volcarona,Bruxish,['water'],"['bug', 'fire']","['water', 'psychic']",251\/267,194\/254,1.0
+Tyrantrum,Volcarona,Bruxish,"['rock', 'dragon']","['bug', 'fire']","['water', 'psychic']",251\/267,194\/254,0.0
+Stunfisk,Volcarona,Bruxish,"['ground', 'electric']","['bug', 'fire']","['water', 'psychic']",251\/267,194\/254,0.0
+Genesect,Bruxish,Alomomola,"['bug', 'steel']","['water', 'psychic']",['water'],194\/254,405\/405,1.0
+Tornadus,Bruxish,Alomomola,['flying'],"['water', 'psychic']",['water'],194\/254,405\/405,0.0
+Sawk,Bruxish,Alomomola,['fighting'],"['water', 'psychic']",['water'],194\/254,405\/405,0.0
+Volcarona,Alomomola,Genesect,"['bug', 'fire']",['water'],"['bug', 'steel']",405\/405,111\/239,1.0
+Tyrantrum,Alomomola,Genesect,"['rock', 'dragon']",['water'],"['bug', 'steel']",405\/405,111\/239,0.0
+Stunfisk,Alomomola,Genesect,"['ground', 'electric']",['water'],"['bug', 'steel']",405\/405,111\/239,0.0
+Tornadus,Genesect,Volcarona,['flying'],"['bug', 'steel']","['bug', 'fire']",111\/239,200\/267,1.0
+Bruxish,Genesect,Volcarona,"['water', 'psychic']","['bug', 'steel']","['bug', 'fire']",111\/239,200\/267,0.0
+Sawk,Genesect,Volcarona,['fighting'],"['bug', 'steel']","['bug', 'fire']",111\/239,200\/267,0.0
+Stunfisk,Volcarona,Tornadus,"['ground', 'electric']","['bug', 'fire']",['flying'],200\/267,247\/258,1.0
+Alomomola,Volcarona,Tornadus,['water'],"['bug', 'fire']",['flying'],200\/267,247\/258,0.0
+Tyrantrum,Volcarona,Tornadus,"['rock', 'dragon']","['bug', 'fire']",['flying'],200\/267,247\/258,0.0
+Forretress,Floette,Drapion,"['bug', 'steel']",['fairy'],"['poison', 'dark']",250\/250,255\/255,1.0
+Zebstrika,Forretress,Drapion,['electric'],"['bug', 'steel']","['poison', 'dark']",263\/263,255\/255,1.0
+Floette,Forretress,Drapion,['fairy'],"['bug', 'steel']","['poison', 'dark']",263\/263,255\/255,0.0
+Liepard,Zebstrika,Drapion,['dark'],['electric'],"['poison', 'dark']",278\/278,255\/255,1.0
+Floette,Zebstrika,Drapion,['fairy'],['electric'],"['poison', 'dark']",278\/278,255\/255,0.0
+Zebstrika,Liepard,Drapion,['electric'],['dark'],"['poison', 'dark']",256\/256,255\/255,1.0
+Floette,Liepard,Drapion,['fairy'],['dark'],"['poison', 'dark']",256\/256,255\/255,0.0
+Magmortar,Drapion,Zebstrika,['fire'],"['poison', 'dark']",['electric'],255\/255,278\/278,1.0
+Hariyama,Zebstrika,Magmortar,['fighting'],['electric'],['fire'],278\/278,269\/269,1.0
+Floette,Zebstrika,Magmortar,['fairy'],['electric'],['fire'],278\/278,269\/269,0.0
+Primarina,Magmortar,Hariyama,"['water', 'fairy']",['fire'],['fighting'],269\/269,388\/388,1.0
+Floette,Hariyama,Primarina,['fairy'],['fighting'],"['water', 'fairy']",388\/388,265\/265,1.0
+Zebstrika,Hariyama,Primarina,['electric'],['fighting'],"['water', 'fairy']",388\/388,265\/265,0.0
+Charizard,Primarina,Floette,"['fire', 'flying']","['water', 'fairy']",['fairy'],265\/265,250\/250,1.0
+Magmortar,Primarina,Floette,['fire'],"['water', 'fairy']",['fairy'],265\/265,250\/250,0.0
+Zebstrika,Floette,Charizard,['electric'],['fairy'],"['fire', 'flying']",250\/250,277\/277,1.0
+Hariyama,Floette,Charizard,['fighting'],['fairy'],"['fire', 'flying']",250\/250,277\/277,0.0
+Hariyama,Zebstrika,Charizard,['fighting'],['electric'],"['fire', 'flying']",263\/278,277\/277,1.0
+Floette,Zebstrika,Charizard,['fairy'],['electric'],"['fire', 'flying']",263\/278,277\/277,0.0
+Lopunny,Charizard,Hariyama,['normal'],"['fire', 'flying']",['fighting'],277\/277,251\/388,1.0
+Magmortar,Charizard,Hariyama,['fire'],"['fire', 'flying']",['fighting'],277\/277,251\/388,0.0
+Magmortar,Lopunny,Hariyama,['fire'],['normal'],['fighting'],235\/235,251\/388,1.0
+Kommo-o,Hariyama,Magmortar,"['dragon', 'fighting']",['fighting'],['fire'],251\/388,156\/269,1.0
+Floette,Hariyama,Magmortar,['fairy'],['fighting'],['fire'],251\/388,156\/269,0.0
+Magnezone,Magmortar,Kommo-o,"['electric', 'steel']",['fire'],"['dragon', 'fighting']",156\/269,251\/251,1.0
+Tapu Koko,Diggersby,Tornadus,"['electric', 'fairy']","['normal', 'ground']",['flying'],270\/270,267\/267,1.0
+Excadrill,Tornadus,Tapu Koko,"['ground', 'steel']",['flying'],"['electric', 'fairy']",267\/267,243\/243,1.0
+Landorus,Tapu Koko,Excadrill,"['ground', 'flying']","['electric', 'fairy']","['ground', 'steel']",243\/243,307\/307,1.0
+Clawitzer,Excadrill,Landorus,['water'],"['ground', 'steel']","['ground', 'flying']",307\/307,267\/267,1.0
+Tornadus,Excadrill,Landorus,['flying'],"['ground', 'steel']","['ground', 'flying']",307\/307,267\/267,0.0
+Lumineon,Landorus,Clawitzer,['water'],"['ground', 'flying']",['water'],267\/267,262\/262,1.0
+Tapu Koko,Landorus,Clawitzer,"['electric', 'fairy']","['ground', 'flying']",['water'],267\/267,262\/262,0.0
+Kyogre,Clawitzer,Lumineon,['water'],['water'],['water'],262\/262,268\/268,1.0
+Tornadus,Clawitzer,Lumineon,['flying'],['water'],['water'],262\/262,268\/268,0.0
+Braviary,Lumineon,Kyogre,"['normal', 'flying']",['water'],['water'],268\/268,284\/284,1.0
+Tapu Koko,Lumineon,Kyogre,"['electric', 'fairy']",['water'],['water'],268\/268,284\/284,0.0
+Landorus,Lumineon,Kyogre,"['ground', 'flying']",['water'],['water'],268\/268,284\/284,0.0
+Landorus,Braviary,Kyogre,"['ground', 'flying']","['normal', 'flying']",['water'],311\/311,284\/284,1.0
+Tapu Koko,Braviary,Kyogre,"['electric', 'fairy']","['normal', 'flying']",['water'],311\/311,284\/284,0.0
+Lumineon,Braviary,Kyogre,['water'],"['normal', 'flying']",['water'],311\/311,284\/284,0.0
+Clawitzer,Kyogre,Landorus,['water'],['water'],"['ground', 'flying']",284\/284,267\/267,1.0
+Tornadus,Kyogre,Landorus,['flying'],['water'],"['ground', 'flying']",284\/284,267\/267,0.0
+Lumineon,Landorus,Clawitzer,['water'],"['ground', 'flying']",['water'],267\/267,262\/262,1.0
+Tapu Koko,Landorus,Clawitzer,"['electric', 'fairy']","['ground', 'flying']",['water'],267\/267,262\/262,0.0
+Braviary,Landorus,Clawitzer,"['normal', 'flying']","['ground', 'flying']",['water'],267\/267,262\/262,0.0
+Tapu Koko,Lumineon,Clawitzer,"['electric', 'fairy']",['water'],['water'],66\/268,262\/262,1.0
+Landorus,Lumineon,Clawitzer,"['ground', 'flying']",['water'],['water'],66\/268,262\/262,0.0
+Braviary,Lumineon,Clawitzer,"['normal', 'flying']",['water'],['water'],66\/268,262\/262,0.0
+Espeon,Clawitzer,Tapu Koko,['psychic'],['water'],"['electric', 'fairy']",262\/262,243\/243,1.0
+Tornadus,Clawitzer,Tapu Koko,['flying'],['water'],"['electric', 'fairy']",262\/262,243\/243,0.0
+Kyogre,Clawitzer,Tapu Koko,['water'],['water'],"['electric', 'fairy']",262\/262,243\/243,0.0
+Heatmor,Espeon,Tapu Koko,['fire'],['psychic'],"['electric', 'fairy']",246\/246,243\/243,1.0
+Tornadus,Espeon,Tapu Koko,['flying'],['psychic'],"['electric', 'fairy']",246\/246,243\/243,0.0
+Clawitzer,Espeon,Tapu Koko,['water'],['psychic'],"['electric', 'fairy']",246\/246,243\/243,0.0
+Kyogre,Espeon,Tapu Koko,['water'],['psychic'],"['electric', 'fairy']",246\/246,243\/243,0.0
+Landorus,Tapu Koko,Heatmor,"['ground', 'flying']","['electric', 'fairy']",['fire'],243\/243,295\/295,1.0
+Braviary,Tapu Koko,Heatmor,"['normal', 'flying']","['electric', 'fairy']",['fire'],243\/243,295\/295,0.0
+Clawitzer,Heatmor,Landorus,['water'],['fire'],"['ground', 'flying']",295\/295,267\/267,1.0
+Tornadus,Heatmor,Landorus,['flying'],['fire'],"['ground', 'flying']",295\/295,267\/267,0.0
+Kyogre,Heatmor,Landorus,['water'],['fire'],"['ground', 'flying']",295\/295,267\/267,0.0
+Primarina,Landorus,Clawitzer,"['water', 'fairy']","['ground', 'flying']",['water'],267\/267,246\/262,1.0
+Tapu Koko,Landorus,Clawitzer,"['electric', 'fairy']","['ground', 'flying']",['water'],267\/267,246\/262,0.0
+Braviary,Landorus,Clawitzer,"['normal', 'flying']","['ground', 'flying']",['water'],267\/267,246\/262,0.0
+Tornadus,Clawitzer,Primarina,['flying'],['water'],"['water', 'fairy']",246\/262,265\/265,1.0
+Kyogre,Clawitzer,Primarina,['water'],['water'],"['water', 'fairy']",246\/262,265\/265,0.0
+Heatmor,Clawitzer,Primarina,['fire'],['water'],"['water', 'fairy']",246\/262,265\/265,0.0
+Heatmor,Tornadus,Primarina,['fire'],['flying'],"['water', 'fairy']",68\/267,265\/265,1.0
+Kyogre,Tornadus,Primarina,['water'],['flying'],"['water', 'fairy']",68\/267,265\/265,0.0
+Braviary,Primarina,Heatmor,"['normal', 'flying']","['water', 'fairy']",['fire'],265\/265,295\/295,1.0
+Tapu Koko,Primarina,Heatmor,"['electric', 'fairy']","['water', 'fairy']",['fire'],265\/265,295\/295,0.0
+Landorus,Primarina,Heatmor,"['ground', 'flying']","['water', 'fairy']",['fire'],265\/265,295\/295,0.0
+Landorus,Braviary,Heatmor,"['ground', 'flying']","['normal', 'flying']",['fire'],311\/311,295\/295,1.0
+Tapu Koko,Braviary,Heatmor,"['electric', 'fairy']","['normal', 'flying']",['fire'],311\/311,295\/295,0.0
+Primarina,Braviary,Heatmor,"['water', 'fairy']","['normal', 'flying']",['fire'],311\/311,295\/295,0.0
+Kyogre,Heatmor,Landorus,['water'],['fire'],"['ground', 'flying']",295\/295,241\/267,1.0
+Tapu Koko,Landorus,Kyogre,"['electric', 'fairy']","['ground', 'flying']",['water'],241\/267,188\/284,1.0
+Primarina,Landorus,Kyogre,"['water', 'fairy']","['ground', 'flying']",['water'],241\/267,188\/284,0.0
+Primarina,Tapu Koko,Kyogre,"['water', 'fairy']","['electric', 'fairy']",['water'],243\/243,188\/284,1.0
+Meowstic,Walrein,Cobalion,['psychic'],"['ice', 'water']","['steel', 'fighting']",337\/337,277\/277,1.0
+Solgaleo,Meowstic,Cobalion,"['psychic', 'steel']",['psychic'],"['steel', 'fighting']",277\/277,277\/277,1.0
+Walrein,Meowstic,Cobalion,"['ice', 'water']",['psychic'],"['steel', 'fighting']",277\/277,277\/277,0.0
+Krookodile,Cobalion,Solgaleo,"['ground', 'dark']","['steel', 'fighting']","['psychic', 'steel']",277\/277,325\/325,1.0
+Articuno,Solgaleo,Krookodile,"['ice', 'flying']","['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,1.0
+Walrein,Solgaleo,Krookodile,"['ice', 'water']","['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,0.0
+Meowstic,Solgaleo,Krookodile,['psychic'],"['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,0.0
+Lapras,Krookodile,Articuno,"['water', 'ice']","['ground', 'dark']","['ice', 'flying']",287\/287,298\/298,1.0
+Cobalion,Krookodile,Articuno,"['steel', 'fighting']","['ground', 'dark']","['ice', 'flying']",287\/287,298\/298,0.0
+Cobalion,Lapras,Articuno,"['steel', 'fighting']","['water', 'ice']","['ice', 'flying']",368\/368,298\/298,1.0
+Krookodile,Lapras,Articuno,"['ground', 'dark']","['water', 'ice']","['ice', 'flying']",368\/368,298\/298,0.0
+Solgaleo,Articuno,Cobalion,"['psychic', 'steel']","['ice', 'flying']","['steel', 'fighting']",298\/298,118\/277,1.0
+Walrein,Articuno,Cobalion,"['ice', 'water']","['ice', 'flying']","['steel', 'fighting']",298\/298,118\/277,0.0
+Meowstic,Articuno,Cobalion,['psychic'],"['ice', 'flying']","['steel', 'fighting']",298\/298,118\/277,0.0
+Krookodile,Cobalion,Solgaleo,"['ground', 'dark']","['steel', 'fighting']","['psychic', 'steel']",118\/277,325\/325,1.0
+Lapras,Cobalion,Solgaleo,"['water', 'ice']","['steel', 'fighting']","['psychic', 'steel']",118\/277,325\/325,0.0
+Articuno,Solgaleo,Krookodile,"['ice', 'flying']","['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,1.0
+Walrein,Solgaleo,Krookodile,"['ice', 'water']","['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,0.0
+Meowstic,Solgaleo,Krookodile,['psychic'],"['psychic', 'steel']","['ground', 'dark']",325\/325,287\/287,0.0
+Lapras,Krookodile,Articuno,"['water', 'ice']","['ground', 'dark']","['ice', 'flying']",287\/287,224\/298,1.0
+Cobalion,Krookodile,Articuno,"['steel', 'fighting']","['ground', 'dark']","['ice', 'flying']",287\/287,224\/298,0.0
+Cobalion,Lapras,Articuno,"['steel', 'fighting']","['water', 'ice']","['ice', 'flying']",368\/368,224\/298,1.0
+Krookodile,Lapras,Articuno,"['ground', 'dark']","['water', 'ice']","['ice', 'flying']",368\/368,224\/298,0.0
+Solgaleo,Articuno,Cobalion,"['psychic', 'steel']","['ice', 'flying']","['steel', 'fighting']",224\/298,73\/277,1.0
+Walrein,Articuno,Cobalion,"['ice', 'water']","['ice', 'flying']","['steel', 'fighting']",224\/298,73\/277,0.0
+Meowstic,Articuno,Cobalion,['psychic'],"['ice', 'flying']","['steel', 'fighting']",224\/298,73\/277,0.0
+Meowstic,Solgaleo,Cobalion,['psychic'],"['psychic', 'steel']","['steel', 'fighting']",45\/325,73\/277,1.0
+Walrein,Solgaleo,Cobalion,"['ice', 'water']","['psychic', 'steel']","['steel', 'fighting']",45\/325,73\/277,0.0
+Articuno,Solgaleo,Cobalion,"['ice', 'flying']","['psychic', 'steel']","['steel', 'fighting']",45\/325,73\/277,0.0
+Lapras,Cobalion,Meowstic,"['water', 'ice']","['steel', 'fighting']",['psychic'],73\/277,115\/277,1.0
+Krookodile,Cobalion,Meowstic,"['ground', 'dark']","['steel', 'fighting']",['psychic'],73\/277,115\/277,0.0
+Walrein,Meowstic,Lapras,"['ice', 'water']",['psychic'],"['water', 'ice']",115\/277,368\/368,1.0
+Articuno,Meowstic,Lapras,"['ice', 'flying']",['psychic'],"['water', 'ice']",115\/277,368\/368,0.0
+Articuno,Walrein,Lapras,"['ice', 'flying']","['ice', 'water']","['water', 'ice']",337\/337,368\/368,1.0
+Meowstic,Walrein,Lapras,['psychic'],"['ice', 'water']","['water', 'ice']",337\/337,368\/368,0.0
+Cobalion,Lapras,Articuno,"['steel', 'fighting']","['water', 'ice']","['ice', 'flying']",368\/368,298\/298,1.0
+Krookodile,Lapras,Articuno,"['ground', 'dark']","['water', 'ice']","['ice', 'flying']",368\/368,298\/298,0.0
+Bibarel,Articuno,Cobalion,"['normal', 'water']","['ice', 'flying']","['steel', 'fighting']",298\/298,73\/277,1.0
+Walrein,Articuno,Cobalion,"['ice', 'water']","['ice', 'flying']","['steel', 'fighting']",298\/298,73\/277,0.0
+Meowstic,Articuno,Cobalion,['psychic'],"['ice', 'flying']","['steel', 'fighting']",298\/298,73\/277,0.0
+Lapras,Cobalion,Bibarel,"['water', 'ice']","['steel', 'fighting']","['normal', 'water']",73\/277,282\/282,1.0
+Krookodile,Cobalion,Bibarel,"['ground', 'dark']","['steel', 'fighting']","['normal', 'water']",73\/277,282\/282,0.0
+Carnivine,Lapras,Bibarel,['grass'],"['water', 'ice']","['normal', 'water']",368\/368,282\/282,1.0
+Cobalion,Lapras,Bibarel,"['steel', 'fighting']","['water', 'ice']","['normal', 'water']",368\/368,282\/282,0.0
+Krookodile,Lapras,Bibarel,"['ground', 'dark']","['water', 'ice']","['normal', 'water']",368\/368,282\/282,0.0
+Cobalion,Carnivine,Bibarel,"['steel', 'fighting']",['grass'],"['normal', 'water']",301\/301,282\/282,1.0
+Krookodile,Carnivine,Bibarel,"['ground', 'dark']",['grass'],"['normal', 'water']",301\/301,282\/282,0.0
+Krookodile,Cobalion,Bibarel,"['ground', 'dark']","['steel', 'fighting']","['normal', 'water']",28\/277,282\/282,1.0
+Farfetch’d,Krookodile,Bibarel,"['normal', 'flying']","['ground', 'dark']","['normal', 'water']",227\/287,282\/282,1.0
+Deoxys,Farfetch’d,Bibarel,['psychic'],"['normal', 'flying']","['normal', 'water']",259\/259,282\/282,1.0
+Alakazam,Torkoal,Simisear,['psychic'],['fire'],['fire'],255\/255,275\/275,1.0
+Pangoro,Simisear,Alakazam,"['fighting', 'dark']",['fire'],['psychic'],275\/275,216\/216,1.0
+Gothitelle,Pangoro,Alakazam,['psychic'],"['fighting', 'dark']",['psychic'],304\/304,216\/216,1.0
+Simisear,Pangoro,Alakazam,['fire'],"['fighting', 'dark']",['psychic'],304\/304,216\/216,0.0
+Pangoro,Gothitelle,Alakazam,"['fighting', 'dark']",['psychic'],['psychic'],266\/266,216\/216,1.0
+Simisear,Gothitelle,Alakazam,['fire'],['psychic'],['psychic'],266\/266,216\/216,0.0
+Leafeon,Pangoro,Alakazam,['grass'],"['fighting', 'dark']",['psychic'],285\/304,216\/216,1.0
+Simisear,Pangoro,Alakazam,['fire'],"['fighting', 'dark']",['psychic'],285\/304,216\/216,0.0
+Absol,Leafeon,Alakazam,['dark'],['grass'],['psychic'],258\/258,216\/216,1.0
+Simisear,Leafeon,Alakazam,['fire'],['grass'],['psychic'],258\/258,216\/216,0.0
+Sandslash,Alakazam,Absol,['ground'],['psychic'],['dark'],216\/216,241\/241,1.0
+Beartic,Sandslash,Absol,['ice'],['ground'],['dark'],284\/284,241\/241,1.0
+Alakazam,Sandslash,Absol,['psychic'],['ground'],['dark'],284\/284,241\/241,0.0
+Simisear,Absol,Beartic,['fire'],['dark'],['ice'],241\/241,317\/317,1.0
+Leafeon,Absol,Beartic,['grass'],['dark'],['ice'],241\/241,317\/317,0.0
+Alakazam,Beartic,Simisear,['psychic'],['ice'],['fire'],317\/317,131\/275,1.0
+Leafeon,Simisear,Alakazam,['grass'],['fire'],['psychic'],131\/275,18\/216,1.0
+Decidueye,Alakazam,Leafeon,"['grass', 'ghost']",['psychic'],['grass'],18\/216,226\/258,1.0
+Zangoose,Leafeon,Decidueye,['normal'],['grass'],"['grass', 'ghost']",226\/258,238\/238,1.0
+Chatot,Mudsdale,Mimikyu,"['normal', 'flying']",['ground'],"['ghost', 'fairy']",305\/305,203\/203,1.0
+Latias,Mimikyu,Chatot,"['dragon', 'psychic']","['ghost', 'fairy']","['normal', 'flying']",203\/203,279\/279,1.0
+Jynx,Chatot,Latias,"['ice', 'psychic']","['normal', 'flying']","['dragon', 'psychic']",279\/279,262\/262,1.0
+Shuckle,Latias,Jynx,"['bug', 'rock']","['dragon', 'psychic']","['ice', 'psychic']",262\/262,258\/258,1.0
+Houndoom,Shuckle,Jynx,"['dark', 'fire']","['bug', 'rock']","['ice', 'psychic']",175\/175,258\/258,1.0
+Latias,Shuckle,Jynx,"['dragon', 'psychic']","['bug', 'rock']","['ice', 'psychic']",175\/175,258\/258,0.0
+Exploud,Jynx,Houndoom,['normal'],"['ice', 'psychic']","['dark', 'fire']",258\/258,253\/253,1.0
+Solgaleo,Exploud,Houndoom,"['psychic', 'steel']",['normal'],"['dark', 'fire']",319\/319,253\/253,1.0
+Magearna,Solgaleo,Houndoom,"['steel', 'fairy']","['psychic', 'steel']","['dark', 'fire']",325\/325,253\/253,1.0
+Machamp,Stakataka,Ampharos,['fighting'],"['rock', 'steel']",['electric'],237\/237,288\/288,1.0
+Maractus,Ampharos,Machamp,['grass'],['electric'],['fighting'],288\/288,288\/288,1.0
+Articuno,Maractus,Machamp,"['ice', 'flying']",['grass'],['fighting'],302\/302,288\/288,1.0
+Ampharos,Maractus,Machamp,['electric'],['grass'],['fighting'],302\/302,288\/288,0.0
+Stakataka,Machamp,Articuno,"['rock', 'steel']",['fighting'],"['ice', 'flying']",288\/288,298\/298,1.0
+Bouffalant,Articuno,Stakataka,['normal'],"['ice', 'flying']","['rock', 'steel']",298\/298,237\/237,1.0
+Ampharos,Articuno,Stakataka,['electric'],"['ice', 'flying']","['rock', 'steel']",298\/298,237\/237,0.0
+Huntail,Stakataka,Bouffalant,['water'],"['rock', 'steel']",['normal'],237\/237,310\/310,1.0
+Machamp,Stakataka,Bouffalant,['fighting'],"['rock', 'steel']",['normal'],237\/237,310\/310,0.0
+Liepard,Bouffalant,Huntail,['dark'],['normal'],['water'],310\/310,230\/230,1.0
+Ampharos,Bouffalant,Huntail,['electric'],['normal'],['water'],310\/310,230\/230,0.0
+Articuno,Bouffalant,Huntail,"['ice', 'flying']",['normal'],['water'],310\/310,230\/230,0.0
+Machamp,Huntail,Liepard,['fighting'],['water'],['dark'],230\/230,264\/264,1.0
+Ampharos,Liepard,Machamp,['electric'],['dark'],['fighting'],264\/264,139\/288,1.0
+Articuno,Liepard,Machamp,"['ice', 'flying']",['dark'],['fighting'],264\/264,139\/288,0.0
+Bouffalant,Liepard,Machamp,['normal'],['dark'],['fighting'],264\/264,139\/288,0.0
+Articuno,Ampharos,Machamp,"['ice', 'flying']",['electric'],['fighting'],288\/288,139\/288,1.0
+Bouffalant,Ampharos,Machamp,['normal'],['electric'],['fighting'],288\/288,139\/288,0.0
+Liepard,Ampharos,Machamp,['dark'],['electric'],['fighting'],288\/288,139\/288,0.0
+Audino,Machamp,Articuno,['normal'],['fighting'],"['ice', 'flying']",139\/288,298\/298,1.0
+Huntail,Machamp,Articuno,['water'],['fighting'],"['ice', 'flying']",139\/288,298\/298,0.0
+Bouffalant,Articuno,Audino,['normal'],"['ice', 'flying']",['normal'],298\/298,339\/339,1.0
+Liepard,Articuno,Audino,['dark'],"['ice', 'flying']",['normal'],298\/298,339\/339,0.0
+Castform,Bouffalant,Audino,['normal'],['normal'],['normal'],310\/310,339\/339,1.0
+Articuno,Bouffalant,Audino,"['ice', 'flying']",['normal'],['normal'],310\/310,339\/339,0.0
+Liepard,Bouffalant,Audino,['dark'],['normal'],['normal'],310\/310,339\/339,0.0
+Liepard,Castform,Audino,['dark'],['normal'],['normal'],299\/299,339\/339,1.0
+Articuno,Castform,Audino,"['ice', 'flying']",['normal'],['normal'],299\/299,339\/339,0.0
+Bouffalant,Castform,Audino,['normal'],['normal'],['normal'],299\/299,339\/339,0.0
+Bouffalant,Liepard,Audino,['normal'],['dark'],['normal'],264\/264,339\/339,1.0
+Articuno,Liepard,Audino,"['ice', 'flying']",['dark'],['normal'],264\/264,339\/339,0.0
+Castform,Liepard,Audino,['normal'],['dark'],['normal'],264\/264,339\/339,0.0
+Machamp,Audino,Bouffalant,['fighting'],['normal'],['normal'],339\/339,188\/310,1.0
+Huntail,Audino,Bouffalant,['water'],['normal'],['normal'],339\/339,188\/310,0.0
+Exploud,Machamp,Bouffalant,['normal'],['fighting'],['normal'],91\/288,188\/310,1.0
+Huntail,Machamp,Bouffalant,['water'],['fighting'],['normal'],91\/288,188\/310,0.0
+Audino,Machamp,Bouffalant,['normal'],['fighting'],['normal'],91\/288,188\/310,0.0
+Castform,Bouffalant,Exploud,['normal'],['normal'],['normal'],188\/310,319\/319,1.0
+Articuno,Bouffalant,Exploud,"['ice', 'flying']",['normal'],['normal'],188\/310,319\/319,0.0
+Articuno,Castform,Exploud,"['ice', 'flying']",['normal'],['normal'],133\/299,319\/319,1.0
+Bouffalant,Castform,Exploud,['normal'],['normal'],['normal'],133\/299,319\/319,0.0
+Bouffalant,Articuno,Exploud,['normal'],"['ice', 'flying']",['normal'],298\/298,319\/319,1.0
+Entei,Quagsire,Forretress,['fire'],"['water', 'ground']","['bug', 'steel']",297\/297,263\/263,1.0
+Gyarados,Forretress,Entei,"['water', 'flying']","['bug', 'steel']",['fire'],263\/263,307\/307,1.0
+Rotom,Entei,Gyarados,"['electric', 'ghost']",['fire'],"['water', 'flying']",307\/307,280\/280,1.0
+Quagsire,Entei,Gyarados,"['water', 'ground']",['fire'],"['water', 'flying']",307\/307,280\/280,0.0
+Skuntank,Gyarados,Rotom,"['poison', 'dark']","['water', 'flying']","['electric', 'ghost']",280\/280,226\/226,1.0
+Forretress,Gyarados,Rotom,"['bug', 'steel']","['water', 'flying']","['electric', 'ghost']",280\/280,226\/226,0.0
+Quagsire,Rotom,Skuntank,"['water', 'ground']","['electric', 'ghost']","['poison', 'dark']",226\/226,310\/310,1.0
+Entei,Rotom,Skuntank,['fire'],"['electric', 'ghost']","['poison', 'dark']",226\/226,310\/310,0.0
+Gyarados,Skuntank,Quagsire,"['water', 'flying']","['poison', 'dark']","['water', 'ground']",310\/310,297\/297,1.0
+Forretress,Skuntank,Quagsire,"['bug', 'steel']","['poison', 'dark']","['water', 'ground']",310\/310,297\/297,0.0
+Rotom,Quagsire,Gyarados,"['electric', 'ghost']","['water', 'ground']","['water', 'flying']",297\/297,280\/280,1.0
+Entei,Quagsire,Gyarados,['fire'],"['water', 'ground']","['water', 'flying']",297\/297,280\/280,0.0
+Forretress,Gyarados,Rotom,"['bug', 'steel']","['water', 'flying']","['electric', 'ghost']",280\/280,184\/226,1.0
+Skuntank,Gyarados,Rotom,"['poison', 'dark']","['water', 'flying']","['electric', 'ghost']",280\/280,184\/226,0.0
+Iron Crown,Rotom,Forretress,"['steel', 'psychic']","['electric', 'ghost']","['bug', 'steel']",184\/226,1\/263,1.0
+Entei,Rotom,Forretress,['fire'],"['electric', 'ghost']","['bug', 'steel']",184\/226,1\/263,0.0
+Skuntank,Forretress,Iron Crown,"['poison', 'dark']","['bug', 'steel']","['steel', 'psychic']",1\/263,272\/272,1.0
+Gyarados,Forretress,Iron Crown,"['water', 'flying']","['bug', 'steel']","['steel', 'psychic']",1\/263,272\/272,0.0
+Azumarill,Skuntank,Iron Crown,"['water', 'fairy']","['poison', 'dark']","['steel', 'psychic']",247\/310,272\/272,1.0
+Gyarados,Skuntank,Iron Crown,"['water', 'flying']","['poison', 'dark']","['steel', 'psychic']",247\/310,272\/272,0.0
+Rotom,Iron Crown,Azumarill,"['electric', 'ghost']","['steel', 'psychic']","['water', 'fairy']",272\/272,298\/298,1.0
+Entei,Iron Crown,Azumarill,['fire'],"['steel', 'psychic']","['water', 'fairy']",272\/272,298\/298,0.0
+Fezandipiti,Azumarill,Rotom,"['poison', 'fairy']","['water', 'fairy']","['electric', 'ghost']",298\/298,184\/226,1.0
+Gyarados,Azumarill,Rotom,"['water', 'flying']","['water', 'fairy']","['electric', 'ghost']",298\/298,184\/226,0.0
+Bronzong,Rotom,Fezandipiti,"['steel', 'psychic']","['electric', 'ghost']","['poison', 'fairy']",184\/226,275\/275,1.0
+Entei,Rotom,Fezandipiti,['fire'],"['electric', 'ghost']","['poison', 'fairy']",184\/226,275\/275,0.0
+Azumarill,Fezandipiti,Bronzong,"['water', 'fairy']","['poison', 'fairy']","['steel', 'psychic']",275\/275,261\/261,1.0
+Gyarados,Fezandipiti,Bronzong,"['water', 'flying']","['poison', 'fairy']","['steel', 'psychic']",275\/275,261\/261,0.0
+Fezandipiti,Azumarill,Bronzong,"['poison', 'fairy']","['water', 'fairy']","['steel', 'psychic']",194\/298,261\/261,1.0
+Gyarados,Azumarill,Bronzong,"['water', 'flying']","['water', 'fairy']","['steel', 'psychic']",194\/298,261\/261,0.0
+Entei,Bronzong,Fezandipiti,['fire'],"['steel', 'psychic']","['poison', 'fairy']",261\/261,226\/275,1.0
+Rotom,Bronzong,Fezandipiti,"['electric', 'ghost']","['steel', 'psychic']","['poison', 'fairy']",261\/261,226\/275,0.0
+Gyarados,Fezandipiti,Entei,"['water', 'flying']","['poison', 'fairy']",['fire'],226\/275,261\/307,1.0
+Rotom,Entei,Gyarados,"['electric', 'ghost']",['fire'],"['water', 'flying']",261\/307,280\/280,1.0
+Chansey,Rotom,Gyarados,['normal'],"['electric', 'ghost']","['water', 'flying']",184\/226,280\/280,1.0
+Entei,Rotom,Gyarados,['fire'],"['electric', 'ghost']","['water', 'flying']",184\/226,280\/280,0.0
+Fezandipiti,Gyarados,Chansey,"['poison', 'fairy']","['water', 'flying']",['normal'],280\/280,564\/564,1.0
+Entei,Chansey,Fezandipiti,['fire'],['normal'],"['poison', 'fairy']",564\/564,106\/275,1.0
+Rotom,Chansey,Fezandipiti,"['electric', 'ghost']",['normal'],"['poison', 'fairy']",564\/564,106\/275,0.0
+Persian,Fezandipiti,Entei,['normal'],"['poison', 'fairy']",['fire'],106\/275,223\/307,1.0
+Rotom,Entei,Persian,"['electric', 'ghost']",['fire'],['normal'],223\/307,252\/252,1.0
