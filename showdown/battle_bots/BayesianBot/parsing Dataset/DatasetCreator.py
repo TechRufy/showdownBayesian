@@ -5,7 +5,7 @@ import os
 df = pd.DataFrame(columns=["User", "Sufferer", "name move", "TypesU",
                            "TypesS", "TypeM", "power", "UserHP", "SuffererHP"])
 df2 = pd.DataFrame(
-    columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPin", "HPout", "HPEnemy"])
+    columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPout", "HPEnemy", "Switch"])
 
 for cartella, sottocartelle, files in os.walk(os.getcwd() + "\\log"):
     if not files.__contains__("Dataset.csv"):
@@ -15,7 +15,7 @@ for cartella, sottocartelle, files in os.walk(os.getcwd() + "\\log"):
     if not files.__contains__("Dataset-Switch.csv"):
         df2.to_csv(".\\log\\Dataset-Switch.csv",
                    columns=["Switch In", "Switch out", "enemy", "TypeIN",
-                            "TypeOUT", "TypeEnemy", "HPin", "HPout", "HPEnemy"], index=False)
+                            "TypeOUT", "TypeEnemy", "HPout", "HPEnemy"], index=False)
     for file in files:
         if file == "Dataset.csv":
             continue

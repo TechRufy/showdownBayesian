@@ -17,45 +17,127 @@ def parser(log_data):
                                "TypesS", "TypeM", "power", "UserHP", "SuffererHP", "Weather", "categoryMove", "Choose"])
 
     df2 = pd.DataFrame(
-        columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPin", "HPout", "HPEnemy"])
+        columns=["Switch In", "Switch out", "enemy", "TypeIN", "TypeOUT", "TypeEnemy", "HPout", "HPEnemy",
+                 "Switch"])
 
     # Regular expressions for different types of log entries
     switch_regex = re.compile(r'\|switch\|p\da: (.*?)\|(.*?)\|[0-9]+\\/[0-9]+')
+    drag_regex = re.compile(r'\|drag\|p\da: (.*?)\|(.*?)\|[0-9]+\\/[0-9]+')
     move_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|p\da: [a-zA-Z0-9\s_.-]+')
     moveP_regex = re.compile(r'\|move\|p\da: (.*?)\|(.*?)\|\|\[[a-zA-Z0-9\s_.-]+\]')
 
     # Function to parse the log data
+    team = {"p1a": [], "p2a": []}
     mapping_table = str.maketrans({' ': '', '-': '', '\'': ''})
-    pokemon = {"p1a Pokemon": None, "p2a Pokemon": None, "hp p1a": 0, "hp p2a": 0, "weather": "none",
+    pokemon = {"p1a Pokemon": None, "p2a Pokemon": None, "hp p1a": -1, "hp p2a": -1, "weather": "none",
                "p1a mosse": [], "p2a mosse": []}
     for line in log_data:
-        if line.startswith('|switch|'):
-            match = switch_regex.match(line)
+        if line.startswith('|drag|'):
+            match = drag_regex.match(line)
             matches = match.group().split("|")
             for token in matches:
                 if token.startswith("p1a"):
-                    if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
-                        df2.loc[len(df2)] = [token[5:], pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
-                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")]["types"],
-                                             pokedex[pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
-                                             pokedex[pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
-                                             matches[-1],
-                                             pokemon["hp p1a"],
-                                             pokemon["hp p2a"]]
+                    if not team["p1a"].__contains__(token[5:]):
+                        team["p1a"].append(token[5:])
                     pokemon["p1a Pokemon"] = token[5:]
                     pokemon["hp p1a"] = matches[-1]
                     pokemon["p1a mosse"] = []
 
                 if token.startswith("p2a"):
+                    if not team["p2a"].__contains__(token[5:]):
+                        team["p2a"].append(token[5:])
+                    pokemon["p2a Pokemon"] = token[5:]
+                    pokemon["hp p2a"] = matches[-1]
+                    pokemon["p2a mosse"] = []
+
+        if line.startswith('|faint|'):
+            pkmn = line.split("|")[-1].strip()
+            if pkmn[:3] == "p1a":
+                team["p1a"].remove(pkmn[5:])
+            if pkmn[:3] == "p2a":
+                team["p2a"].remove(pkmn[5:])
+        if line.startswith('|switch|'):
+            match = switch_regex.match(line)
+            matches = match.group().split("|")
+            for token in matches:
+                if token.startswith("p1a"):
+                    if not team["p1a"].__contains__(token[5:]):
+                        team["p1a"].append(token[5:])
+                    if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
+                        df2.loc[len(df2)] = [token[5:], pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
+                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")][
+                                                 "types"],
+                                             pokedex[
+                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’",
+                                                                                                                  "'")][
+                                                 "types"],
+                                             pokedex[
+                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’",
+                                                                                                                  "'")][
+                                                 "types"],
+                                             pokemon["hp p1a"],
+                                             pokemon["hp p2a"],
+                                             1]
+                        for pkmn in team["p1a"]:
+                            if pkmn == token[5:] or pkmn == pokemon["p1a Pokemon"]:
+                                continue
+                            df2.loc[len(df2)] = [pkmn, pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
+                                                 pokedex[pkmn.lower().strip().replace("\n", "").replace("’", "'")][
+                                                     "types"],
+                                                 pokedex[
+                                                     pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace(
+                                                         "’",
+                                                         "'")][
+                                                     "types"],
+                                                 pokedex[
+                                                     pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace(
+                                                         "’",
+                                                         "'")][
+                                                     "types"],
+                                                 pokemon["hp p1a"],
+                                                 pokemon["hp p2a"],
+                                                 0]
+                    pokemon["p1a Pokemon"] = token[5:]
+                    pokemon["hp p1a"] = matches[-1]
+                    pokemon["p1a mosse"] = []
+
+                if token.startswith("p2a"):
+                    if not team["p2a"].__contains__(token[5:]):
+                        team["p2a"].append(token[5:])
                     if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
                         df2.loc[len(df2)] = [token[5:], pokemon["p2a Pokemon"], pokemon["p1a Pokemon"],
                                              pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")][
                                                  "types"],
-                                             pokedex[pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
-                                             pokedex[pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’", "'")]["types"],
-                                             matches[-1],
+                                             pokedex[
+                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’",
+                                                                                                                  "'")][
+                                                 "types"],
+                                             pokedex[
+                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’",
+                                                                                                                  "'")][
+                                                 "types"],
                                              pokemon["hp p2a"],
-                                             pokemon["hp p1a"]]
+                                             pokemon["hp p1a"],
+                                             1]
+                        for pkmn in team["p2a"]:
+                            if pkmn == token[5:] or pkmn == pokemon["p2a Pokemon"]:
+                                continue
+                            df2.loc[len(df2)] = [pkmn, pokemon["p2a Pokemon"], pokemon["p1a Pokemon"],
+                                                 pokedex[pkmn.lower().strip().replace("\n", "").replace("’", "'")][
+                                                     "types"],
+                                                 pokedex[
+                                                     pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace(
+                                                         "’",
+                                                         "'")][
+                                                     "types"],
+                                                 pokedex[
+                                                     pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace(
+                                                         "’",
+                                                         "'")][
+                                                     "types"],
+                                                 pokemon["hp p2a"],
+                                                 pokemon["hp p1a"],
+                                                 0]
                     pokemon["p2a Pokemon"] = token[5:]
                     pokemon["hp p2a"] = matches[-1]
                     pokemon["p2a mosse"] = []
