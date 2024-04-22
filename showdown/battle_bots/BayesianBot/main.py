@@ -7,7 +7,7 @@ from showdown.battle import Battle
 from showdown.engine.damage_calculator import calculate_damage
 from showdown.engine.find_state_instructions import update_attacking_move
 from ..helpers import format_decision
-from .Probability import get_probability
+from .Probability import get_probability_Move, get_probability_Switch
 
 
 class BattleBot(Battle):
@@ -32,11 +32,17 @@ class BattleBot(Battle):
         best_probability = -1
         choice = None
         for move in moves:
-            probability = get_probability(state, move)
+            probability = get_probability_Move(state, move)
             print(probability)
 
             if probability > best_probability:
                 choice = move
                 best_probability = probability
+
+        for switch in switches:
+            print(switch)
+            #probability = get_probability_Switch(state, switch)
+            #print(probability)
+
 
         return format_decision(self, choice)
