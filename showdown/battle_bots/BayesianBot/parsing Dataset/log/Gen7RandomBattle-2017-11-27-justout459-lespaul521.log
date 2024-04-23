@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: JustOut459 vs. Lespaul521</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-665204242" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a> vs. <a href="http://pokemonshowdown.com/users/lespaul521" class="subtle" target="_blank">Lespaul521</a></h1>
+<script type="text/plain" class="battle-log-data">|j|JustOut459
+|j|Lespaul521
+|player|p1|JustOut459|170
+|teamsize|p1|6
+|player|p2|Lespaul521|101
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|9310,47429,26623,34391,63538,49981,34000,51317,40078,33732,46845,26037
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Metagross|Metagross, L73|100\/100
+|switch|p2a: Pheromosa|Pheromosa, L73|100\/100
+|turn|1
+|l|Lespaul521
+|player|p2|
+|choice|move agility mega|move uturn
+|
+|-mega|p1a: Metagross|Metagross|Metagrossite
+|detailschange|p1a: Metagross|Metagross-Mega, L73
+|move|p2a: Pheromosa|U-turn|p1a: Metagross
+|-damage|p1a: Metagross|76\/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JustOut459)
+|j|Lespaul521
+|inactive|Lespaul521 reconnected and has 145 seconds left.
+|player|p2|Lespaul521|101
+|inactive|Lespaul521 has 135 seconds left.
+|choice||switch 3
+|
+|switch|p2a: Slowbro|Slowbro, L76, M|100\/100
+|move|p1a: Metagross|Agility|p1a: Metagross
+|-boost|p1a: Metagross|spe|2
+|
+|upkeep
+|turn|2
+|inactive|JustOut459 has 135 seconds left.
+|choice|move meteormash|move scald mega
+|
+|-mega|p2a: Slowbro|Slowbro|Slowbronite
+|detailschange|p2a: Slowbro|Slowbro-Mega, L76, M
+|move|p1a: Metagross|Meteor Mash|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|86\/100
+|-boost|p1a: Metagross|atk|1
+|move|p2a: Slowbro|Scald|p1a: Metagross
+|-damage|p1a: Metagross|39\/100
+|
+|upkeep
+|turn|3
+|inactive|JustOut459 has 135 seconds left.
+|choice|move earthquake|move scald
+|
+|move|p1a: Metagross|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|59\/100
+|move|p2a: Slowbro|Scald|p1a: Metagross
+|-damage|p1a: Metagross|3\/100
+|
+|upkeep
+|turn|4
+|inactive|JustOut459 has 135 seconds left.
+|choice|switch 6|move slackoff
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|100\/100
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100\/100
+|
+|upkeep
+|turn|5
+|inactive|JustOut459 has 135 seconds left.
+|inactive|JustOut459 has 120 seconds left.
+|choice|move dracometeor|switch 6
+|
+|switch|p2a: Bastiodon|Bastiodon, L83, F|100\/100
+|-item|p2a: Bastiodon|Air Balloon
+|move|p1a: Kyurem|Draco Meteor|p2a: Bastiodon|[miss]
+|-miss|p1a: Kyurem|p2a: Bastiodon
+|
+|upkeep
+|turn|6
+|inactive|JustOut459 has 135 seconds left.
+|choice|switch 3|move stealthrock
+|
+|switch|p1a: Terrakion|Terrakion, L77|100\/100
+|move|p2a: Bastiodon|Stealth Rock|p1a: Terrakion
+|-sidestart|p1: JustOut459|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|choice|move swordsdance|switch 6
+|
+|switch|p2a: Slowbro|Slowbro-Mega, L76, M|100\/100
+|move|p1a: Terrakion|Swords Dance|p1a: Terrakion
+|-boost|p1a: Terrakion|atk|2
+|
+|upkeep
+|turn|8
+|inactive|JustOut459 has 135 seconds left.
+|inactive|JustOut459 has 120 seconds left.
+|inactive|JustOut459 has 105 seconds left.
+|choice|move earthquake|move scald
+|
+|move|p1a: Terrakion|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|68\/100
+|move|p2a: Slowbro|Scald|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|29\/100
+|
+|-heal|p1a: Terrakion|35\/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|JustOut459 has 135 seconds left.
+|inactive|JustOut459 has 120 seconds left.
+|choice|switch 4|move slackoff
+|
+|switch|p1a: Kingler|Kingler, L83, M|100\/100
+|-damage|p1a: Kingler|88\/100|[from] Stealth Rock
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100\/100
+|
+|upkeep
+|turn|10
+|inactive|JustOut459 has 120 seconds left.
+|inactive|JustOut459 has 105 seconds left.
+|choice|move swordsdance|move scald
+|
+|move|p1a: Kingler|Swords Dance|p1a: Kingler
+|-boost|p1a: Kingler|atk|2
+|move|p2a: Slowbro|Scald|p1a: Kingler
+|-resisted|p1a: Kingler
+|-damage|p1a: Kingler|58\/100
+|
+|upkeep
+|turn|11
+|choice|move rockslide|move scald
+|
+|move|p1a: Kingler|Rock Slide|p2a: Slowbro
+|-damage|p2a: Slowbro|54\/100
+|move|p2a: Slowbro|Scald|p1a: Kingler
+|-resisted|p1a: Kingler
+|-crit|p1a: Kingler
+|-damage|p1a: Kingler|15\/100
+|-status|p1a: Kingler|brn
+|
+|-damage|p1a: Kingler|8\/100 brn|[from] brn
+|upkeep
+|turn|12
+|choice|move rockslide|move slackoff
+|
+|move|p1a: Kingler|Rock Slide|p2a: Slowbro
+|-damage|p2a: Slowbro|31\/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|81\/100
+|
+|-damage|p1a: Kingler|2\/100 brn|[from] brn
+|upkeep
+|turn|13
+|choice|move rockslide|move slackoff
+|
+|move|p1a: Kingler|Rock Slide|p2a: Slowbro
+|-damage|p2a: Slowbro|55\/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100\/100
+|
+|-damage|p1a: Kingler|0 fnt|[from] brn
+|upkeep
+|faint|p1a: Kingler
+|inactive|JustOut459 has 120 seconds left.
+|inactive|JustOut459 has 105 seconds left.
+|choice|switch 2|
+|
+|switch|p1a: Conkeldurr|Conkeldurr, L76, M|100\/100
+|-damage|p1a: Conkeldurr|95\/100|[from] Stealth Rock
+|turn|14
+|inactive|JustOut459 has 105 seconds left.
+|inactive|JustOut459 has 90 seconds left.
+|choice|move bulkup|move psyshock
+|
+|move|p1a: Conkeldurr|Bulk Up|p1a: Conkeldurr
+|-boost|p1a: Conkeldurr|atk|1
+|-boost|p1a: Conkeldurr|def|1
+|move|p2a: Slowbro|Psyshock|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|48\/100
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|15
+|inactive|JustOut459 has 75 seconds left.
+|choice|move bulkup|move psyshock
+|
+|move|p1a: Conkeldurr|Bulk Up|p1a: Conkeldurr
+|-boost|p1a: Conkeldurr|atk|1
+|-boost|p1a: Conkeldurr|def|1
+|move|p2a: Slowbro|Psyshock|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|16\/100 brn
+|
+|-damage|p1a: Conkeldurr|10\/100 brn|[from] brn
+|upkeep
+|turn|16
+|choice|move drainpunch|move slackoff
+|
+|move|p1a: Conkeldurr|Drain Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|72\/100
+|-heal|p1a: Conkeldurr|24\/100 brn|[from] drain|[of] p2a: Slowbro
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100\/100
+|
+|-damage|p1a: Conkeldurr|18\/100 brn|[from] brn
+|upkeep
+|turn|17
+|choice|move drainpunch|move psyshock
+|
+|move|p1a: Conkeldurr|Drain Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|69\/100
+|-heal|p1a: Conkeldurr|32\/100 brn|[from] drain|[of] p2a: Slowbro
+|move|p2a: Slowbro|Psyshock|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-crit|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|inactive|JustOut459 has 75 seconds left.
+|choice|switch 5|
+|
+|switch|p1a: Fearow|Fearow, L83, M|100\/100
+|-damage|p1a: Fearow|76\/100|[from] Stealth Rock
+|turn|18
+|inactive|JustOut459 has 75 seconds left.
+|inactive|JustOut459 has 60 seconds left.
+|choice|move uturn|move slackoff
+|
+|move|p1a: Fearow|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|39\/100
+|choice|switch 6|
+|
+|switch|p1a: Metagross|Metagross-Mega, L73|3\/100
+|-damage|p1a: Metagross|0 fnt|[from] Stealth Rock
+|faint|p1a: Metagross
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|89\/100
+|
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|100\/100
+|-damage|p1a: Kyurem|76\/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Turboblaze
+|turn|19
+|inactive|JustOut459 has 75 seconds left.
+|choice|move dracometeor|switch 6
+|
+|switch|p2a: Bastiodon|Bastiodon, L83, F|100\/100
+|-item|p2a: Bastiodon|Air Balloon
+|move|p1a: Kyurem|Draco Meteor|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|75\/100
+|-enditem|p2a: Bastiodon|Air Balloon
+|-unboost|p1a: Kyurem|spa|2
+|
+|upkeep
+|turn|20
+|inactive|JustOut459 has 75 seconds left.
+|choice|switch 4|move roar
+|
+|switch|p1a: Terrakion|Terrakion, L77|35\/100
+|-damage|p1a: Terrakion|29\/100|[from] Stealth Rock
+|move|p2a: Bastiodon|Roar|p1a: Terrakion
+|drag|p1a: Fearow|Fearow, L83, M|76\/100
+|-damage|p1a: Fearow|51\/100|[from] Stealth Rock
+|
+|upkeep
+|turn|21
+|inactive|JustOut459 has 75 seconds left.
+|choice|move drillrun|switch 5
+|
+|switch|p2a: Vikavolt|Vikavolt, L81, M|100\/100
+|move|p1a: Fearow|Drill Run|p2a: Vikavolt
+|-immune|p2a: Vikavolt|[msg]|[from] ability: Levitate
+|
+|upkeep
+|turn|22
+|inactive|JustOut459 has 75 seconds left.
+|choice|switch 4|move bugbuzz
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|76\/100
+|-damage|p1a: Kyurem|51\/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Vikavolt|Bug Buzz|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|inactive|JustOut459 has 75 seconds left.
+|choice|switch 4|
+|
+|switch|p1a: Fearow|Fearow, L83, M|51\/100
+|-damage|p1a: Fearow|26\/100|[from] Stealth Rock
+|turn|23
+|choice|move drillpeck|switch 4
+|
+|switch|p2a: Arcanine|Arcanine, L77, M|100\/100
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Fearow|atk|1
+|move|p1a: Fearow|Drill Peck|p2a: Arcanine
+|-damage|p2a: Arcanine|64\/100
+|
+|upkeep
+|turn|24
+|inactive|JustOut459 has 75 seconds left.
+|choice|move drillpeck|move wildcharge
+|
+|move|p1a: Fearow|Drill Peck|p2a: Arcanine
+|-damage|p2a: Arcanine|30\/100
+|move|p2a: Arcanine|Wild Charge|p1a: Fearow
+|-supereffective|p1a: Fearow
+|-damage|p1a: Fearow|0 fnt
+|-damage|p2a: Arcanine|24\/100|[from] Recoil|[of] p1a: Fearow
+|-damage|p2a: Arcanine|14\/100|[from] item: Life Orb
+|faint|p1a: Fearow
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Terrakion|Terrakion, L77|29\/100
+|-damage|p1a: Terrakion|23\/100|[from] Stealth Rock
+|turn|25
+|choice|move earthquake|switch 6
+|
+|switch|p2a: Slowbro|Slowbro-Mega, L76, M|89\/100
+|move|p1a: Terrakion|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|72\/100
+|
+|-heal|p1a: Terrakion|29\/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|JustOut459 has 90 seconds left.
+|choice|move swordsdance|move scald
+|
+|move|p1a: Terrakion|Swords Dance|p1a: Terrakion
+|-boost|p1a: Terrakion|atk|2
+|move|p2a: Slowbro|Scald|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|
+|win|Lespaul521
+|l|JustOut459
+|raw|JustOut459's rating: 1445 &rarr; <strong>1424<\/strong><br \/>(-21 for losing)
+|raw|Lespaul521's rating: 1438 &rarr; <strong>1459<\/strong><br \/>(+21 for winning)
+|l|Lespaul521
+|j|Lespaul521</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>JustOut459 and Lespaul521 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between JustOut459 and Lespaul521!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Metagross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 sent out <strong>Pheromosa</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small>Lespaul521 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Metagross's Metagrossite is reacting to the Key Stone!</small><br>Metagross has Mega Evolved into Mega Metagross!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pheromosa used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Metagross lost 24% of its health!)</small><br></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by JustOut459)</div><div class="chat"><small>Lespaul521 joined</small></div><div class="chat message-error">Lespaul521 reconnected and has 145 seconds left.</div><div class="chat message-error">Lespaul521 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Pheromosa!<br></div><div class="battle-history">Lespaul521 sent out <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Metagross used <strong>Agility</strong>!<br></div><div class="battle-history"><small>Metagross's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Slowbro's Slowbronite is reacting to the Key Stone!</small><br>The opposing Slowbro has Mega Evolved into Mega Slowbro!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Metagross used <strong>Meteor Mash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost 14% of its health!)</small><br></div><div class="battle-history"><small>Metagross's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Metagross lost 37% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Metagross used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Metagross lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Metagross, come back!<br></div><div class="battle-history">Go! Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[Kyurem's Turboblaze]<br><small>Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Slowbro!<br></div><div class="battle-history">Lespaul521 sent out <strong>Bastiodon</strong>!<br></div><div class="battle-history"><small>The opposing Bastiodon floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>The opposing Bastiodon avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem, come back!<br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bastiodon used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Bastiodon!<br></div><div class="battle-history">Lespaul521 sent out Slowbro (<strong>Slowbro-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Terrakion's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat message-error">JustOut459 has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Terrakion lost 71% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Terrakion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Kingler</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Kingler!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat message-error">JustOut459 has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kingler used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Kingler's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Kingler lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kingler used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 46% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Kingler lost 43% of its health!)</small><br></div><div class="battle-history"><small>Kingler was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kingler was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kingler used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 23% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kingler was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kingler used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 26% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kingler was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingler fainted!<br></div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat message-error">JustOut459 has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Conkeldurr</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Conkeldurr!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">JustOut459 has 105 seconds left.</div><div class="chat message-error">JustOut459 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Conkeldurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Conkeldurr's Attack rose!</small><br></div><div class="battle-history"><small>Conkeldurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Conkeldurr lost 47% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Conkeldurr was burned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Conkeldurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Conkeldurr's Attack rose!</small><br></div><div class="battle-history"><small>Conkeldurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Conkeldurr lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Conkeldurr was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Conkeldurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost 28% of its health!)</small><br></div><div class="battle-history"><small>The opposing Slowbro had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Conkeldurr was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Conkeldurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Slowbro had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Conkeldurr lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Conkeldurr fainted!<br></div><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Fearow!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="chat message-error">JustOut459 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow, come back!<br></div><div class="battle-history">Go! Metagross (<strong>Metagross-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Metagross!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Metagross fainted!<br></div><div class="battle-history">The opposing Slowbro used <strong>Slack Off</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Kyurem!</small><br></div><div class="battle-history">[Kyurem's Turboblaze]<br><small>Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Slowbro!<br></div><div class="battle-history">Lespaul521 sent out <strong>Bastiodon</strong>!<br></div><div class="battle-history"><small>The opposing Bastiodon floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bastiodon lost 25% of its health!)</small><br></div><div class="battle-history"><small>The opposing Bastiodon's Air Balloon popped!</small><br></div><div class="battle-history"><small>Kyurem's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem, come back!<br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Terrakion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bastiodon used <strong>Roar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Fearow</strong> was dragged out!<br></div><div class="battle-history"><small>Pointed stones dug into Fearow!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Bastiodon!<br></div><div class="battle-history">Lespaul521 sent out <strong>Vikavolt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history">[The opposing Vikavolt's Levitate]<br><small>It doesn't affect the opposing Vikavolt...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow, come back!<br></div><div class="battle-history">Go! Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Kyurem!</small><br></div><div class="battle-history">[Kyurem's Turboblaze]<br><small>Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vikavolt used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(Kyurem lost 51% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyurem fainted!<br></div><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Fearow!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Vikavolt!<br></div><div class="battle-history">Lespaul521 sent out <strong>Arcanine</strong>!<br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history"><small>Fearow's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Drill Peck</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">JustOut459 has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Drill Peck</strong>!<br></div><div class="battle-history"><small>(The opposing Arcanine lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Fearow lost 26% of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="battle-history"><small>The opposing Arcanine lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Terrakion!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lespaul521 withdrew Arcanine!<br></div><div class="battle-history">Lespaul521 sent out Slowbro (<strong>Slowbro-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost 17% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Terrakion restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">JustOut459 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Terrakion's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Terrakion lost 29% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Lespaul521</strong> won the battle!<br></div><div class="chat"><small>JustOut459 left</small></div><div class="chat">JustOut459's rating: 1445 → <strong>1424</strong><br>(-21 for losing)</div><div class="chat">Lespaul521's rating: 1438 → <strong>1459</strong><br>(+21 for winning)</div><div class="chat"><small></small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

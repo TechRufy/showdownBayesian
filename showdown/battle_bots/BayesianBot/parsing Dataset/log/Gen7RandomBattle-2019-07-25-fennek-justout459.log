@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Fennek vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-950278083" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/fennek" class="subtle" target="_blank">Fennek</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Fennek
+|j|☆JustOut459
+|player|p1|Fennek|2|1677
+|player|p2|JustOut459|169|1609
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Klefki|Klefki, L82, F|228\/228
+|switch|p2a: Exploud|Exploud, L85, F|316\/316
+|turn|1
+|
+|switch|p2a: Abomasnow|Abomasnow, L87, F|298\/298
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Klefki|Spikes|p2a: Abomasnow
+|-sidestart|p2: JustOut459|Spikes
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Klefki|214\/228|[from] Hail
+|upkeep
+|turn|2
+|
+|detailschange|p2a: Abomasnow|Abomasnow-Mega, L87, F
+|-mega|p2a: Abomasnow|Abomasnow|Abomasite
+|move|p1a: Klefki|Toxic|p2a: Abomasnow
+|-status|p2a: Abomasnow|tox
+|move|p2a: Abomasnow|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|28\/228
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Klefki|14\/228|[from] Hail
+|-damage|p2a: Abomasnow|280\/298 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fennek)
+|
+|move|p1a: Klefki|Spikes|p2a: Abomasnow
+|-sidestart|p2: JustOut459|Spikes
+|move|p2a: Abomasnow|Wood Hammer|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|-damage|p2a: Abomasnow|275\/298 tox|[from] Recoil
+|faint|p1a: Klefki
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Abomasnow|239\/298 tox|[from] psn
+|upkeep
+|
+|switch|p1a: Throh|Throh, L89, M|358\/358
+|turn|4
+|
+|switch|p2a: Ho-Oh|Ho-Oh, L78|293\/293
+|move|p1a: Throh|Storm Throw|p2a: Ho-Oh
+|-resisted|p2a: Ho-Oh
+|-crit|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|237\/293
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Ho-Oh|219\/293|[from] Hail
+|-damage|p1a: Throh|336\/358|[from] Hail
+|-heal|p2a: Ho-Oh|237\/293|[from] item: Leftovers
+|-heal|p1a: Throh|358\/358|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|switch|p1a: Giratina|Giratina, L78|362\/362
+|-ability|p1a: Giratina|Pressure
+|move|p2a: Ho-Oh|Substitute|p2a: Ho-Oh
+|-start|p2a: Ho-Oh|Substitute
+|-damage|p2a: Ho-Oh|164\/293
+|
+|-weather|none
+|-heal|p2a: Ho-Oh|182\/293|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|move|p2a: Ho-Oh|Toxic|p1a: Giratina
+|-status|p1a: Giratina|tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Ho-Oh
+|-activate|p2a: Ho-Oh|move: Substitute|[damage]
+|
+|-heal|p2a: Ho-Oh|200\/293|[from] item: Leftovers
+|-damage|p1a: Giratina|340\/362 tox|[from] psn
+|upkeep
+|turn|7
+|
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|289\/362 tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Ho-Oh
+|-end|p2a: Ho-Oh|Substitute
+|
+|-heal|p2a: Ho-Oh|218\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|311\/362 tox|[from] item: Leftovers
+|-damage|p1a: Giratina|267\/362 tox|[from] psn
+|upkeep
+|turn|8
+|
+|move|p2a: Ho-Oh|Substitute|p2a: Ho-Oh
+|-start|p2a: Ho-Oh|Substitute
+|-damage|p2a: Ho-Oh|145\/293
+|move|p1a: Giratina|Dragon Tail|p2a: Ho-Oh
+|-activate|p2a: Ho-Oh|move: Substitute|[damage]
+|
+|-heal|p2a: Ho-Oh|163\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|289\/362 tox|[from] item: Leftovers
+|-damage|p1a: Giratina|223\/362 tox|[from] psn
+|upkeep
+|turn|9
+|
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|362\/362 slp|[silent]
+|move|p2a: Ho-Oh|Earthquake|p1a: Giratina
+|-damage|p1a: Giratina|296\/362 slp
+|
+|-heal|p2a: Ho-Oh|181\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|318\/362 slp|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|move|p2a: Ho-Oh|Earthquake|p1a: Giratina
+|-damage|p1a: Giratina|257\/362 slp
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Tail|p2a: Ho-Oh|[from]Sleep Talk
+|-end|p2a: Ho-Oh|Substitute
+|
+|-heal|p2a: Ho-Oh|199\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|279\/362 slp|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|switch|p2a: Abomasnow|Abomasnow-Mega, L87, F|239\/298 tox
+|-damage|p2a: Abomasnow|190\/298 tox|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|cant|p1a: Giratina|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Giratina|257\/362 slp|[from] Hail
+|-heal|p1a: Giratina|279\/362 slp|[from] item: Leftovers
+|-damage|p2a: Abomasnow|172\/298 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|JustOut459 has 120 seconds left.
+|
+|switch|p1a: Throh|Throh, L89, M|358\/358
+|move|p2a: Abomasnow|Earthquake|p1a: Throh
+|-damage|p1a: Throh|257\/358
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Throh|235\/358|[from] Hail
+|-heal|p1a: Throh|257\/358|[from] item: Leftovers
+|-damage|p2a: Abomasnow|136\/298 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|JustOut459 has 120 seconds left.
+|
+|switch|p2a: Ho-Oh|Ho-Oh, L78|293\/293
+|move|p1a: Throh|Storm Throw|p2a: Ho-Oh
+|-resisted|p2a: Ho-Oh
+|-crit|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|239\/293
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Ho-Oh|221\/293|[from] Hail
+|-damage|p1a: Throh|235\/358|[from] Hail
+|-heal|p2a: Ho-Oh|239\/293|[from] item: Leftovers
+|-heal|p1a: Throh|257\/358|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|switch|p1a: Giratina|Giratina, L78|279\/362 slp
+|-ability|p1a: Giratina|Pressure
+|move|p2a: Ho-Oh|Substitute|p2a: Ho-Oh
+|-start|p2a: Ho-Oh|Substitute
+|-damage|p2a: Ho-Oh|166\/293
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Ho-Oh|148\/293|[from] Hail
+|-damage|p1a: Giratina|257\/362 slp|[from] Hail
+|-heal|p2a: Ho-Oh|166\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|279\/362 slp|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|-curestatus|p1a: Giratina|slp|[msg]
+|move|p1a: Giratina|Dragon Pulse|p2a: Ho-Oh
+|-activate|p2a: Ho-Oh|move: Substitute|[damage]
+|move|p2a: Ho-Oh|Earthquake|p1a: Giratina
+|-damage|p1a: Giratina|210\/362
+|
+|-weather|none
+|-heal|p2a: Ho-Oh|184\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|232\/362|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|move|p2a: Ho-Oh|Earthquake|p1a: Giratina
+|-damage|p1a: Giratina|171\/362
+|move|p1a: Giratina|Dragon Pulse|p2a: Ho-Oh
+|-end|p2a: Ho-Oh|Substitute
+|
+|-heal|p2a: Ho-Oh|202\/293|[from] item: Leftovers
+|-heal|p1a: Giratina|193\/362|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|move|p2a: Ho-Oh|Earthquake|p1a: Giratina
+|-damage|p1a: Giratina|125\/362
+|move|p1a: Giratina|Dragon Tail|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|138\/293
+|drag|p2a: Abomasnow|Abomasnow-Mega, L87, F|136\/298 tox
+|-damage|p2a: Abomasnow|87\/298 tox|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Giratina|103\/362|[from] Hail
+|-heal|p1a: Giratina|125\/362|[from] item: Leftovers
+|-damage|p2a: Abomasnow|69\/298 tox|[from] psn
+|upkeep
+|turn|18
+|
+|switch|p1a: Throh|Throh, L89, M|257\/358
+|switch|p2a: Hawlucha|Hawlucha, L80, F|256\/256
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hawlucha|240\/256|[from] Hail
+|-damage|p1a: Throh|235\/358|[from] Hail
+|-heal|p1a: Throh|257\/358|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|move|p2a: Hawlucha|Substitute|p2a: Hawlucha
+|-start|p2a: Hawlucha|Substitute
+|-damage|p2a: Hawlucha|176\/256
+|move|p1a: Throh|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-end|p2a: Hawlucha|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hawlucha|160\/256|[from] Hail
+|-damage|p1a: Throh|235\/358|[from] Hail
+|-heal|p1a: Throh|257\/358|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p2a: Hawlucha|Roost|p2a: Hawlucha
+|-heal|p2a: Hawlucha|256\/256
+|-singleturn|p2a: Hawlucha|move: Roost
+|move|p1a: Throh|Ice Punch|p2a: Hawlucha
+|-damage|p2a: Hawlucha|189\/256
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hawlucha|173\/256|[from] Hail
+|-damage|p1a: Throh|235\/358|[from] Hail
+|-heal|p1a: Throh|257\/358|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|move|p2a: Hawlucha|Roost|p2a: Hawlucha
+|-heal|p2a: Hawlucha|256\/256
+|-singleturn|p2a: Hawlucha|move: Roost
+|move|p1a: Throh|Ice Punch|p2a: Hawlucha
+|-damage|p2a: Hawlucha|186\/256
+|
+|-weather|none
+|-heal|p1a: Throh|279\/358|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|JustOut459 has 120 seconds left.
+|inactive|JustOut459 has 90 seconds left.
+|
+|move|p2a: Hawlucha|Substitute|p2a: Hawlucha
+|-start|p2a: Hawlucha|Substitute
+|-damage|p2a: Hawlucha|122\/256
+|-enditem|p2a: Hawlucha|Sitrus Berry|[eat]
+|-heal|p2a: Hawlucha|186\/256|[from] item: Sitrus Berry
+|move|p1a: Throh|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-end|p2a: Hawlucha|Substitute
+|
+|-heal|p1a: Throh|301\/358|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|move|p2a: Hawlucha|Acrobatics|p1a: Throh
+|-supereffective|p1a: Throh
+|-damage|p1a: Throh|115\/358
+|move|p1a: Throh|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|40\/256
+|
+|-heal|p1a: Throh|137\/358|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p2a: Hawlucha|Acrobatics|p1a: Throh
+|-supereffective|p1a: Throh
+|-damage|p1a: Throh|0 fnt
+|faint|p1a: Throh
+|
+|upkeep
+|
+|switch|p1a: Claydol|Claydol, L88|249\/249
+|turn|25
+|
+|move|p2a: Hawlucha|Roost|p2a: Hawlucha
+|-heal|p2a: Hawlucha|168\/256
+|-singleturn|p2a: Hawlucha|move: Roost
+|move|p1a: Claydol|Stealth Rock|p2a: Hawlucha
+|-sidestart|p2: JustOut459|move: Stealth Rock
+|
+|upkeep
+|turn|26
+|
+|move|p2a: Hawlucha|Substitute|p2a: Hawlucha
+|-start|p2a: Hawlucha|Substitute
+|-damage|p2a: Hawlucha|104\/256
+|move|p1a: Claydol|Psychic|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-end|p2a: Hawlucha|Substitute
+|
+|upkeep
+|turn|27
+|
+|move|p2a: Hawlucha|Acrobatics|p1a: Claydol
+|-damage|p1a: Claydol|164\/249
+|move|p1a: Claydol|Psychic|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-heal|p1a: Claydol|179\/249|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364\/364
+|-damage|p2a: Vaporeon|304\/364|[from] Spikes
+|-damage|p2a: Vaporeon|259\/364|[from] Stealth Rock
+|turn|28
+|inactive|Fennek has 120 seconds left.
+|
+|move|p1a: Claydol|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|184\/364
+|move|p2a: Vaporeon|Ice Beam|p1a: Claydol
+|-supereffective|p1a: Claydol
+|-damage|p1a: Claydol|61\/249
+|
+|-heal|p1a: Claydol|76\/249|[from] item: Leftovers
+|-heal|p2a: Vaporeon|206\/364|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Claydol|Psychic|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p1a: Claydol|91\/249|[from] item: Leftovers
+|-heal|p2a: Vaporeon|228\/364|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|move|p1a: Claydol|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|152\/364
+|move|p2a: Vaporeon|Ice Beam|p1a: Claydol
+|-supereffective|p1a: Claydol
+|-damage|p1a: Claydol|0 fnt
+|faint|p1a: Claydol
+|
+|-heal|p2a: Vaporeon|174\/364|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Pikachu|Pikachu-Partner, L90, M|209\/209
+|turn|31
+|inactive|JustOut459 has 120 seconds left.
+|
+|switch|p2a: Galvantula|Galvantula, L84, F|255\/255
+|-damage|p2a: Galvantula|213\/255|[from] Spikes
+|-damage|p2a: Galvantula|150\/255|[from] Stealth Rock
+|move|p1a: Pikachu|Volt Switch|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|85\/255
+|
+|switch|p1a: Emboar|Emboar, L85, M|326\/326
+|
+|upkeep
+|turn|32
+|inactive|JustOut459 has 120 seconds left.
+|inactive|JustOut459 has 90 seconds left.
+|
+|move|p2a: Galvantula|Thunder|p1a: Emboar
+|-damage|p1a: Emboar|182\/326
+|move|p1a: Emboar|Fire Blast|p2a: Galvantula
+|-supereffective|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|upkeep
+|inactive|JustOut459 has 60 seconds left.
+|
+|switch|p2a: Vaporeon|Vaporeon, L86, F|174\/364
+|-damage|p2a: Vaporeon|114\/364|[from] Spikes
+|-damage|p2a: Vaporeon|69\/364|[from] Stealth Rock
+|turn|33
+|
+|move|p1a: Emboar|Sucker Punch|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|inactive|JustOut459 has 60 seconds left.
+|inactive|JustOut459 has 30 seconds left.
+|
+|switch|p2a: Exploud|Exploud, L85, F|316\/316
+|-damage|p2a: Exploud|277\/316|[from] Stealth Rock
+|-damage|p2a: Exploud|225\/316|[from] Spikes
+|turn|34
+|inactive|JustOut459 has 30 seconds left.
+|
+|move|p2a: Exploud|Boomburst|p1a: Emboar
+|-crit|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|upkeep
+|
+|switch|p1a: Pikachu|Pikachu-Partner, L90, M|209\/209
+|turn|35
+|inactive|JustOut459 has 30 seconds left.
+|inactive|JustOut459 has 20 seconds left.
+|inactive|JustOut459 has 15 seconds left.
+|inactive|JustOut459 has 10 seconds left.
+|inactive|JustOut459 has 5 seconds left.
+|
+|move|p1a: Pikachu|Volt Switch|p2a: Exploud
+|-damage|p2a: Exploud|104\/316
+|inactive|JustOut459 has 15 seconds left this turn.
+|
+|switch|p1a: Giratina|Giratina, L78|125\/362
+|-ability|p1a: Giratina|Pressure
+|move|p2a: Exploud|Boomburst|p1a: Giratina
+|-damage|p1a: Giratina|0 fnt
+|faint|p1a: Giratina
+|
+|upkeep
+|inactive|JustOut459 has 25 seconds left this turn.
+|
+|switch|p1a: Pikachu|Pikachu-Partner, L90, M|209\/209
+|turn|36
+|inactive|JustOut459 has 30 seconds left.
+|
+|move|p1a: Pikachu|Volt Switch|p2a: Exploud
+|-damage|p2a: Exploud|0 fnt
+|faint|p2a: Exploud
+|
+|upkeep
+|
+|switch|p2a: Abomasnow|Abomasnow-Mega, L87, F|69\/298 tox
+|-damage|p2a: Abomasnow|0 fnt|[from] Stealth Rock
+|faint|p2a: Abomasnow
+|
+|switch|p2a: Ho-Oh|Ho-Oh, L78|235\/293
+|-damage|p2a: Ho-Oh|89\/293|[from] Stealth Rock
+|turn|37
+|
+|move|p1a: Pikachu|Volt Tackle|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|-damage|p1a: Pikachu|180\/209|[from] Recoil
+|faint|p2a: Ho-Oh
+|
+|win|Fennek
+|l|☆JustOut459
+|raw|Fennek's rating: 1677 &rarr; <strong>1693<\/strong><br \/>(+16 for winning)
+|raw|JustOut459's rating: 1609 &rarr; <strong>1593<\/strong><br \/>(-16 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Fennek and ☆JustOut459 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Fennek and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exploud, come back!<br></div><div class="battle-history">Go! <strong>Abomasnow</strong>!<br></div><div class="battle-history">[Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Klefki is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Abomasnow's Abomasite is reacting to the Key Stone!</small><br>Abomasnow has Mega Evolved into Mega Abomasnow!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Abomasnow was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Klefki lost <abbr title="−186/228">81.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Klefki is buffeted by the hail!</small><br></div><div class="battle-history"><small>Abomasnow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fennek)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Klefki lost <abbr title="−14/228">6.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Abomasnow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out <strong>Throh</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow, come back!<br></div><div class="battle-history">Go! <strong>Ho-Oh</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Storm Throw</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−56/293">19.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Ho-Oh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Throh!<br></div><div class="battle-history">Fennek sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Ho-Oh put in a substitute!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Giratina was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Ho-Oh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Sacred Fire</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−51/362">14.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>Ho-Oh's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Ho-Oh put in a substitute!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Ho-Oh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Giratina slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−66/362">18.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−61/362">16.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>Ho-Oh's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh, come back!<br></div><div class="battle-history">Go! Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="battle-history"><small>Abomasnow was hurt by the spikes!</small><br></div><div class="battle-history">[Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Giratina is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Abomasnow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Giratina!<br></div><div class="battle-history">Fennek sent out <strong>Throh</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Throh lost <abbr title="−101/358">28.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Abomasnow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow, come back!<br></div><div class="battle-history">Go! <strong>Ho-Oh</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Storm Throw</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−54/293">18.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Ho-Oh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Throh!<br></div><div class="battle-history">Fennek sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Ho-Oh put in a substitute!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Ho-Oh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Giratina is buffeted by the hail!</small><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Giratina woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Ho-Oh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−69/362">19.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−61/362">16.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>Ho-Oh's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−68/362">18.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−64/293">21.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow (<strong>Abomasnow-Mega</strong>) was dragged out!<br></div><div class="battle-history"><small>Abomasnow was hurt by the spikes!</small><br></div><div class="battle-history">[Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Giratina is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Abomasnow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Giratina!<br></div><div class="battle-history">Fennek sent out <strong>Throh</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow, come back!<br></div><div class="battle-history">Go! <strong>Hawlucha</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Hawlucha is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Hawlucha's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Hawlucha is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Hawlucha had its HP restored.</small><br></div><div class="battle-history"><small>(Hawlucha loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−67/256">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Hawlucha is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Hawlucha had its HP restored.</small><br></div><div class="battle-history"><small>(Hawlucha loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−70/256">27.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat message-error">JustOut459 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Hawlucha ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Hawlucha restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Hawlucha's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Throh lost <abbr title="−186/358">52.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−146/256">57.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Throh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Throh lost <abbr title="−137/358">38.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Throh fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out <strong>Claydol</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Hawlucha had its HP restored.</small><br></div><div class="battle-history"><small>(Hawlucha loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Hawlucha's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Claydol lost <abbr title="−85/249">34.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hawlucha lost <abbr title="−104/256">40.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hawlucha fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Claydol restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="battle-history"><small>Vaporeon was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Vaporeon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat message-error">Fennek has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−75/364">20.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Claydol lost <abbr title="−118/249">47.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Claydol restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Vaporeon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>Vaporeon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Claydol restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−76/364">20.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Claydol lost <abbr title="−91/249">36.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Claydol fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out Pikachu (<strong>Pikachu-Partner</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon, come back!<br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="battle-history"><small>Galvantula was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Galvantula!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−65/255">25.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Pikachu!<br></div><div class="battle-history">Fennek sent out <strong>Emboar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat message-error">JustOut459 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>(The opposing Emboar lost <abbr title="−144/326">44.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emboar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−85/255">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula fainted!<br></div><div class="chat message-error">JustOut459 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="battle-history"><small>Vaporeon was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Vaporeon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emboar used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−69/364">19.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon fainted!<br></div><div class="chat message-error">JustOut459 has 60 seconds left.</div><div class="chat message-error">JustOut459 has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Exploud!</small><br></div><div class="battle-history"><small>Exploud was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat message-error">JustOut459 has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Emboar lost <abbr title="−182/326">55.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emboar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out Pikachu (<strong>Pikachu-Partner</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="chat message-error">JustOut459 has 30 seconds left.</div><div class="chat message-error">JustOut459 has 20 seconds left.</div><div class="chat message-error">JustOut459 has 15 seconds left.</div><div class="chat message-error">JustOut459 has 10 seconds left.</div><div class="chat message-error">JustOut459 has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−121/316">38.3%</abbr> of its health!)</small><br></div><div class="chat message-error">JustOut459 has 15 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek withdrew Pikachu!<br></div><div class="battle-history">Fennek sent out <strong>Giratina</strong>!<br></div><div class="battle-history">[The opposing Giratina's Pressure]<br><small>The opposing Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−125/362">34.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina fainted!<br></div><div class="chat message-error">JustOut459 has 25 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Fennek sent out Pikachu (<strong>Pikachu-Partner</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat message-error">JustOut459 has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−104/316">32.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Abomasnow!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Abomasnow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ho-Oh</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ho-Oh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Tackle</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Ho-Oh lost <abbr title="−89/293">30.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Pikachu was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ho-Oh fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Fennek</strong> won the battle!<br></div><div class="chat"><small>☆JustOut459 left</small></div><div class="chat">Fennek's rating: 1677 → <strong>1693</strong><br>(+16 for winning)</div><div class="chat">JustOut459's rating: 1609 → <strong>1593</strong><br>(-16 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

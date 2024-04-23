@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: genshinx vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2104346257" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/genshinx" class="subtle" target="_blank">genshinx</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|‽genshinx
+|j|☆JustOut459
+|t:|1713231265
+|gametype|singles
+|player|p1|genshinx|nessa|
+|player|p2|JustOut459|#rbtt7teamogerponf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713231265
+|start
+|switch|p1a: Weezing|Weezing, L87, M|255\/255
+|switch|p2a: Sunflora|Sunflora, F|312\/312
+|turn|1
+|
+|t:|1713231306
+|switch|p2a: Ariados|Ariados, L89, F|269\/269
+|move|p1a: Weezing|Sludge Bomb|p2a: Ariados
+|-resisted|p2a: Ariados
+|-damage|p2a: Ariados|220\/269
+|
+|-heal|p2a: Ariados|236\/269|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1713231313
+|move|p1a: Weezing|Will-O-Wisp|p2a: Ariados|[miss]
+|-miss|p1a: Weezing|p2a: Ariados
+|move|p2a: Ariados|Sticky Web|p1a: Weezing
+|-sidestart|p1: genshinx|move: Sticky Web
+|
+|-heal|p2a: Ariados|252\/269|[from] item: Black Sludge
+|upkeep
+|turn|3
+|j| Anghult
+|
+|t:|1713231322
+|switch|p2a: Ninetales|Ninetales, L85, M|263\/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Weezing|Fire Blast|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|213\/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|229\/263|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713231329
+|switch|p1a: Mantine|Mantine, L87, M|290\/290
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|245\/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713231350
+|switch|p2a: Muk|Muk, L87, M|324\/324
+|move|p1a: Mantine|Defog|p2a: Muk
+|-unboost|p2a: Muk|evasion|1
+|-sideend|p1: genshinx|Sticky Web|[from] move: Defog|[of] p1a: Mantine
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1713231363
+|switch|p1a: Weezing|Weezing, L87, M|255\/255
+|switch|p2a: Latios|Latios, L79, M|256\/256
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1713231380
+|switch|p1a: Aegislash|Aegislash, L78, M|222\/222
+|detailschange|p2a: Latios|Latios-Mega, L79, M
+|-mega|p2a: Latios|Latios|Latiosite
+|move|p2a: Latios|Psyshock|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|183\/222
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1713231401
+|switch|p2a: Ninetales|Ninetales, L85, M|245\/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|switch|p1a: Cinccino|Cinccino, L84, F|263\/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|261\/263|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1713231414
+|switch|p2a: Muk|Muk, L87, M|324\/324
+|move|p1a: Cinccino|Rock Blast|p2a: Muk
+|-damage|p2a: Muk|295\/324
+|-damage|p2a: Muk|265\/324
+|-damage|p2a: Muk|238\/324
+|-damage|p2a: Muk|208\/324
+|-damage|p2a: Muk|179\/324
+|-hitcount|p2a: Muk|5
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Muk|199\/324|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1713231424
+|switch|p1a: Weezing|Weezing, L87, M|255\/255
+|move|p2a: Muk|Fire Punch|p1a: Weezing
+|-damage|p1a: Weezing|186\/255
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Weezing|201\/255|[from] item: Black Sludge
+|-heal|p2a: Muk|219\/324|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1713231431
+|switch|p2a: Ninetales|Ninetales, L85, M|261\/263
+|move|p1a: Weezing|Sludge Bomb|p2a: Ninetales
+|-damage|p2a: Ninetales|185\/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|201\/263|[from] item: Leftovers
+|-heal|p1a: Weezing|216\/255|[from] item: Black Sludge
+|upkeep
+|turn|12
+|l| Anghult
+|
+|t:|1713231448
+|switch|p1a: Mantine|Mantine, L87, M|290\/290
+|move|p2a: Ninetales|Fire Blast|p1a: Mantine
+|-resisted|p1a: Mantine
+|-damage|p1a: Mantine|240\/290
+|-status|p1a: Mantine|brn
+|
+|-weather|none
+|-heal|p2a: Ninetales|217\/263|[from] item: Leftovers
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1713231461
+|switch|p2a: Arceus|Arceus-Dragon, L72|292\/292
+|move|p1a: Mantine|Scald|p2a: Arceus
+|-resisted|p2a: Arceus
+|-damage|p2a: Arceus|257\/292
+|
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1713231480
+|switch|p2a: Muk|Muk, L87, M|219\/324
+|switch|p1a: Golurk|Golurk, L88|300\/300
+|
+|-heal|p2a: Muk|239\/324|[from] item: Black Sludge
+|upkeep
+|turn|15
+|j| icypenguin604
+|
+|t:|1713231491
+|switch|p2a: Sunflora|Sunflora, F|312\/312
+|move|p1a: Golurk|Earthquake|p2a: Sunflora
+|-resisted|p2a: Sunflora
+|-damage|p2a: Sunflora|177\/312
+|
+|upkeep
+|turn|16
+|
+|t:|1713231496
+|switch|p1a: Weezing|Weezing, L87, M|216\/255
+|move|p2a: Sunflora|Leaf Storm|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|33\/255
+|-unboost|p2a: Sunflora|spa|2
+|
+|-heal|p1a: Weezing|48\/255|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1713231511
+|switch|p2a: Ariados|Ariados, L89, F|252\/269
+|move|p1a: Weezing|Pain Split|p2a: Ariados
+|-sethp|p2a: Ariados|150\/269|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|150\/255|[from] move: Pain Split
+|
+|-heal|p1a: Weezing|165\/255|[from] item: Black Sludge
+|-heal|p2a: Ariados|166\/269|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|t:|1713231519
+|switch|p2a: Ninetales|Ninetales, L85, M|217\/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Weezing|Fire Blast|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|164\/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|180\/263|[from] item: Leftovers
+|-heal|p1a: Weezing|180\/255|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|t:|1713231531
+|switch|p2a: Sunflora|Sunflora, F|177\/312
+|switch|p1a: Mantine|Mantine, L87, M|240\/290 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1713231546
+|switch|p1a: Aegislash|Aegislash, L78, M|183\/222
+|move|p2a: Sunflora|Leaf Storm|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|75\/222
+|-unboost|p2a: Sunflora|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1713231568
+|switch|p2a: Muk|Muk, L87, M|239\/324
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Iron Head|p2a: Muk
+|-damage|p2a: Muk|87\/324
+|-damage|p1a: Aegislash|53\/222|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Muk|107\/324|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1713231589
+|switch|p1a: Golurk|Golurk, L88|300\/300
+|move|p2a: Muk|Fire Punch|p1a: Golurk
+|-damage|p1a: Golurk|214\/300
+|
+|-weather|none
+|-heal|p2a: Muk|127\/324|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1713231601
+|move|p1a: Golurk|Stone Edge|p2a: Muk
+|-crit|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1713231620
+|switch|p2a: Arceus|Arceus-Dragon, L72|257\/292
+|turn|24
+|
+|t:|1713231644
+|move|p2a: Arceus|Judgment|p1a: Golurk
+|-damage|p1a: Golurk|97\/300
+|move|p1a: Golurk|Stone Edge|p2a: Arceus
+|-damage|p2a: Arceus|137\/292
+|
+|upkeep
+|turn|25
+|
+|t:|1713231690
+|switch|p1a: Shuckle|Shuckle, L86, M|175\/175
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|283\/292
+|
+|upkeep
+|turn|26
+|
+|t:|1713231704
+|switch|p2a: Ariados|Ariados, L89, F|166\/269
+|switch|p1a: Weezing|Weezing, L87, M|180\/255
+|
+|-heal|p1a: Weezing|195\/255|[from] item: Black Sludge
+|-heal|p2a: Ariados|182\/269|[from] item: Black Sludge
+|upkeep
+|turn|27
+|
+|t:|1713231713
+|switch|p2a: Arceus|Arceus-Dragon, L72|283\/292
+|move|p1a: Weezing|Sludge Bomb|p2a: Arceus
+|-damage|p2a: Arceus|192\/292
+|
+|-heal|p1a: Weezing|210\/255|[from] item: Black Sludge
+|upkeep
+|turn|28
+|
+|t:|1713231717
+|move|p2a: Arceus|Judgment|p1a: Weezing
+|-damage|p1a: Weezing|86\/255
+|move|p1a: Weezing|Sludge Bomb|p2a: Arceus
+|-damage|p2a: Arceus|107\/292
+|
+|-heal|p1a: Weezing|101\/255|[from] item: Black Sludge
+|upkeep
+|turn|29
+|
+|t:|1713231722
+|switch|p1a: Shuckle|Shuckle, L86, M|175\/175
+|move|p2a: Arceus|Judgment|p1a: Shuckle
+|-damage|p1a: Shuckle|123\/175
+|
+|upkeep
+|turn|30
+|
+|t:|1713231733
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|253\/292
+|move|p1a: Shuckle|Toxic|p2a: Arceus
+|-status|p2a: Arceus|tox
+|
+|-damage|p2a: Arceus|235\/292 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1713231745
+|switch|p1a: Aegislash|Aegislash, L78, M|53\/222
+|move|p2a: Arceus|Judgment|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|12\/222
+|
+|-damage|p2a: Arceus|199\/292 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1713231752
+|switch|p1a: Mantine|Mantine, L87, M|240\/290 brn
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|292\/292 tox
+|
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p2a: Arceus|238\/292 tox|[from] psn
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1713231759
+|switch|p2a: Latios|Latios-Mega, L79, M|256\/256
+|move|p1a: Mantine|Air Slash|p2a: Latios
+|-damage|p2a: Latios|195\/256
+|
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1713231774
+|switch|p1a: Aegislash|Aegislash, L78, M|12\/222
+|move|p2a: Latios|Draco Meteor|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Aegislash
+|
+|upkeep
+|
+|t:|1713231779
+|switch|p1a: Cinccino|Cinccino, L84, F|263\/263
+|turn|35
+|
+|t:|1713231803
+|switch|p2a: Ariados|Ariados, L89, F|182\/269
+|move|p1a: Cinccino|Tail Slap|p2a: Ariados
+|-damage|p2a: Ariados|136\/269
+|-damage|p2a: Ariados|93\/269
+|-damage|p2a: Ariados|51\/269
+|-damage|p2a: Ariados|3\/269
+|-damage|p2a: Ariados|0 fnt
+|faint|p2a: Ariados
+|-hitcount|p2: Ariados|5
+|
+|upkeep
+|
+|t:|1713231841
+|switch|p2a: Arceus|Arceus-Dragon, L72|238\/292 tox
+|turn|36
+|
+|t:|1713231845
+|switch|p1a: Weezing|Weezing, L87, M|101\/255
+|move|p2a: Arceus|Judgment|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|
+|-damage|p2a: Arceus|220\/292 tox|[from] psn
+|upkeep
+|
+|t:|1713231847
+|switch|p1a: Shuckle|Shuckle, L86, M|123\/175
+|turn|37
+|j| TNTDestroyer
+|j| COLFOFLOW
+|c| TNTDestroyer|aw shucks!
+|
+|t:|1713231870
+|move|p2a: Arceus|Judgment|p1a: Shuckle
+|-damage|p1a: Shuckle|71\/175
+|move|p1a: Shuckle|Sticky Web|p2a: Arceus
+|-sidestart|p2: JustOut459|move: Sticky Web
+|
+|-damage|p2a: Arceus|184\/292 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1713231876
+|move|p2a: Arceus|Judgment|p1a: Shuckle
+|-damage|p1a: Shuckle|17\/175
+|move|p1a: Shuckle|Encore|p2a: Arceus
+|-start|p2a: Arceus|Encore
+|
+|-damage|p2a: Arceus|130\/292 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1713231887
+|switch|p2a: Ninetales|Ninetales, L85, M|180\/263
+|-activate|p2a: Ninetales|move: Sticky Web
+|-unboost|p2a: Ninetales|spe|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|switch|p1a: Mantine|Mantine, L87, M|240\/290 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-heal|p2a: Ninetales|196\/263|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1713231908
+|switch|p2a: Latios|Latios-Mega, L79, M|195\/256
+|move|p1a: Mantine|Scald|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|180\/256
+|-status|p2a: Latios|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p2a: Latios|164\/256 brn|[from] brn
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1713231915
+|switch|p1a: Shuckle|Shuckle, L86, M|17\/175
+|move|p2a: Latios|Roost|p2a: Latios
+|-heal|p2a: Latios|256\/256 brn
+|-singleturn|p2a: Latios|move: Roost
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Latios|240\/256 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1713231924
+|switch|p2a: Arceus|Arceus-Dragon, L72|130\/292 tox
+|-activate|p2a: Arceus|move: Sticky Web
+|-unboost|p2a: Arceus|spe|1
+|move|p1a: Shuckle|Knock Off|p2a: Arceus
+|-damage|p2a: Arceus|117\/292 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Arceus|99\/292 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1713231934
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|245\/292 tox
+|move|p1a: Shuckle|Encore|p2a: Arceus
+|-start|p2a: Arceus|Encore
+|
+|-weather|none
+|-damage|p2a: Arceus|209\/292 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1713231939
+|switch|p2a: Latios|Latios-Mega, L79, M|240\/256 brn
+|move|p1a: Shuckle|Knock Off|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|212\/256 brn
+|
+|-damage|p2a: Latios|196\/256 brn|[from] brn
+|upkeep
+|turn|45
+|j| ioctal
+|
+|t:|1713231953
+|switch|p1a: Mantine|Mantine, L87, M|240\/290 brn
+|move|p2a: Latios|Roost|p2a: Latios
+|-heal|p2a: Latios|256\/256 brn
+|-singleturn|p2a: Latios|move: Roost
+|
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p2a: Latios|240\/256 brn|[from] brn
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1713231960
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Mantine|Air Slash|p2a: Latios
+|-damage|p2a: Latios|200\/256 brn
+|
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-damage|p2a: Latios|184\/256 brn|[from] brn
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1713231970
+|switch|p1a: Shuckle|Shuckle, L86, M|17\/175
+|move|p2a: Latios|Roost|p2a: Latios
+|-heal|p2a: Latios|256\/256 brn
+|-singleturn|p2a: Latios|move: Roost
+|
+|-damage|p2a: Latios|240\/256 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1713231980
+|move|p2a: Latios|Psyshock|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|
+|-damage|p2a: Latios|224\/256 brn|[from] brn
+|upkeep
+|
+|t:|1713231985
+|switch|p1a: Cinccino|Cinccino, L84, F|263\/263
+|turn|49
+|
+|t:|1713232016
+|move|p1a: Cinccino|Tail Slap|p2a: Latios
+|-damage|p2a: Latios|187\/256 brn
+|-damage|p2a: Latios|151\/256 brn
+|-damage|p2a: Latios|117\/256 brn
+|-damage|p2a: Latios|81\/256 brn
+|-damage|p2a: Latios|44\/256 brn
+|-hitcount|p2a: Latios|5
+|move|p2a: Latios|Roost|p2a: Latios
+|-heal|p2a: Latios|172\/256 brn
+|-singleturn|p2a: Latios|move: Roost
+|
+|-damage|p2a: Latios|156\/256 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1713232058
+|switch|p2a: Sunflora|Sunflora, F|177\/312
+|-activate|p2a: Sunflora|move: Sticky Web
+|-unboost|p2a: Sunflora|spe|1
+|move|p1a: Cinccino|Tail Slap|p2a: Sunflora
+|-damage|p2a: Sunflora|128\/312
+|-damage|p2a: Sunflora|82\/312
+|-damage|p2a: Sunflora|34\/312
+|-damage|p2a: Sunflora|0 fnt
+|faint|p2a: Sunflora
+|-hitcount|p2: Sunflora|4
+|
+|upkeep
+|
+|t:|1713232067
+|switch|p2a: Arceus|Arceus-Dragon, L72|209\/292 tox
+|-activate|p2a: Arceus|move: Sticky Web
+|-unboost|p2a: Arceus|spe|1
+|turn|51
+|
+|t:|1713232073
+|move|p1a: Cinccino|Tail Slap|p2a: Arceus
+|-damage|p2a: Arceus|169\/292 tox
+|-damage|p2a: Arceus|136\/292 tox
+|-damage|p2a: Arceus|99\/292 tox
+|-damage|p2a: Arceus|63\/292 tox
+|-damage|p2a: Arceus|29\/292 tox
+|-hitcount|p2a: Arceus|5
+|move|p2a: Arceus|Judgment|p1a: Cinccino
+|-damage|p1a: Cinccino|115\/263
+|
+|-damage|p2a: Arceus|11\/292 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1713232077
+|move|p1a: Cinccino|Tail Slap|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|-hitcount|p2: Arceus|1
+|
+|upkeep
+|
+|t:|1713232111
+|switch|p2a: Latios|Latios-Mega, L79, M|156\/256 brn
+|turn|53
+|
+|t:|1713232114
+|move|p1a: Cinccino|Tail Slap|p2a: Latios|[miss]
+|-miss|p1a: Cinccino|p2a: Latios
+|move|p2a: Latios|Draco Meteor|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Cinccino
+|
+|-damage|p2a: Latios|140\/256 brn|[from] brn
+|upkeep
+|
+|t:|1713232117
+|switch|p1a: Golurk|Golurk, L88|97\/300
+|turn|54
+|c| icypenguin604|:(
+|
+|t:|1713232128
+|switch|p2a: Ninetales|Ninetales, L85, M|196\/263
+|-activate|p2a: Ninetales|move: Sticky Web
+|-unboost|p2a: Ninetales|spe|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Golurk|Ice Punch|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|138\/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|154\/263|[from] item: Leftovers
+|upkeep
+|turn|55
+|j| dcmldcml
+|
+|t:|1713232140
+|switch|p1a: Mantine|Mantine, L87, M|240\/290 brn
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mantine|258\/290 brn|[from] item: Leftovers
+|-heal|p2a: Ninetales|170\/263|[from] item: Leftovers
+|-damage|p1a: Mantine|240\/290 brn|[from] brn
+|upkeep
+|turn|56
+|-message|genshinx forfeited.
+|
+|win|JustOut459
+|n|‽genshinx|genshinx
+|n|☆JustOut459|justout459
+|n| icypenguin604|icypenguin604
+|n| TNTDestroyer|tntdestroyer
+|n| COLFOFLOW|colfoflow
+|n| ioctal|ioctal
+|n| dcmldcml|dcmldcml
+|l| icypenguin604
+|l| dcmldcml
+|l| COLFOFLOW
+|l|☆JustOut459
+|player|p2|
+|l| TNTDestroyer
+|l| ioctal
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>‽genshinx and ☆JustOut459 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between genshinx and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora, come back!<br></div><div class="battle-history">Go! <strong>Ariados</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ariados lost <abbr title="−49/269">18.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ariados restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Ariados avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ariados used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ariados restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat"><small> Anghult joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Ariados, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ninetales lost <abbr title="−50/263">19.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Weezing!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Ninetales's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales, come back!<br></div><div class="battle-history">Go! <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Muk's evasiveness fell!</small><br></div><div class="battle-history"><small>The sticky web has disappeared from the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Muk, come back!<br></div><div class="battle-history">Go! <strong>Latios</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Weezing!<br></div><div class="battle-history">genshinx sent out <strong>Aegislash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios's Latiosite is reacting to the Key Stone!</small><br>Latios has Mega Evolved into Mega Latios!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Aegislash lost <abbr title="−39/222">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Aegislash!<br></div><div class="battle-history">genshinx sent out <strong>Cinccino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales, come back!<br></div><div class="battle-history">Go! <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>(Muk lost <abbr title="−29/324">9.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Muk lost <abbr title="−30/324">9.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Muk lost <abbr title="−27/324">8.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Muk lost <abbr title="−30/324">9.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Muk lost <abbr title="−29/324">9.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Cinccino!<br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Muk used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−69/255">27.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Muk, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Ninetales lost <abbr title="−76/263">28.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat"><small> Anghult left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Weezing!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Mantine lost <abbr title="−50/290">17.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mantine was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Arceus lost <abbr title="−35/292">12.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat"><small> icypenguin604 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Muk, come back!<br></div><div class="battle-history">Go! <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−135/312">43.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Golurk!<br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−183/255">71.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Sunflora's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora, come back!<br></div><div class="battle-history">Go! <strong>Ariados</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Pain Split</strong>!<br></div><div class="battle-history"><small>The battlers shared their pain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Ariados restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ariados, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ninetales lost <abbr title="−53/263">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales, come back!<br></div><div class="battle-history">Go! <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Weezing!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Aegislash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Aegislash lost <abbr title="−108/222">48.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Sunflora's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora, come back!<br></div><div class="battle-history">Go! <strong>Muk</strong>!<br></div><div class="battle-history">[The opposing Aegislash's Stance Change]<br>Changed to Blade Forme!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aegislash used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Muk lost <abbr title="−152/324">46.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Aegislash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Aegislash!<br></div><div class="battle-history">genshinx sent out <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Muk used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Golurk lost <abbr title="−86/300">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Muk lost <abbr title="−127/324">39.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Muk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Golurk lost <abbr title="−117/300">39%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−120/292">41.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Golurk!<br></div><div class="battle-history">genshinx sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Ariados</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Shuckle!<br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Ariados restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ariados, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−91/292">31.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−124/255">48.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−85/292">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Weezing!<br></div><div class="battle-history">genshinx sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−52/175">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Arceus was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Shuckle!<br></div><div class="battle-history">genshinx sent out <strong>Aegislash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Aegislash lost <abbr title="−41/222">18.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Aegislash!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! Latios (<strong>Latios-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Latios lost <abbr title="−61/256">23.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Aegislash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Aegislash lost <abbr title="−12/222">5.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latios's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aegislash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx sent out <strong>Cinccino</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios, come back!<br></div><div class="battle-history">Go! <strong>Ariados</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>(Ariados lost <abbr title="−46/269">17.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Ariados lost <abbr title="−43/269">16.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Ariados lost <abbr title="−42/269">15.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Ariados lost <abbr title="−48/269">17.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Ariados lost <abbr title="−3/269">1.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ariados fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Cinccino!<br></div><div class="battle-history">genshinx sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−101/255">39.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat"><small> TNTDestroyer and  COLFOFLOW joined</small></div><div class="chat chatmessage-tntdestroyer"><strong style="color:#c26214"><small> </small><span class="username" data-name="TNTDestroyer">TNTDestroyer</span>:</strong> <em>aw shucks!</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−52/175">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−54/175">30.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Arceus must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history"><small>Ninetales was caught in a sticky web!</small><br></div><div class="battle-history"><small>Ninetales's Speed fell!</small><br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Shuckle!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales, come back!<br></div><div class="battle-history">Go! Latios (<strong>Latios-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−15/256">5.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latios was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latios had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="battle-history"><small>Arceus was caught in a sticky web!</small><br></div><div class="battle-history"><small>Arceus's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−13/292">4.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Arceus must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! Latios (<strong>Latios-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−28/256">10.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="chat"><small> ioctal joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Shuckle!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latios had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Latios's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Latios's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mantine used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Latios lost <abbr title="−40/256">15.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Mantine!<br></div><div class="battle-history">genshinx sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latios had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−17/175">9.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx sent out <strong>Cinccino</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>(Latios lost <abbr title="−37/256">14.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−36/256">14.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−34/256">13.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−36/256">14.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Latios lost <abbr title="−37/256">14.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latios had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latios, come back!<br></div><div class="battle-history">Go! <strong>Sunflora</strong>!<br></div><div class="battle-history"><small>Sunflora was caught in a sticky web!</small><br></div><div class="battle-history"><small>Sunflora's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−49/312">15.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−46/312">14.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−48/312">15.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−34/312">10.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 4 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Dragon</strong>)!<br></div><div class="battle-history"><small>Arceus was caught in a sticky web!</small><br></div><div class="battle-history"><small>Arceus's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−40/292">13.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Arceus lost <abbr title="−33/292">11.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Arceus lost <abbr title="−37/292">12.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Arceus lost <abbr title="−36/292">12.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Arceus lost <abbr title="−34/292">11.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Cinccino lost <abbr title="−148/263">56.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−11/292">3.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 1 time!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Latios (<strong>Latios-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino used <strong>Tail Slap</strong>!<br></div><div class="battle-history"><small>Latios avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Cinccino lost <abbr title="−115/263">43.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latios's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cinccino fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latios was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx sent out <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small> </small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>:(</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Latios, come back!<br></div><div class="battle-history">Go! <strong>Ninetales</strong>!<br></div><div class="battle-history"><small>Ninetales was caught in a sticky web!</small><br></div><div class="battle-history"><small>Ninetales's Speed fell!</small><br></div><div class="battle-history">[Ninetales's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ninetales lost <abbr title="−58/263">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="chat"><small> dcmldcml joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">genshinx withdrew Golurk!<br></div><div class="battle-history">genshinx sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninetales used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Ninetales's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Ninetales restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mantine was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>genshinx forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>JustOut459</strong> won the battle!<br></div><div class="chat"><small> icypenguin604,  dcmldcml,  COLFOFLOW, and ☆JustOut459 left</small></div><div class="chat"><small> TNTDestroyer and  ioctal left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

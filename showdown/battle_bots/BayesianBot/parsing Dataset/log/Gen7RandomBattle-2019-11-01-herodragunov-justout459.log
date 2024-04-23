@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: HeroDragunov vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-1002115433" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/herodragunov" class="subtle" target="_blank">HeroDragunov</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆HeroDragunov
+|j|☆JustOut459
+|player|p1|HeroDragunov|hugh|1746
+|player|p2|JustOut459|290|1736
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Tapu Lele|Tapu Lele, L80|243\/243
+|switch|p2a: Sawk|Sawk, L87, M|272\/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by HeroDragunov)
+|
+|move|p2a: Sawk|Poison Jab|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|65\/243
+|-status|p1a: Tapu Lele|psn
+|move|p1a: Tapu Lele|Calm Mind|p1a: Tapu Lele
+|-boost|p1a: Tapu Lele|spa|1
+|-boost|p1a: Tapu Lele|spd|1
+|
+|-damage|p1a: Tapu Lele|35\/243 psn|[from] psn
+|upkeep
+|turn|2
+|
+|move|p2a: Sawk|Poison Jab|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|switch|p1a: Genesect|Genesect, L78|239\/239
+|-ability|p1a: Genesect|Download|boost
+|-boost|p1a: Genesect|spa|1
+|turn|3
+|
+|switch|p2a: Sableye|Sableye, L80, M|211\/211
+|move|p1a: Genesect|U-turn|p2a: Sableye
+|-damage|p2a: Sableye|124\/211
+|
+|switch|p1a: Palossand|Palossand, L86, F|286\/286
+|
+|upkeep
+|turn|4
+|
+|detailschange|p2a: Sableye|Sableye-Mega, L80, M
+|-mega|p2a: Sableye|Sableye|Sablenite
+|move|p1a: Palossand|Earth Power|p2a: Sableye
+|-damage|p2a: Sableye|42\/211
+|move|p2a: Sableye|Calm Mind|p2a: Sableye
+|-boost|p2a: Sableye|spa|1
+|-boost|p2a: Sableye|spd|1
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Emolga|Emolga, L89, F|243\/243
+|move|p1a: Palossand|Earth Power|p2a: Emolga
+|-immune|p2a: Emolga
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|move|p2a: Emolga|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|186\/286
+|-enditem|p1a: Palossand|Leftovers|[from] move: Knock Off|[of] p2a: Emolga
+|move|p1a: Palossand|Shadow Ball|p2a: Emolga
+|-damage|p2a: Emolga|135\/243
+|
+|-heal|p2a: Emolga|150\/243|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|move|p2a: Emolga|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|110\/286
+|move|p1a: Palossand|Toxic|p2a: Emolga
+|-status|p2a: Emolga|tox
+|
+|-heal|p2a: Emolga|165\/243 tox|[from] item: Leftovers
+|-damage|p2a: Emolga|150\/243 tox|[from] psn
+|upkeep
+|turn|8
+|
+|move|p2a: Emolga|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|38\/286
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|181\/286
+|
+|-heal|p2a: Emolga|165\/243 tox|[from] item: Leftovers
+|-damage|p2a: Emolga|135\/243 tox|[from] psn
+|upkeep
+|turn|9
+|
+|switch|p2a: Crawdaunt|Crawdaunt, L82, F|237\/237
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|286\/286
+|
+|upkeep
+|turn|10
+|
+|move|p2a: Crawdaunt|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|18\/286
+|move|p1a: Palossand|Toxic|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|tox
+|
+|-damage|p2a: Crawdaunt|223\/237 tox|[from] psn
+|upkeep
+|turn|11
+|
+|move|p2a: Crawdaunt|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-crit|p1a: Palossand
+|-damage|p1a: Palossand|0 fnt
+|faint|p1a: Palossand
+|
+|-damage|p2a: Crawdaunt|195\/237 tox|[from] psn
+|upkeep
+|
+|switch|p1a: Genesect|Genesect, L78|239\/239
+|-ability|p1a: Genesect|Download|boost
+|-boost|p1a: Genesect|spa|1
+|turn|12
+|
+|switch|p2a: Emolga|Emolga, L89, F|135\/243 tox
+|move|p1a: Genesect|U-turn|p2a: Emolga
+|-resisted|p2a: Emolga
+|-damage|p2a: Emolga|87\/243 tox
+|
+|switch|p1a: Delibird|Delibird, M|251\/251
+|
+|-heal|p2a: Emolga|102\/243 tox|[from] item: Leftovers
+|-damage|p2a: Emolga|87\/243 tox|[from] psn
+|upkeep
+|turn|13
+|
+|move|p2a: Emolga|Thunderbolt|p1a: Delibird
+|-supereffective|p1a: Delibird
+|-damage|p1a: Delibird|17\/251
+|move|p1a: Delibird|Icy Wind|p2a: Emolga
+|-supereffective|p2a: Emolga
+|-damage|p2a: Emolga|0 fnt
+|faint|p2a: Emolga
+|
+|-heal|p1a: Delibird|32\/251|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Alakazam|Alakazam, L81, M|222\/222
+|turn|14
+|inactive|HeroDragunov has 120 seconds left.
+|inactive|HeroDragunov has 90 seconds left.
+|
+|move|p2a: Alakazam|Psyshock|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|upkeep
+|
+|switch|p1a: Froslass|Froslass, L82, F|249\/249
+|turn|15
+|
+|switch|p2a: Exploud|Exploud, L85, F|316\/316
+|move|p1a: Froslass|Shadow Ball|p2a: Exploud
+|-immune|p2a: Exploud
+|
+|upkeep
+|turn|16
+|
+|switch|p1a: Genesect|Genesect, L78|239\/239
+|-ability|p1a: Genesect|Download|boost
+|-boost|p1a: Genesect|atk|1
+|move|p2a: Exploud|Fire Blast|p1a: Genesect
+|-supereffective|p1a: Genesect
+|-damage|p1a: Genesect|0 fnt
+|faint|p1a: Genesect
+|
+|upkeep
+|
+|switch|p1a: Froslass|Froslass, L82, F|249\/249
+|turn|17
+|
+|move|p1a: Froslass|Thunder Wave|p2a: Exploud
+|-status|p2a: Exploud|par
+|move|p2a: Exploud|Fire Blast|p1a: Froslass|[miss]
+|-miss|p2a: Exploud|p1a: Froslass
+|
+|upkeep
+|turn|18
+|
+|move|p1a: Froslass|Spikes|p2a: Exploud
+|-sidestart|p2: JustOut459|Spikes
+|move|p2a: Exploud|Fire Blast|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|switch|p1a: Lilligant|Lilligant, L87, F|264\/264
+|turn|19
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Exploud|Fire Blast|p1a: Lilligant|[miss]
+|-miss|p2a: Exploud|p1a: Lilligant
+|
+|upkeep
+|turn|20
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Exploud|Fire Blast|p1a: Lilligant|[miss]
+|-miss|p2a: Exploud|p1a: Lilligant
+|
+|upkeep
+|turn|21
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Exploud|Fire Blast|p1a: Lilligant|[miss]
+|-miss|p2a: Exploud|p1a: Lilligant
+|
+|upkeep
+|turn|22
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Exploud|Fire Blast|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|182\/264
+|
+|-heal|p1a: Lilligant|198\/264|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Exploud|Fire Blast|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|130\/264
+|
+|-heal|p1a: Lilligant|146\/264|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|-activate|p2a: Exploud|move: Struggle
+|move|p2a: Exploud|Struggle|p1a: Lilligant
+|-damage|p1a: Lilligant|117\/264
+|-damage|p2a: Exploud|237\/316 par|[from] recoil
+|
+|-heal|p1a: Lilligant|133\/264|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|switch|p2a: Sableye|Sableye-Mega, L80, M|42\/211
+|-damage|p2a: Sableye|16\/211|[from] Spikes
+|move|p1a: Lilligant|Petal Dance|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|
+|-heal|p1a: Lilligant|149\/264|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Crawdaunt|Crawdaunt, L82, F|195\/237 tox
+|-damage|p2a: Crawdaunt|166\/237 tox|[from] Spikes
+|turn|26
+|
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-damage|p1a: Lilligant|92\/264
+|move|p1a: Lilligant|Petal Dance|p2a: Crawdaunt|[from]lockedmove
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|-heal|p1a: Lilligant|108\/264|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Exploud|Exploud, L85, F|237\/316 par
+|-damage|p2a: Exploud|198\/316 par|[from] Spikes
+|turn|27
+|
+|move|p1a: Lilligant|Petal Dance|p2a: Exploud|[from]lockedmove
+|-damage|p2a: Exploud|0 fnt
+|faint|p2a: Exploud
+|
+|-heal|p1a: Lilligant|124\/264|[from] item: Leftovers
+|upkeep
+|c|☆HeroDragunov|Gg fam
+|
+|switch|p2a: Sawk|Sawk, L87, M|272\/272
+|-damage|p2a: Sawk|238\/272|[from] Spikes
+|turn|28
+|c|☆JustOut459|yeh gg
+|
+|move|p1a: Lilligant|Petal Dance|p2a: Sawk
+|-damage|p2a: Sawk|0 fnt
+|faint|p2a: Sawk
+|
+|-heal|p1a: Lilligant|140\/264|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Alakazam|Alakazam, L81, M|222\/222
+|turn|29
+|
+|move|p1a: Lilligant|Petal Dance|p2a: Alakazam|[from]lockedmove
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|win|HeroDragunov
+|l|☆JustOut459
+|raw|HeroDragunov's rating: 1746 &rarr; <strong>1765<\/strong><br \/>(+19 for winning)
+|raw|JustOut459's rating: 1736 &rarr; <strong>1717<\/strong><br \/>(-19 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆HeroDragunov and ☆JustOut459 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between HeroDragunov and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Tapu Lele</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sawk</strong>!<br></div><div class="battle-history">[The opposing Tapu Lele's Psychic Surge]<br><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by HeroDragunov)</div><div class="spacer battle-history"><br></div><div class="battle-history">Sawk used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tapu Lele lost <abbr title="−178/243">73.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tapu Lele was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Lele used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Tapu Lele's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Tapu Lele's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tapu Lele was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sawk used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tapu Lele lost <abbr title="−35/243">14.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Lele fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Genesect</strong>!<br></div><div class="battle-history">[The opposing Genesect's Download]<br></div><div class="battle-history"><small>The opposing Genesect's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sawk, come back!<br></div><div class="battle-history">Go! <strong>Sableye</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Genesect used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Sableye lost <abbr title="−87/211">41.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov withdrew Genesect!<br></div><div class="battle-history">HeroDragunov sent out <strong>Palossand</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sableye's Sablenite is reacting to the Key Stone!</small><br>Sableye has Mega Evolved into Mega Sableye!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>(Sableye lost <abbr title="−82/211">38.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sableye used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Sableye's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Sableye's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sableye, come back!<br></div><div class="battle-history">Go! <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It doesn't affect Emolga...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The weirdness disappeared from the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Emolga used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Palossand lost <abbr title="−100/286">35.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Emolga knocked off the opposing Palossand's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Emolga lost <abbr title="−108/243">44.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Emolga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Emolga used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Palossand lost <abbr title="−76/286">26.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Emolga was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Emolga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Emolga was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Emolga used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Palossand lost <abbr title="−72/286">25.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Shore Up</strong>!<br></div><div class="battle-history"><small>The opposing Palossand had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Emolga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Emolga was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Emolga, come back!<br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Shore Up</strong>!<br></div><div class="battle-history"><small>The opposing Palossand had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Palossand lost <abbr title="−268/286">93.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Crawdaunt was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crawdaunt was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Palossand lost <abbr title="−18/286">6.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Palossand fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crawdaunt was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Genesect</strong>!<br></div><div class="battle-history">[The opposing Genesect's Download]<br></div><div class="battle-history"><small>The opposing Genesect's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt, come back!<br></div><div class="battle-history">Go! <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Genesect used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Emolga lost <abbr title="−48/243">19.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov withdrew Genesect!<br></div><div class="battle-history">HeroDragunov sent out <strong>Delibird</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Emolga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Emolga was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Emolga used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Delibird lost <abbr title="−234/251">93.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird used <strong>Icy Wind</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Emolga lost <abbr title="−87/243">35.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Emolga fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Delibird restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Alakazam</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">HeroDragunov has 120 seconds left.</div><div class="chat message-error">HeroDragunov has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(The opposing Delibird lost <abbr title="−32/251">12.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Froslass</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam, come back!<br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Froslass used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It doesn't affect Exploud...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov withdrew Froslass!<br></div><div class="battle-history">HeroDragunov sent out <strong>Genesect</strong>!<br></div><div class="battle-history">[The opposing Genesect's Download]<br></div><div class="battle-history"><small>The opposing Genesect's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Genesect lost <abbr title="−239/239">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Genesect fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Froslass</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Froslass used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Exploud is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Froslass avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Froslass used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Froslass lost <abbr title="−249/249">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Froslass fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">HeroDragunov sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−82/264">31.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−68/264">25.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="battle-history"><small>Exploud has no moves left!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Struggle</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−29/264">11.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Exploud was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exploud, come back!<br></div><div class="battle-history">Go! Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="battle-history"><small>Sableye was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Sableye lost <abbr title="−16/211">7.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sableye fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="battle-history"><small>Crawdaunt was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−57/264">21.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crawdaunt lost <abbr title="−166/237">70.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Exploud was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−198/316">62.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-herodragunov"><strong style="color:#0e9546"><small>☆</small><span class="username" data-name="HeroDragunov">HeroDragunov</span>:</strong> <em>Gg fam</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sawk</strong>!<br></div><div class="battle-history"><small>Sawk was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat chatmessage-justout459"><strong style="color:#29a5b3"><small>☆</small><span class="username" data-name="JustOut459">JustOut459</span>:</strong> <em>yeh gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Sawk lost <abbr title="−238/272">87.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sawk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Alakazam</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Alakazam lost <abbr title="−222/222">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>HeroDragunov</strong> won the battle!<br></div><div class="chat"><small>☆JustOut459 left</small></div><div class="chat">HeroDragunov's rating: 1746 → <strong>1765</strong><br>(+19 for winning)</div><div class="chat">JustOut459's rating: 1736 → <strong>1717</strong><br>(-19 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

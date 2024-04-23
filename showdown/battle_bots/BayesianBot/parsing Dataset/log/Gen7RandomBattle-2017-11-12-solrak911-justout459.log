@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Solrak911 vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-658344649" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/solrak911" class="subtle" target="_blank">Solrak911</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|j|Solrak911
+|j|JustOut459
+|player|p1|Solrak911|154
+|teamsize|p1|6
+|player|p2|JustOut459|2
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|16270,31625,9442,28833,29296,24001,13397,1453,59176,60404,35585,5687
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Maractus|Maractus, L83, F|100\/100
+|switch|p2a: Whiscash|Whiscash, L83, F|100\/100
+|turn|1
+|choice|move leechseed|switch 2
+|
+|switch|p2a: Victreebel|Victreebel, L83, M|100\/100
+|move|p1a: Maractus|Leech Seed|p2a: Victreebel
+|-immune|p2a: Victreebel|[msg]
+|
+|upkeep
+|turn|2
+|choice|switch 6|move sunnyday
+|
+|switch|p1a: Solgaleo|Solgaleo, L73|100\/100
+|move|p2a: Victreebel|Sunny Day|p2a: Victreebel
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|choice|move zenheadbutt|move gigadrain
+|
+|move|p2a: Victreebel|Giga Drain|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|85\/100
+|move|p1a: Solgaleo|Zen Headbutt|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|15\/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Solgaleo|92\/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Solrak911)
+|inactive|JustOut459 has 135 seconds left.
+|inactive|JustOut459 has 120 seconds left.
+|choice|move earthquake|move knockoff
+|
+|move|p2a: Victreebel|Knock Off|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|47\/100
+|-enditem|p1a: Solgaleo|Leftovers|[from] move: Knock Off|[of] p2a: Victreebel
+|move|p1a: Solgaleo|Earthquake|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|JustOut459 has 135 seconds left.
+|choice||switch 6
+|
+|switch|p2a: Slowbro|Slowbro, L76, F|100\/100
+|turn|5
+|choice|move morningsun|move fireblast mega
+|
+|detailschange|p2a: Slowbro|Slowbro-Mega, L76, F
+|-mega|p2a: Slowbro|Slowbro|Slowbronite
+|move|p1a: Solgaleo|Morning Sun|p1a: Solgaleo
+|-heal|p1a: Solgaleo|100\/100
+|move|p2a: Slowbro|Fire Blast|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|20\/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|inactive|Solrak911 has 135 seconds left.
+|choice|switch 3|move fireblast
+|
+|switch|p1a: Oricorio|Oricorio-Sensu, L83, F|100\/100
+|move|p2a: Slowbro|Fire Blast|p1a: Oricorio|[miss]
+|-miss|p2a: Slowbro|p1a: Oricorio
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|inactive|JustOut459 has 135 seconds left.
+|choice|move revelationdance|switch 4
+|
+|switch|p2a: Delcatty|Delcatty, L83, F|100\/100
+|move|p1a: Oricorio|Revelation Dance|p2a: Delcatty
+|-immune|p2a: Delcatty|[msg]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|choice|move toxic|move wildcharge
+|
+|move|p1a: Oricorio|Toxic|p2a: Delcatty
+|-status|p2a: Delcatty|tox
+|move|p2a: Delcatty|Wild Charge|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-crit|p1a: Oricorio
+|-damage|p1a: Oricorio|11\/100
+|-damage|p2a: Delcatty|77\/100 tox|[from] Recoil|[of] p1a: Oricorio
+|-damage|p2a: Delcatty|68\/100 tox|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Oricorio|17\/100|[from] item: Leftovers
+|-damage|p2a: Delcatty|62\/100 tox|[from] psn
+|upkeep
+|turn|9
+|choice|switch 6|move wildcharge
+|
+|switch|p1a: Maractus|Maractus, L83, F|100\/100
+|move|p2a: Delcatty|Wild Charge|p1a: Maractus
+|-resisted|p1a: Maractus
+|-damage|p1a: Maractus|87\/100
+|-damage|p2a: Delcatty|58\/100 tox|[from] Recoil|[of] p1a: Maractus
+|-damage|p2a: Delcatty|48\/100 tox|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p2a: Delcatty|36\/100 tox|[from] psn
+|upkeep
+|turn|10
+|inactive|JustOut459 has 135 seconds left.
+|choice|move gigadrain|move doubleedge
+|
+|move|p2a: Delcatty|Double-Edge|p1a: Maractus
+|-crit|p1a: Maractus
+|-damage|p1a: Maractus|0 fnt
+|-damage|p2a: Delcatty|7\/100 tox|[from] Recoil|[of] p1a: Maractus
+|-damage|p2a: Delcatty|0 fnt|[from] item: Life Orb
+|faint|p1a: Maractus
+|faint|p2a: Delcatty
+|
+|upkeep
+|inactive|Solrak911 has 135 seconds left.
+|inactive|JustOut459 has 135 seconds left.
+|choice|switch 6|switch 4
+|
+|switch|p2a: Slowbro|Slowbro-Mega, L76, F|100\/100
+|switch|p1a: Oricorio|Oricorio-Sensu, L83, F|17\/100
+|turn|11
+|inactive|Solrak911 has 135 seconds left.
+|choice|move roost|move icebeam
+|
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|68\/100
+|move|p2a: Slowbro|Ice Beam|p1a: Oricorio
+|-damage|p1a: Oricorio|35\/100
+|-status|p1a: Oricorio|frz
+|
+|-heal|p1a: Oricorio|41\/100 frz|[from] item: Leftovers
+|upkeep
+|turn|12
+|choice|move hurricane|move icebeam
+|
+|cant|p1a: Oricorio|frz
+|move|p2a: Slowbro|Ice Beam|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Torterra|Torterra, L83, F|100\/100
+|turn|13
+|choice|move woodhammer|move icebeam
+|
+|move|p1a: Torterra|Wood Hammer|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|11\/100
+|-damage|p1a: Torterra|73\/100|[from] Recoil|[of] p2a: Slowbro
+|-damage|p1a: Torterra|63\/100|[from] item: Life Orb
+|move|p2a: Slowbro|Ice Beam|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|
+|upkeep
+|inactive|Solrak911 has 135 seconds left.
+|choice|switch 3|
+|
+|switch|p1a: Solgaleo|Solgaleo, L73|20\/100
+|turn|14
+|inactive|JustOut459 has 135 seconds left.
+|choice|move sunsteelstrike|move psychic
+|
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|inactive|JustOut459 has 135 seconds left.
+|inactive|JustOut459 has 120 seconds left.
+|choice||switch 2
+|
+|switch|p2a: Whiscash|Whiscash, L83, F|100\/100
+|turn|15
+|choice|switch 5|move earthquake
+|
+|switch|p1a: Hitmontop|Hitmontop, L81, M|100\/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Whiscash|atk|1
+|move|p2a: Whiscash|Earthquake|p1a: Hitmontop
+|-damage|p1a: Hitmontop|62\/100
+|
+|-heal|p1a: Hitmontop|68\/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Solrak911 has 135 seconds left.
+|choice|move toxic|move earthquake
+|
+|move|p1a: Hitmontop|Toxic|p2a: Whiscash
+|-status|p2a: Whiscash|tox
+|move|p2a: Whiscash|Earthquake|p1a: Hitmontop
+|-damage|p1a: Hitmontop|26\/100
+|
+|-heal|p1a: Hitmontop|32\/100|[from] item: Leftovers
+|-damage|p2a: Whiscash|95\/100 tox|[from] psn
+|upkeep
+|turn|17
+|choice|move suckerpunch|move earthquake
+|
+|move|p1a: Hitmontop|Sucker Punch|p2a: Whiscash
+|-damage|p2a: Whiscash|77\/100 tox
+|move|p2a: Whiscash|Earthquake|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|-damage|p2a: Whiscash|65\/100 tox|[from] psn
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Toxicroak|Toxicroak, L81, M|100\/100
+|turn|18
+|choice|move drainpunch|move earthquake
+|
+|move|p1a: Toxicroak|Drain Punch|p2a: Whiscash
+|-damage|p2a: Whiscash|24\/100 tox
+|-damage|p1a: Toxicroak|91\/100|[from] item: Life Orb
+|move|p2a: Whiscash|Earthquake|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|8\/100
+|
+|-damage|p2a: Whiscash|6\/100 tox|[from] psn
+|upkeep
+|turn|19
+|choice|move drainpunch|move earthquake
+|
+|move|p1a: Toxicroak|Drain Punch|p2a: Whiscash
+|-crit|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|-heal|p1a: Toxicroak|11\/100|[from] drain|[of] p2a: Whiscash
+|-damage|p1a: Toxicroak|1\/100|[from] item: Life Orb
+|faint|p2a: Whiscash
+|
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Nihilego|Nihilego, L77|100\/100
+|-item|p2a: Nihilego|Air Balloon
+|turn|20
+|inactive|JustOut459 has 135 seconds left.
+|choice|move drainpunch|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spd|1
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Solgaleo|Solgaleo, L73|20\/100
+|turn|21
+|choice|move morningsun|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|5\/100
+|move|p1a: Solgaleo|Morning Sun|p1a: Solgaleo
+|-heal|p1a: Solgaleo|55\/100
+|
+|upkeep
+|turn|22
+|choice|move morningsun|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|40\/100
+|move|p1a: Solgaleo|Morning Sun|p1a: Solgaleo
+|-heal|p1a: Solgaleo|90\/100
+|
+|upkeep
+|turn|23
+|choice|move zenheadbutt|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|75\/100
+|move|p1a: Solgaleo|Zen Headbutt|p2a: Nihilego
+|-supereffective|p2a: Nihilego
+|-damage|p2a: Nihilego|2\/100
+|-enditem|p2a: Nihilego|Air Balloon
+|
+|upkeep
+|turn|24
+|choice|move morningsun|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|60\/100
+|move|p1a: Solgaleo|Morning Sun|p1a: Solgaleo
+|-heal|p1a: Solgaleo|100\/100
+|
+|upkeep
+|turn|25
+|choice|move sunsteelstrike|move powergem
+|
+|move|p2a: Nihilego|Power Gem|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|85\/100
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Nihilego
+|-supereffective|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|choice||switch 3
+|
+|switch|p2a: Rampardos|Rampardos, L83, M|100\/100
+|-ability|p2a: Rampardos|Mold Breaker
+|turn|26
+|inactive|JustOut459 has 135 seconds left.
+|choice|move sunsteelstrike|move firepunch
+|
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|7\/100
+|move|p2a: Rampardos|Fire Punch|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|25\/100
+|-damage|p2a: Rampardos|0 fnt|[from] item: Life Orb
+|faint|p2a: Rampardos
+|
+|win|Solrak911
+|raw|Solrak911's rating: 1151 &rarr; <strong>1176<\/strong><br \/>(+25 for winning)
+|raw|JustOut459's rating: 1152 &rarr; <strong>1127<\/strong><br \/>(-25 for losing)</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>Solrak911 and JustOut459 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Solrak911 and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Whiscash</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash, come back!<br></div><div class="battle-history">Go! <strong>Victreebel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>It doesn't affect Victreebel...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 withdrew Maractus!<br></div><div class="battle-history">Solrak911 sent out <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Sunny Day</strong>!<br></div><div class="battle-history"><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Victreebel lost 85% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Solrak911)</div><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 45% of its health!)</small><br></div><div class="battle-history"><small>Victreebel knocked off the opposing Solgaleo's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Victreebel lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victreebel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Slowbro's Slowbronite is reacting to the Key Stone!</small><br>Slowbro has Mega Evolved into Mega Slowbro!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Solgaleo had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 80% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">Solrak911 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 withdrew Solgaleo!<br></div><div class="battle-history">Solrak911 sent out Oricorio (<strong>Oricorio-Sensu</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Oricorio avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro, come back!<br></div><div class="battle-history">Go! <strong>Delcatty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Revelation Dance</strong>!<br></div><div class="battle-history"><small>It doesn't affect Delcatty...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Delcatty was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Delcatty used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Oricorio lost 89% of its health!)</small><br></div><div class="battle-history"><small>Delcatty was damaged by the recoil!</small><br></div><div class="battle-history"><small>Delcatty lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Delcatty was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 withdrew Oricorio!<br></div><div class="battle-history">Solrak911 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Delcatty used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Maractus lost 13% of its health!)</small><br></div><div class="battle-history"><small>Delcatty was damaged by the recoil!</small><br></div><div class="battle-history"><small>Delcatty lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>Delcatty was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Delcatty used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Maractus lost 87% of its health!)</small><br></div><div class="battle-history"><small>Delcatty was damaged by the recoil!</small><br></div><div class="battle-history"><small>Delcatty lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus fainted!<br></div><div class="battle-history">Delcatty fainted!<br></div><div class="chat message-error">Solrak911 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Slowbro (<strong>Slowbro-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out Oricorio (<strong>Oricorio-Sensu</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">Solrak911 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Oricorio had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Oricorio lost 33% of its health!)</small><br></div><div class="battle-history"><small>The opposing Oricorio was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Oricorio lost 41% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Slowbro lost 89% of its health!)</small><br></div><div class="battle-history"><small>The opposing Torterra was damaged by the recoil!</small><br></div><div class="battle-history"><small>The opposing Torterra lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Torterra lost 63% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torterra fainted!<br></div><div class="chat message-error">Solrak911 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Slowbro lost 11% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slowbro fainted!<br></div><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Whiscash</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 withdrew Solgaleo!<br></div><div class="battle-history">Solrak911 sent out <strong>Hitmontop</strong>!<br></div><div class="battle-history">[The opposing Hitmontop's Intimidate]<br></div><div class="battle-history"><small>Whiscash's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Hitmontop lost 38% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">Solrak911 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Whiscash was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Hitmontop lost 42% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Whiscash was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(Whiscash lost 18% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Hitmontop lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Whiscash was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Toxicroak used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(Whiscash lost 41% of its health!)</small><br></div><div class="battle-history"><small>The opposing Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Toxicroak lost 83% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Whiscash was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Toxicroak used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Whiscash lost 6% of its health!)</small><br></div><div class="battle-history"><small>Whiscash had its energy drained!</small><br></div><div class="battle-history"><small>The opposing Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Nihilego</strong>!<br></div><div class="battle-history"><small>Nihilego floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Toxicroak lost 1% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Toxicroak fainted!<br></div><div class="battle-history">[Nihilego's Beast Boost]<br></div><div class="battle-history"><small>Nihilego's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrak911 sent out <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Solgaleo had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Solgaleo had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Nihilego lost 98% of its health!)</small><br></div><div class="battle-history"><small>Nihilego's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>The opposing Solgaleo had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Nihilego lost 2% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nihilego fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Rampardos</strong>!<br></div><div class="battle-history">[Rampardos's Mold Breaker]<br><small>Rampardos breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">JustOut459 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Rampardos lost 93% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rampardos used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost 60% of its health!)</small><br></div><div class="battle-history"><small>Rampardos lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rampardos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Solrak911</strong> won the battle!<br></div><div class="chat">Solrak911's rating: 1151 → <strong>1176</strong><br>(+25 for winning)</div><div class="chat">JustOut459's rating: 1152 → <strong>1127</strong><br>(-25 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

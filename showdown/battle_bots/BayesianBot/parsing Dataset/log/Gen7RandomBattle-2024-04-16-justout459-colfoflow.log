@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: JustOut459 vs. COLFOFLOW</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2104354014" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a> vs. <a href="http://pokemonshowdown.com/users/colfoflow" class="subtle" target="_blank">COLFOFLOW</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆JustOut459
+|j|☆COLFOFLOW
+|t:|1713232156
+|gametype|singles
+|player|p1|JustOut459|#rbtt7teamogerponf|
+|player|p2|COLFOFLOW|volkner|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713232156
+|start
+|switch|p1a: Vileplume|Vileplume, L87, F|272\/272
+|switch|p2a: Shiinotic|Shiinotic, L90, F|254\/254
+|turn|1
+|j| icypenguin604
+|j| TNTDestroyer
+|j| ioctal
+|j| gomdol2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by COLFOFLOW)
+|
+|t:|1713232180
+|switch|p2a: Klinklang|Klinklang, L87|246\/246
+|move|p1a: Vileplume|Sleep Powder|p2a: Klinklang|[miss]
+|-miss|p1a: Vileplume|p2a: Klinklang
+|
+|upkeep
+|turn|2
+|j| jamshogie
+|l| ioctal
+|j| MacawDrago
+|j| ioctal
+|
+|t:|1713232191
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|move|p2a: Klinklang|Shift Gear|p2a: Klinklang
+|-boost|p2a: Klinklang|spe|2
+|-boost|p2a: Klinklang|atk|1
+|
+|upkeep
+|turn|3
+|j| lemon fig
+|
+|t:|1713232207
+|move|p2a: Klinklang|Gear Grind|p1a: Magnezone|[miss]
+|-miss|p2a: Klinklang|p1a: Magnezone
+|move|p1a: Magnezone|Thunderbolt|p2a: Klinklang
+|-damage|p2a: Klinklang|128\/246
+|
+|upkeep
+|turn|4
+|
+|t:|1713232210
+|move|p2a: Klinklang|Gear Grind|p1a: Magnezone|[miss]
+|-miss|p2a: Klinklang|p1a: Magnezone
+|move|p1a: Magnezone|Thunderbolt|p2a: Klinklang
+|-damage|p2a: Klinklang|1\/246
+|
+|upkeep
+|turn|5
+|c| TNTDestroyer|damn
+|
+|t:|1713232218
+|-zpower|p2a: Klinklang
+|move|p2a: Klinklang|Breakneck Blitz|p1a: Magnezone|[zeffect]
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|180\/252
+|move|p1a: Magnezone|Thunderbolt|p2a: Klinklang
+|-damage|p2a: Klinklang|0 fnt
+|faint|p2a: Klinklang
+|
+|upkeep
+|
+|t:|1713232222
+|switch|p2a: Machamp|Machamp, L84, M|288\/288
+|turn|6
+|
+|t:|1713232228
+|switch|p1a: Gourgeist|Gourgeist-Super, L88, F|293\/293
+|move|p2a: Machamp|Dynamic Punch|p1a: Gourgeist
+|-immune|p1a: Gourgeist
+|
+|upkeep
+|turn|7
+|
+|t:|1713232233
+|move|p1a: Gourgeist|Will-O-Wisp|p2a: Machamp
+|-status|p2a: Machamp|brn
+|move|p2a: Machamp|Knock Off|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-damage|p1a: Gourgeist|224\/293
+|-enditem|p1a: Gourgeist|Leftovers|[from] move: Knock Off|[of] p2a: Machamp
+|
+|-damage|p2a: Machamp|270\/288 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1713232240
+|switch|p2a: Plusle|Plusle, L94, M|265\/265
+|move|p1a: Gourgeist|Will-O-Wisp|p2a: Plusle
+|-status|p2a: Plusle|brn
+|
+|-damage|p2a: Plusle|249\/265 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1713232249
+|switch|p1a: Whiscash|Whiscash, L89, M|341\/341
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|
+|-heal|p2a: Plusle|265\/265 brn|[from] item: Leftovers
+|-damage|p2a: Plusle|249\/265 brn|[from] brn
+|upkeep
+|turn|10
+|j| ThePokeCrab15
+|
+|t:|1713232253
+|move|p2a: Plusle|Hidden Power|p1a: Whiscash
+|-damage|p1a: Whiscash|230\/341
+|move|p1a: Whiscash|Earthquake|p2a: Plusle
+|-supereffective|p2a: Plusle
+|-damage|p2a: Plusle|0 fnt
+|faint|p2a: Plusle
+|-damage|p1a: Whiscash|196\/341|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713232261
+|switch|p2a: Shiinotic|Shiinotic, L90, F|254\/254
+|turn|11
+|
+|t:|1713232265
+|switch|p1a: Vileplume|Vileplume, L87, F|272\/272
+|move|p2a: Shiinotic|Giga Drain|p1a: Vileplume
+|-resisted|p1a: Vileplume
+|-damage|p1a: Vileplume|252\/272
+|
+|-heal|p1a: Vileplume|269\/272|[from] item: Black Sludge
+|upkeep
+|turn|12
+|-message|COLFOFLOW forfeited.
+|
+|win|JustOut459
+|n|☆JustOut459|justout459
+|n|☆COLFOFLOW|colfoflow
+|n| icypenguin604|icypenguin604
+|n| TNTDestroyer|tntdestroyer
+|n| gomdol2|gomdol2
+|n| jamshogie|jamshogie
+|n| MacawDrago|macawdrago
+|n| ioctal|ioctal
+|n| lemon fig|lemonfig
+|n| ThePokeCrab15|thepokecrab15
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆JustOut459 and ☆COLFOFLOW joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between JustOut459 and COLFOFLOW!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">COLFOFLOW sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small> icypenguin604,  TNTDestroyer,  ioctal, and  gomdol2 joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by COLFOFLOW)</div><div class="spacer battle-history"><br></div><div class="battle-history">COLFOFLOW withdrew Shiinotic!<br></div><div class="battle-history">COLFOFLOW sent out <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Klinklang avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat"><small> jamshogie and  MacawDrago joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Shift Gear</strong>!<br></div><div class="battle-history"><small>The opposing Klinklang's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Klinklang's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat"><small> lemon fig joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>Magnezone avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−118/246">48.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>Magnezone avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−127/246">51.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat chatmessage-tntdestroyer"><strong style="color:#c26214"><small> </small><span class="username" data-name="TNTDestroyer">TNTDestroyer</span>:</strong> <em>damn</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang unleashes its full-force Z-Move!</small><br>The opposing Klinklang used <strong>Breakneck Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−72/252">28.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−1/246">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">COLFOFLOW sent out <strong>Machamp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! Gourgeist (<strong>Gourgeist-Super</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Machamp used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>It doesn't affect Gourgeist...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Machamp was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Machamp used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−69/293">23.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Machamp knocked off Gourgeist's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Machamp was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">COLFOFLOW withdrew Machamp!<br></div><div class="battle-history">COLFOFLOW sent out <strong>Plusle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Plusle was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Whiscash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Plusle's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Plusle restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Plusle was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat"><small> ThePokeCrab15 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Whiscash lost <abbr title="−111/341">32.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Plusle lost <abbr title="−249/265">94.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Plusle fainted!<br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">COLFOFLOW sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shiinotic used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−20/272">7.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>COLFOFLOW forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>JustOut459</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

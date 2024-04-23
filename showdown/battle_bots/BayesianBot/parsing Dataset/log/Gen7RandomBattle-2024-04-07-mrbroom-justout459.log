@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Mr. Broom vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2097761025" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/mrbroom" class="subtle" target="_blank">Mr. Broom</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆Mr. Broom
+|j|☆JustOut459
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1712459789
+|gametype|singles
+|player|p1|Mr. Broom|pokemonbreeder|
+|player|p2|JustOut459|#rbtt7teamogerponf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712459789
+|start
+|switch|p1a: Celesteela|Celesteela, L80|286\/286
+|switch|p2a: Crawdaunt|Crawdaunt, L85, M|246\/246
+|turn|1
+|c|☆Mr. Broom|Show me what your Pokemon can do.
+|c|☆JustOut459|I certainly shall
+|j| KudoAPTX
+|j| oaklies
+|inactive|JustOut459 has 120 seconds left.
+|l| KudoAPTX
+|
+|t:|1712459845
+|move|p1a: Celesteela|Air Slash|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|140\/246
+|cant|p2a: Crawdaunt|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1712459851
+|move|p1a: Celesteela|Air Slash|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|28\/246
+|move|p2a: Crawdaunt|Knock Off|p1a: Celesteela
+|-damage|p1a: Celesteela|75\/286
+|-enditem|p1a: Celesteela|Assault Vest|[from] move: Knock Off|[of] p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|4\/246|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1712459859
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-damage|p2a: Crawdaunt|0 fnt|[from] item: Life Orb
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1712459883
+|switch|p1a: Chesnaught|Chesnaught, L88, M|298\/298
+|switch|p2a: Medicham|Medicham, L78, M|221\/221
+|turn|4
+|
+|t:|1712459908
+|detailschange|p2a: Medicham|Medicham-Mega, L78, M
+|-mega|p2a: Medicham|Medicham|Medichamite
+|move|p1a: Chesnaught|Spiky Shield|p1a: Chesnaught
+|-singleturn|p1a: Chesnaught|move: Protect
+|move|p2a: Medicham|Zen Headbutt|p1a: Chesnaught
+|-activate|p1a: Chesnaught|move: Protect
+|-damage|p2a: Medicham|194\/221|[from] Spiky Shield|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|5
+|
+|t:|1712459916
+|move|p2a: Medicham|Zen Headbutt|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|56\/298
+|move|p1a: Chesnaught|Leech Seed|p2a: Medicham
+|-start|p2a: Medicham|move: Leech Seed
+|
+|-heal|p1a: Chesnaught|74\/298|[from] item: Leftovers
+|-damage|p2a: Medicham|167\/221|[from] Leech Seed|[of] p1a: Chesnaught
+|-heal|p1a: Chesnaught|101\/298|[silent]
+|upkeep
+|turn|6
+|
+|t:|1712459926
+|switch|p2a: Scyther|Scyther, L83, F|251\/251
+|move|p1a: Chesnaught|Spiky Shield||[still]
+|-fail|p1a: Chesnaught
+|
+|-heal|p1a: Chesnaught|119\/298|[from] item: Leftovers
+|upkeep
+|turn|7
+|j|+paysa
+|
+|t:|1712459947
+|switch|p1a: Klinklang|Klinklang, L87|246\/246
+|move|p2a: Scyther|Swords Dance|p2a: Scyther
+|-boost|p2a: Scyther|atk|2
+|
+|upkeep
+|turn|8
+|j| Atlboixshawn
+|l| Atlboixshawn
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712459967
+|move|p2a: Scyther|Brick Break|p1a: Klinklang
+|-supereffective|p1a: Klinklang
+|-damage|p1a: Klinklang|56\/246
+|-zpower|p1a: Klinklang
+|move|p1a: Klinklang|Z-Shift Gear|p1a: Klinklang|[anim]Shift Gear
+|-clearnegativeboost|p1a: Klinklang|[zeffect]
+|-boost|p1a: Klinklang|spe|2
+|-boost|p1a: Klinklang|atk|1
+|
+|upkeep
+|turn|9
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712459991
+|move|p1a: Klinklang|Gear Grind|p2a: Scyther
+|-damage|p2a: Scyther|188\/251
+|-damage|p2a: Scyther|125\/251
+|-hitcount|p2a: Scyther|2
+|move|p2a: Scyther|Brick Break|p1a: Klinklang
+|-supereffective|p1a: Klinklang
+|-damage|p1a: Klinklang|0 fnt
+|faint|p1a: Klinklang
+|
+|upkeep
+|
+|t:|1712460006
+|switch|p1a: Noivern|Noivern, L84, M|280\/280
+|turn|10
+|inactive|JustOut459 has 120 seconds left.
+|j| ghostilex
+|
+|t:|1712460035
+|switch|p2a: Carbink|Carbink, L90|236\/236
+|move|p1a: Noivern|Draco Meteor|p2a: Carbink
+|-immune|p2a: Carbink
+|
+|upkeep
+|turn|11
+|inactive|JustOut459 has 120 seconds left.
+|
+|t:|1712460050
+|switch|p1a: Florges|Florges, L85, F|271\/271
+|move|p2a: Carbink|Reflect|p2a: Carbink
+|-sidestart|p2: JustOut459|Reflect
+|
+|upkeep
+|turn|12
+|inactive|JustOut459 has 120 seconds left.
+|
+|t:|1712460062
+|move|p1a: Florges|Calm Mind|p1a: Florges
+|-boost|p1a: Florges|spa|1
+|-boost|p1a: Florges|spd|1
+|move|p2a: Carbink|Light Screen|p2a: Carbink
+|-sidestart|p2: JustOut459|move: Light Screen
+|
+|upkeep
+|turn|13
+|
+|t:|1712460070
+|switch|p2a: Scyther|Scyther, L83, F|125\/251
+|move|p1a: Florges|Calm Mind|p1a: Florges
+|-boost|p1a: Florges|spa|1
+|-boost|p1a: Florges|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1712460077
+|move|p2a: Scyther|Swords Dance|p2a: Scyther
+|-boost|p2a: Scyther|atk|2
+|move|p1a: Florges|Moonblast|p2a: Scyther
+|-damage|p2a: Scyther|34\/251
+|
+|upkeep
+|turn|15
+|
+|t:|1712460086
+|move|p2a: Scyther|Aerial Ace|p1a: Florges
+|-damage|p1a: Florges|18\/271
+|move|p1a: Florges|Moonblast|p2a: Scyther
+|-damage|p2a: Scyther|0 fnt
+|faint|p2a: Scyther
+|
+|-heal|p1a: Florges|34\/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1712460096
+|switch|p2a: Ditto|Ditto, L83|215\/215
+|-transform|p2a: Ditto|p1a: Florges|[from] ability: Imposter
+|turn|16
+|c|☆Mr. Broom|a ditto :(
+|c|☆JustOut459|:D
+|c| ghostilex|yoooo
+|c|+paysa|evil play...
+|
+|t:|1712460123
+|move|p2a: Ditto|Moonblast|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|
+|upkeep
+|inactive|Mr. Broom has 120 seconds left.
+|c|☆Mr. Broom|this is bad
+|
+|t:|1712460152
+|switch|p1a: Lunala|Lunala, L72|316\/316
+|turn|17
+|
+|t:|1712460170
+|move|p2a: Ditto|Moonblast|p1a: Lunala
+|-damage|p1a: Lunala|196\/316
+|-unboost|p1a: Lunala|spa|1
+|move|p1a: Lunala|Roost|p1a: Lunala
+|-heal|p1a: Lunala|316\/316
+|-singleturn|p1a: Lunala|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1712460179
+|move|p2a: Ditto|Moonblast|p1a: Lunala
+|-damage|p1a: Lunala|211\/316
+|move|p1a: Lunala|Roost|p1a: Lunala
+|-heal|p1a: Lunala|316\/316
+|-singleturn|p1a: Lunala|move: Roost
+|
+|-sideend|p2: JustOut459|Reflect
+|upkeep
+|turn|19
+|
+|t:|1712460188
+|move|p2a: Ditto|Moonblast|p1a: Lunala
+|-damage|p1a: Lunala|211\/316
+|move|p1a: Lunala|Roost|p1a: Lunala
+|-heal|p1a: Lunala|316\/316
+|-singleturn|p1a: Lunala|move: Roost
+|
+|-sideend|p2: JustOut459|move: Light Screen
+|upkeep
+|turn|20
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712460196
+|switch|p2a: Huntail|Huntail, L84, M|230\/230
+|move|p1a: Lunala|Roost||[still]
+|-fail|p1a: Lunala|heal
+|
+|upkeep
+|turn|21
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712460213
+|move|p1a: Lunala|Moongeist Beam|p2a: Huntail
+|-damage|p2a: Huntail|151\/230
+|move|p2a: Huntail|Shell Smash|p2a: Huntail
+|-unboost|p2a: Huntail|def|1
+|-unboost|p2a: Huntail|spd|1
+|-boost|p2a: Huntail|atk|2
+|-boost|p2a: Huntail|spa|2
+|-boost|p2a: Huntail|spe|2
+|-enditem|p2a: Huntail|White Herb
+|-clearnegativeboost|p2a: Huntail|[silent]
+|
+|upkeep
+|turn|22
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712460226
+|move|p2a: Huntail|Sucker Punch|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|94\/316
+|move|p1a: Lunala|Moongeist Beam|p2a: Huntail
+|-damage|p2a: Huntail|81\/230
+|
+|-heal|p1a: Lunala|113\/316|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712460237
+|move|p2a: Huntail|Waterfall|p1a: Lunala
+|-crit|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|faint|p1a: Lunala
+|
+|upkeep
+|j| Anghult
+|
+|t:|1712460247
+|switch|p1a: Chesnaught|Chesnaught, L88, M|119\/298
+|turn|24
+|inactive|Mr. Broom has 120 seconds left.
+|
+|t:|1712460260
+|move|p2a: Huntail|Ice Beam|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|faint|p1a: Chesnaught
+|
+|upkeep
+|
+|t:|1712460263
+|switch|p1a: Noivern|Noivern, L84, M|280\/280
+|turn|25
+|
+|t:|1712460270
+|move|p2a: Huntail|Ice Beam|p1a: Noivern
+|-supereffective|p1a: Noivern
+|-damage|p1a: Noivern|0 fnt
+|faint|p1a: Noivern
+|
+|win|JustOut459
+|n|☆Mr. Broom|mrbroom
+|n|☆JustOut459|justout459
+|n| oaklies|oaklies
+|n| paysa|paysa
+|n| ghostilex|ghostilex
+|n| Anghult|anghult
+|c|☆JustOut459|gg
+|c|☆Mr. Broom|nicely done.
+|l|☆Mr. Broom
+|player|p1|
+|l|☆JustOut459
+|player|p2|
+|l| paysa
+|l| oaklies
+|l| ghostilex
+|j|☆JustOut459
+|player|p2|JustOut459|#rbtt7teamogerponf|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆Mr. Broom and ☆JustOut459 joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Mr. Broom and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-mrbroom"><strong style="color:#a026bb"><small>☆</small><span class="username" data-name="Mr. Broom">Mr. Broom</span>:</strong> <em>Show me what your Pokemon can do.</em></div><div class="chat chatmessage-justout459"><strong style="color:#29a5b3"><small>☆</small><span class="username" data-name="JustOut459">JustOut459</span>:</strong> <em>I certainly shall</em></div><div class="chat"><small> KudoAPTX and  oaklies joined</small></div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat"><small> KudoAPTX left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Crawdaunt lost <abbr title="−106/246">43.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Crawdaunt lost <abbr title="−112/246">45.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−211/286">73.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Crawdaunt knocked off the opposing Celesteela's Assault Vest!</small><br></div><div class="battle-history"><small>Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−75/286">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela fainted!<br></div><div class="battle-history"><small>Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Chesnaught</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Medicham</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Medicham's Medichamite is reacting to the Key Stone!</small><br>Medicham has Mega Evolved into Mega Medicham!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chesnaught used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Chesnaught protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Medicham used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>The opposing Chesnaught protected itself!</small><br></div><div class="battle-history"><small>Medicham was hurt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Medicham used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Chesnaught lost <abbr title="−242/298">81.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chesnaught used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Medicham was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Chesnaught restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Medicham's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Medicham, come back!<br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chesnaught used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Chesnaught restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat"><small>+paysa joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom withdrew Chesnaught!<br></div><div class="battle-history">Mr. Broom sent out <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Scyther's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small> Atlboixshawn joined;  Atlboixshawn left</small></div><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Brick Break</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−190/246">77.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Klinklang surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Z-Shift Gear</strong>!<br></div><div class="battle-history"><small>The opposing Klinklang returned its decreased stats to normal using its Z-Power!</small><br></div><div class="battle-history"><small>The opposing Klinklang's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Klinklang's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>(Scyther lost <abbr title="−63/251">25.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Scyther lost <abbr title="−63/251">25.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Brick Break</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−56/246">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Noivern</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="chat"><small> ghostilex joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther, come back!<br></div><div class="battle-history">Go! <strong>Carbink</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Noivern used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It doesn't affect Carbink...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom withdrew Noivern!<br></div><div class="battle-history">Mr. Broom sent out <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carbink used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>Reflect made your team stronger against physical moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Florges's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Florges's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carbink used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carbink, come back!<br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Florges's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Florges's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Scyther's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Scyther lost <abbr title="−91/251">36.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Aerial Ace</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−253/271">93.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Scyther lost <abbr title="−34/251">13.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Florges!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat chatmessage-mrbroom"><strong style="color:#a026bb"><small>☆</small><span class="username" data-name="Mr. Broom">Mr. Broom</span>:</strong> <em>a ditto :(</em></div><div class="chat chatmessage-justout459"><strong style="color:#29a5b3"><small>☆</small><span class="username" data-name="JustOut459">JustOut459</span>:</strong> <em>:D</em></div><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>yoooo</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>+</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>evil play...</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−34/271">12.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges fainted!<br></div><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="chat chatmessage-mrbroom"><strong style="color:#a026bb"><small>☆</small><span class="username" data-name="Mr. Broom">Mr. Broom</span>:</strong> <em>this is bad</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Lunala</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−120/316">38.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lunala's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Lunala had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−105/316">33.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Lunala had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Reflect wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−105/316">33.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Lunala had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Huntail</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Lunala's HP is full!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Moongeist Beam</strong>!<br></div><div class="battle-history"><small>(Huntail lost <abbr title="−79/230">34.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Huntail's Defense fell!</small><br></div><div class="battle-history"><small>Huntail's Sp. Def fell!</small><br></div><div class="battle-history"><small>Huntail's Attack rose sharply!</small><br></div><div class="battle-history"><small>Huntail's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Huntail's Speed rose sharply!</small><br></div><div class="battle-history"><small>Huntail returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−222/316">70.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Moongeist Beam</strong>!<br></div><div class="battle-history"><small>(Huntail lost <abbr title="−70/230">30.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lunala restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−113/316">35.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala fainted!<br></div><div class="chat"><small> Anghult joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Chesnaught</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">Mr. Broom has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Chesnaught lost <abbr title="−119/298">39.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chesnaught fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Broom sent out <strong>Noivern</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Huntail used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Noivern lost <abbr title="−280/280">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Noivern fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>JustOut459</strong> won the battle!<br></div><div class="chat chatmessage-justout459"><strong style="color:#29a5b3"><small>☆</small><span class="username" data-name="JustOut459">JustOut459</span>:</strong> <em>gg</em></div><div class="chat chatmessage-mrbroom"><strong style="color:#a026bb"><small>☆</small><span class="username" data-name="Mr. Broom">Mr. Broom</span>:</strong> <em>nicely done.</em></div><div class="chat"><small>☆Mr. Broom left</small></div><div class="chat"><small>☆JustOut459 left</small></div><div class="chat"><small>☆JustOut459 joined;  paysa,  oaklies, and  ghostilex left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

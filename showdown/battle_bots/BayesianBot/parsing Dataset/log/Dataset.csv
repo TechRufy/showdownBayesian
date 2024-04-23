@@ -1648,6 +1648,399 @@ Tsareena,"Umbreon
 Umbreon,Tsareena,Toxic,['dark'],['grass'],poison,0,394\/394,207\/285,SunnyDay,status,normal,1.0
 Umbreon,Tsareena,Foul Play,['dark'],['dark'],dark,95,394\/394,394\/394,SunnyDay,physical,normal,0.0
 Umbreon,Tsareena,Moonlight,['dark'],['dark'],fairy,0,394\/394,394\/394,SunnyDay,status,normal,0.0
+Maractus,"Victreebel
+",Leech Seed,['grass'],"['grass', 'poison']",grass,0,100\/100,100\/100,none,status,normal,1.0
+Victreebel,"Victreebel
+",Sunny Day,"['grass', 'poison']","['grass', 'poison']",fire,0,100\/100,100\/100,none,status,normal,1.0
+Victreebel,"Solgaleo
+",Giga Drain,"['grass', 'poison']","['psychic', 'steel']",grass,75,100\/100,100\/100,SunnyDay,special,normal,1.0
+Victreebel,"Solgaleo
+",Sunny Day,"['grass', 'poison']","['grass', 'poison']",fire,0,100\/100,100\/100,SunnyDay,status,normal,0.0
+Solgaleo,"Victreebel
+",Zen Headbutt,"['psychic', 'steel']","['grass', 'poison']",psychic,80,100\/100,100\/100,SunnyDay,physical,normal,1.0
+Victreebel,"Solgaleo
+",Knock Off,"['grass', 'poison']","['psychic', 'steel']",dark,65,100\/100,100\/100,SunnyDay,physical,normal,1.0
+Victreebel,"Solgaleo
+",Sunny Day,"['grass', 'poison']","['grass', 'poison']",fire,0,100\/100,100\/100,SunnyDay,status,normal,0.0
+Victreebel,"Solgaleo
+",Giga Drain,"['grass', 'poison']","['grass', 'poison']",grass,75,100\/100,100\/100,SunnyDay,special,normal,0.0
+Solgaleo,"Victreebel
+",Earthquake,"['psychic', 'steel']","['grass', 'poison']",ground,100,100\/100,100\/100,SunnyDay,physical,normal,1.0
+Solgaleo,"Victreebel
+",Zen Headbutt,"['psychic', 'steel']","['psychic', 'steel']",psychic,80,100\/100,100\/100,SunnyDay,physical,normal,0.0
+Solgaleo,"Solgaleo
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,100\/100,100\/100,SunnyDay,status,normal,1.0
+Solgaleo,"Solgaleo
+",Zen Headbutt,"['psychic', 'steel']","['psychic', 'steel']",psychic,80,100\/100,100\/100,SunnyDay,physical,normal,0.0
+Solgaleo,"Solgaleo
+",Earthquake,"['psychic', 'steel']","['psychic', 'steel']",ground,100,100\/100,100\/100,SunnyDay,physical,normal,0.0
+Slowbro,"Solgaleo
+",Fire Blast,"['water', 'psychic']","['psychic', 'steel']",fire,110,100\/100,100\/100,SunnyDay,special,normal,1.0
+Slowbro,Oricorio,Fire Blast,"['water', 'psychic']","['fire', 'flying']",fire,110,100\/100,100\/100,SunnyDay,special,normal,1.0
+Oricorio,"Delcatty
+",Revelation Dance,"['fire', 'flying']",['normal'],normal,90,100\/100,100\/100,SunnyDay,special,normal,1.0
+Oricorio,"Delcatty
+",Toxic,"['fire', 'flying']",['normal'],poison,0,100\/100,100\/100,SunnyDay,status,normal,1.0
+Oricorio,"Delcatty
+",Revelation Dance,"['fire', 'flying']","['fire', 'flying']",normal,90,100\/100,100\/100,SunnyDay,special,normal,0.0
+Delcatty,"Oricorio
+",Wild Charge,['normal'],"['fire', 'flying']",electric,90,100\/100,100\/100,SunnyDay,physical,normal,1.0
+Delcatty,"Maractus
+",Wild Charge,['normal'],['grass'],electric,90,100\/100,100\/100,SunnyDay,physical,normal,1.0
+Delcatty,"Maractus
+",Double-Edge,['normal'],['grass'],normal,120,100\/100,100\/100,"none
+",physical,normal,1.0
+Delcatty,"Maractus
+",Wild Charge,['normal'],['normal'],electric,90,100\/100,100\/100,"none
+",physical,normal,0.0
+Oricorio,"Oricorio
+",Roost,"['fire', 'flying']","['fire', 'flying']",flying,0,17\/100,17\/100,"none
+",status,normal,1.0
+Slowbro,"Oricorio
+",Ice Beam,"['water', 'psychic']","['fire', 'flying']",ice,90,100\/100,17\/100,"none
+",special,normal,1.0
+Slowbro,"Oricorio
+",Ice Beam,"['water', 'psychic']","['fire', 'flying']",ice,90,100\/100,17\/100,"none
+",special,"frz
+",1.0
+Torterra,"Slowbro
+",Wood Hammer,"['grass', 'ground']","['water', 'psychic']",grass,120,100\/100,100\/100,"none
+",physical,"tox
+",1.0
+Slowbro,"Torterra
+",Ice Beam,"['water', 'psychic']","['grass', 'ground']",ice,90,100\/100,100\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Slowbro
+",Sunsteel Strike,"['psychic', 'steel']","['water', 'psychic']",steel,100,20\/100,100\/100,"none
+",physical,"tox
+",1.0
+Whiscash,"Hitmontop
+",Earthquake,"['water', 'ground']",['fighting'],ground,100,100\/100,100\/100,"none
+",physical,"frz
+",1.0
+Hitmontop,"Whiscash
+",Toxic,['fighting'],"['water', 'ground']",poison,0,100\/100,100\/100,"none
+",status,"tox
+",1.0
+Whiscash,"Hitmontop
+",Earthquake,"['water', 'ground']",['fighting'],ground,100,100\/100,100\/100,"none
+",physical,"frz
+",1.0
+Hitmontop,"Whiscash
+",Sucker Punch,['fighting'],"['water', 'ground']",dark,70,100\/100,100\/100,"none
+",physical,"tox
+",1.0
+Hitmontop,"Whiscash
+",Toxic,['fighting'],['fighting'],poison,0,100\/100,100\/100,"none
+",status,"tox
+",0.0
+Whiscash,"Hitmontop
+",Earthquake,"['water', 'ground']",['fighting'],ground,100,100\/100,100\/100,"none
+",physical,"frz
+",1.0
+Toxicroak,"Whiscash
+",Drain Punch,"['poison', 'fighting']","['water', 'ground']",fighting,75,100\/100,100\/100,"none
+",physical,"tox
+",1.0
+Whiscash,"Toxicroak
+",Earthquake,"['water', 'ground']","['poison', 'fighting']",ground,100,100\/100,100\/100,"none
+",physical,"frz
+",1.0
+Toxicroak,"Whiscash
+",Drain Punch,"['poison', 'fighting']","['water', 'ground']",fighting,75,100\/100,100\/100,"none
+",physical,"tox
+",1.0
+Nihilego,"Toxicroak
+",Power Gem,"['rock', 'poison']","['poison', 'fighting']",rock,80,100\/100,100\/100,"none
+",special,"frz
+",1.0
+Nihilego,"Solgaleo
+",Power Gem,"['rock', 'poison']","['psychic', 'steel']",rock,80,100\/100,20\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Solgaleo
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"frz
+",1.0
+Nihilego,"Solgaleo
+",Power Gem,"['rock', 'poison']","['psychic', 'steel']",rock,80,100\/100,20\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Solgaleo
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"frz
+",1.0
+Nihilego,"Solgaleo
+",Power Gem,"['rock', 'poison']","['psychic', 'steel']",rock,80,100\/100,20\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Nihilego
+",Zen Headbutt,"['psychic', 'steel']","['rock', 'poison']",psychic,80,20\/100,100\/100,"none
+",physical,"tox
+",1.0
+Solgaleo,"Nihilego
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"tox
+",0.0
+Nihilego,"Solgaleo
+",Power Gem,"['rock', 'poison']","['psychic', 'steel']",rock,80,100\/100,20\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Solgaleo
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"frz
+",1.0
+Solgaleo,"Solgaleo
+",Zen Headbutt,"['psychic', 'steel']","['psychic', 'steel']",psychic,80,20\/100,20\/100,"none
+",physical,"frz
+",0.0
+Nihilego,"Solgaleo
+",Power Gem,"['rock', 'poison']","['psychic', 'steel']",rock,80,100\/100,20\/100,"none
+",special,"frz
+",1.0
+Solgaleo,"Nihilego
+",Sunsteel Strike,"['psychic', 'steel']","['rock', 'poison']",steel,100,20\/100,100\/100,"none
+",physical,"tox
+",1.0
+Solgaleo,"Nihilego
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"tox
+",0.0
+Solgaleo,"Nihilego
+",Zen Headbutt,"['psychic', 'steel']","['psychic', 'steel']",psychic,80,20\/100,20\/100,"none
+",physical,"tox
+",0.0
+Solgaleo,"Rampardos
+",Sunsteel Strike,"['psychic', 'steel']",['rock'],steel,100,20\/100,100\/100,"none
+",physical,"tox
+",1.0
+Solgaleo,"Rampardos
+",Morning Sun,"['psychic', 'steel']","['psychic', 'steel']",normal,0,20\/100,20\/100,"none
+",status,"tox
+",0.0
+Solgaleo,"Rampardos
+",Zen Headbutt,"['psychic', 'steel']","['psychic', 'steel']",psychic,80,20\/100,20\/100,"none
+",physical,"tox
+",0.0
+Rampardos,"Solgaleo
+",Fire Punch,['rock'],"['psychic', 'steel']",fire,75,100\/100,20\/100,"none
+",physical,"frz
+",1.0
+Pheromosa,"Metagross
+",U-turn,"['bug', 'fighting']","['steel', 'psychic']",bug,70,100\/100,100\/100,none,physical,normal,1.0
+Metagross,"Metagross
+",Agility,"['steel', 'psychic']","['steel', 'psychic']",psychic,0,100\/100,100\/100,none,status,normal,1.0
+Metagross,"Slowbro
+",Meteor Mash,"['steel', 'psychic']","['water', 'psychic']",steel,90,100\/100,100\/100,none,physical,normal,1.0
+Metagross,"Slowbro
+",Agility,"['steel', 'psychic']","['steel', 'psychic']",psychic,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Metagross
+",Scald,"['water', 'psychic']","['steel', 'psychic']",water,80,100\/100,100\/100,none,special,normal,1.0
+Metagross,"Slowbro
+",Earthquake,"['steel', 'psychic']","['water', 'psychic']",ground,100,100\/100,100\/100,none,physical,normal,1.0
+Metagross,"Slowbro
+",Agility,"['steel', 'psychic']","['steel', 'psychic']",psychic,0,100\/100,100\/100,none,status,normal,0.0
+Metagross,"Slowbro
+",Meteor Mash,"['steel', 'psychic']","['steel', 'psychic']",steel,90,100\/100,100\/100,none,physical,normal,0.0
+Slowbro,"Metagross
+",Scald,"['water', 'psychic']","['steel', 'psychic']",water,80,100\/100,100\/100,none,special,normal,1.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Kyurem,Bastiodon,Draco Meteor,"['dragon', 'ice']","['rock', 'steel']",dragon,130,100\/100,100\/100,none,special,normal,1.0
+Bastiodon,"Terrakion
+",Stealth Rock,"['rock', 'steel']","['rock', 'fighting']",rock,0,100\/100,100\/100,none,status,normal,1.0
+Terrakion,"Terrakion
+",Swords Dance,"['rock', 'fighting']","['rock', 'fighting']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Terrakion,"Slowbro
+",Earthquake,"['rock', 'fighting']","['water', 'psychic']",ground,100,100\/100,100\/100,none,physical,normal,1.0
+Terrakion,"Slowbro
+",Swords Dance,"['rock', 'fighting']","['rock', 'fighting']",normal,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Terrakion
+",Scald,"['water', 'psychic']","['rock', 'fighting']",water,80,100\/100,100\/100,none,special,normal,1.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Kingler,"Kingler
+",Swords Dance,['water'],['water'],normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Kingler
+",Scald,"['water', 'psychic']",['water'],water,80,100\/100,100\/100,none,special,normal,1.0
+Slowbro,"Kingler
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,0.0
+Kingler,"Slowbro
+",Rock Slide,['water'],"['water', 'psychic']",rock,75,100\/100,100\/100,none,physical,normal,1.0
+Kingler,"Slowbro
+",Swords Dance,['water'],['water'],normal,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Kingler
+",Scald,"['water', 'psychic']",['water'],water,80,100\/100,100\/100,none,special,normal,1.0
+Slowbro,"Kingler
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,0.0
+Kingler,"Slowbro
+",Rock Slide,['water'],"['water', 'psychic']",rock,75,100\/100,100\/100,none,physical,normal,1.0
+Kingler,"Slowbro
+",Swords Dance,['water'],['water'],normal,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Kingler,"Slowbro
+",Rock Slide,['water'],"['water', 'psychic']",rock,75,100\/100,100\/100,none,physical,normal,1.0
+Kingler,"Slowbro
+",Swords Dance,['water'],['water'],normal,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Conkeldurr,"Conkeldurr
+",Bulk Up,['fighting'],['fighting'],fighting,0,100\/100,100\/100,none,status,"brn
+",1.0
+Slowbro,"Conkeldurr
+",Psyshock,"['water', 'psychic']",['fighting'],psychic,80,100\/100,100\/100,none,special,"brn
+",1.0
+Slowbro,"Conkeldurr
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,"brn
+",0.0
+Slowbro,"Conkeldurr
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,"brn
+",0.0
+Conkeldurr,"Conkeldurr
+",Bulk Up,['fighting'],['fighting'],fighting,0,100\/100,100\/100,none,status,brn,1.0
+Slowbro,"Conkeldurr
+",Psyshock,"['water', 'psychic']",['fighting'],psychic,80,100\/100,100\/100,none,special,brn,1.0
+Slowbro,"Conkeldurr
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,brn,0.0
+Slowbro,"Conkeldurr
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,brn,0.0
+Conkeldurr,"Slowbro
+",Drain Punch,['fighting'],"['water', 'psychic']",fighting,75,100\/100,100\/100,none,physical,normal,1.0
+Conkeldurr,"Slowbro
+",Bulk Up,['fighting'],['fighting'],fighting,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Slowbro,"Slowbro
+",Psyshock,"['water', 'psychic']","['water', 'psychic']",psychic,80,100\/100,100\/100,none,special,normal,0.0
+Conkeldurr,"Slowbro
+",Drain Punch,['fighting'],"['water', 'psychic']",fighting,75,100\/100,100\/100,none,physical,normal,1.0
+Conkeldurr,"Slowbro
+",Bulk Up,['fighting'],['fighting'],fighting,0,100\/100,100\/100,none,status,normal,0.0
+Slowbro,"Conkeldurr
+",Psyshock,"['water', 'psychic']",['fighting'],psychic,80,100\/100,100\/100,none,special,brn,1.0
+Slowbro,"Conkeldurr
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,brn,0.0
+Slowbro,"Conkeldurr
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,brn,0.0
+Fearow,"Slowbro
+",U-turn,"['normal', 'flying']","['water', 'psychic']",bug,70,100\/100,100\/100,none,physical,normal,1.0
+Slowbro,"Slowbro
+",Slack Off,"['water', 'psychic']","['water', 'psychic']",normal,0,100\/100,100\/100,none,status,normal,1.0
+Slowbro,"Slowbro
+",Scald,"['water', 'psychic']","['water', 'psychic']",water,80,100\/100,100\/100,none,special,normal,0.0
+Slowbro,"Slowbro
+",Psyshock,"['water', 'psychic']","['water', 'psychic']",psychic,80,100\/100,100\/100,none,special,normal,0.0
+Kyurem,"Bastiodon
+",Draco Meteor,"['dragon', 'ice']","['rock', 'steel']",dragon,130,100\/100,100\/100,none,special,normal,1.0
+Bastiodon,"Terrakion
+",Roar,"['rock', 'steel']","['rock', 'fighting']",normal,0,100\/100,35\/100,none,status,brn,1.0
+Fearow,"Vikavolt
+",Drill Run,"['normal', 'flying']","['bug', 'electric']",ground,80,76\/100,100\/100,none,physical,normal,1.0
+Vikavolt,"Kyurem
+",Bug Buzz,"['bug', 'electric']","['dragon', 'ice']",bug,90,100\/100,76\/100,none,special,brn,1.0
+Fearow,"Arcanine
+",Drill Peck,"['normal', 'flying']",['fire'],flying,80,51\/100,100\/100,none,physical,normal,1.0
+Fearow,"Arcanine
+",Drill Peck,"['normal', 'flying']",['fire'],flying,80,51\/100,100\/100,none,physical,normal,1.0
+Arcanine,"Fearow
+",Wild Charge,['fire'],"['normal', 'flying']",electric,90,100\/100,51\/100,none,physical,brn,1.0
+Terrakion,"Slowbro
+",Earthquake,"['rock', 'fighting']","['water', 'psychic']",ground,100,29\/100,89\/100,none,physical,normal,1.0
+Terrakion,"Terrakion
+",Swords Dance,"['rock', 'fighting']","['rock', 'fighting']",normal,0,29\/100,29\/100,none,status,brn,1.0
+Terrakion,"Terrakion
+",Earthquake,"['rock', 'fighting']","['rock', 'fighting']",ground,100,29\/100,29\/100,none,physical,brn,0.0
+Slowbro,"Terrakion
+",Scald,"['water', 'psychic']","['rock', 'fighting']",water,80,89\/100,29\/100,none,special,brn,1.0
+Rotom,"Armaldo
+",Volt Switch,"['electric', 'ghost']","['rock', 'bug']",electric,70,214\/214,259\/259,none,special,normal,1.0
+Armaldo,"Mudsdale
+",Stealth Rock,"['rock', 'bug']",['ground'],rock,0,259\/259,302\/302,none,status,normal,1.0
+Armaldo,"Mudsdale
+",Toxic,"['rock', 'bug']",['ground'],poison,0,259\/259,302\/302,none,status,normal,1.0
+Armaldo,"Mudsdale
+",Stealth Rock,"['rock', 'bug']","['rock', 'bug']",rock,0,259\/259,259\/259,none,status,normal,0.0
+Mudsdale,"Armaldo
+",Stealth Rock,['ground'],"['rock', 'bug']",rock,0,302\/302,259\/259,none,status,normal,1.0
+Mudsdale,"Vikavolt
+",Earthquake,['ground'],"['bug', 'electric']",ground,100,302\/302,257\/257,none,physical,normal,1.0
+Mudsdale,"Vikavolt
+",Stealth Rock,['ground'],['ground'],rock,0,302\/302,302\/302,none,status,normal,0.0
+Vikavolt,"Mudsdale
+",Energy Ball,"['bug', 'electric']",['ground'],grass,90,257\/257,302\/302,none,special,"tox
+",1.0
+Mudsdale,"Vikavolt
+",Rock Slide,['ground'],"['bug', 'electric']",rock,75,302\/302,257\/257,none,physical,normal,1.0
+Mudsdale,"Vikavolt
+",Stealth Rock,['ground'],['ground'],rock,0,302\/302,302\/302,none,status,normal,0.0
+Mudsdale,"Vikavolt
+",Earthquake,['ground'],['ground'],ground,100,302\/302,302\/302,none,physical,normal,0.0
+Rotom,"Vikavolt
+",Shadow Ball,"['electric', 'ghost']","['bug', 'electric']",ghost,80,214\/214,257\/257,none,special,normal,1.0
+Raticate,"Stoutland
+",Knock Off,['normal'],['normal'],dark,65,260\/260,277\/277,none,physical,"tox
+",1.0
+Raticate,"Stoutland
+",Sucker Punch,['normal'],['normal'],dark,70,260\/260,277\/277,none,physical,"tox
+",1.0
+Raticate,"Stoutland
+",Knock Off,['normal'],['normal'],dark,65,260\/260,260\/260,none,physical,"tox
+",0.0
+Jolteon,"Zygarde
+",Signal Beam,['electric'],"['dragon', 'ground']",bug,75,232\/232,215\/215,none,special,normal,1.0
+Jolteon,"Zygarde
+",Hidden Power,['electric'],"['dragon', 'ground']",normal,60,232\/232,215\/215,none,special,normal,1.0
+Jolteon,"Zygarde
+",Signal Beam,['electric'],['electric'],bug,75,232\/232,232\/232,none,special,normal,0.0
+Raticate,"Jolteon
+",Sucker Punch,['normal'],['electric'],dark,70,176\/260,232\/232,none,physical,"tox
+",1.0
+Jolteon,"Raticate
+",Signal Beam,['electric'],['normal'],bug,75,232\/232,176\/260,none,special,normal,1.0
+Jolteon,"Raticate
+",Hidden Power,['electric'],['electric'],normal,60,232\/232,232\/232,none,special,normal,0.0
+Rotom,"Armaldo
+",Shadow Ball,"['electric', 'ghost']","['rock', 'bug']",ghost,80,188\/214,157\/259,none,special,normal,1.0
+Tornadus,"Rotom
+",Air Slash,['flying'],"['electric', 'ghost']",flying,75,245\/245,188\/214,none,special,"tox
+",1.0
+Tornadus,"Rotom
+",Air Slash,['flying'],"['electric', 'ghost']",flying,75,245\/245,188\/214,none,special,"tox
+",1.0
+Rotom,"Tornadus
+",Shadow Ball,"['electric', 'ghost']",['flying'],ghost,80,188\/214,245\/245,none,special,normal,1.0
+Tornadus,Vespiquen,Air Slash,['flying'],"['bug', 'flying']",flying,75,245\/245,251\/251,none,special,"tox
+",1.0
+Tornadus,"Vespiquen
+",Air Slash,['flying'],"['bug', 'flying']",flying,75,245\/245,251\/251,none,special,"tox
+",1.0
+Rotom,"Vaporeon
+",Volt Switch,"['electric', 'ghost']",['water'],electric,70,59\/214,343\/343,none,special,normal,1.0
+Vaporeon,"Kingdra
+",Scald,['water'],"['water', 'dragon']",water,80,343\/343,251\/251,none,special,"tox
+",1.0
+Kingdra,"Vaporeon
+",Draco Meteor,"['water', 'dragon']",['water'],dragon,130,251\/251,343\/343,none,special,normal,1.0
+Vaporeon,"Kingdra
+",Ice Beam,['water'],"['water', 'dragon']",ice,90,343\/343,251\/251,none,special,"brn
+",1.0
+Vaporeon,"Kingdra
+",Scald,['water'],['water'],water,80,343\/343,343\/343,none,special,"brn
+",0.0
+Kingdra,"Vaporeon
+",Draco Meteor,"['water', 'dragon']",['water'],dragon,130,251\/251,343\/343,none,special,normal,1.0
 Zapdos,"Sudowoodo
 ",U-turn,"['electric', 'flying']",['rock'],bug,70,259\/259,252\/252,none,physical,normal,1.0
 Pelipper,"Pelipper
@@ -3630,6 +4023,368 @@ Tropius,Tropius,Protect,"['grass', 'flying']","['grass', 'flying']",normal,0,249
 Tropius,Tropius,Substitute,"['grass', 'flying']","['grass', 'flying']",normal,0,249\/304,249\/304,none,status,normal,0.0
 Deoxys,"Tropius
 ",Fire Punch,['psychic'],"['grass', 'flying']",fire,75,112\/193,249\/304,none,physical,normal,1.0
+Klefki,"Abomasnow
+",Spikes,"['steel', 'fairy']","['grass', 'ice']",ground,0,228\/228,298\/298,Hail,status,normal,1.0
+Klefki,"Abomasnow
+",Toxic,"['steel', 'fairy']","['grass', 'ice']",poison,0,228\/228,298\/298,Hail,status,normal,1.0
+Klefki,"Abomasnow
+",Spikes,"['steel', 'fairy']","['steel', 'fairy']",ground,0,228\/228,228\/228,Hail,status,normal,0.0
+Abomasnow,"Klefki
+",Earthquake,"['grass', 'ice']","['steel', 'fairy']",ground,100,298\/298,228\/228,Hail,physical,normal,1.0
+Klefki,"Abomasnow
+",Spikes,"['steel', 'fairy']","['grass', 'ice']",ground,0,228\/228,298\/298,Hail,status,"tox
+",1.0
+Klefki,"Abomasnow
+",Toxic,"['steel', 'fairy']","['steel', 'fairy']",poison,0,228\/228,228\/228,Hail,status,"tox
+",0.0
+Abomasnow,"Klefki
+",Wood Hammer,"['grass', 'ice']","['steel', 'fairy']",grass,120,298\/298,228\/228,Hail,physical,normal,1.0
+Abomasnow,"Klefki
+",Earthquake,"['grass', 'ice']","['grass', 'ice']",ground,100,298\/298,298\/298,Hail,physical,normal,0.0
+Throh,"Ho-Oh
+",Storm Throw,['fighting'],"['fire', 'flying']",fighting,60,358\/358,293\/293,Hail,physical,"tox
+",1.0
+Ho-Oh,"Ho-Oh
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,Hail,status,"tox
+",1.0
+Ho-Oh,"Giratina
+",Toxic,"['fire', 'flying']","['ghost', 'dragon']",poison,0,293\/293,362\/362,"none
+",status,normal,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,normal,0.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['fire', 'flying']",dragon,85,362\/362,293\/293,"none
+",special,"tox
+",1.0
+Ho-Oh,"Giratina
+",Sacred Fire,"['fire', 'flying']","['ghost', 'dragon']",fire,100,293\/293,362\/362,"none
+",physical,"tox
+",1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,"tox
+",0.0
+Ho-Oh,"Giratina
+",Toxic,"['fire', 'flying']","['fire', 'flying']",poison,0,293\/293,293\/293,"none
+",status,"tox
+",0.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['fire', 'flying']",dragon,85,362\/362,293\/293,"none
+",special,"tox
+",1.0
+Ho-Oh,"Ho-Oh
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,"tox
+",1.0
+Ho-Oh,"Ho-Oh
+",Toxic,"['fire', 'flying']","['fire', 'flying']",poison,0,293\/293,293\/293,"none
+",status,"tox
+",0.0
+Ho-Oh,"Ho-Oh
+",Sacred Fire,"['fire', 'flying']","['fire', 'flying']",fire,100,293\/293,293\/293,"none
+",physical,"tox
+",0.0
+Giratina,"Ho-Oh
+",Dragon Tail,"['ghost', 'dragon']","['fire', 'flying']",dragon,60,362\/362,293\/293,"none
+",physical,"tox
+",1.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,85,362\/362,362\/362,"none
+",special,"tox
+",0.0
+Giratina,"Giratina
+",Rest,"['ghost', 'dragon']","['ghost', 'dragon']",psychic,0,362\/362,362\/362,"none
+",status,"tox
+",1.0
+Giratina,"Giratina
+",Dragon Pulse,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,85,362\/362,362\/362,"none
+",special,"tox
+",0.0
+Giratina,"Giratina
+",Dragon Tail,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,60,362\/362,362\/362,"none
+",physical,"tox
+",0.0
+Ho-Oh,"Giratina
+",Earthquake,"['fire', 'flying']","['ghost', 'dragon']",ground,100,293\/293,362\/362,"none
+",physical,slp,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,slp,0.0
+Ho-Oh,"Giratina
+",Toxic,"['fire', 'flying']","['fire', 'flying']",poison,0,293\/293,293\/293,"none
+",status,slp,0.0
+Ho-Oh,"Giratina
+",Sacred Fire,"['fire', 'flying']","['fire', 'flying']",fire,100,293\/293,293\/293,"none
+",physical,slp,0.0
+Ho-Oh,"Giratina
+",Earthquake,"['fire', 'flying']","['ghost', 'dragon']",ground,100,293\/293,362\/362,"none
+",physical,slp,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,slp,0.0
+Ho-Oh,"Giratina
+",Toxic,"['fire', 'flying']","['fire', 'flying']",poison,0,293\/293,293\/293,"none
+",status,slp,0.0
+Ho-Oh,"Giratina
+",Sacred Fire,"['fire', 'flying']","['fire', 'flying']",fire,100,293\/293,293\/293,"none
+",physical,slp,0.0
+Giratina,"Giratina
+",Sleep Talk,"['ghost', 'dragon']","['ghost', 'dragon']",normal,0,362\/362,362\/362,"none
+",status,slp,1.0
+Giratina,"Giratina
+",Dragon Pulse,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,85,362\/362,362\/362,"none
+",special,slp,0.0
+Giratina,"Giratina
+",Dragon Tail,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,60,362\/362,362\/362,"none
+",physical,slp,0.0
+Giratina,"Giratina
+",Rest,"['ghost', 'dragon']","['ghost', 'dragon']",psychic,0,362\/362,362\/362,"none
+",status,slp,0.0
+Giratina,Ho-Oh,Dragon Tail,"['ghost', 'dragon']","['fire', 'flying']",dragon,60,362\/362,293\/293,"none
+",physical,"tox
+",1.0
+Giratina,Ho-Oh,Dragon Pulse,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,85,362\/362,362\/362,"none
+",special,"tox
+",0.0
+Giratina,Ho-Oh,Rest,"['ghost', 'dragon']","['ghost', 'dragon']",psychic,0,362\/362,362\/362,"none
+",status,"tox
+",0.0
+Giratina,Ho-Oh,Sleep Talk,"['ghost', 'dragon']","['ghost', 'dragon']",normal,0,362\/362,362\/362,"none
+",status,"tox
+",0.0
+Abomasnow,"Throh
+",Earthquake,"['grass', 'ice']",['fighting'],ground,100,239\/298,358\/358,Hail,physical,slp,1.0
+Throh,"Ho-Oh
+",Storm Throw,['fighting'],"['fire', 'flying']",fighting,60,358\/358,293\/293,Hail,physical,"tox
+",1.0
+Ho-Oh,"Ho-Oh
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,Hail,status,"tox
+",1.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['fire', 'flying']",dragon,85,279\/362,293\/293,Hail,special,"tox
+",1.0
+Ho-Oh,"Giratina
+",Earthquake,"['fire', 'flying']","['ghost', 'dragon']",ground,100,293\/293,279\/362,Hail,physical,normal,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,Hail,status,normal,0.0
+Ho-Oh,"Giratina
+",Earthquake,"['fire', 'flying']","['ghost', 'dragon']",ground,100,293\/293,279\/362,"none
+",physical,normal,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,normal,0.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['fire', 'flying']",dragon,85,279\/362,293\/293,"none
+",special,"tox
+",1.0
+Ho-Oh,"Giratina
+",Earthquake,"['fire', 'flying']","['ghost', 'dragon']",ground,100,293\/293,279\/362,"none
+",physical,normal,1.0
+Ho-Oh,"Giratina
+",Substitute,"['fire', 'flying']","['fire', 'flying']",normal,0,293\/293,293\/293,"none
+",status,normal,0.0
+Giratina,"Ho-Oh
+",Dragon Tail,"['ghost', 'dragon']","['fire', 'flying']",dragon,60,279\/362,293\/293,"none
+",physical,"tox
+",1.0
+Giratina,"Ho-Oh
+",Dragon Pulse,"['ghost', 'dragon']","['ghost', 'dragon']",dragon,85,279\/362,279\/362,"none
+",special,"tox
+",0.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,Hail,status,"tox
+",1.0
+Throh,"Hawlucha
+",Ice Punch,['fighting'],"['fighting', 'flying']",ice,75,257\/358,256\/256,Hail,physical,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,Hail,status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,Hail,status,"tox
+",0.0
+Throh,"Hawlucha
+",Ice Punch,['fighting'],"['fighting', 'flying']",ice,75,257\/358,256\/256,Hail,physical,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,Hail,status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,Hail,status,"tox
+",0.0
+Throh,"Hawlucha
+",Ice Punch,['fighting'],"['fighting', 'flying']",ice,75,257\/358,256\/256,Hail,physical,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,"tox
+",0.0
+Throh,"Hawlucha
+",Ice Punch,['fighting'],"['fighting', 'flying']",ice,75,257\/358,256\/256,"none
+",physical,"tox
+",1.0
+Hawlucha,"Throh
+",Acrobatics,"['fighting', 'flying']",['fighting'],flying,110,256\/256,257\/358,"none
+",physical,normal,1.0
+Hawlucha,"Throh
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,normal,0.0
+Hawlucha,"Throh
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,normal,0.0
+Throh,"Hawlucha
+",Ice Punch,['fighting'],"['fighting', 'flying']",ice,75,257\/358,256\/256,"none
+",physical,"tox
+",1.0
+Hawlucha,"Throh
+",Acrobatics,"['fighting', 'flying']",['fighting'],flying,110,256\/256,257\/358,"none
+",physical,normal,1.0
+Hawlucha,"Throh
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,normal,0.0
+Hawlucha,"Throh
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,normal,0.0
+Hawlucha,"Hawlucha
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,"tox
+",0.0
+Hawlucha,"Hawlucha
+",Acrobatics,"['fighting', 'flying']","['fighting', 'flying']",flying,110,256\/256,256\/256,"none
+",physical,"tox
+",0.0
+Claydol,"Hawlucha
+",Stealth Rock,"['ground', 'psychic']","['fighting', 'flying']",rock,0,249\/249,256\/256,"none
+",status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,"tox
+",1.0
+Hawlucha,"Hawlucha
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,"tox
+",0.0
+Hawlucha,"Hawlucha
+",Acrobatics,"['fighting', 'flying']","['fighting', 'flying']",flying,110,256\/256,256\/256,"none
+",physical,"tox
+",0.0
+Claydol,"Hawlucha
+",Psychic,"['ground', 'psychic']","['fighting', 'flying']",psychic,90,249\/249,256\/256,"none
+",special,"tox
+",1.0
+Claydol,"Hawlucha
+",Stealth Rock,"['ground', 'psychic']","['ground', 'psychic']",rock,0,249\/249,249\/249,"none
+",status,"tox
+",0.0
+Hawlucha,"Claydol
+",Acrobatics,"['fighting', 'flying']","['ground', 'psychic']",flying,110,256\/256,249\/249,"none
+",physical,normal,1.0
+Hawlucha,"Claydol
+",Substitute,"['fighting', 'flying']","['fighting', 'flying']",normal,0,256\/256,256\/256,"none
+",status,normal,0.0
+Hawlucha,"Claydol
+",Roost,"['fighting', 'flying']","['fighting', 'flying']",flying,0,256\/256,256\/256,"none
+",status,normal,0.0
+Claydol,"Hawlucha
+",Psychic,"['ground', 'psychic']","['fighting', 'flying']",psychic,90,249\/249,256\/256,"none
+",special,"tox
+",1.0
+Claydol,"Hawlucha
+",Stealth Rock,"['ground', 'psychic']","['ground', 'psychic']",rock,0,249\/249,249\/249,"none
+",status,"tox
+",0.0
+Claydol,"Vaporeon
+",Psychic,"['ground', 'psychic']",['water'],psychic,90,249\/249,364\/364,"none
+",special,"tox
+",1.0
+Claydol,"Vaporeon
+",Stealth Rock,"['ground', 'psychic']","['ground', 'psychic']",rock,0,249\/249,249\/249,"none
+",status,"tox
+",0.0
+Vaporeon,"Claydol
+",Ice Beam,['water'],"['ground', 'psychic']",ice,90,364\/364,249\/249,"none
+",special,normal,1.0
+Vaporeon,"Vaporeon
+",Protect,['water'],['water'],normal,0,364\/364,364\/364,"none
+",status,"tox
+",1.0
+Vaporeon,"Vaporeon
+",Ice Beam,['water'],['water'],ice,90,364\/364,364\/364,"none
+",special,"tox
+",0.0
+Claydol,"Vaporeon
+",Psychic,"['ground', 'psychic']",['water'],psychic,90,249\/249,364\/364,"none
+",special,"tox
+",1.0
+Claydol,"Vaporeon
+",Stealth Rock,"['ground', 'psychic']","['ground', 'psychic']",rock,0,249\/249,249\/249,"none
+",status,"tox
+",0.0
+Claydol,"Vaporeon
+",Psychic,"['ground', 'psychic']",['water'],psychic,90,249\/249,364\/364,"none
+",special,"tox
+",1.0
+Claydol,"Vaporeon
+",Stealth Rock,"['ground', 'psychic']","['ground', 'psychic']",rock,0,249\/249,249\/249,"none
+",status,"tox
+",0.0
+Vaporeon,"Claydol
+",Ice Beam,['water'],"['ground', 'psychic']",ice,90,364\/364,249\/249,"none
+",special,normal,1.0
+Vaporeon,"Claydol
+",Protect,['water'],['water'],normal,0,364\/364,364\/364,"none
+",status,normal,0.0
+Pikachu,"Galvantula
+",Volt Switch,['electric'],"['bug', 'electric']",electric,70,209\/209,255\/255,"none
+",special,"tox
+",1.0
+Galvantula,"Emboar
+",Thunder,"['bug', 'electric']","['fire', 'fighting']",electric,110,255\/255,326\/326,"none
+",special,normal,1.0
+Emboar,"Galvantula
+",Fire Blast,"['fire', 'fighting']","['bug', 'electric']",fire,110,326\/326,255\/255,"none
+",special,"tox
+",1.0
+Emboar,"Vaporeon
+",Sucker Punch,"['fire', 'fighting']",['water'],dark,70,326\/326,174\/364,"none
+",physical,"tox
+",1.0
+Emboar,"Vaporeon
+",Fire Blast,"['fire', 'fighting']","['fire', 'fighting']",fire,110,326\/326,326\/326,"none
+",special,"tox
+",0.0
+Exploud,"Emboar
+",Boomburst,['normal'],"['fire', 'fighting']",normal,140,316\/316,326\/326,"none
+",special,normal,1.0
+Pikachu,"Exploud
+",Volt Switch,['electric'],['normal'],electric,70,209\/209,316\/316,"none
+",special,"tox
+",1.0
+Exploud,"Giratina
+",Boomburst,['normal'],"['ghost', 'dragon']",normal,140,316\/316,125\/362,"none
+",special,normal,1.0
+Pikachu,"Exploud
+",Volt Switch,['electric'],['normal'],electric,70,209\/209,316\/316,"none
+",special,"tox
+",1.0
+Pikachu,"Ho-Oh
+",Volt Tackle,['electric'],"['fire', 'flying']",electric,120,209\/209,235\/293,"none
+",physical,"tox
+",1.0
+Pikachu,"Ho-Oh
+",Volt Switch,['electric'],['electric'],electric,70,209\/209,209\/209,"none
+",special,"tox
+",0.0
 Cryogonal,"Carbink
 ",Freeze-Dry,['ice'],"['rock', 'fairy']",ice,70,283\/283,234\/234,none,special,normal,1.0
 Carbink,"Chansey
@@ -4097,6 +4852,561 @@ Kommo-o,"Magnezone
 ",Dragon Dance,"['dragon', 'fighting']","['dragon', 'fighting']",dragon,0,251\/251,251\/251,none,status,normal,0.0
 Kommo-o,"Magnezone
 ",Poison Jab,"['dragon', 'fighting']","['dragon', 'fighting']",poison,80,251\/251,251\/251,none,physical,normal,0.0
+Ninetales,"Hippowdon
+",Blizzard,['fire'],['ground'],ice,110,251\/251,311\/311,Sandstorm,special,normal,1.0
+Ninetales,"Hippowdon
+",Freeze-Dry,['fire'],['ground'],ice,70,251\/251,311\/311,Sandstorm,special,normal,1.0
+Ninetales,"Hippowdon
+",Blizzard,['fire'],['fire'],ice,110,251\/251,251\/251,Sandstorm,special,normal,0.0
+Ninetales,"Omastar
+",Freeze-Dry,['fire'],"['rock', 'water']",ice,70,251\/251,266\/266,Sandstorm,special,normal,1.0
+Ninetales,"Omastar
+",Blizzard,['fire'],['fire'],ice,110,251\/251,251\/251,Sandstorm,special,normal,0.0
+Omastar,"Ninetales
+",Stealth Rock,"['rock', 'water']",['fire'],rock,0,266\/266,251\/251,Sandstorm,status,normal,1.0
+Omastar,"Pangoro
+",Spikes,"['rock', 'water']","['fighting', 'dark']",ground,0,266\/266,304\/304,Sandstorm,status,normal,1.0
+Omastar,"Pangoro
+",Stealth Rock,"['rock', 'water']","['rock', 'water']",rock,0,266\/266,266\/266,Sandstorm,status,normal,0.0
+Pangoro,"Omastar
+",Knock Off,"['fighting', 'dark']","['rock', 'water']",dark,65,304\/304,266\/266,Sandstorm,physical,normal,1.0
+Omastar,"Pangoro
+",Spikes,"['rock', 'water']","['fighting', 'dark']",ground,0,266\/266,304\/304,Sandstorm,status,normal,1.0
+Omastar,"Pangoro
+",Stealth Rock,"['rock', 'water']","['rock', 'water']",rock,0,266\/266,266\/266,Sandstorm,status,normal,0.0
+Pangoro,"Omastar
+",Knock Off,"['fighting', 'dark']","['rock', 'water']",dark,65,304\/304,266\/266,"none
+",physical,normal,1.0
+Omastar,"Pangoro
+",Spikes,"['rock', 'water']","['fighting', 'dark']",ground,0,266\/266,304\/304,"none
+",status,normal,1.0
+Omastar,"Pangoro
+",Stealth Rock,"['rock', 'water']","['rock', 'water']",rock,0,266\/266,266\/266,"none
+",status,normal,0.0
+Pangoro,"Omastar
+",Knock Off,"['fighting', 'dark']","['rock', 'water']",dark,65,304\/304,266\/266,"none
+",physical,normal,1.0
+Blaziken,"Blaziken
+",Protect,"['fire', 'fighting']","['fire', 'fighting']",normal,0,253\/253,253\/253,"none
+",status,normal,1.0
+Pangoro,"Blaziken
+",Superpower,"['fighting', 'dark']","['fire', 'fighting']",fighting,120,304\/304,253\/253,"none
+",physical,normal,1.0
+Pangoro,"Blaziken
+",Knock Off,"['fighting', 'dark']","['fighting', 'dark']",dark,65,304\/304,304\/304,"none
+",physical,normal,0.0
+Blaziken,"Pangoro
+",High Jump Kick,"['fire', 'fighting']","['fighting', 'dark']",fighting,130,253\/253,304\/304,"none
+",physical,normal,1.0
+Blaziken,"Pangoro
+",Protect,"['fire', 'fighting']","['fire', 'fighting']",normal,0,253\/253,253\/253,"none
+",status,normal,0.0
+Reuniclus,"Reuniclus
+",Trick Room,['psychic'],['psychic'],psychic,0,318\/318,318\/318,"none
+",status,normal,1.0
+Durant,"Hippowdon
+",X-Scissor,"['bug', 'steel']",['ground'],bug,80,232\/232,311\/311,Sandstorm,physical,normal,1.0
+Bastiodon,"Raikou
+",Rock Blast,"['rock', 'steel']",['electric'],rock,25,252\/252,288\/288,Sandstorm,physical,normal,1.0
+Raikou,"Bastiodon
+",Thunderbolt,['electric'],"['rock', 'steel']",electric,90,288\/288,252\/252,Sandstorm,special,normal,1.0
+Bastiodon,"Blaziken
+",Toxic,"['rock', 'steel']","['fire', 'fighting']",poison,0,252\/252,253\/253,Sandstorm,status,normal,1.0
+Bastiodon,"Blaziken
+",Rock Blast,"['rock', 'steel']","['rock', 'steel']",rock,25,252\/252,252\/252,Sandstorm,physical,normal,0.0
+Blaziken,"Bastiodon
+",Flare Blitz,"['fire', 'fighting']","['rock', 'steel']",fire,120,253\/253,252\/252,Sandstorm,physical,normal,1.0
+Bastiodon,"Blaziken
+",Rock Blast,"['rock', 'steel']","['fire', 'fighting']",rock,25,252\/252,253\/253,Sandstorm,physical,"tox
+",1.0
+Bastiodon,"Blaziken
+",Toxic,"['rock', 'steel']","['rock', 'steel']",poison,0,252\/252,252\/252,Sandstorm,status,"tox
+",0.0
+Blaziken,"Bastiodon
+",Flare Blitz,"['fire', 'fighting']","['rock', 'steel']",fire,120,253\/253,252\/252,"none
+",physical,normal,1.0
+Blaziken,"Reuniclus
+",Flare Blitz,"['fire', 'fighting']",['psychic'],fire,120,253\/253,318\/318,"none
+",physical,normal,1.0
+Reuniclus,"Reuniclus
+",Trick Room,['psychic'],['psychic'],psychic,0,318\/318,318\/318,"none
+",status,normal,1.0
+Durant,"Ninetales
+",Iron Head,"['bug', 'steel']",['fire'],steel,80,209\/232,206\/251,Hail,physical,normal,1.0
+Durant,"Raikou
+",X-Scissor,"['bug', 'steel']",['electric'],bug,80,209\/232,180\/288,Hail,physical,normal,1.0
+Durant,"Raikou
+",Iron Head,"['bug', 'steel']","['bug', 'steel']",steel,80,209\/232,209\/232,Hail,physical,normal,0.0
+Reuniclus,"Durant
+",Focus Blast,['psychic'],"['bug', 'steel']",fighting,120,122\/318,209\/232,Hail,special,"tox
+",1.0
+Raticate,"Reuniclus
+",Sucker Punch,['normal'],['psychic'],dark,70,243\/243,122\/318,Hail,physical,normal,1.0
+Reuniclus,"Raticate
+",Focus Blast,['psychic'],['normal'],fighting,120,122\/318,243\/243,Hail,special,"tox
+",1.0
+Raikou,"Reuniclus
+",Thunderbolt,['electric'],['psychic'],electric,90,194\/288,122\/318,Hail,special,normal,1.0
+Crobat,"Electivire
+",Taunt,"['poison', 'flying']",['electric'],dark,0,274\/274,278\/278,none,status,normal,1.0
+Crobat,"Electivire
+",U-turn,"['poison', 'flying']",['electric'],bug,70,274\/274,278\/278,none,physical,normal,1.0
+Crobat,"Electivire
+",Taunt,"['poison', 'flying']","['poison', 'flying']",dark,0,274\/274,274\/274,none,status,normal,0.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,278\/278,272\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,1.0
+Qwilfish,"Flygon
+",Liquidation,"['water', 'poison']","['ground', 'dragon']",water,85,258\/258,272\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Qwilfish,"Flygon
+",Liquidation,"['water', 'poison']","['ground', 'dragon']",water,85,258\/258,272\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Ambipom,"Flygon
+",Fake Out,['normal'],"['ground', 'dragon']",normal,40,269\/269,272\/272,none,physical,normal,1.0
+Flygon,"Qwilfish
+",Earthquake,"['ground', 'dragon']","['water', 'poison']",ground,100,272\/272,258\/258,none,physical,normal,1.0
+Flygon,"Qwilfish
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Qwilfish
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Earthquake,"['ground', 'dragon']","['ground', 'dragon']",ground,100,272\/272,272\/272,none,physical,normal,0.0
+Ambipom,"Flygon
+",Fake Out,['normal'],"['ground', 'dragon']",normal,40,243\/269,272\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Earthquake,"['ground', 'dragon']","['ground', 'dragon']",ground,100,272\/272,272\/272,none,physical,normal,0.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Earthquake,"['ground', 'dragon']","['ground', 'dragon']",ground,100,272\/272,272\/272,none,physical,normal,0.0
+Qwilfish,"Flygon
+",Taunt,"['water', 'poison']","['ground', 'dragon']",dark,0,58\/258,272\/272,none,status,normal,1.0
+Flygon,"Ambipom
+",Earthquake,"['ground', 'dragon']",['normal'],ground,100,272\/272,217\/269,none,physical,normal,1.0
+Flygon,"Ambipom
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Ambipom
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,0.0
+Ambipom,"Flygon
+",Fake Out,['normal'],"['ground', 'dragon']",normal,40,217\/269,272\/272,none,physical,normal,1.0
+Flygon,"Qwilfish
+",Earthquake,"['ground', 'dragon']","['water', 'poison']",ground,100,272\/272,90\/258,none,physical,normal,1.0
+Flygon,"Qwilfish
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Qwilfish
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Xerneas
+",Earthquake,"['ground', 'dragon']",['fairy'],ground,100,272\/272,325\/325,none,physical,normal,1.0
+Flygon,"Xerneas
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,272\/272,272\/272,none,status,normal,0.0
+Flygon,"Xerneas
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,272\/272,272\/272,none,status,normal,0.0
+Xerneas,Xerneas,Geomancy,['fairy'],['fairy'],fairy,0,325\/325,325\/325,none,status,normal,1.0
+Xerneas,"Crobat
+",Moonblast,['fairy'],"['poison', 'flying']",fairy,95,325\/325,274\/274,none,special,normal,1.0
+Xerneas,"Crobat
+",Geomancy,['fairy'],['fairy'],fairy,0,325\/325,325\/325,none,status,normal,0.0
+Xerneas,"Crobat
+",Moonblast,['fairy'],"['poison', 'flying']",fairy,95,325\/325,274\/274,none,special,normal,1.0
+Xerneas,"Crobat
+",Geomancy,['fairy'],['fairy'],fairy,0,325\/325,325\/325,none,status,normal,0.0
+Xerneas,"Ho-Oh
+",Moonblast,['fairy'],"['fire', 'flying']",fairy,95,325\/325,293\/293,none,special,normal,1.0
+Xerneas,"Ho-Oh
+",Geomancy,['fairy'],['fairy'],fairy,0,325\/325,325\/325,none,status,normal,0.0
+Ho-Oh,"Xerneas
+",Brave Bird,"['fire', 'flying']",['fairy'],flying,120,293\/293,325\/325,none,physical,normal,1.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,222\/278,181\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,222\/278,181\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,222\/278,181\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,222\/278,181\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Electivire,"Flygon
+",Cross Chop,['electric'],"['ground', 'dragon']",fighting,100,222\/278,181\/272,none,physical,normal,1.0
+Flygon,"Electivire
+",Earthquake,"['ground', 'dragon']",['electric'],ground,100,181\/272,222\/278,none,physical,normal,1.0
+Flygon,"Electivire
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Flygon,"Electivire
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,0.0
+Ambipom,"Flygon
+",Fake Out,['normal'],"['ground', 'dragon']",normal,40,61\/269,181\/272,none,physical,normal,1.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Earthquake,"['ground', 'dragon']","['ground', 'dragon']",ground,100,181\/272,181\/272,none,physical,normal,0.0
+Ambipom,"Flygon
+",Return,['normal'],"['ground', 'dragon']",normal,102,61\/269,181\/272,none,physical,normal,1.0
+Ambipom,"Flygon
+",Fake Out,['normal'],['normal'],normal,40,61\/269,61\/269,none,physical,normal,0.0
+Flygon,"Flygon
+",Roost,"['ground', 'dragon']","['ground', 'dragon']",flying,0,181\/272,181\/272,none,status,normal,1.0
+Flygon,"Flygon
+",Dragon Dance,"['ground', 'dragon']","['ground', 'dragon']",dragon,0,181\/272,181\/272,none,status,normal,0.0
+Flygon,"Flygon
+",Earthquake,"['ground', 'dragon']","['ground', 'dragon']",ground,100,181\/272,181\/272,none,physical,normal,0.0
+Ambipom,"Flygon
+",Return,['normal'],"['ground', 'dragon']",normal,102,61\/269,181\/272,none,physical,normal,1.0
+Ambipom,"Flygon
+",Fake Out,['normal'],['normal'],normal,40,61\/269,61\/269,none,physical,normal,0.0
+Toxicroak,"Flygon
+",Sucker Punch,"['poison', 'fighting']","['ground', 'dragon']",dark,70,277\/277,181\/272,none,physical,normal,1.0
+Toxicroak,Toxicroak,Sucker Punch,"['poison', 'fighting']","['poison', 'fighting']",dark,70,277\/277,277\/277,none,physical,normal,1.0
+Delphox,"Delphox
+",Calm Mind,"['fire', 'psychic']","['fire', 'psychic']",psychic,0,269\/269,269\/269,none,status,normal,1.0
+Toxicroak,"Delphox
+",Sucker Punch,"['poison', 'fighting']","['fire', 'psychic']",dark,70,277\/277,269\/269,none,physical,normal,1.0
+Delphox,"Toxicroak
+",Psyshock,"['fire', 'psychic']","['poison', 'fighting']",psychic,80,269\/269,277\/277,none,special,normal,1.0
+Delphox,"Toxicroak
+",Calm Mind,"['fire', 'psychic']","['fire', 'psychic']",psychic,0,269\/269,269\/269,none,status,normal,0.0
+Delphox,"Xerneas
+",Psyshock,"['fire', 'psychic']",['fairy'],psychic,80,269\/269,99\/325,none,special,normal,1.0
+Delphox,"Xerneas
+",Calm Mind,"['fire', 'psychic']","['fire', 'psychic']",psychic,0,269\/269,269\/269,none,status,normal,0.0
+Sawk,"Tapu Lele
+",Poison Jab,['fighting'],"['psychic', 'fairy']",poison,80,272\/272,243\/243,none,physical,normal,1.0
+Tapu Lele,"Tapu Lele
+",Calm Mind,"['psychic', 'fairy']","['psychic', 'fairy']",psychic,0,243\/243,243\/243,none,status,"psn
+",1.0
+Sawk,"Tapu Lele
+",Poison Jab,['fighting'],"['psychic', 'fairy']",poison,80,272\/272,243\/243,none,physical,"psn
+",1.0
+Genesect,"Sableye
+",U-turn,"['bug', 'steel']","['dark', 'ghost']",bug,70,239\/239,211\/211,none,physical,normal,1.0
+Palossand,"Sableye
+",Earth Power,"['ghost', 'ground']","['dark', 'ghost']",ground,90,286\/286,211\/211,none,special,normal,1.0
+Sableye,"Sableye
+",Calm Mind,"['dark', 'ghost']","['dark', 'ghost']",psychic,0,211\/211,211\/211,none,status,normal,1.0
+Palossand,"Emolga
+",Earth Power,"['ghost', 'ground']","['electric', 'flying']",ground,90,286\/286,243\/243,none,special,normal,1.0
+Emolga,"Palossand
+",Knock Off,"['electric', 'flying']","['ghost', 'ground']",dark,65,243\/243,286\/286,none,physical,"psn
+",1.0
+Palossand,"Emolga
+",Shadow Ball,"['ghost', 'ground']","['electric', 'flying']",ghost,80,286\/286,243\/243,none,special,normal,1.0
+Palossand,"Emolga
+",Earth Power,"['ghost', 'ground']","['ghost', 'ground']",ground,90,286\/286,286\/286,none,special,normal,0.0
+Emolga,"Palossand
+",Knock Off,"['electric', 'flying']","['ghost', 'ground']",dark,65,243\/243,286\/286,none,physical,"psn
+",1.0
+Palossand,"Emolga
+",Toxic,"['ghost', 'ground']","['electric', 'flying']",poison,0,286\/286,243\/243,none,status,normal,1.0
+Palossand,"Emolga
+",Earth Power,"['ghost', 'ground']","['ghost', 'ground']",ground,90,286\/286,286\/286,none,special,normal,0.0
+Palossand,"Emolga
+",Shadow Ball,"['ghost', 'ground']","['ghost', 'ground']",ghost,80,286\/286,286\/286,none,special,normal,0.0
+Emolga,"Palossand
+",Knock Off,"['electric', 'flying']","['ghost', 'ground']",dark,65,243\/243,286\/286,none,physical,"psn
+",1.0
+Palossand,"Palossand
+",Shore Up,"['ghost', 'ground']","['ghost', 'ground']",ground,0,286\/286,286\/286,none,status,"psn
+",1.0
+Palossand,"Palossand
+",Earth Power,"['ghost', 'ground']","['ghost', 'ground']",ground,90,286\/286,286\/286,none,special,"psn
+",0.0
+Palossand,"Palossand
+",Shadow Ball,"['ghost', 'ground']","['ghost', 'ground']",ghost,80,286\/286,286\/286,none,special,"psn
+",0.0
+Palossand,"Palossand
+",Toxic,"['ghost', 'ground']","['ghost', 'ground']",poison,0,286\/286,286\/286,none,status,"psn
+",0.0
+Palossand,"Palossand
+",Shore Up,"['ghost', 'ground']","['ghost', 'ground']",ground,0,286\/286,286\/286,none,status,"psn
+",1.0
+Palossand,"Palossand
+",Earth Power,"['ghost', 'ground']","['ghost', 'ground']",ground,90,286\/286,286\/286,none,special,"psn
+",0.0
+Palossand,"Palossand
+",Shadow Ball,"['ghost', 'ground']","['ghost', 'ground']",ghost,80,286\/286,286\/286,none,special,"psn
+",0.0
+Palossand,"Palossand
+",Toxic,"['ghost', 'ground']","['ghost', 'ground']",poison,0,286\/286,286\/286,none,status,"psn
+",0.0
+Crawdaunt,"Palossand
+",Knock Off,"['water', 'dark']","['ghost', 'ground']",dark,65,237\/237,286\/286,none,physical,"psn
+",1.0
+Palossand,"Crawdaunt
+",Toxic,"['ghost', 'ground']","['water', 'dark']",poison,0,286\/286,237\/237,none,status,"tox
+",1.0
+Palossand,"Crawdaunt
+",Earth Power,"['ghost', 'ground']","['ghost', 'ground']",ground,90,286\/286,286\/286,none,special,"tox
+",0.0
+Palossand,"Crawdaunt
+",Shadow Ball,"['ghost', 'ground']","['ghost', 'ground']",ghost,80,286\/286,286\/286,none,special,"tox
+",0.0
+Palossand,"Crawdaunt
+",Shore Up,"['ghost', 'ground']","['ghost', 'ground']",ground,0,286\/286,286\/286,none,status,"tox
+",0.0
+Crawdaunt,"Palossand
+",Knock Off,"['water', 'dark']","['ghost', 'ground']",dark,65,237\/237,286\/286,none,physical,"psn
+",1.0
+Genesect,"Emolga
+",U-turn,"['bug', 'steel']","['electric', 'flying']",bug,70,239\/239,135\/243,none,physical,"tox
+",1.0
+Emolga,"Delibird
+",Thunderbolt,"['electric', 'flying']","['ice', 'flying']",electric,90,135\/243,251\/251,none,special,"psn
+",1.0
+Delibird,"Emolga
+",Icy Wind,"['ice', 'flying']","['electric', 'flying']",ice,55,251\/251,135\/243,none,special,"tox
+",1.0
+Alakazam,"Delibird
+",Psyshock,['psychic'],"['ice', 'flying']",psychic,80,222\/222,251\/251,none,special,"psn
+",1.0
+Froslass,"Exploud
+",Shadow Ball,"['ice', 'ghost']",['normal'],ghost,80,249\/249,316\/316,none,special,"tox
+",1.0
+Exploud,"Genesect
+",Fire Blast,['normal'],"['bug', 'steel']",fire,110,316\/316,239\/239,none,special,"psn
+",1.0
+Froslass,"Exploud
+",Thunder Wave,"['ice', 'ghost']",['normal'],electric,0,249\/249,316\/316,none,status,"tox
+",1.0
+Exploud,Froslass,Fire Blast,['normal'],"['ice', 'ghost']",fire,110,316\/316,249\/249,none,special,"psn
+",1.0
+Froslass,"Exploud
+",Spikes,"['ice', 'ghost']",['normal'],ground,0,249\/249,316\/316,none,status,"par
+",1.0
+Froslass,"Exploud
+",Thunder Wave,"['ice', 'ghost']","['ice', 'ghost']",electric,0,249\/249,249\/249,none,status,"par
+",0.0
+Exploud,"Froslass
+",Fire Blast,['normal'],"['ice', 'ghost']",fire,110,316\/316,249\/249,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,Lilligant,Fire Blast,['normal'],['grass'],fire,110,316\/316,264\/264,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,Lilligant,Fire Blast,['normal'],['grass'],fire,110,316\/316,264\/264,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,Lilligant,Fire Blast,['normal'],['grass'],fire,110,316\/316,264\/264,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,"Lilligant
+",Fire Blast,['normal'],['grass'],fire,110,316\/316,264\/264,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,"Lilligant
+",Fire Blast,['normal'],['grass'],fire,110,316\/316,264\/264,none,special,"psn
+",1.0
+Lilligant,"Lilligant
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"psn
+",1.0
+Exploud,"Lilligant
+",Struggle,['normal'],['grass'],normal,50,316\/316,264\/264,none,physical,"psn
+",1.0
+Exploud,"Lilligant
+",Fire Blast,['normal'],['normal'],fire,110,316\/316,316\/316,none,special,"psn
+",0.0
+Lilligant,"Sableye
+",Petal Dance,['grass'],"['dark', 'ghost']",grass,120,264\/264,42\/211,none,special,"par
+",1.0
+Lilligant,"Sableye
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"par
+",0.0
+Crawdaunt,"Lilligant
+",Aqua Jet,"['water', 'dark']",['grass'],water,40,195\/237,264\/264,none,physical,"psn
+",1.0
+Lilligant,Crawdaunt,Petal Dance,['grass'],"['water', 'dark']",grass,120,264\/264,195\/237,none,special,"par
+",1.0
+Lilligant,Crawdaunt,Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"par
+",0.0
+Lilligant,Exploud,Petal Dance,['grass'],['normal'],grass,120,264\/264,237\/316,none,special,"par
+",1.0
+Lilligant,Exploud,Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"par
+",0.0
+Lilligant,"Sawk
+",Petal Dance,['grass'],['fighting'],grass,120,264\/264,272\/272,none,special,"par
+",1.0
+Lilligant,"Sawk
+",Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"par
+",0.0
+Lilligant,Alakazam,Petal Dance,['grass'],['psychic'],grass,120,264\/264,222\/222,none,special,"par
+",1.0
+Lilligant,Alakazam,Quiver Dance,['grass'],['grass'],bug,0,264\/264,264\/264,none,status,"par
+",0.0
+Gastrodon,"Meloetta
+",Scald,"['water', 'ground']","['normal', 'psychic']",water,80,339\/339,302\/302,none,special,normal,1.0
+Meloetta,"Meloetta
+",Calm Mind,"['normal', 'psychic']","['normal', 'psychic']",psychic,0,302\/302,302\/302,none,status,normal,1.0
+Gastrodon,"Meloetta
+",Scald,"['water', 'ground']","['normal', 'psychic']",water,80,339\/339,302\/302,none,special,normal,1.0
+Meloetta,"Gastrodon
+",Hyper Voice,"['normal', 'psychic']","['water', 'ground']",normal,90,302\/302,339\/339,none,special,normal,1.0
+Meloetta,"Gastrodon
+",Calm Mind,"['normal', 'psychic']","['normal', 'psychic']",psychic,0,302\/302,302\/302,none,status,normal,0.0
+Gastrodon,"Meloetta
+",Clear Smog,"['water', 'ground']","['normal', 'psychic']",poison,50,339\/339,302\/302,none,special,"brn
+",1.0
+Gastrodon,"Meloetta
+",Scald,"['water', 'ground']","['water', 'ground']",water,80,339\/339,339\/339,none,special,"brn
+",0.0
+Meloetta,"Gastrodon
+",Psyshock,"['normal', 'psychic']","['water', 'ground']",psychic,80,302\/302,339\/339,none,special,normal,1.0
+Meloetta,"Gastrodon
+",Calm Mind,"['normal', 'psychic']","['normal', 'psychic']",psychic,0,302\/302,302\/302,none,status,normal,0.0
+Meloetta,"Gastrodon
+",Hyper Voice,"['normal', 'psychic']","['normal', 'psychic']",normal,90,302\/302,302\/302,none,special,normal,0.0
+Gastrodon,"Meloetta
+",Earthquake,"['water', 'ground']","['normal', 'psychic']",ground,100,339\/339,302\/302,none,physical,"brn
+",1.0
+Gastrodon,"Meloetta
+",Scald,"['water', 'ground']","['water', 'ground']",water,80,339\/339,339\/339,none,special,"brn
+",0.0
+Gastrodon,"Meloetta
+",Clear Smog,"['water', 'ground']","['water', 'ground']",poison,50,339\/339,339\/339,none,special,"brn
+",0.0
+Meloetta,"Shaymin
+",Hyper Voice,"['normal', 'psychic']",['grass'],normal,90,302\/302,305\/305,none,special,normal,1.0
+Meloetta,"Shaymin
+",Calm Mind,"['normal', 'psychic']","['normal', 'psychic']",psychic,0,302\/302,302\/302,none,status,normal,0.0
+Meloetta,"Shaymin
+",Psyshock,"['normal', 'psychic']","['normal', 'psychic']",psychic,80,302\/302,302\/302,none,special,normal,0.0
+Shaymin,"Scolipede
+",Seed Flare,['grass'],"['bug', 'poison']",grass,120,305\/305,230\/230,none,special,"brn
+",1.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,"Pyukumuku
+",Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Scolipede,"Scolipede
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,"brn
+",1.0
+Pyukumuku,Pyukumuku,Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,Pyukumuku,Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Scolipede,"Pyukumuku
+",Megahorn,"['bug', 'poison']",['water'],bug,120,230\/230,243\/243,none,physical,normal,1.0
+Scolipede,"Pyukumuku
+",Swords Dance,"['bug', 'poison']","['bug', 'poison']",normal,0,230\/230,230\/230,none,status,normal,0.0
+Pyukumuku,"Pyukumuku
+",Light Screen,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,"Pyukumuku
+",Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,0.0
+Pyukumuku,"Pyukumuku
+",Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Pyukumuku,"Pyukumuku
+",Recover,['water'],['water'],normal,0,243\/243,243\/243,none,status,normal,1.0
+Pyukumuku,"Pyukumuku
+",Reflect,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,0.0
+Pyukumuku,"Pyukumuku
+",Counter,['water'],['water'],fighting,0,243\/243,243\/243,none,physical,normal,0.0
+Pyukumuku,"Pyukumuku
+",Light Screen,['water'],['water'],psychic,0,243\/243,243\/243,none,status,normal,0.0
+Lugia,"Pikachu
+",Toxic,"['psychic', 'flying']",['electric'],poison,0,293\/293,209\/209,none,status,normal,1.0
+Pikachu,"Meloetta
+",Volt Switch,['electric'],"['normal', 'psychic']",electric,70,209\/209,66\/302,none,special,"brn
+",1.0
+Scolipede,"Gastrodon
+",Rock Slide,"['bug', 'poison']","['water', 'ground']",rock,75,165\/230,94\/339,none,physical,"tox
+",1.0
+Scolipede,Gastrodon,Megahorn,"['bug', 'poison']","['water', 'ground']",bug,120,165\/230,94\/339,none,physical,"tox
+",1.0
+Scolipede,Gastrodon,Rock Slide,"['bug', 'poison']","['bug', 'poison']",rock,75,165\/230,165\/230,none,physical,"tox
+",0.0
+Gastrodon,"Scolipede
+",Scald,"['water', 'ground']","['bug', 'poison']",water,80,94\/339,165\/230,none,special,"brn
+",1.0
+Scolipede,"Gastrodon
+",Megahorn,"['bug', 'poison']","['water', 'ground']",bug,120,165\/230,94\/339,none,physical,"tox
+",1.0
+Scolipede,"Gastrodon
+",Rock Slide,"['bug', 'poison']","['bug', 'poison']",rock,75,165\/230,165\/230,none,physical,"tox
+",0.0
+Absol,"Gastrodon
+",Knock Off,['dark'],"['water', 'ground']",dark,65,244\/244,94\/339,none,physical,"tox
+",1.0
+Tapu Koko,"Absol
+",Thunderbolt,"['electric', 'fairy']",['dark'],electric,90,243\/243,244\/244,none,special,"brn
+",1.0
 Tornadus,"Diggersby
 ",Superpower,['flying'],"['normal', 'ground']",fighting,120,267\/267,270\/270,none,physical,normal,1.0
 Diggersby,"Diggersby
@@ -4225,6 +5535,105 @@ Meloetta,"Mewtwo
 ",Shadow Ball,"['normal', 'psychic']",['psychic'],ghost,80,302\/302,293\/293,none,special,normal,1.0
 Meloetta,"Mewtwo
 ",Calm Mind,"['normal', 'psychic']","['normal', 'psychic']",psychic,0,302\/302,302\/302,none,status,normal,0.0
+Druddigon,"Crustle
+",Stealth Rock,['dragon'],"['bug', 'rock']",rock,0,273\/273,249\/249,none,status,normal,1.0
+Crustle,"Crustle
+",Shell Smash,"['bug', 'rock']","['bug', 'rock']",normal,0,249\/249,249\/249,none,status,normal,1.0
+Crustle,"Druddigon
+",Knock Off,"['bug', 'rock']",['dragon'],dark,65,249\/249,273\/273,none,physical,normal,1.0
+Crustle,"Druddigon
+",Shell Smash,"['bug', 'rock']","['bug', 'rock']",normal,0,249\/249,249\/249,none,status,normal,0.0
+Druddigon,"Crustle
+",Dragon Tail,['dragon'],"['bug', 'rock']",dragon,60,273\/273,249\/249,none,physical,normal,1.0
+Druddigon,"Crustle
+",Stealth Rock,['dragon'],['dragon'],rock,0,273\/273,273\/273,none,status,normal,0.0
+Suicune,"Druddigon
+",Ice Beam,['water'],['dragon'],ice,90,298\/298,273\/273,none,special,normal,1.0
+Druddigon,"Suicune
+",Outrage,['dragon'],['water'],dragon,120,273\/273,298\/298,none,physical,normal,1.0
+Druddigon,"Suicune
+",Stealth Rock,['dragon'],['dragon'],rock,0,273\/273,273\/273,none,status,normal,0.0
+Druddigon,"Suicune
+",Dragon Tail,['dragon'],['dragon'],dragon,60,273\/273,273\/273,none,physical,normal,0.0
+Suicune,"Suicune
+",Rest,['water'],['water'],psychic,0,298\/298,298\/298,none,status,normal,1.0
+Suicune,"Suicune
+",Ice Beam,['water'],['water'],ice,90,298\/298,298\/298,none,special,normal,0.0
+Druddigon,Suicune,Outrage,['dragon'],['water'],dragon,120,273\/273,298\/298,none,physical,normal,1.0
+Druddigon,Suicune,Stealth Rock,['dragon'],['dragon'],rock,0,273\/273,273\/273,none,status,normal,0.0
+Druddigon,Suicune,Dragon Tail,['dragon'],['dragon'],dragon,60,273\/273,273\/273,none,physical,normal,0.0
+Suicune,"Druddigon
+",Ice Beam,['water'],['dragon'],ice,90,298\/298,273\/273,none,special,normal,1.0
+Suicune,"Druddigon
+",Rest,['water'],['water'],psychic,0,298\/298,298\/298,none,status,normal,0.0
+Primeape,"Dhelmise
+",Close Combat,['fighting'],"['ghost', 'grass']",fighting,120,260\/260,269\/269,none,physical,normal,1.0
+Dhelmise,"Delcatty
+",Anchor Shot,"['ghost', 'grass']",['normal'],steel,80,269\/269,287\/287,none,physical,normal,1.0
+Delcatty,"Mienshao
+",Stomping Tantrum,['normal'],['fighting'],ground,75,287\/287,245\/245,none,physical,normal,1.0
+Mienshao,"Delcatty
+",High Jump Kick,['fighting'],['normal'],fighting,130,245\/245,287\/287,none,physical,normal,1.0
+Necrozma,"Necrozma
+",Calm Mind,['psychic'],['psychic'],psychic,0,293\/293,293\/293,none,status,normal,1.0
+Scrafty,"Scrafty
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,1.0
+Scrafty,"Primeape
+",High Jump Kick,"['dark', 'fighting']",['fighting'],fighting,130,249\/249,260\/260,none,physical,normal,1.0
+Scrafty,"Primeape
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Chandelure
+",High Jump Kick,"['dark', 'fighting']","['ghost', 'fire']",fighting,130,249\/249,235\/235,none,physical,normal,1.0
+Scrafty,"Chandelure
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Silvally
+",Knock Off,"['dark', 'fighting']",['normal'],dark,65,249\/249,307\/307,none,physical,normal,1.0
+Scrafty,"Silvally
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Silvally
+",High Jump Kick,"['dark', 'fighting']","['dark', 'fighting']",fighting,130,249\/249,249\/249,none,physical,normal,0.0
+Scrafty,"Silvally
+",High Jump Kick,"['dark', 'fighting']",['normal'],fighting,130,249\/249,307\/307,none,physical,normal,1.0
+Scrafty,"Silvally
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Silvally
+",Knock Off,"['dark', 'fighting']","['dark', 'fighting']",dark,65,249\/249,249\/249,none,physical,normal,0.0
+Scrafty,"Necrozma
+",Knock Off,"['dark', 'fighting']",['psychic'],dark,65,249\/249,293\/293,none,physical,normal,1.0
+Scrafty,"Necrozma
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Necrozma
+",High Jump Kick,"['dark', 'fighting']","['dark', 'fighting']",fighting,130,249\/249,249\/249,none,physical,normal,0.0
+Necrozma,"Necrozma
+",Moonlight,['psychic'],['psychic'],fairy,0,293\/293,293\/293,none,status,normal,1.0
+Scrafty,"Necrozma
+",Knock Off,"['dark', 'fighting']",['psychic'],dark,65,249\/249,293\/293,none,physical,normal,1.0
+Scrafty,"Necrozma
+",Dragon Dance,"['dark', 'fighting']","['dark', 'fighting']",dragon,0,249\/249,249\/249,none,status,normal,0.0
+Scrafty,"Necrozma
+",High Jump Kick,"['dark', 'fighting']","['dark', 'fighting']",fighting,130,249\/249,249\/249,none,physical,normal,0.0
+Necrozma,"Necrozma
+",Moonlight,['psychic'],['psychic'],fairy,0,293\/293,293\/293,none,status,normal,1.0
+Mienshao,"Necrozma
+",Knock Off,['fighting'],['psychic'],dark,65,163\/245,293\/293,none,physical,normal,1.0
+Necrozma,"Mienshao
+",Photon Geyser,['psychic'],['fighting'],psychic,100,293\/293,163\/245,none,special,normal,1.0
+Necrozma,"Mienshao
+",Moonlight,['psychic'],['psychic'],fairy,0,293\/293,293\/293,none,status,normal,0.0
+Heatran,"Chandelure
+",Lava Plume,"['fire', 'steel']","['ghost', 'fire']",fire,80,277\/277,235\/235,none,special,normal,1.0
+Chandelure,"Crustle
+",Shadow Ball,"['ghost', 'fire']","['bug', 'rock']",ghost,80,235\/235,116\/249,none,special,normal,1.0
+Suicune,"Chandelure
+",Hydro Pump,['water'],"['ghost', 'fire']",water,110,171\/298,235\/235,none,special,normal,1.0
+Chandelure,"Chandelure
+",Calm Mind,"['ghost', 'fire']","['ghost', 'fire']",psychic,0,235\/235,235\/235,none,status,normal,1.0
+Chandelure,"Chandelure
+",Shadow Ball,"['ghost', 'fire']","['ghost', 'fire']",ghost,80,235\/235,235\/235,none,special,normal,0.0
+Suicune,"Chandelure
+",Hydro Pump,['water'],"['ghost', 'fire']",water,110,171\/298,235\/235,none,special,normal,1.0
+Suicune,"Necrozma
+",Hydro Pump,['water'],['psychic'],water,110,171\/298,95\/293,none,special,normal,1.0
 Cobalion,"Cobalion
 ",Swords Dance,"['steel', 'fighting']","['steel', 'fighting']",normal,0,277\/277,277\/277,none,status,normal,1.0
 Meowstic,"Cobalion
@@ -4581,6 +5990,402 @@ Houndoom,"Magearna
 ",Fire Blast,"['dark', 'fire']","['steel', 'fairy']",fire,110,253\/253,250\/250,none,special,normal,1.0
 Houndoom,"Magearna
 ",Dark Pulse,"['dark', 'fire']","['dark', 'fire']",dark,80,253\/253,253\/253,none,special,normal,0.0
+Celesteela,"Crawdaunt
+",Air Slash,"['steel', 'flying']","['water', 'dark']",flying,75,286\/286,246\/246,none,special,normal,1.0
+Celesteela,"Crawdaunt
+",Air Slash,"['steel', 'flying']","['water', 'dark']",flying,75,286\/286,246\/246,none,special,normal,1.0
+Crawdaunt,"Celesteela
+",Knock Off,"['water', 'dark']","['steel', 'flying']",dark,65,246\/246,286\/286,none,physical,normal,1.0
+Crawdaunt,"Celesteela
+",Aqua Jet,"['water', 'dark']","['steel', 'flying']",water,40,246\/246,286\/286,none,physical,normal,1.0
+Crawdaunt,"Celesteela
+",Knock Off,"['water', 'dark']","['water', 'dark']",dark,65,246\/246,246\/246,none,physical,normal,0.0
+Chesnaught,"Chesnaught
+",Spiky Shield,"['grass', 'fighting']","['grass', 'fighting']",grass,0,298\/298,298\/298,none,status,normal,1.0
+Medicham,"Chesnaught
+",Zen Headbutt,"['fighting', 'psychic']","['grass', 'fighting']",psychic,80,221\/221,298\/298,none,physical,normal,1.0
+Medicham,"Chesnaught
+",Zen Headbutt,"['fighting', 'psychic']","['grass', 'fighting']",psychic,80,221\/221,298\/298,none,physical,normal,1.0
+Chesnaught,"Medicham
+",Leech Seed,"['grass', 'fighting']","['fighting', 'psychic']",grass,0,298\/298,221\/221,none,status,normal,1.0
+Chesnaught,"Medicham
+",Spiky Shield,"['grass', 'fighting']","['grass', 'fighting']",grass,0,298\/298,298\/298,none,status,normal,0.0
+Chesnaught,Chesnaught,Spiky Shield,"['grass', 'fighting']","['grass', 'fighting']",grass,0,298\/298,298\/298,none,status,normal,1.0
+Chesnaught,Chesnaught,Leech Seed,"['grass', 'fighting']","['grass', 'fighting']",grass,0,298\/298,298\/298,none,status,normal,0.0
+Scyther,"Scyther
+",Swords Dance,"['bug', 'flying']","['bug', 'flying']",normal,0,251\/251,251\/251,none,status,normal,1.0
+Scyther,"Klinklang
+",Brick Break,"['bug', 'flying']",['steel'],fighting,75,251\/251,246\/246,none,physical,normal,1.0
+Scyther,"Klinklang
+",Swords Dance,"['bug', 'flying']","['bug', 'flying']",normal,0,251\/251,251\/251,none,status,normal,0.0
+Klinklang,"Scyther
+",Gear Grind,['steel'],"['bug', 'flying']",steel,50,246\/246,251\/251,none,physical,normal,1.0
+Scyther,"Klinklang
+",Brick Break,"['bug', 'flying']",['steel'],fighting,75,251\/251,246\/246,none,physical,normal,1.0
+Scyther,"Klinklang
+",Swords Dance,"['bug', 'flying']","['bug', 'flying']",normal,0,251\/251,251\/251,none,status,normal,0.0
+Noivern,"Carbink
+",Draco Meteor,"['flying', 'dragon']","['rock', 'fairy']",dragon,130,280\/280,236\/236,none,special,normal,1.0
+Carbink,"Carbink
+",Reflect,"['rock', 'fairy']","['rock', 'fairy']",psychic,0,236\/236,236\/236,none,status,normal,1.0
+Florges,"Florges
+",Calm Mind,['fairy'],['fairy'],psychic,0,271\/271,271\/271,none,status,normal,1.0
+Carbink,"Carbink
+",Light Screen,"['rock', 'fairy']","['rock', 'fairy']",psychic,0,236\/236,236\/236,none,status,normal,1.0
+Carbink,"Carbink
+",Reflect,"['rock', 'fairy']","['rock', 'fairy']",psychic,0,236\/236,236\/236,none,status,normal,0.0
+Florges,"Florges
+",Calm Mind,['fairy'],['fairy'],psychic,0,271\/271,271\/271,none,status,normal,1.0
+Scyther,"Scyther
+",Swords Dance,"['bug', 'flying']","['bug', 'flying']",normal,0,125\/251,125\/251,none,status,normal,1.0
+Florges,"Scyther
+",Moonblast,['fairy'],"['bug', 'flying']",fairy,95,271\/271,125\/251,none,special,normal,1.0
+Florges,"Scyther
+",Calm Mind,['fairy'],['fairy'],psychic,0,271\/271,271\/271,none,status,normal,0.0
+Scyther,"Florges
+",Aerial Ace,"['bug', 'flying']",['fairy'],flying,60,125\/251,271\/271,none,physical,normal,1.0
+Scyther,"Florges
+",Swords Dance,"['bug', 'flying']","['bug', 'flying']",normal,0,125\/251,125\/251,none,status,normal,0.0
+Florges,"Scyther
+",Moonblast,['fairy'],"['bug', 'flying']",fairy,95,271\/271,125\/251,none,special,normal,1.0
+Florges,"Scyther
+",Calm Mind,['fairy'],['fairy'],psychic,0,271\/271,271\/271,none,status,normal,0.0
+Ditto,"Florges
+",Moonblast,['normal'],['fairy'],fairy,95,215\/215,271\/271,none,special,normal,1.0
+Ditto,"Lunala
+",Moonblast,['normal'],"['psychic', 'ghost']",fairy,95,215\/215,316\/316,none,special,normal,1.0
+Lunala,"Lunala
+",Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,1.0
+Ditto,"Lunala
+",Moonblast,['normal'],"['psychic', 'ghost']",fairy,95,215\/215,316\/316,none,special,normal,1.0
+Lunala,"Lunala
+",Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,1.0
+Ditto,"Lunala
+",Moonblast,['normal'],"['psychic', 'ghost']",fairy,95,215\/215,316\/316,none,special,normal,1.0
+Lunala,"Lunala
+",Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,1.0
+Lunala,Lunala,Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,1.0
+Lunala,"Huntail
+",Moongeist Beam,"['psychic', 'ghost']",['water'],ghost,100,316\/316,230\/230,none,special,normal,1.0
+Lunala,"Huntail
+",Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,0.0
+Huntail,"Huntail
+",Shell Smash,['water'],['water'],normal,0,230\/230,230\/230,none,status,normal,1.0
+Huntail,"Lunala
+",Sucker Punch,['water'],"['psychic', 'ghost']",dark,70,230\/230,316\/316,none,physical,normal,1.0
+Huntail,"Lunala
+",Shell Smash,['water'],['water'],normal,0,230\/230,230\/230,none,status,normal,0.0
+Lunala,"Huntail
+",Moongeist Beam,"['psychic', 'ghost']",['water'],ghost,100,316\/316,230\/230,none,special,normal,1.0
+Lunala,"Huntail
+",Roost,"['psychic', 'ghost']","['psychic', 'ghost']",flying,0,316\/316,316\/316,none,status,normal,0.0
+Huntail,"Lunala
+",Waterfall,['water'],"['psychic', 'ghost']",water,80,230\/230,316\/316,none,physical,normal,1.0
+Huntail,"Lunala
+",Shell Smash,['water'],['water'],normal,0,230\/230,230\/230,none,status,normal,0.0
+Huntail,"Lunala
+",Sucker Punch,['water'],['water'],dark,70,230\/230,230\/230,none,physical,normal,0.0
+Huntail,"Chesnaught
+",Ice Beam,['water'],"['grass', 'fighting']",ice,90,230\/230,119\/298,none,special,normal,1.0
+Huntail,"Chesnaught
+",Shell Smash,['water'],['water'],normal,0,230\/230,230\/230,none,status,normal,0.0
+Huntail,"Chesnaught
+",Sucker Punch,['water'],['water'],dark,70,230\/230,230\/230,none,physical,normal,0.0
+Huntail,"Chesnaught
+",Waterfall,['water'],['water'],water,80,230\/230,230\/230,none,physical,normal,0.0
+Huntail,"Noivern
+",Ice Beam,['water'],"['flying', 'dragon']",ice,90,230\/230,280\/280,none,special,normal,1.0
+Huntail,"Noivern
+",Shell Smash,['water'],['water'],normal,0,230\/230,230\/230,none,status,normal,0.0
+Huntail,"Noivern
+",Sucker Punch,['water'],['water'],dark,70,230\/230,230\/230,none,physical,normal,0.0
+Huntail,"Noivern
+",Waterfall,['water'],['water'],water,80,230\/230,230\/230,none,physical,normal,0.0
+Weezing,"Ariados
+",Sludge Bomb,['poison'],"['bug', 'poison']",poison,90,255\/255,269\/269,none,special,normal,1.0
+Weezing,Ariados,Will-O-Wisp,['poison'],"['bug', 'poison']",fire,0,255\/255,269\/269,none,status,normal,1.0
+Weezing,Ariados,Sludge Bomb,['poison'],['poison'],poison,90,255\/255,255\/255,none,special,normal,0.0
+Ariados,"Weezing
+",Sticky Web,"['bug', 'poison']",['poison'],bug,0,269\/269,255\/255,none,status,normal,1.0
+Weezing,"Ninetales
+",Fire Blast,['poison'],['fire'],fire,110,255\/255,263\/263,SunnyDay,special,normal,1.0
+Weezing,"Ninetales
+",Sludge Bomb,['poison'],['poison'],poison,90,255\/255,255\/255,SunnyDay,special,normal,0.0
+Weezing,"Ninetales
+",Will-O-Wisp,['poison'],['poison'],fire,0,255\/255,255\/255,SunnyDay,status,normal,0.0
+Ninetales,"Ninetales
+",Nasty Plot,['fire'],['fire'],dark,0,263\/263,263\/263,SunnyDay,status,normal,1.0
+Mantine,"Muk
+",Defog,"['water', 'flying']",['poison'],flying,0,290\/290,324\/324,SunnyDay,status,normal,1.0
+Latios,"Aegislash
+",Psyshock,"['dragon', 'psychic']","['steel', 'ghost']",psychic,80,256\/256,222\/222,SunnyDay,special,normal,1.0
+Cinccino,"Muk
+",Rock Blast,['normal'],['poison'],rock,25,263\/263,324\/324,SunnyDay,physical,normal,1.0
+Muk,"Weezing
+",Fire Punch,['poison'],['poison'],fire,75,324\/324,255\/255,SunnyDay,physical,normal,1.0
+Weezing,"Ninetales
+",Sludge Bomb,['poison'],['fire'],poison,90,255\/255,261\/263,SunnyDay,special,normal,1.0
+Ninetales,"Mantine
+",Fire Blast,['fire'],"['water', 'flying']",fire,110,261\/263,290\/290,SunnyDay,special,normal,1.0
+Mantine,"Arceus
+",Scald,"['water', 'flying']",['normal'],water,80,290\/290,292\/292,"none
+",special,normal,1.0
+Golurk,"Sunflora
+",Earthquake,"['ground', 'ghost']",['grass'],ground,100,300\/300,312\/312,"none
+",physical,normal,1.0
+Sunflora,"Weezing
+",Leaf Storm,['grass'],['poison'],grass,130,312\/312,216\/255,"none
+",special,"brn
+",1.0
+Weezing,"Ariados
+",Pain Split,['poison'],"['bug', 'poison']",normal,0,216\/255,252\/269,"none
+",status,normal,1.0
+Weezing,"Ninetales
+",Fire Blast,['poison'],['fire'],fire,110,216\/255,217\/263,SunnyDay,special,normal,1.0
+Weezing,"Ninetales
+",Pain Split,['poison'],['poison'],normal,0,216\/255,216\/255,SunnyDay,status,normal,0.0
+Sunflora,"Aegislash
+",Leaf Storm,['grass'],"['steel', 'ghost']",grass,130,177\/312,183\/222,SunnyDay,special,"brn
+",1.0
+Aegislash,"Muk
+",Iron Head,"['steel', 'ghost']",['poison'],steel,80,183\/222,239\/324,SunnyDay,physical,normal,1.0
+Muk,"Golurk
+",Fire Punch,['poison'],"['ground', 'ghost']",fire,75,239\/324,300\/300,SunnyDay,physical,"brn
+",1.0
+Golurk,"Muk
+",Stone Edge,"['ground', 'ghost']",['poison'],rock,100,300\/300,239\/324,"none
+",physical,normal,1.0
+Arceus,"Golurk
+",Judgment,['normal'],"['ground', 'ghost']",normal,100,257\/292,300\/300,"none
+",special,"brn
+",1.0
+Golurk,"Arceus
+",Stone Edge,"['ground', 'ghost']",['normal'],rock,100,300\/300,257\/292,"none
+",physical,normal,1.0
+Arceus,"Arceus
+",Recover,['normal'],['normal'],normal,0,257\/292,257\/292,"none
+",status,normal,1.0
+Arceus,"Arceus
+",Judgment,['normal'],['normal'],normal,100,257\/292,257\/292,"none
+",special,normal,0.0
+Weezing,"Arceus
+",Sludge Bomb,['poison'],['normal'],poison,90,180\/255,283\/292,"none
+",special,normal,1.0
+Arceus,"Weezing
+",Judgment,['normal'],['poison'],normal,100,283\/292,180\/255,"none
+",special,"brn
+",1.0
+Weezing,"Arceus
+",Sludge Bomb,['poison'],['normal'],poison,90,180\/255,283\/292,"none
+",special,normal,1.0
+Arceus,"Shuckle
+",Judgment,['normal'],"['bug', 'rock']",normal,100,283\/292,175\/175,"none
+",special,"brn
+",1.0
+Arceus,"Arceus
+",Recover,['normal'],['normal'],normal,0,283\/292,283\/292,"none
+",status,normal,1.0
+Arceus,"Arceus
+",Judgment,['normal'],['normal'],normal,100,283\/292,283\/292,"none
+",special,normal,0.0
+Shuckle,"Arceus
+",Toxic,"['bug', 'rock']",['normal'],poison,0,175\/175,283\/292,"none
+",status,normal,1.0
+Arceus,"Aegislash
+",Judgment,['normal'],"['steel', 'ghost']",normal,100,283\/292,53\/222,"none
+",special,"brn
+",1.0
+Arceus,"Aegislash
+",Recover,['normal'],['normal'],normal,0,283\/292,283\/292,"none
+",status,"brn
+",0.0
+Arceus,"Arceus
+",Recover,['normal'],['normal'],normal,0,283\/292,283\/292,"none
+",status,"tox
+",1.0
+Arceus,"Arceus
+",Judgment,['normal'],['normal'],normal,100,283\/292,283\/292,"none
+",special,"tox
+",0.0
+Mantine,"Latios
+",Air Slash,"['water', 'flying']","['dragon', 'psychic']",flying,75,240\/290,256\/256,"none
+",special,"tox
+",1.0
+Latios,"Aegislash
+",Draco Meteor,"['dragon', 'psychic']","['steel', 'ghost']",dragon,130,256\/256,12\/222,"none
+",special,"brn
+",1.0
+Cinccino,"Ariados
+",Tail Slap,['normal'],"['bug', 'poison']",normal,25,263\/263,182\/269,"none
+",physical,"tox
+",1.0
+Arceus,"Weezing
+",Judgment,['normal'],['poison'],normal,100,238\/292,101\/255,"none
+",special,"brn
+",1.0
+Arceus,"Shuckle
+",Judgment,['normal'],"['bug', 'rock']",normal,100,238\/292,123\/175,"none
+",special,"brn
+",1.0
+Shuckle,"Arceus
+",Sticky Web,"['bug', 'rock']",['normal'],bug,0,123\/175,238\/292,"none
+",status,"tox
+",1.0
+Arceus,"Shuckle
+",Judgment,['normal'],"['bug', 'rock']",normal,100,238\/292,123\/175,"none
+",special,"brn
+",1.0
+Shuckle,"Arceus
+",Encore,"['bug', 'rock']",['normal'],normal,0,123\/175,238\/292,"none
+",status,"tox
+",1.0
+Shuckle,"Arceus
+",Sticky Web,"['bug', 'rock']","['bug', 'rock']",bug,0,123\/175,123\/175,"none
+",status,"tox
+",0.0
+Mantine,"Latios
+",Scald,"['water', 'flying']","['dragon', 'psychic']",water,80,240\/290,195\/256,SunnyDay,special,"tox
+",1.0
+Latios,"Latios
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,195\/256,195\/256,SunnyDay,status,"brn
+",1.0
+Shuckle,"Arceus
+",Knock Off,"['bug', 'rock']",['normal'],dark,65,17\/175,130\/292,SunnyDay,physical,"brn
+",1.0
+Arceus,"Arceus
+",Recover,['normal'],['normal'],normal,0,130\/292,130\/292,SunnyDay,status,"brn
+",1.0
+Shuckle,"Arceus
+",Encore,"['bug', 'rock']",['normal'],normal,0,17\/175,130\/292,SunnyDay,status,"brn
+",1.0
+Shuckle,"Arceus
+",Knock Off,"['bug', 'rock']","['bug', 'rock']",dark,65,17\/175,17\/175,SunnyDay,physical,"brn
+",0.0
+Shuckle,"Latios
+",Knock Off,"['bug', 'rock']","['dragon', 'psychic']",dark,65,17\/175,240\/256,"none
+",physical,"brn
+",1.0
+Shuckle,"Latios
+",Encore,"['bug', 'rock']","['bug', 'rock']",normal,0,17\/175,17\/175,"none
+",status,"brn
+",0.0
+Latios,"Latios
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,240\/256,240\/256,"none
+",status,"brn
+",1.0
+Latios,"Latios
+",Calm Mind,"['dragon', 'psychic']","['dragon', 'psychic']",psychic,0,240\/256,240\/256,"none
+",status,"brn
+",1.0
+Latios,"Latios
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,240\/256,240\/256,"none
+",status,"brn
+",0.0
+Mantine,"Latios
+",Air Slash,"['water', 'flying']","['dragon', 'psychic']",flying,75,240\/290,240\/256,"none
+",special,"brn
+",1.0
+Latios,"Latios
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,240\/256,240\/256,"none
+",status,"brn
+",1.0
+Latios,"Latios
+",Calm Mind,"['dragon', 'psychic']","['dragon', 'psychic']",psychic,0,240\/256,240\/256,"none
+",status,"brn
+",0.0
+Latios,"Shuckle
+",Psyshock,"['dragon', 'psychic']","['bug', 'rock']",psychic,80,240\/256,17\/175,"none
+",special,"brn
+",1.0
+Latios,"Shuckle
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,240\/256,240\/256,"none
+",status,"brn
+",0.0
+Latios,"Shuckle
+",Calm Mind,"['dragon', 'psychic']","['dragon', 'psychic']",psychic,0,240\/256,240\/256,"none
+",status,"brn
+",0.0
+Cinccino,"Latios
+",Tail Slap,['normal'],"['dragon', 'psychic']",normal,25,263\/263,240\/256,"none
+",physical,"brn
+",1.0
+Latios,"Latios
+",Roost,"['dragon', 'psychic']","['dragon', 'psychic']",flying,0,240\/256,240\/256,"none
+",status,"brn
+",1.0
+Latios,"Latios
+",Calm Mind,"['dragon', 'psychic']","['dragon', 'psychic']",psychic,0,240\/256,240\/256,"none
+",status,"brn
+",0.0
+Latios,"Latios
+",Psyshock,"['dragon', 'psychic']","['dragon', 'psychic']",psychic,80,240\/256,240\/256,"none
+",special,"brn
+",0.0
+Cinccino,"Sunflora
+",Tail Slap,['normal'],['grass'],normal,25,263\/263,177\/312,"none
+",physical,"brn
+",1.0
+Cinccino,"Arceus
+",Tail Slap,['normal'],['normal'],normal,25,263\/263,209\/292,"none
+",physical,"brn
+",1.0
+Arceus,"Cinccino
+",Judgment,['normal'],['normal'],normal,100,209\/292,263\/263,"none
+",special,"brn
+",1.0
+Cinccino,"Arceus
+",Tail Slap,['normal'],['normal'],normal,25,263\/263,209\/292,"none
+",physical,"brn
+",1.0
+Cinccino,Latios,Tail Slap,['normal'],"['dragon', 'psychic']",normal,25,263\/263,156\/256,"none
+",physical,"brn
+",1.0
+Latios,"Cinccino
+",Draco Meteor,"['dragon', 'psychic']",['normal'],dragon,130,156\/256,263\/263,"none
+",special,"brn
+",1.0
+Golurk,"Ninetales
+",Ice Punch,"['ground', 'ghost']",['fire'],ice,75,97\/300,196\/263,SunnyDay,physical,"brn
+",1.0
+Ninetales,"Ninetales
+",Nasty Plot,['fire'],['fire'],dark,0,196\/263,196\/263,SunnyDay,status,"brn
+",1.0
+Vileplume,Klinklang,Sleep Powder,"['grass', 'poison']",['steel'],grass,0,272\/272,246\/246,none,status,normal,1.0
+Klinklang,"Klinklang
+",Shift Gear,['steel'],['steel'],steel,0,246\/246,246\/246,none,status,normal,1.0
+Klinklang,Magnezone,Gear Grind,['steel'],"['electric', 'steel']",steel,50,246\/246,252\/252,none,physical,normal,1.0
+Klinklang,Magnezone,Shift Gear,['steel'],['steel'],steel,0,246\/246,246\/246,none,status,normal,0.0
+Magnezone,"Klinklang
+",Thunderbolt,"['electric', 'steel']",['steel'],electric,90,252\/252,246\/246,none,special,normal,1.0
+Klinklang,Magnezone,Gear Grind,['steel'],"['electric', 'steel']",steel,50,246\/246,252\/252,none,physical,normal,1.0
+Klinklang,Magnezone,Shift Gear,['steel'],['steel'],steel,0,246\/246,246\/246,none,status,normal,0.0
+Magnezone,"Klinklang
+",Thunderbolt,"['electric', 'steel']",['steel'],electric,90,252\/252,246\/246,none,special,normal,1.0
+Magnezone,"Klinklang
+",Thunderbolt,"['electric', 'steel']",['steel'],electric,90,252\/252,246\/246,none,special,normal,1.0
+Machamp,"Gourgeist
+",Dynamic Punch,['fighting'],"['ghost', 'grass']",fighting,100,288\/288,293\/293,none,physical,normal,1.0
+Gourgeist,"Machamp
+",Will-O-Wisp,"['ghost', 'grass']",['fighting'],fire,0,293\/293,288\/288,none,status,normal,1.0
+Machamp,"Gourgeist
+",Knock Off,['fighting'],"['ghost', 'grass']",dark,65,288\/288,293\/293,none,physical,normal,1.0
+Machamp,"Gourgeist
+",Dynamic Punch,['fighting'],['fighting'],fighting,100,288\/288,288\/288,none,physical,normal,0.0
+Gourgeist,"Plusle
+",Will-O-Wisp,"['ghost', 'grass']",['electric'],fire,0,293\/293,265\/265,none,status,"brn
+",1.0
+Plusle,"Plusle
+",Nasty Plot,['electric'],['electric'],dark,0,265\/265,265\/265,none,status,"brn
+",1.0
+Plusle,"Whiscash
+",Hidden Power,['electric'],"['water', 'ground']",normal,60,265\/265,341\/341,none,special,normal,1.0
+Plusle,"Whiscash
+",Nasty Plot,['electric'],['electric'],dark,0,265\/265,265\/265,none,status,normal,0.0
+Whiscash,"Plusle
+",Earthquake,"['water', 'ground']",['electric'],ground,100,341\/341,265\/265,none,physical,"brn
+",1.0
+Shiinotic,"Vileplume
+",Giga Drain,"['grass', 'fairy']","['grass', 'poison']",grass,75,254\/254,272\/272,none,special,normal,1.0
 Ampharos,"Machamp
 ",Volt Switch,['electric'],['fighting'],electric,70,288\/288,288\/288,none,special,normal,1.0
 Maractus,"Machamp

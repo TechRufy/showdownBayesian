@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: JustOut459 vs. Orb66623</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-705438360" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a> vs. <a href="http://pokemonshowdown.com/users/orb66623" class="subtle" target="_blank">Orb66623</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆JustOut459
+|j|☆Orb66623
+|player|p1|JustOut459|266
+|player|p2|Orb66623|1
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|44211,240,13428,57429
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Armaldo|Armaldo, L83, F|259\/259
+|switch|p2a: Rotom|Rotom, L81|214\/214
+|turn|1
+|
+|move|p2a: Rotom|Volt Switch|p1a: Armaldo
+|-damage|p1a: Armaldo|157\/259
+|
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302\/302|[from]move: Volt Switch
+|move|p1a: Armaldo|Stealth Rock|p2a: Mudsdale
+|-sidestart|p2: Orb66623|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Armaldo|Toxic|p2a: Mudsdale
+|-status|p2a: Mudsdale|tox
+|move|p2a: Mudsdale|Stealth Rock|p1a: Armaldo
+|-sidestart|p1: JustOut459|move: Stealth Rock
+|
+|-damage|p2a: Mudsdale|284\/302 tox|[from] psn
+|upkeep
+|turn|3
+|
+|switch|p1a: Vikavolt|Vikavolt, L81, F|257\/257
+|-damage|p1a: Vikavolt|193\/257|[from] Stealth Rock
+|move|p2a: Mudsdale|Earthquake|p1a: Vikavolt
+|-immune|p1a: Vikavolt|[msg]|[from] ability: Levitate
+|
+|-heal|p2a: Mudsdale|302\/302 tox|[from] item: Leftovers
+|-damage|p2a: Mudsdale|266\/302 tox|[from] psn
+|upkeep
+|turn|4
+|
+|move|p1a: Vikavolt|Energy Ball|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|30\/302 tox
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Rock Slide|p1a: Vikavolt
+|-supereffective|p1a: Vikavolt
+|-damage|p1a: Vikavolt|73\/257
+|
+|-heal|p2a: Mudsdale|48\/302 tox|[from] item: Leftovers
+|-damage|p2a: Mudsdale|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Mudsdale
+|
+|switch|p2a: Rotom|Rotom, L81|214\/214
+|-damage|p2a: Rotom|188\/214|[from] Stealth Rock
+|turn|5
+|
+|move|p2a: Rotom|Shadow Ball|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|
+|switch|p1a: Raticate|Raticate-Alola, L83, F|260\/260
+|-damage|p1a: Raticate|228\/260|[from] Stealth Rock
+|turn|6
+|
+|switch|p2a: Stoutland|Stoutland, L83, F|277\/277
+|-damage|p2a: Stoutland|243\/277|[from] Stealth Rock
+|-ability|p2a: Stoutland|Intimidate|boost
+|-unboost|p1a: Raticate|atk|1
+|move|p1a: Raticate|Knock Off|p2a: Stoutland
+|-crit|p2a: Stoutland
+|-damage|p2a: Stoutland|27\/277
+|-enditem|p2a: Stoutland|Choice Scarf|[from] move: Knock Off|[of] p1a: Raticate
+|-damage|p1a: Raticate|202\/260|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|move|p1a: Raticate|Sucker Punch|p2a: Stoutland
+|-damage|p2a: Stoutland|0 fnt
+|-damage|p1a: Raticate|176\/260|[from] item: Life Orb
+|faint|p2a: Stoutland
+|
+|upkeep
+|
+|switch|p2a: Jolteon|Jolteon, L79, F|232\/232
+|-damage|p2a: Jolteon|203\/232|[from] Stealth Rock
+|turn|8
+|
+|switch|p1a: Zygarde|Zygarde-10%, L79|215\/215
+|-damage|p1a: Zygarde|202\/215|[from] Stealth Rock
+|-ability|p1a: Zygarde|Aura Break
+|move|p2a: Jolteon|Signal Beam|p1a: Zygarde
+|-damage|p1a: Zygarde|124\/215
+|-damage|p2a: Jolteon|180\/232|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|move|p2a: Jolteon|Hidden Power|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|-damage|p2a: Jolteon|157\/232|[from] item: Life Orb
+|faint|p1a: Zygarde
+|
+|upkeep
+|
+|switch|p1a: Raticate|Raticate-Alola, L83, F|176\/260
+|-damage|p1a: Raticate|144\/260|[from] Stealth Rock
+|turn|10
+|
+|move|p1a: Raticate|Sucker Punch|p2a: Jolteon
+|-damage|p2a: Jolteon|9\/232
+|-damage|p1a: Raticate|118\/260|[from] item: Life Orb
+|move|p2a: Jolteon|Signal Beam|p1a: Raticate
+|-supereffective|p1a: Raticate
+|-damage|p1a: Raticate|0 fnt
+|-damage|p2a: Jolteon|0 fnt|[from] item: Life Orb
+|faint|p1a: Raticate
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|switch|p2a: Rotom|Rotom, L81|188\/214
+|switch|p1a: Armaldo|Armaldo, L83, F|157\/259
+|-damage|p2a: Rotom|162\/214|[from] Stealth Rock
+|-damage|p1a: Armaldo|93\/259|[from] Stealth Rock
+|turn|11
+|
+|move|p2a: Rotom|Shadow Ball|p1a: Armaldo
+|-damage|p1a: Armaldo|0 fnt
+|faint|p1a: Armaldo
+|
+|upkeep
+|
+|switch|p1a: Tornadus|Tornadus-Therian, L76, M|245\/245
+|-damage|p1a: Tornadus|184\/245|[from] Stealth Rock
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Orb66623)
+|
+|move|p1a: Tornadus|Air Slash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|111\/214
+|-damage|p1a: Tornadus|160\/245|[from] item: Life Orb
+|cant|p2a: Rotom|flinch
+|
+|upkeep
+|turn|13
+|
+|move|p1a: Tornadus|Air Slash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|59\/214
+|-damage|p1a: Tornadus|136\/245|[from] item: Life Orb
+|move|p2a: Rotom|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|1\/245
+|
+|upkeep
+|turn|14
+|
+|switch|p2a: Vespiquen|Vespiquen, L83, F|251\/251
+|-ability|p2a: Vespiquen|Unnerve|p1: JustOut459
+|-damage|p2a: Vespiquen|126\/251|[from] Stealth Rock
+|move|p1a: Tornadus|Air Slash|p2a: Vespiquen|[miss]
+|-miss|p1a: Tornadus|p2a: Vespiquen
+|
+|-heal|p2a: Vespiquen|141\/251|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|move|p1a: Tornadus|Air Slash|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|0 fnt
+|-damage|p1a: Tornadus|0 fnt|[from] item: Life Orb
+|faint|p2a: Vespiquen
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|switch|p1a: Vaporeon|Vaporeon, L81, F|343\/343
+|switch|p2a: Rotom|Rotom, L81|59\/214
+|-damage|p2a: Rotom|33\/214|[from] Stealth Rock
+|-damage|p1a: Vaporeon|301\/343|[from] Stealth Rock
+|turn|16
+|
+|move|p2a: Rotom|Volt Switch|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|115\/343
+|
+|switch|p2a: Kingdra|Kingdra, L80, M|251\/251|[from]move: Volt Switch
+|-damage|p2a: Kingdra|220\/251|[from] Stealth Rock
+|move|p1a: Vaporeon|Scald|p2a: Kingdra
+|-resisted|p2a: Kingdra
+|-damage|p2a: Kingdra|199\/251
+|-status|p2a: Kingdra|brn
+|
+|-heal|p1a: Vaporeon|136\/343|[from] item: Leftovers
+|-damage|p2a: Kingdra|184\/251 brn|[from] brn
+|upkeep
+|turn|17
+|
+|move|p2a: Kingdra|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|18\/343
+|-unboost|p2a: Kingdra|spa|2
+|move|p1a: Vaporeon|Ice Beam|p2a: Kingdra
+|-damage|p2a: Kingdra|117\/251 brn
+|
+|-heal|p1a: Vaporeon|39\/343|[from] item: Leftovers
+|-damage|p2a: Kingdra|102\/251 brn|[from] brn
+|upkeep
+|turn|18
+|
+|move|p2a: Kingdra|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|-unboost|p2a: Kingdra|spa|2
+|faint|p1a: Vaporeon
+|
+|win|Orb66623
+|raw|JustOut459's rating: 1661 &rarr; <strong>1639<\/strong><br \/>(-22 for losing)
+|raw|Orb66623's rating: 1632 &rarr; <strong>1654<\/strong><br \/>(+22 for winning)
+|l|☆JustOut459
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆JustOut459 and ☆Orb66623 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between JustOut459 and Orb66623!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Armaldo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 sent out <strong>Rotom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Armaldo lost <abbr title="−102/259">39.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to Orb66623!<br></div><div class="battle-history">Orb66623 sent out <strong>Mudsdale</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mudsdale was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo, come back!<br></div><div class="battle-history">Go! <strong>Vikavolt</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vikavolt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Earthquake</strong>!<br></div><div class="battle-history">[Vikavolt's Levitate]<br><small>It doesn't affect Vikavolt...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mudsdale restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mudsdale was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vikavolt used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−236/302">78.1%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Mudsdale's Stamina]<br></div><div class="battle-history"><small>The opposing Mudsdale's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vikavolt lost <abbr title="−120/257">46.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mudsdale restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mudsdale was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 sent out <strong>Rotom</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Rotom!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Vikavolt lost <abbr title="−73/257">28.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vikavolt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Raticate (<strong>Raticate-Alola</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Raticate!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 withdrew Rotom!<br></div><div class="battle-history">Orb66623 sent out <strong>Stoutland</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Stoutland!</small><br></div><div class="battle-history">[The opposing Stoutland's Intimidate]<br></div><div class="battle-history"><small>Raticate's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raticate used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Stoutland lost <abbr title="−216/277">78.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Raticate knocked off the opposing Stoutland's Choice Scarf!</small><br></div><div class="battle-history"><small>Raticate lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raticate used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Stoutland lost <abbr title="−27/277">9.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Raticate lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stoutland fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 sent out <strong>Jolteon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Jolteon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raticate, come back!<br></div><div class="battle-history">Go! Zygarde (<strong>Zygarde-10%</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Zygarde!</small><br></div><div class="battle-history">[Zygarde's Aura Break]<br><small>Zygarde reversed all other Pokémon's auras!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jolteon used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>(Zygarde lost <abbr title="−78/215">36.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Jolteon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jolteon used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zygarde lost <abbr title="−124/215">57.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Jolteon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zygarde fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Raticate (<strong>Raticate-Alola</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Raticate!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raticate used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Jolteon lost <abbr title="−148/232">63.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Raticate lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jolteon used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Raticate lost <abbr title="−118/260">45.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Jolteon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raticate fainted!<br></div><div class="battle-history">The opposing Jolteon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 sent out <strong>Rotom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Armaldo</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Rotom!</small><br></div><div class="battle-history"><small>Pointed stones dug into Armaldo!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Armaldo lost <abbr title="−93/259">35.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Tornadus (<strong>Tornadus-Therian</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Tornadus!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Orb66623)</div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−51/214">23.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−52/214">24.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Tornadus lost <abbr title="−135/245">55.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 withdrew Rotom!<br></div><div class="battle-history">Orb66623 sent out <strong>Vespiquen</strong>!<br></div><div class="battle-history">[The opposing Vespiquen's Unnerve]<br><small>Your team is too nervous to eat Berries!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Vespiquen!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>The opposing Vespiquen avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vespiquen restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Vespiquen lost <abbr title="−141/251">56.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vespiquen fainted!<br></div><div class="battle-history">Tornadus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Orb66623 sent out <strong>Rotom</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Rotom!</small><br></div><div class="battle-history"><small>Pointed stones dug into Vaporeon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−186/343">54.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to Orb66623!<br></div><div class="battle-history">Orb66623 sent out <strong>Kingdra</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Kingdra!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Kingdra lost <abbr title="−21/251">8.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kingdra was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Kingdra was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kingdra used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−118/343">34.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kingdra's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Kingdra lost <abbr title="−67/251">26.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Kingdra was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kingdra used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−39/343">11.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kingdra's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Orb66623</strong> won the battle!<br></div><div class="chat">JustOut459's rating: 1661 → <strong>1639</strong><br>(-22 for losing)</div><div class="chat">Orb66623's rating: 1632 → <strong>1654</strong><br>(+22 for winning)</div><div class="chat"><small>☆JustOut459 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

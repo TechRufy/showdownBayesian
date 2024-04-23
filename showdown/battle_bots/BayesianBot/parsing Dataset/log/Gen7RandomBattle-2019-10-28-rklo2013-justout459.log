@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: rklo2013 vs. JustOut459</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-999947810" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/rklo2013" class="subtle" target="_blank">rklo2013</a> vs. <a href="http://pokemonshowdown.com/users/justout459" class="subtle" target="_blank">JustOut459</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆rklo2013
+|j|☆JustOut459
+|player|p1|rklo2013|triathletebikerm-gen3|1876
+|player|p2|JustOut459|290|1851
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Flygon|Flygon, L84, F|272\/272
+|switch|p2a: Xerneas|Xerneas, L78|325\/325
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|1
+|
+|switch|p1a: Crobat|Crobat, L82, M|274\/274
+|switch|p2a: Serperior|Serperior, L80, F|251\/251
+|
+|upkeep
+|turn|2
+|
+|switch|p2a: Electivire|Electivire, L89, M|278\/278
+|move|p1a: Crobat|Taunt|p2a: Electivire
+|-start|p2a: Electivire|move: Taunt
+|
+|upkeep
+|turn|3
+|
+|move|p1a: Crobat|U-turn|p2a: Electivire
+|-damage|p2a: Electivire|222\/278
+|
+|switch|p1a: Flygon|Flygon, L84, F|272\/272
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-damage|p1a: Flygon|175\/272
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rklo2013)
+|
+|switch|p2a: Qwilfish|Qwilfish, L88, F|258\/258
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Flygon|atk|1
+|move|p1a: Flygon|Dragon Dance|p1a: Flygon
+|-boost|p1a: Flygon|atk|1
+|-boost|p1a: Flygon|spe|1
+|
+|upkeep
+|turn|5
+|inactive|rklo2013 has 120 seconds left.
+|
+|move|p1a: Flygon|Dragon Dance|p1a: Flygon
+|-boost|p1a: Flygon|atk|1
+|-boost|p1a: Flygon|spe|1
+|move|p2a: Qwilfish|Liquidation|p1a: Flygon
+|-damage|p1a: Flygon|79\/272
+|
+|upkeep
+|turn|6
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|215\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Qwilfish|Liquidation|p1a: Flygon
+|-damage|p1a: Flygon|107\/272
+|
+|upkeep
+|turn|7
+|
+|switch|p2a: Serperior|Serperior, L80, F|251\/251
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|243\/272
+|-singleturn|p1a: Flygon|move: Roost
+|
+|upkeep
+|turn|8
+|inactive|JustOut459 has 120 seconds left.
+|
+|-zpower|p1a: Flygon
+|move|p1a: Flygon|Devastating Drake|p2a: Serperior|[zeffect]
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|upkeep
+|inactive|JustOut459 has 120 seconds left.
+|
+|switch|p2a: Ambipom|Ambipom, L86, F|269\/269
+|turn|9
+|
+|move|p2a: Ambipom|Fake Out|p1a: Flygon
+|-damage|p1a: Flygon|149\/272
+|-damage|p2a: Ambipom|243\/269|[from] item: Life Orb
+|cant|p1a: Flygon|flinch
+|
+|upkeep
+|turn|10
+|
+|switch|p2a: Qwilfish|Qwilfish, L88, F|258\/258
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Flygon|atk|1
+|move|p1a: Flygon|Earthquake|p2a: Qwilfish
+|-supereffective|p2a: Qwilfish
+|-damage|p2a: Qwilfish|42\/258
+|
+|-heal|p2a: Qwilfish|58\/258|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|switch|p2a: Ambipom|Ambipom, L86, F|243\/269
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|272\/272
+|-singleturn|p1a: Flygon|move: Roost
+|
+|upkeep
+|turn|12
+|
+|move|p2a: Ambipom|Fake Out|p1a: Flygon
+|-damage|p1a: Flygon|173\/272
+|-damage|p2a: Ambipom|217\/269|[from] item: Life Orb
+|cant|p1a: Flygon|flinch
+|
+|upkeep
+|turn|13
+|
+|switch|p2a: Qwilfish|Qwilfish, L88, F|58\/258
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Flygon|atk|1
+|move|p1a: Flygon|Dragon Dance|p1a: Flygon
+|-boost|p1a: Flygon|atk|1
+|-boost|p1a: Flygon|spe|1
+|
+|-heal|p2a: Qwilfish|74\/258|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|272\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Qwilfish|Taunt|p1a: Flygon
+|-start|p1a: Flygon|move: Taunt
+|
+|-heal|p2a: Qwilfish|90\/258|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|switch|p2a: Ambipom|Ambipom, L86, F|217\/269
+|move|p1a: Flygon|Earthquake|p2a: Ambipom
+|-damage|p2a: Ambipom|87\/269
+|
+|upkeep
+|turn|16
+|
+|move|p2a: Ambipom|Fake Out|p1a: Flygon
+|-damage|p1a: Flygon|181\/272
+|-damage|p2a: Ambipom|61\/269|[from] item: Life Orb
+|cant|p1a: Flygon|flinch
+|
+|upkeep
+|turn|17
+|
+|switch|p2a: Qwilfish|Qwilfish, L88, F|90\/258
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Flygon|atk|1
+|move|p1a: Flygon|Earthquake|p2a: Qwilfish
+|-supereffective|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|
+|-end|p1a: Flygon|move: Taunt
+|upkeep
+|
+|switch|p2a: Xerneas|Xerneas, L78|325\/325
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|18
+|
+|move|p1a: Flygon|Earthquake|p2a: Xerneas
+|-damage|p2a: Xerneas|244\/325
+|move|p2a: Xerneas|Geomancy||[still]
+|-prepare|p2a: Xerneas|Geomancy|p2a: Xerneas
+|-enditem|p2a: Xerneas|Power Herb
+|-anim|p2a: Xerneas|Geomancy|p2a: Xerneas
+|-boost|p2a: Xerneas|spa|2
+|-boost|p2a: Xerneas|spd|2
+|-boost|p2a: Xerneas|spe|2
+|
+|upkeep
+|turn|19
+|
+|switch|p1a: Crobat|Crobat, L82, M|274\/274
+|move|p2a: Xerneas|Moonblast|p1a: Crobat
+|-resisted|p1a: Crobat
+|-damage|p1a: Crobat|117\/274
+|-unboost|p1a: Crobat|spa|1
+|
+|-heal|p1a: Crobat|134\/274|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|move|p2a: Xerneas|Moonblast|p1a: Crobat
+|-resisted|p1a: Crobat
+|-damage|p1a: Crobat|0 fnt
+|faint|p1a: Crobat
+|
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh, L78|293\/293
+|turn|21
+|
+|move|p2a: Xerneas|Moonblast|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|190\/293
+|-unboost|p1a: Ho-Oh|spa|1
+|move|p1a: Ho-Oh|Brave Bird|p2a: Xerneas
+|-damage|p2a: Xerneas|99\/325
+|-damage|p1a: Ho-Oh|142\/293|[from] Recoil
+|
+|-heal|p1a: Ho-Oh|160\/293|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|switch|p2a: Electivire|Electivire, L89, M|222\/278
+|switch|p1a: Flygon|Flygon, L84, F|181\/272
+|
+|upkeep
+|turn|23
+|
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-damage|p1a: Flygon|79\/272
+|move|p1a: Flygon|Dragon Dance|p1a: Flygon
+|-boost|p1a: Flygon|atk|1
+|-boost|p1a: Flygon|spe|1
+|
+|upkeep
+|turn|24
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|215\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-crit|p1a: Flygon
+|-damage|p1a: Flygon|71\/272
+|
+|upkeep
+|turn|25
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|207\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-damage|p1a: Flygon|112\/272
+|
+|upkeep
+|turn|26
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|248\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-damage|p1a: Flygon|137\/272
+|
+|upkeep
+|turn|27
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|272\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Electivire|Cross Chop|p1a: Flygon
+|-damage|p1a: Flygon|173\/272
+|
+|upkeep
+|turn|28
+|
+|move|p1a: Flygon|Earthquake|p2a: Electivire
+|-supereffective|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|
+|upkeep
+|
+|switch|p2a: Ambipom|Ambipom, L86, F|61\/269
+|turn|29
+|
+|move|p2a: Ambipom|Fake Out|p1a: Flygon
+|-damage|p1a: Flygon|70\/272
+|-damage|p2a: Ambipom|35\/269|[from] item: Life Orb
+|cant|p1a: Flygon|flinch
+|
+|upkeep
+|turn|30
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|206\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Ambipom|Return|p1a: Flygon
+|-damage|p1a: Flygon|58\/272
+|-damage|p2a: Ambipom|9\/269|[from] item: Life Orb
+|
+|upkeep
+|turn|31
+|
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|194\/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Ambipom|Return|p1a: Flygon
+|-damage|p1a: Flygon|22\/272
+|-damage|p2a: Ambipom|0 fnt|[from] item: Life Orb
+|faint|p2a: Ambipom
+|
+|upkeep
+|
+|switch|p2a: Toxicroak|Toxicroak, L84, F|277\/277
+|turn|32
+|
+|move|p2a: Toxicroak|Sucker Punch|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|-damage|p2a: Toxicroak|250\/277|[from] item: Life Orb
+|faint|p1a: Flygon
+|
+|upkeep
+|
+|switch|p1a: Delphox|Delphox, L86, F|269\/269
+|turn|33
+|
+|move|p2a: Toxicroak|Sucker Punch||[still]
+|-fail|p2a: Toxicroak
+|move|p1a: Delphox|Calm Mind|p1a: Delphox
+|-boost|p1a: Delphox|spa|1
+|-boost|p1a: Delphox|spd|1
+|
+|upkeep
+|turn|34
+|
+|move|p2a: Toxicroak|Sucker Punch|p1a: Delphox
+|-supereffective|p1a: Delphox
+|-damage|p1a: Delphox|118\/269
+|-damage|p2a: Toxicroak|223\/277|[from] item: Life Orb
+|move|p1a: Delphox|Psyshock|p2a: Toxicroak
+|-supereffective|p2a: Toxicroak
+|-damage|p2a: Toxicroak|0 fnt
+|-damage|p1a: Delphox|92\/269|[from] item: Life Orb
+|faint|p2a: Toxicroak
+|
+|upkeep
+|
+|switch|p2a: Xerneas|Xerneas, L78|99\/325
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|35
+|
+|move|p1a: Delphox|Psyshock|p2a: Xerneas
+|-damage|p2a: Xerneas|0 fnt
+|-damage|p1a: Delphox|66\/269|[from] item: Life Orb
+|faint|p2a: Xerneas
+|
+|win|rklo2013
+|l|☆JustOut459
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆rklo2013 and ☆JustOut459 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between rklo2013 and JustOut459!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 sent out <strong>Flygon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Xerneas</strong>!<br></div><div class="battle-history">[Xerneas's Fairy Aura]<br><small>Xerneas is radiating a fairy aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 withdrew Flygon!<br></div><div class="battle-history">rklo2013 sent out <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas, come back!<br></div><div class="battle-history">Go! <strong>Serperior</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Serperior, come back!<br></div><div class="battle-history">Go! <strong>Electivire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Electivire fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Electivire lost <abbr title="−56/278">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 withdrew Crobat!<br></div><div class="battle-history">rklo2013 sent out <strong>Flygon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−97/272">35.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by rklo2013)</div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire, come back!<br></div><div class="battle-history">Go! <strong>Qwilfish</strong>!<br></div><div class="battle-history">[Qwilfish's Intimidate]<br></div><div class="battle-history"><small>The opposing Flygon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Flygon's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Flygon's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">rklo2013 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Flygon's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Flygon's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−96/272">35.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−108/272">39.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish, come back!<br></div><div class="battle-history">Go! <strong>Serperior</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Flygon surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Flygon unleashes its full-force Z-Move!</small><br>The opposing Flygon used <strong>Devastating Drake</strong>!<br></div><div class="battle-history"><small>(Serperior lost <abbr title="−251/251">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Serperior fainted!<br></div><div class="chat message-error">JustOut459 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ambipom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−94/272">34.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom, come back!<br></div><div class="battle-history">Go! <strong>Qwilfish</strong>!<br></div><div class="battle-history">[Qwilfish's Intimidate]<br></div><div class="battle-history"><small>The opposing Flygon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Qwilfish lost <abbr title="−216/258">83.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish, come back!<br></div><div class="battle-history">Go! <strong>Ambipom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−99/272">36.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom, come back!<br></div><div class="battle-history">Go! <strong>Qwilfish</strong>!<br></div><div class="battle-history">[Qwilfish's Intimidate]<br></div><div class="battle-history"><small>The opposing Flygon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Flygon's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Flygon's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Flygon fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish, come back!<br></div><div class="battle-history">Go! <strong>Ambipom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Ambipom lost <abbr title="−130/269">48.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−91/272">33.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom, come back!<br></div><div class="battle-history">Go! <strong>Qwilfish</strong>!<br></div><div class="battle-history">[Qwilfish's Intimidate]<br></div><div class="battle-history"><small>The opposing Flygon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Qwilfish lost <abbr title="−90/258">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Qwilfish fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Flygon shook off the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Xerneas</strong>!<br></div><div class="battle-history">[Xerneas's Fairy Aura]<br><small>Xerneas is radiating a fairy aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Xerneas lost <abbr title="−81/325">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas used <strong>Geomancy</strong>!<br></div><div class="battle-history">Xerneas is absorbing power!<br></div><div class="battle-history"><small>Xerneas became fully charged due to its Power Herb!</small><br></div><div class="battle-history"><small>Xerneas's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Xerneas's Sp. Def rose sharply!</small><br></div><div class="battle-history"><small>Xerneas's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 withdrew Flygon!<br></div><div class="battle-history">rklo2013 sent out <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Crobat lost <abbr title="−157/274">57.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Crobat's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Crobat lost <abbr title="−134/274">48.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 sent out <strong>Ho-Oh</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ho-Oh lost <abbr title="−103/293">35.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ho-Oh used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Xerneas lost <abbr title="−145/325">44.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas, come back!<br></div><div class="battle-history">Go! <strong>Electivire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 withdrew Ho-Oh!<br></div><div class="battle-history">rklo2013 sent out <strong>Flygon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−102/272">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Flygon's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Flygon's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−144/272">52.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−95/272">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−111/272">40.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−99/272">36.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Electivire lost <abbr title="−222/278">79.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electivire fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ambipom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−103/272">37.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−148/272">54.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Flygon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−172/272">63.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ambipom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ambipom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Flygon lost <abbr title="−22/272">8.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Flygon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rklo2013 sent out <strong>Delphox</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delphox used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Delphox's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Delphox's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Delphox lost <abbr title="−151/269">56.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Toxicroak lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delphox used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−223/277">80.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Delphox lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Xerneas</strong>!<br></div><div class="battle-history">[Xerneas's Fairy Aura]<br><small>Xerneas is radiating a fairy aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delphox used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Xerneas lost <abbr title="−99/325">30.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Delphox lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Xerneas fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>rklo2013</strong> won the battle!<br></div><div class="chat"><small>☆JustOut459 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
