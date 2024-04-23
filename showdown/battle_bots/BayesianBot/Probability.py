@@ -70,9 +70,9 @@ def get_probability_Move(state, move):
                 'Enemy HP': int((state.opponent.active.hp / state.opponent.active.maxhp) * 100),
                 "Pokemon HP": int((state.user.active.hp / state.user.active.maxhp) * 100),
                 "Category": moves[move.translate(mapping_table).lower()]["category"],
-                "Status enemy": state.opponent.active.status if state.opponent.active.status is not None else "normal"
+                "Status enemy": state.opponent.active.status if state.opponent.active.status is not None else "normal",
+                "Boost": (state.user.active.attack_boost + state.user.active.defense_boost + state.user.active.special_attack_boost + state.user.active.special_defense_boost + state.user.active.speed_boost + state.user.active.accuracy_boost + state.user.active.evasion_boost)
                 }
-    print(move)
     result = run_query(target_var='Choose', evidence=EVIDENCE)
     return result
 
