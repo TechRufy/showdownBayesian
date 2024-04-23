@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: ZenHeat vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-821749112" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/zenheat" class="subtle" target="_blank">ZenHeat</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆ZenHeat
+|j|☆35Q71N
+|player|p1|ZenHeat|163
+|player|p2|35Q71N|65
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|51818,22200,57502,2104
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Moltres|Moltres, L77|265\/265
+|switch|p2a: Pinsir|Pinsir, L75, M|221\/221
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ZenHeat)
+|
+|switch|p2a: Tornadus|Tornadus-Therian, L75, M|242\/242
+|move|p1a: Moltres|Substitute|p1a: Moltres
+|-start|p1a: Moltres|Substitute
+|-damage|p1a: Moltres|199\/265
+|
+|-heal|p1a: Moltres|215\/265|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|move|p2a: Tornadus|Knock Off|p1a: Moltres
+|-end|p1a: Moltres|Substitute
+|-damage|p2a: Tornadus|218\/242|[from] item: Life Orb
+|move|p1a: Moltres|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-heal|p1a: Moltres|231\/265|[from] item: Leftovers
+|-damage|p2a: Tornadus|203\/242 tox|[from] psn
+|upkeep
+|turn|3
+|
+|switch|p1a: Clefable|Clefable, L75, F|266\/266
+|move|p2a: Tornadus|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|219\/266
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|-damage|p2a: Tornadus|179\/242 tox|[from] item: Life Orb
+|
+|-damage|p2a: Tornadus|149\/242 tox|[from] psn
+|upkeep
+|turn|4
+|
+|move|p2a: Tornadus|Taunt|p1a: Clefable
+|-start|p1a: Clefable|move: Taunt
+|cant|p1a: Clefable|move: Taunt|Stealth Rock
+|
+|-damage|p2a: Tornadus|104\/242 tox|[from] psn
+|upkeep
+|turn|5
+|
+|switch|p2a: Vileplume|Vileplume, L81, F|254\/254
+|switch|p1a: Qwilfish|Qwilfish, L83, M|244\/244
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Vileplume|atk|1
+|
+|upkeep
+|turn|6
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p1a: Moltres|Moltres, L77|231\/265
+|move|p2a: Vileplume|Sleep Powder|p1a: Moltres
+|-status|p1a: Moltres|slp
+|
+|-heal|p1a: Moltres|247\/265 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|switch|p2a: Tornadus|Tornadus-Therian, L75, M|184\/242 tox
+|cant|p1a: Moltres|slp
+|
+|-heal|p1a: Moltres|263\/265 slp|[from] item: Leftovers
+|-damage|p2a: Tornadus|169\/242 tox|[from] psn
+|upkeep
+|turn|8
+|
+|switch|p1a: Clefable|Clefable, L75, F|219\/266
+|move|p2a: Tornadus|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|188\/266
+|-damage|p2a: Tornadus|145\/242 tox|[from] item: Life Orb
+|
+|-damage|p2a: Tornadus|115\/242 tox|[from] psn
+|upkeep
+|turn|9
+|
+|move|p2a: Tornadus|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|44\/266
+|-damage|p2a: Tornadus|91\/242 tox|[from] item: Life Orb
+|move|p1a: Clefable|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: 35Q71N|move: Stealth Rock
+|
+|-damage|p2a: Tornadus|46\/242 tox|[from] psn
+|upkeep
+|turn|10
+|
+|move|p2a: Tornadus|Heat Wave|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|-damage|p2a: Tornadus|22\/242 tox|[from] item: Life Orb
+|faint|p1a: Clefable
+|
+|-damage|p2a: Tornadus|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Tornadus
+|
+|switch|p2a: Shaymin|Shaymin, L79|288\/288
+|switch|p1a: Ledian|Ledian, L83, M|227\/227
+|-damage|p2a: Shaymin|252\/288|[from] Stealth Rock
+|turn|11
+|
+|move|p2a: Shaymin|Substitute|p2a: Shaymin
+|-start|p2a: Shaymin|Substitute
+|-damage|p2a: Shaymin|180\/288
+|move|p1a: Ledian|Light Screen|p1a: Ledian
+|-sidestart|p1: ZenHeat|move: Light Screen
+|
+|-heal|p2a: Shaymin|198\/288|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Ledian|[miss]
+|-miss|p2a: Shaymin|p1a: Ledian
+|move|p1a: Ledian|Knock Off|p2a: Shaymin
+|-activate|p2a: Shaymin|move: Substitute|[damage]
+|
+|-heal|p2a: Shaymin|216\/288|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Ledian
+|-resisted|p1a: Ledian
+|-damage|p1a: Ledian|215\/227
+|-unboost|p1a: Ledian|spd|2
+|move|p1a: Ledian|Knock Off|p2a: Shaymin
+|-activate|p2a: Shaymin|move: Substitute|[damage]
+|
+|-heal|p2a: Shaymin|234\/288|[from] item: Leftovers
+|-heal|p1a: Ledian|227\/227|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|move|p2a: Shaymin|Psychic|p1a: Ledian
+|-damage|p1a: Ledian|176\/227
+|move|p1a: Ledian|Knock Off|p2a: Shaymin
+|-end|p2a: Shaymin|Substitute
+|
+|-heal|p2a: Shaymin|252\/288|[from] item: Leftovers
+|-heal|p1a: Ledian|190\/227|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|move|p2a: Shaymin|Substitute|p2a: Shaymin
+|-start|p2a: Shaymin|Substitute
+|-damage|p2a: Shaymin|180\/288
+|move|p1a: Ledian|U-turn|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-end|p2a: Shaymin|Substitute
+|
+|switch|p1a: Muk|Muk-Alola, L77, F|288\/288|[from]move: U-turn
+|
+|-heal|p2a: Shaymin|198\/288|[from] item: Leftovers
+|-sideend|p1: ZenHeat|move: Light Screen
+|upkeep
+|turn|16
+|
+|switch|p2a: Vileplume|Vileplume, L81, F|254\/254
+|-damage|p2a: Vileplume|223\/254|[from] Stealth Rock
+|move|p1a: Muk|Gunk Shot|p2a: Vileplume
+|-damage|p2a: Vileplume|39\/254
+|
+|-heal|p2a: Vileplume|54\/254|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|switch|p1a: Ledian|Ledian, L83, M|190\/227
+|move|p2a: Vileplume|Hidden Power|p1a: Ledian
+|-supereffective|p1a: Ledian
+|-damage|p1a: Ledian|120\/227
+|
+|-heal|p1a: Ledian|134\/227|[from] item: Leftovers
+|-heal|p2a: Vileplume|69\/254|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|move|p1a: Ledian|Light Screen|p1a: Ledian
+|-sidestart|p1: ZenHeat|move: Light Screen
+|move|p2a: Vileplume|Sludge Bomb|p1a: Ledian
+|-damage|p1a: Ledian|95\/227
+|
+|-heal|p1a: Ledian|109\/227|[from] item: Leftovers
+|-heal|p2a: Vileplume|84\/254|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|move|p1a: Ledian|U-turn|p2a: Vileplume
+|-damage|p2a: Vileplume|44\/254
+|
+|switch|p1a: Qwilfish|Qwilfish, L83, M|244\/244|[from]move: U-turn
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Vileplume|atk|1
+|move|p2a: Vileplume|Sludge Bomb|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-crit|p1a: Qwilfish
+|-damage|p1a: Qwilfish|133\/244
+|
+|-heal|p1a: Qwilfish|148\/244|[from] item: Black Sludge
+|-heal|p2a: Vileplume|59\/254|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|move|p1a: Qwilfish|Spikes|p2a: Vileplume
+|-sidestart|p2: 35Q71N|Spikes
+|move|p2a: Vileplume|Sludge Bomb|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|116\/244
+|
+|-heal|p1a: Qwilfish|131\/244|[from] item: Black Sludge
+|-heal|p2a: Vileplume|74\/254|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|move|p1a: Qwilfish|Spikes|p2a: Vileplume
+|-sidestart|p2: 35Q71N|Spikes
+|move|p2a: Vileplume|Sludge Bomb|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|95\/244
+|
+|-heal|p1a: Qwilfish|110\/244|[from] item: Black Sludge
+|-heal|p2a: Vileplume|89\/254|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|switch|p2a: Shaymin|Shaymin, L79|198\/288
+|-damage|p2a: Shaymin|150\/288|[from] Spikes
+|-damage|p2a: Shaymin|114\/288|[from] Stealth Rock
+|move|p1a: Qwilfish|Spikes|p2a: Shaymin
+|-sidestart|p2: 35Q71N|Spikes
+|
+|-heal|p2a: Shaymin|132\/288|[from] item: Leftovers
+|-heal|p1a: Qwilfish|125\/244|[from] item: Black Sludge
+|-sideend|p1: ZenHeat|move: Light Screen
+|upkeep
+|turn|23
+|
+|switch|p1a: Muk|Muk-Alola, L77, F|288\/288
+|move|p2a: Shaymin|Psychic|p1a: Muk
+|-immune|p1a: Muk|[msg]
+|
+|-heal|p2a: Shaymin|150\/288|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p2a: Shaymin|Substitute|p2a: Shaymin
+|-start|p2a: Shaymin|Substitute
+|-damage|p2a: Shaymin|78\/288
+|move|p1a: Muk|Ice Punch|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-end|p2a: Shaymin|Substitute
+|
+|-heal|p2a: Shaymin|96\/288|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p2a: Shaymin|Seed Flare|p1a: Muk
+|-resisted|p1a: Muk
+|-damage|p1a: Muk|231\/288
+|-unboost|p1a: Muk|spd|2
+|move|p1a: Muk|Ice Punch|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|switch|p2a: Vileplume|Vileplume, L81, F|89\/254
+|-damage|p2a: Vileplume|58\/254|[from] Stealth Rock
+|-damage|p2a: Vileplume|0 fnt|[from] Spikes
+|faint|p2a: Vileplume
+|
+|switch|p2a: Castform|Castform, L83, F|251\/251
+|-damage|p2a: Castform|220\/251|[from] Stealth Rock
+|-damage|p2a: Castform|158\/251|[from] Spikes
+|turn|26
+|
+|switch|p1a: Qwilfish|Qwilfish, L83, M|125\/244
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Castform|atk|1
+|move|p2a: Castform|Sunny Day|p2a: Castform
+|-weather|SunnyDay
+|-formechange|p2a: Castform|Castform-Sunny|[msg]|[from] ability: Forecast
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Qwilfish|140\/244|[from] item: Black Sludge
+|upkeep
+|turn|27
+|
+|switch|p1a: Moltres|Moltres, L77|263\/265 slp
+|move|p2a: Castform|Solar Beam|p1a: Moltres|[still]
+|-prepare|p2a: Castform|Solar Beam|p1a: Moltres
+|-anim|p2a: Castform|Solar Beam|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|246\/265 slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|262\/265 slp|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|cant|p1a: Moltres|slp
+|move|p2a: Castform|Weather Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|152\/265 slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|168\/265 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|cant|p1a: Moltres|slp
+|move|p2a: Castform|Weather Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|100\/265 slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|116\/265 slp|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|-curestatus|p1a: Moltres|slp|[msg]
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|249\/265
+|move|p2a: Castform|Weather Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|185\/265
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|201\/265|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|move|p1a: Moltres|Toxic|p2a: Castform
+|-status|p2a: Castform|tox
+|move|p2a: Castform|Ice Beam|p1a: Moltres
+|-damage|p1a: Moltres|146\/265
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|162\/265|[from] item: Leftovers
+|-damage|p2a: Castform|143\/251 tox|[from] psn
+|upkeep
+|turn|32
+|
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|265\/265
+|move|p2a: Castform|Weather Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|194\/265
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Moltres|210\/265|[from] item: Leftovers
+|-damage|p2a: Castform|113\/251 tox|[from] psn
+|upkeep
+|turn|33
+|
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|265\/265
+|move|p2a: Castform|Ice Beam|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|237\/265
+|
+|-weather|none
+|-heal|p1a: Moltres|253\/265|[from] item: Leftovers
+|-damage|p2a: Castform|68\/251 tox|[from] psn
+|upkeep
+|-formechange|p2a: Castform|Castform|[msg]|[from] ability: Forecast
+|turn|34
+|
+|move|p1a: Moltres|Substitute|p1a: Moltres
+|-start|p1a: Moltres|Substitute
+|-damage|p1a: Moltres|187\/265
+|move|p2a: Castform|Ice Beam|p1a: Moltres
+|-crit|p1a: Moltres
+|-end|p1a: Moltres|Substitute
+|
+|-heal|p1a: Moltres|203\/265|[from] item: Leftovers
+|-damage|p2a: Castform|8\/251 tox|[from] psn
+|upkeep
+|turn|35
+|
+|move|p1a: Moltres|Substitute|p1a: Moltres
+|-start|p1a: Moltres|Substitute
+|-damage|p1a: Moltres|137\/265
+|move|p2a: Castform|Ice Beam|p1a: Moltres
+|-activate|p1a: Moltres|move: Substitute|[damage]
+|
+|-heal|p1a: Moltres|153\/265|[from] item: Leftovers
+|-damage|p2a: Castform|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Castform
+|
+|switch|p2a: Ninjask|Ninjask, L83, M|237\/237
+|-damage|p2a: Ninjask|119\/237|[from] Stealth Rock
+|turn|36
+|
+|move|p2a: Ninjask|Aerial Ace|p1a: Moltres
+|-end|p1a: Moltres|Substitute
+|move|p1a: Moltres|Fire Blast|p2a: Ninjask
+|-supereffective|p2a: Ninjask
+|-crit|p2a: Ninjask
+|-damage|p2a: Ninjask|0 fnt
+|faint|p2a: Ninjask
+|
+|-heal|p1a: Moltres|169\/265|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Pinsir|Pinsir, L75, M|221\/221
+|-damage|p2a: Pinsir|166\/221|[from] Spikes
+|-damage|p2a: Pinsir|111\/221|[from] Stealth Rock
+|turn|37
+|c|☆ZenHeat|gg
+|
+|detailschange|p2a: Pinsir|Pinsir-Mega, L75, M
+|-mega|p2a: Pinsir|Pinsir|Pinsirite
+|move|p2a: Pinsir|Swords Dance|p2a: Pinsir
+|-boost|p2a: Pinsir|atk|2
+|move|p1a: Moltres|Fire Blast|p2a: Pinsir
+|-supereffective|p2a: Pinsir
+|-damage|p2a: Pinsir|0 fnt
+|faint|p2a: Pinsir
+|
+|win|ZenHeat
+|l|☆35Q71N
+|raw|ZenHeat's rating: 1973 &rarr; <strong>1987<\/strong><br \/>(+14 for winning)
+|raw|35Q71N's rating: 1873 &rarr; <strong>1858<\/strong><br \/>(-15 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆ZenHeat and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between ZenHeat and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat sent out <strong>Moltres</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Pinsir</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by ZenHeat)</div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir, come back!<br></div><div class="battle-history">Go! Tornadus (<strong>Tornadus-Therian</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Moltres put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>The opposing Moltres's substitute faded!</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Tornadus was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Moltres!<br></div><div class="battle-history">ZenHeat sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−47/266">17.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus knocked off the opposing Clefable's Leftovers!</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Clefable fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable can't use Stealth Rock after the taunt!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Clefable!<br></div><div class="battle-history">ZenHeat sent out <strong>Qwilfish</strong>!<br></div><div class="battle-history">[The opposing Qwilfish's Intimidate]<br></div><div class="battle-history"><small>Vileplume's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Qwilfish!<br></div><div class="battle-history">ZenHeat sent out <strong>Moltres</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Moltres fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! Tornadus (<strong>Tornadus-Therian</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Moltres!<br></div><div class="battle-history">ZenHeat sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−31/266">11.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−144/266">54.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−44/266">16.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Tornadus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tornadus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tornadus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Shaymin</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat sent out <strong>Ledian</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Shaymin!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Shaymin put in a substitute!</small><br></div><div class="battle-history"><small>(Shaymin lost <abbr title="−72/288">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made the opposing team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>The opposing Ledian avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Shaymin!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ledian lost <abbr title="−12/227">5.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ledian's Sp. Def fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Shaymin!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ledian restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Ledian lost <abbr title="−51/227">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>Shaymin's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ledian restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Shaymin put in a substitute!</small><br></div><div class="battle-history"><small>(Shaymin lost <abbr title="−72/288">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Shaymin's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian went back to ZenHeat!<br></div><div class="battle-history">ZenHeat sent out Muk (<strong>Muk-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vileplume!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−184/254">72.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Muk!<br></div><div class="battle-history">ZenHeat sent out <strong>Ledian</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Ledian lost <abbr title="−70/227">30.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ledian restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made the opposing team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Ledian lost <abbr title="−39/227">17.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ledian restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−40/254">15.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian went back to ZenHeat!<br></div><div class="battle-history">ZenHeat sent out <strong>Qwilfish</strong>!<br></div><div class="battle-history">[The opposing Qwilfish's Intimidate]<br></div><div class="battle-history"><small>Vileplume's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Qwilfish lost <abbr title="−111/244">45.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Qwilfish used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Qwilfish lost <abbr title="−32/244">13.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Qwilfish used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Qwilfish lost <abbr title="−36/244">14.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Shaymin</strong>!<br></div><div class="battle-history"><small>Shaymin was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Shaymin!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Qwilfish used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Qwilfish!<br></div><div class="battle-history">ZenHeat sent out Muk (<strong>Muk-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Muk...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Shaymin put in a substitute!</small><br></div><div class="battle-history"><small>(Shaymin lost <abbr title="−72/288">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Shaymin's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Seed Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−57/288">19.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Muk's Sp. Def fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Shaymin lost <abbr title="−96/288">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vileplume!</small><br></div><div class="battle-history"><small>Vileplume was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Castform</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Castform!</small><br></div><div class="battle-history"><small>Castform was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Muk!<br></div><div class="battle-history">ZenHeat sent out <strong>Qwilfish</strong>!<br></div><div class="battle-history">[The opposing Qwilfish's Intimidate]<br></div><div class="battle-history"><small>Castform's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Sunny Day</strong>!<br></div><div class="battle-history"><small>The sunlight turned harsh!</small><br></div><div class="battle-history">[Castform's Forecast]<br>Castform transformed!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Qwilfish restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">ZenHeat withdrew Qwilfish!<br></div><div class="battle-history">ZenHeat sent out <strong>Moltres</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Solar Beam</strong>!<br></div><div class="battle-history"><small>Castform absorbed light!</small><br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−17/265">6.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Weather Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−110/265">41.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Weather Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−68/265">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Moltres had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Weather Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−64/265">24.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Castform was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−55/265">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Moltres had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Weather Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−71/265">26.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Moltres had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−28/265">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Castform's Forecast]<br>Castform transformed!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Moltres put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>The opposing Moltres's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Moltres put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Moltres lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>The substitute took damage for the opposing Moltres!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Castform fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ninjask</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ninjask!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ninjask used <strong>Aerial Ace</strong>!<br></div><div class="battle-history"><small>The opposing Moltres's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Ninjask lost <abbr title="−119/237">50.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ninjask fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Pinsir</strong>!<br></div><div class="battle-history"><small>Pinsir was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Pinsir!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat chatmessage-zenheat"><strong style="color:#65910d"><small>☆</small><span class="username" data-name="ZenHeat">ZenHeat</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pinsir's Pinsirite is reacting to the Key Stone!</small><br>Pinsir has Mega Evolved into Mega Pinsir!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Pinsir's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Moltres used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Pinsir lost <abbr title="−111/221">50.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>ZenHeat</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">ZenHeat's rating: 1973 → <strong>1987</strong><br>(+14 for winning)</div><div class="chat">35Q71N's rating: 1873 → <strong>1858</strong><br>(-15 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

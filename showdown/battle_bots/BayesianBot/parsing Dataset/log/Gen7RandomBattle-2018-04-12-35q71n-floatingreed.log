@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. floatingreed</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-731879455" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/floatingreed" class="subtle" target="_blank">floatingreed</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆floatingreed
+|player|p1|35Q71N|1
+|player|p2|floatingreed|265
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|26965,47851,688,58691
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Necrozma|Necrozma, L79|283\/283
+|switch|p2a: Vaporeon|Vaporeon, L81, M|343\/343
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by floatingreed)
+|
+|switch|p1a: Golem|Golem-Alola, L83, F|268\/268
+|-item|p1a: Golem|Air Balloon
+|move|p2a: Vaporeon|Roar|p1a: Golem
+|drag|p1a: Noivern|Noivern, L80, M|267\/267
+|
+|upkeep
+|turn|2
+|inactive|35Q71N has 135 seconds left.
+|inactive|floatingreed has 135 seconds left.
+|
+|switch|p1a: Necrozma|Necrozma, L79|283\/283
+|switch|p2a: Cresselia|Cresselia, L79, F|319\/319
+|
+|upkeep
+|turn|3
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Golem|Golem-Alola, L83, F|268\/268
+|-item|p1a: Golem|Air Balloon
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|4
+|inactive|floatingreed has 135 seconds left.
+|
+|move|p2a: Cresselia|Psyshock|p1a: Golem
+|-damage|p1a: Golem|201\/268
+|-enditem|p1a: Golem|Air Balloon
+|move|p1a: Golem|Toxic|p2a: Cresselia
+|-status|p2a: Cresselia|tox
+|
+|-damage|p2a: Cresselia|300\/319 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Necrozma|Necrozma, L79|283\/283
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|-heal|p2a: Cresselia|319\/319 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|281\/319 tox|[from] psn
+|upkeep
+|turn|6
+|
+|move|p2a: Cresselia|Moonblast|p1a: Necrozma
+|-damage|p1a: Necrozma|183\/283
+|-unboost|p1a: Necrozma|spa|1
+|move|p1a: Necrozma|Calm Mind|p1a: Necrozma
+|-boost|p1a: Necrozma|spa|1
+|-boost|p1a: Necrozma|spd|1
+|
+|-heal|p2a: Cresselia|300\/319 tox|[from] item: Leftovers
+|-heal|p1a: Necrozma|200\/283|[from] item: Leftovers
+|-damage|p2a: Cresselia|243\/319 tox|[from] psn
+|upkeep
+|turn|7
+|
+|move|p2a: Cresselia|Psyshock|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|143\/283
+|move|p1a: Necrozma|Moonlight|p1a: Necrozma
+|-heal|p1a: Necrozma|283\/283
+|
+|-heal|p2a: Cresselia|262\/319 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|186\/319 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|floatingreed has 135 seconds left.
+|
+|switch|p2a: Clefable|Clefable, L75, F|266\/266
+|move|p1a: Necrozma|Calm Mind|p1a: Necrozma
+|-boost|p1a: Necrozma|spa|1
+|-boost|p1a: Necrozma|spd|1
+|
+|upkeep
+|turn|9
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Golem|Golem-Alola, L83, F|201\/268
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|10
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Golem|Thunder Punch|p2a: Clefable
+|-damage|p2a: Clefable|139\/266
+|
+|upkeep
+|turn|11
+|
+|move|p2a: Clefable|Moonblast|p1a: Golem
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|
+|upkeep
+|
+|switch|p1a: Noivern|Noivern, L80, M|267\/267
+|turn|12
+|
+|move|p1a: Noivern|Hurricane|p2a: Clefable|[miss]
+|-miss|p1a: Noivern|p2a: Clefable
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|266\/266
+|
+|upkeep
+|turn|13
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Masquerain|Masquerain, L83, F|251\/251
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|14
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p1a: Masquerain|Sticky Web|p2a: Clefable
+|-sidestart|p2: floatingreed|move: Sticky Web
+|move|p2a: Clefable|Fire Blast|p1a: Masquerain
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|0 fnt
+|faint|p1a: Masquerain
+|
+|upkeep
+|
+|switch|p1a: Noivern|Noivern, L80, M|267\/267
+|turn|15
+|
+|move|p1a: Noivern|Switcheroo|p2a: Clefable
+|-activate|p1a: Noivern|move: Trick|[of] p2a: Clefable
+|-item|p2a: Clefable|Choice Specs|[from] move: Switcheroo
+|-item|p1a: Noivern|Life Orb|[from] move: Switcheroo
+|move|p2a: Clefable|Moonblast|p1a: Noivern
+|-supereffective|p1a: Noivern
+|-damage|p1a: Noivern|0 fnt
+|faint|p1a: Noivern
+|
+|upkeep
+|
+|switch|p1a: Necrozma|Necrozma, L79|283\/283
+|turn|16
+|
+|move|p1a: Necrozma|Calm Mind|p1a: Necrozma
+|-boost|p1a: Necrozma|spa|1
+|-boost|p1a: Necrozma|spd|1
+|move|p2a: Clefable|Moonblast|p1a: Necrozma
+|-damage|p1a: Necrozma|73\/283
+|
+|-heal|p1a: Necrozma|90\/283|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|move|p1a: Necrozma|Moonlight|p1a: Necrozma
+|-heal|p1a: Necrozma|231\/283
+|move|p2a: Clefable|Moonblast|p1a: Necrozma
+|-damage|p1a: Necrozma|32\/283
+|
+|-heal|p1a: Necrozma|49\/283|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|move|p1a: Necrozma|Photon Geyser|p2a: Clefable
+|-damage|p2a: Clefable|188\/266
+|move|p2a: Clefable|Moonblast|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|upkeep
+|
+|switch|p1a: Reshiram|Reshiram, L73|266\/266
+|-ability|p1a: Reshiram|Turboblaze
+|turn|19
+|
+|move|p1a: Reshiram|Blue Flare|p2a: Clefable
+|-damage|p2a: Clefable|121\/266
+|move|p2a: Clefable|Moonblast|p1a: Reshiram
+|-damage|p1a: Reshiram|2\/266
+|-unboost|p1a: Reshiram|spa|1
+|
+|-heal|p1a: Reshiram|18\/266|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p1a: Reshiram|Blue Flare|p2a: Clefable
+|-damage|p2a: Clefable|73\/266
+|move|p2a: Clefable|Moonblast|p1a: Reshiram
+|-damage|p1a: Reshiram|0 fnt
+|faint|p1a: Reshiram
+|
+|upkeep
+|
+|switch|p1a: Simipour|Simipour, L83, M|260\/260
+|turn|21
+|
+|move|p1a: Simipour|Hydro Pump|p2a: Clefable|[miss]
+|-miss|p1a: Simipour|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Simipour
+|-damage|p1a: Simipour|0 fnt
+|faint|p1a: Simipour
+|
+|win|floatingreed
+|l|☆35Q71N
+|raw|35Q71N's rating: 1838 &rarr; <strong>1819<\/strong><br \/>(-19 for losing)
+|raw|floatingreed's rating: 1844 &rarr; <strong>1863<\/strong><br \/>(+19 for winning)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆floatingreed joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and floatingreed!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Necrozma</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">floatingreed sent out <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by floatingreed)</div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma, come back!<br></div><div class="battle-history">Go! Golem (<strong>Golem-Alola</strong>)!<br></div><div class="battle-history"><small>Golem floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vaporeon used <strong>Roar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Noivern</strong> was dragged out!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">floatingreed has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Noivern, come back!<br></div><div class="battle-history">Go! <strong>Necrozma</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">floatingreed withdrew Vaporeon!<br></div><div class="battle-history">floatingreed sent out <strong>Cresselia</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma, come back!<br></div><div class="battle-history">Go! Golem (<strong>Golem-Alola</strong>)!<br></div><div class="battle-history"><small>Golem floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cresselia used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Cresselia's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Cresselia's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">floatingreed has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cresselia used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Golem lost <abbr title="−67/268">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Golem's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Cresselia was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cresselia was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Golem, come back!<br></div><div class="battle-history">Go! <strong>Necrozma</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cresselia used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Cresselia's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Cresselia's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cresselia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cresselia was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cresselia used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−100/283">35.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Necrozma's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Necrozma's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Necrozma's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cresselia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Necrozma restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cresselia was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cresselia used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−57/283">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Moonlight</strong>!<br></div><div class="battle-history"><small>Necrozma had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cresselia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Cresselia was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">floatingreed has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">floatingreed withdrew Cresselia!<br></div><div class="battle-history">floatingreed sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Necrozma's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Necrozma's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma, come back!<br></div><div class="battle-history">Go! Golem (<strong>Golem-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem used <strong>Thunder Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−127/266">47.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Golem lost <abbr title="−201/268">75%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Noivern</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Noivern used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Clefable avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Noivern, come back!<br></div><div class="battle-history">Go! <strong>Masquerain</strong>!<br></div><div class="battle-history">[Masquerain's Intimidate]<br></div><div class="battle-history"><small>The opposing Clefable's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Masquerain used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Masquerain lost <abbr title="−251/251">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Masquerain fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Noivern</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Noivern used <strong>Switcheroo</strong>!<br></div><div class="battle-history"><small>Noivern switched items with its target!</small><br></div><div class="battle-history"><small>The opposing Clefable obtained one Choice Specs.</small><br></div><div class="battle-history"><small>Noivern obtained one Life Orb.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Noivern lost <abbr title="−267/267">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Noivern fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Necrozma</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Necrozma's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Necrozma's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−210/283">74.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Necrozma restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Moonlight</strong>!<br></div><div class="battle-history"><small>Necrozma had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−199/283">70.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Necrozma restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−78/266">29.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−49/283">17.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Reshiram</strong>!<br></div><div class="battle-history">[Reshiram's Turboblaze]<br><small>Reshiram is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Reshiram used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−67/266">25.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Reshiram lost <abbr title="−264/266">99.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Reshiram's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Reshiram restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Reshiram used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−48/266">18.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Reshiram lost <abbr title="−18/266">6.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Reshiram fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Simipour</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Simipour used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>The opposing Clefable avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Simipour lost <abbr title="−260/260">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Simipour fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>floatingreed</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">35Q71N's rating: 1838 → <strong>1819</strong><br>(-19 for losing)</div><div class="chat">floatingreed's rating: 1844 → <strong>1863</strong><br>(+19 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. Zetable</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-580555610" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/zetable" class="subtle" target="_blank">Zetable</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|Zetable
+|player|p1|35Q71N|65
+|teamsize|p1|6
+|player|p2|Zetable|39
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|14727,36673,12400,8454,31579,64673,57273,46302,61208,20717,23253,59740
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Walrein|Walrein, L79, F|100\/100
+|switch|p2a: Golisopod|Golisopod, L79, M|100\/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zetable)
+|choice|switch 4|move spikes
+|
+|switch|p1a: Swanna|Swanna, L79, M|100\/100
+|move|p2a: Golisopod|Spikes|p1a: Swanna
+|-sidestart|p1: 35Q71N|Spikes
+|
+|upkeep
+|turn|2
+|choice|move airslash|switch 5
+|
+|switch|p2a: Blissey|Blissey, L77, F|100\/100
+|move|p1a: Swanna|Air Slash|p2a: Blissey
+|-damage|p2a: Blissey|88\/100
+|-damage|p1a: Swanna|91\/100|[from] item: Life Orb
+|
+|-heal|p2a: Blissey|94\/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|switch 3|move thunderwave
+|
+|switch|p1a: Arbok|Arbok, L79, F|100\/100
+|-damage|p1a: Arbok|88\/100|[from] spikes
+|move|p2a: Blissey|Thunder Wave|p1a: Arbok
+|-status|p1a: Arbok|par
+|
+|-heal|p2a: Blissey|100\/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|choice|move gunkshot|switch 2
+|
+|switch|p2a: Skarmory|Skarmory, L75, F|100\/100
+|move|p1a: Arbok|Gunk Shot|p2a: Skarmory
+|-immune|p2a: Skarmory|[msg]
+|
+|upkeep
+|turn|5
+|choice|move aquatail|move stealthrock
+|
+|move|p2a: Skarmory|Stealth Rock|p1a: Arbok
+|-sidestart|p1: 35Q71N|move: Stealth Rock
+|cant|p1a: Arbok|par
+|
+|upkeep
+|turn|6
+|choice|move aquatail|switch 6
+|
+|switch|p2a: Reuniclus|Reuniclus, L79, F|100\/100
+|cant|p1a: Arbok|par
+|
+|upkeep
+|turn|7
+|choice|switch 4|move psychic
+|
+|switch|p1a: Walrein|Walrein, L79, F|100\/100
+|-damage|p1a: Walrein|76\/100|[from] stealthrock
+|-damage|p1a: Walrein|64\/100|[from] spikes
+|move|p2a: Reuniclus|Psychic|p1a: Walrein
+|-damage|p1a: Walrein|20\/100
+|
+|-heal|p1a: Walrein|26\/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|choice|move surf|switch 2
+|
+|switch|p2a: Blissey|Blissey, L77, F|100\/100
+|move|p1a: Walrein|Surf|p2a: Blissey
+|-damage|p2a: Blissey|88\/100
+|
+|-heal|p1a: Walrein|32\/100|[from] item: Leftovers
+|-heal|p2a: Blissey|94\/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|choice|move toxic|move seismictoss
+|
+|move|p1a: Walrein|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Seismic Toss|p1a: Walrein
+|-damage|p1a: Walrein|6\/100
+|
+|-heal|p1a: Walrein|12\/100|[from] item: Leftovers
+|-heal|p2a: Blissey|99\/100 tox|[from] item: Leftovers
+|-damage|p2a: Blissey|94\/100 tox|[from] psn
+|upkeep
+|turn|10
+|choice|move surf|switch 3
+|
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Raichu|Raichu, L79, F|100\/100
+|move|p1a: Walrein|Surf|p2a: Raichu
+|-damage|p2a: Raichu|56\/100
+|
+|-heal|p1a: Walrein|18\/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|l|Zetable
+|player|p2|
+|choice|move surf|move thunderbolt
+|
+|move|p2a: Raichu|Thunderbolt|p1a: Walrein
+|-supereffective|p1a: Walrein
+|-crit|p1a: Walrein
+|-damage|p1a: Walrein|0 fnt
+|-damage|p2a: Raichu|46\/100|[from] item: Life Orb
+|faint|p1a: Walrein
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Rhyperior|Rhyperior, L79, F|100\/100
+|-damage|p1a: Rhyperior|88\/100|[from] spikes
+|-damage|p1a: Rhyperior|82\/100|[from] stealthrock
+|turn|12
+|j|Zetable
+|player|p2|Zetable|39
+|choice|move dragontail|move grassknot
+|
+|move|p2a: Raichu|Grass Knot|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|-damage|p2a: Raichu|37\/100|[from] item: Life Orb
+|faint|p1a: Rhyperior
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Dustox|Dustox, L79, F|100\/100
+|-damage|p1a: Dustox|88\/100|[from] spikes
+|-damage|p1a: Dustox|63\/100|[from] stealthrock
+|turn|13
+|choice|move sludgebomb|move thunderbolt
+|
+|move|p2a: Raichu|Thunderbolt|p1a: Dustox
+|-damage|p1a: Dustox|12\/100
+|-damage|p2a: Raichu|27\/100|[from] item: Life Orb
+|move|p1a: Dustox|Sludge Bomb|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|-damage|p1a: Dustox|2\/100|[from] item: Life Orb
+|faint|p2a: Raichu
+|
+|upkeep
+|choice||switch 4
+|
+|switch|p2a: Luvdisc|Luvdisc, L79, F|100\/100
+|turn|14
+|choice|move bugbuzz|move icebeam
+|
+|move|p2a: Luvdisc|Ice Beam|p1a: Dustox
+|-damage|p1a: Dustox|0 fnt
+|faint|p1a: Dustox
+|
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Swanna|Swanna, L79, M|91\/100
+|-damage|p1a: Swanna|66\/100|[from] stealthrock
+|turn|15
+|choice|move airslash|move toxic
+|
+|move|p1a: Swanna|Air Slash|p2a: Luvdisc|[miss]
+|-miss|p1a: Swanna|p2a: Luvdisc
+|move|p2a: Luvdisc|Toxic|p1a: Swanna
+|-status|p1a: Swanna|tox
+|
+|-damage|p1a: Swanna|60\/100 tox|[from] psn
+|upkeep
+|turn|16
+|choice|move airslash|move sweetkiss
+|
+|move|p1a: Swanna|Air Slash|p2a: Luvdisc
+|-damage|p2a: Luvdisc|46\/100
+|-damage|p1a: Swanna|50\/100 tox|[from] item: Life Orb
+|cant|p2a: Luvdisc|flinch
+|
+|-heal|p2a: Luvdisc|53\/100|[from] item: Leftovers
+|-damage|p1a: Swanna|38\/100 tox|[from] psn
+|upkeep
+|turn|17
+|choice|move airslash|switch 3
+|
+|switch|p2a: Blissey|Blissey, L77, F|94\/100
+|move|p1a: Swanna|Air Slash|p2a: Blissey
+|-damage|p2a: Blissey|81\/100
+|-damage|p1a: Swanna|28\/100 tox|[from] item: Life Orb
+|
+|-heal|p2a: Blissey|87\/100|[from] item: Leftovers
+|-damage|p1a: Swanna|10\/100 tox|[from] psn
+|upkeep
+|turn|18
+|choice|move scald|move wish
+|
+|move|p1a: Swanna|Scald|p2a: Blissey
+|-damage|p2a: Blissey|74\/100
+|-status|p2a: Blissey|brn
+|-damage|p1a: Swanna|0 fnt|[from] item: Life Orb
+|faint|p1a: Swanna
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p2a: Blissey|80\/100 brn|[from] item: Leftovers
+|-damage|p2a: Blissey|74\/100 brn|[from] brn
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Kyogre|Kyogre, L73|100\/100
+|-damage|p1a: Kyogre|88\/100|[from] stealthrock
+|-damage|p1a: Kyogre|76\/100|[from] spikes
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|19
+|choice|move waterspout|move thunderwave
+|
+|move|p1a: Kyogre|Water Spout|p2a: Blissey
+|-damage|p2a: Blissey|32\/100 brn
+|move|p2a: Blissey|Thunder Wave|p1a: Kyogre
+|-status|p1a: Kyogre|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blissey|81\/100 brn|[from] move: Wish|[wisher] Blissey
+|-heal|p2a: Blissey|88\/100 brn|[from] item: Leftovers
+|-damage|p2a: Blissey|81\/100 brn|[from] brn
+|upkeep
+|turn|20
+|choice|move waterspout|move seismictoss
+|
+|move|p2a: Blissey|Seismic Toss|p1a: Kyogre
+|-damage|p1a: Kyogre|47\/100 par
+|cant|p1a: Kyogre|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blissey|88\/100 brn|[from] item: Leftovers
+|-damage|p2a: Blissey|81\/100 brn|[from] brn
+|upkeep
+|turn|21
+|choice|switch 4|move seismictoss
+|
+|switch|p1a: Arbok|Arbok, L79, F|88\/100 par
+|-damage|p1a: Arbok|75\/100 par|[from] stealthrock
+|-damage|p1a: Arbok|63\/100 par|[from] spikes
+|move|p2a: Blissey|Seismic Toss|p1a: Arbok
+|-damage|p1a: Arbok|29\/100 par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blissey|88\/100 brn|[from] item: Leftovers
+|-damage|p2a: Blissey|81\/100 brn|[from] brn
+|upkeep
+|turn|22
+|choice|move rest|move seismictoss
+|
+|move|p2a: Blissey|Seismic Toss|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blissey|88\/100 brn|[from] item: Leftovers
+|-damage|p2a: Blissey|81\/100 brn|[from] brn
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Kyogre|Kyogre, L73|47\/100 par
+|-damage|p1a: Kyogre|34\/100 par|[from] stealthrock
+|-damage|p1a: Kyogre|22\/100 par|[from] spikes
+|turn|23
+|choice|move scald|move seismictoss
+|
+|move|p2a: Blissey|Seismic Toss|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|win|Zetable
+|l|35Q71N
+|raw|35Q71N's rating: 1739 &rarr; <strong>1720<\/strong><br \/>(-19 for losing)
+|raw|Zetable's rating: 1759 &rarr; <strong>1778<\/strong><br \/>(+19 for winning)</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and Zetable joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and Zetable!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Walrein</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zetable sent out <strong>Golisopod</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zetable)</div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein, come back!<br></div><div class="battle-history">Go! <strong>Swanna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golisopod used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zetable withdrew Golisopod!<br></div><div class="battle-history">Zetable sent out <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Swanna used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Blissey lost 12% of its health!)</small><br></div><div class="battle-history"><small>Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Swanna, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history"><small>Arbok was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Arbok is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zetable withdrew Blissey!<br></div><div class="battle-history">Zetable sent out <strong>Skarmory</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Skarmory...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Skarmory used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zetable withdrew Skarmory!<br></div><div class="battle-history">Zetable sent out <strong>Reuniclus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok, come back!<br></div><div class="battle-history">Go! <strong>Walrein</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Walrein!</small><br></div><div class="battle-history"><small>Walrein was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reuniclus used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Walrein lost 44% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Walrein restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zetable withdrew Reuniclus!<br></div><div class="battle-history">Zetable sent out <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Blissey lost 12% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Walrein restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Walrein used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Blissey was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Walrein lost 26% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Walrein restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Blissey is cured by its Natural Cure!)</small><br></div><div class="battle-history">Zetable withdrew Blissey!<br></div><div class="battle-history">Zetable sent out <strong>Raichu</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Raichu lost 44% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Walrein restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat"><small>Zetable left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Walrein lost 18% of its health!)</small><br></div><div class="battle-history"><small>The opposing Raichu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Rhyperior</strong>!<br></div><div class="battle-history"><small>Rhyperior was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Rhyperior!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat"><small>Zetable joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Raichu used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Rhyperior lost 82% of its health!)</small><br></div><div class="battle-history"><small>The opposing Raichu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rhyperior fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="battle-history"><small>Dustox was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Dustox!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Dustox lost 51% of its health!)</small><br></div><div class="battle-history"><small>The opposing Raichu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Raichu lost 27% of its health!)</small><br></div><div class="battle-history"><small>Dustox lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Raichu fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zetable sent out <strong>Luvdisc</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Dustox lost 2% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Swanna</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Swanna!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Swanna used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>The opposing Luvdisc avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Swanna was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Swanna used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Luvdisc lost 54% of its health!)</small><br></div><div class="battle-history"><small>Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luvdisc flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luvdisc restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zetable withdrew Luvdisc!<br></div><div class="battle-history">Zetable sent out <strong>Blissey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Swanna used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Blissey lost 13% of its health!)</small><br></div><div class="battle-history"><small>Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Swanna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Swanna used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Blissey lost 13% of its health!)</small><br></div><div class="battle-history"><small>The opposing Blissey was burned!</small><br></div><div class="battle-history"><small>Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Swanna fainted!<br></div><div class="battle-history">The opposing Blissey used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kyogre</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Kyogre!</small><br></div><div class="battle-history"><small>Kyogre was hurt by the spikes!</small><br></div><div class="battle-history">[Kyogre's Drizzle]<br><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Water Spout</strong>!<br></div><div class="battle-history"><small>(The opposing Blissey lost 42% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Kyogre is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Blissey's wish came true!</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Kyogre lost 29% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Arbok!</small><br></div><div class="battle-history"><small>Arbok was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Arbok lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Arbok lost 29% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Blissey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Blissey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kyogre</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Kyogre!</small><br></div><div class="battle-history"><small>Kyogre was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blissey used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Kyogre lost 22% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Zetable</strong> won the battle!<br></div><div class="chat"><small>35Q71N left</small></div><div class="chat">35Q71N's rating: 1739 → <strong>1720</strong><br>(-19 for losing)</div><div class="chat">Zetable's rating: 1759 → <strong>1778</strong><br>(+19 for winning)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

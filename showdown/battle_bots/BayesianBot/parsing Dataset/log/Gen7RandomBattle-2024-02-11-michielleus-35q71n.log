@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Michielleus vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2056531588" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/michielleus" class="subtle" target="_blank">Michielleus</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Michielleus
+|j|☆35Q71N
+|t:|1707609162
+|gametype|singles
+|player|p1|Michielleus|#michielleus|
+|player|p2|35Q71N|#rbtt7teamhoopaf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1707609162
+|start
+|switch|p1a: Exploud|Exploud, L86, F|319\/319
+|switch|p2a: Lugia|Lugia, L72|272\/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)
+|c|☆35Q71N|Glhf!
+|c|☆Michielleus|glhf
+|j|^Referrals
+|j| Z4d_Th3_0wl
+|j| gomdol2
+|j| 1999 Ford mustang
+|j| mikonn
+|j| LTX Nemosse
+|c|☆35Q71N|It's like my 4th match in 3\/4 days vs Michi
+|inactive|35Q71N has 120 seconds left.
+|j|@livid washed
+|
+|t:|1707609199
+|switch|p1a: Ferrothorn|Ferrothorn, L76, M|238\/238
+|move|p2a: Lugia|Toxic|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|upkeep
+|turn|2
+|
+|t:|1707609213
+|switch|p2a: Terrakion|Terrakion, L78|270\/270
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Terrakion
+|-sidestart|p2: 35Q71N|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|j| comunicado oficial
+|
+|t:|1707609222
+|switch|p1a: Breloom|Breloom, L84, F|238\/238
+|move|p2a: Terrakion|Close Combat|p1a: Breloom
+|-damage|p1a: Breloom|81\/238
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|
+|upkeep
+|turn|4
+|j| haxlolo
+|j| ignacio1111
+|
+|t:|1707609229
+|switch|p2a: Vileplume|Vileplume, L87, M|272\/272
+|-damage|p2a: Vileplume|238\/272|[from] Stealth Rock
+|move|p1a: Breloom|Rock Tomb|p2a: Vileplume
+|-damage|p2a: Vileplume|135\/272
+|-unboost|p2a: Vileplume|spe|1
+|-damage|p1a: Breloom|58\/238|[from] item: Life Orb
+|
+|-heal|p2a: Vileplume|152\/272|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1707609242
+|switch|p1a: Exploud|Exploud, L86, F|319\/319
+|move|p2a: Vileplume|Strength Sap|p1a: Exploud
+|-unboost|p1a: Exploud|atk|1
+|-heal|p2a: Vileplume|272\/272
+|
+|upkeep
+|turn|6
+|
+|t:|1707609248
+|move|p1a: Exploud|Boomburst|p2a: Vileplume
+|-damage|p2a: Vileplume|59\/272
+|move|p2a: Vileplume|Sleep Powder|p1a: Exploud
+|-status|p1a: Exploud|slp|[from] move: Sleep Powder
+|
+|-heal|p2a: Vileplume|76\/272|[from] item: Black Sludge
+|upkeep
+|turn|7
+|l| 1999 Ford mustang
+|j| HarryderSchnetzler
+|
+|t:|1707609256
+|cant|p1a: Exploud|slp
+|move|p2a: Vileplume|Strength Sap|p1a: Exploud
+|-unboost|p1a: Exploud|atk|1
+|-heal|p2a: Vileplume|183\/272
+|
+|-heal|p2a: Vileplume|200\/272|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1707609263
+|switch|p2a: Terrakion|Terrakion, L78|270\/270
+|-damage|p2a: Terrakion|254\/270|[from] Stealth Rock
+|cant|p1a: Exploud|slp
+|
+|upkeep
+|turn|9
+|
+|t:|1707609273
+|switch|p1a: Furret|Furret, L93, F|309\/309
+|-item|p2a: Terrakion|Rockium Z|[from] ability: Frisk|[of] p1a: Furret|[identify]
+|move|p2a: Terrakion|Close Combat|p1a: Furret
+|-supereffective|p1a: Furret
+|-damage|p1a: Furret|0 fnt
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|faint|p1a: Furret
+|
+|upkeep
+|
+|t:|1707609276
+|switch|p1a: Seaking|Seaking, L92, M|297\/297
+|turn|10
+|j| FinlayC
+|c|^Referrals|poor furret...
+|inactive|35Q71N has 120 seconds left.
+|j| RosaF4N
+|j| Arbaz16297
+|c|☆Michielleus|terrakion brr
+|
+|t:|1707609321
+|switch|p2a: Stoutland|Stoutland, L88, M|293\/293
+|-damage|p2a: Stoutland|257\/293|[from] Stealth Rock
+|-ability|p2a: Stoutland|Intimidate|boost
+|-unboost|p1a: Seaking|atk|1
+|move|p1a: Seaking|Waterfall|p2a: Stoutland
+|-damage|p2a: Stoutland|183\/293
+|-damage|p1a: Seaking|268\/297|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|inactive|35Q71N has 90 seconds left.
+|j| drifttrick
+|
+|t:|1707609363
+|move|p2a: Stoutland|Superpower|p1a: Seaking
+|-damage|p1a: Seaking|86\/297
+|-unboost|p2a: Stoutland|atk|1
+|-unboost|p2a: Stoutland|def|1
+|move|p1a: Seaking|Ice Beam|p2a: Stoutland
+|-damage|p2a: Stoutland|110\/293
+|-damage|p1a: Seaking|57\/297|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1707609371
+|switch|p1a: Luxray|Luxray, L88, M|284\/284
+|move|p2a: Stoutland|Superpower|p1a: Luxray
+|-damage|p1a: Luxray|179\/284
+|-unboost|p2a: Stoutland|atk|1
+|-unboost|p2a: Stoutland|def|1
+|
+|-status|p1a: Luxray|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|inactive|35Q71N has 90 seconds left.
+|c|☆35Q71N|Terrakion is disgusting in this mu
+|
+|t:|1707609401
+|move|p2a: Stoutland|Superpower|p1a: Luxray
+|-damage|p1a: Luxray|100\/284 brn
+|-unboost|p2a: Stoutland|atk|1
+|-unboost|p2a: Stoutland|def|1
+|move|p1a: Luxray|Facade|p2a: Stoutland
+|-damage|p2a: Stoutland|0 fnt
+|faint|p2a: Stoutland
+|
+|-damage|p1a: Luxray|83\/284 brn|[from] brn
+|upkeep
+|c| RosaF4N|Stoutland nooo :(
+|
+|t:|1707609413
+|switch|p2a: Terrakion|Terrakion, L78|254\/270
+|-damage|p2a: Terrakion|238\/270|[from] Stealth Rock
+|turn|14
+|
+|t:|1707609417
+|move|p2a: Terrakion|Close Combat|p1a: Luxray
+|-damage|p1a: Luxray|0 fnt
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|faint|p1a: Luxray
+|
+|upkeep
+|
+|t:|1707609420
+|switch|p1a: Breloom|Breloom, L84, F|58\/238
+|turn|15
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1707609426
+|switch|p2a: Vileplume|Vileplume, L87, M|200\/272
+|-damage|p2a: Vileplume|166\/272|[from] Stealth Rock
+|switch|p1a: Ferrothorn|Ferrothorn, L76, M|238\/238
+|
+|-heal|p2a: Vileplume|183\/272|[from] item: Black Sludge
+|upkeep
+|turn|16
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1707609436
+|move|p2a: Vileplume|Strength Sap|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|atk|1
+|-heal|p2a: Vileplume|272\/272
+|move|p1a: Ferrothorn|Spikes|p2a: Vileplume
+|-sidestart|p2: 35Q71N|Spikes
+|
+|upkeep
+|turn|17
+|c|☆35Q71N|I am sorry Michi
+|
+|t:|1707609447
+|switch|p2a: Talonflame|Talonflame, L82, M|262\/262
+|-damage|p2a: Talonflame|131\/262|[from] Stealth Rock
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|77\/262
+|
+|-heal|p2a: Talonflame|93\/262|[from] item: Leftovers
+|upkeep
+|turn|18
+|c|☆35Q71N|Even though
+|
+|t:|1707609462
+|switch|p1a: Exploud|Exploud, L86, F|319\/319 slp
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|224\/262
+|-singleturn|p2a: Talonflame|move: Roost
+|
+|-heal|p2a: Talonflame|240\/262|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆35Q71N|Even though nothing
+|c|☆35Q71N|I have an absurd matchup
+|j| WorstplayerinRBEL
+|c| WorstplayerinRBEL|i believe fran will win
+|
+|t:|1707609480
+|move|p2a: Talonflame|U-turn|p1a: Exploud
+|-damage|p1a: Exploud|263\/319 slp
+|c| RosaF4N|This mu is DISGUSTING
+|c| WorstplayerinRBEL|also this is rbtt guys
+|c| WorstplayerinRBEL|!
+|
+|t:|1707609488
+|switch|p2a: Vileplume|Vileplume, L87, M|272\/272|[from] U-turn
+|-damage|p2a: Vileplume|238\/272|[from] Stealth Rock
+|-damage|p2a: Vileplume|204\/272|[from] Spikes
+|cant|p1a: Exploud|slp
+|
+|-heal|p2a: Vileplume|221\/272|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1707609491
+|-curestatus|p1a: Exploud|slp|[msg]
+|move|p1a: Exploud|Boomburst|p2a: Vileplume
+|-damage|p2a: Vileplume|4\/272
+|move|p2a: Vileplume|Giga Drain|p1a: Exploud
+|-damage|p1a: Exploud|152\/319
+|-heal|p2a: Vileplume|60\/272|[from] drain|[of] p1a: Exploud
+|
+|-heal|p2a: Vileplume|77\/272|[from] item: Black Sludge
+|upkeep
+|turn|21
+|l| comunicado oficial
+|j| Iceman8911
+|j| hammy358
+|
+|t:|1707609504
+|move|p1a: Exploud|Boomburst|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|upkeep
+|
+|t:|1707609508
+|switch|p2a: Terrakion|Terrakion, L78|238\/270
+|-damage|p2a: Terrakion|222\/270|[from] Stealth Rock
+|-damage|p2a: Terrakion|189\/270|[from] Spikes
+|turn|22
+|
+|t:|1707609511
+|switch|p1a: Seaking|Seaking, L92, M|57\/297
+|move|p2a: Terrakion|Close Combat|p1a: Seaking
+|-damage|p1a: Seaking|0 fnt
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|faint|p1a: Seaking
+|
+|upkeep
+|l| WorstplayerinRBEL
+|
+|t:|1707609513
+|switch|p1a: Breloom|Breloom, L84, F|58\/238
+|turn|23
+|c|^Referrals|when u said i'm sorry i thought talon was gonna defog lol
+|inactive|35Q71N has 120 seconds left.
+|c|☆35Q71N|No but this is enough anyway lol
+|
+|t:|1707609544
+|switch|p2a: Raichu|Raichu, L88, M|249\/249
+|-damage|p2a: Raichu|218\/249|[from] Stealth Rock
+|-damage|p2a: Raichu|187\/249|[from] Spikes
+|move|p1a: Breloom|Rock Tomb|p2a: Raichu|[miss]
+|-miss|p1a: Breloom|p2a: Raichu
+|
+|-heal|p2a: Raichu|202\/249|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆35Q71N|Welp
+|
+|t:|1707609555
+|switch|p1a: Ferrothorn|Ferrothorn, L76, M|238\/238
+|move|p2a: Raichu|Hidden Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|195\/238
+|
+|-heal|p2a: Raichu|217\/249|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|209\/238|[from] item: Leftovers
+|upkeep
+|turn|25
+|j| pokemery
+|j|+notaracist
+|c|+notaracist|HOOP HOOP
+|
+|t:|1707609565
+|move|p2a: Raichu|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|162\/238
+|move|p1a: Ferrothorn|Spikes|p2a: Raichu
+|-sidestart|p2: 35Q71N|Spikes
+|
+|-heal|p2a: Raichu|232\/249|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|176\/238|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1707609571
+|move|p2a: Raichu|Encore|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|Encore
+|move|p1a: Ferrothorn|Spikes|p2a: Raichu
+|-sidestart|p2: 35Q71N|Spikes
+|
+|-heal|p2a: Raichu|247\/249|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|190\/238|[from] item: Leftovers
+|upkeep
+|turn|27
+|l| FinlayC
+|
+|t:|1707609575
+|move|p2a: Raichu|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|144\/238
+|move|p1a: Ferrothorn|Spikes||[still]
+|-fail|p1a: Ferrothorn
+|
+|-heal|p2a: Raichu|249\/249|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|158\/238|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1707609577
+|move|p2a: Raichu|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|111\/238
+|move|p1a: Ferrothorn|Spikes||[still]
+|-fail|p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|125\/238|[from] item: Leftovers
+|-end|p1a: Ferrothorn|Encore
+|upkeep
+|turn|29
+|
+|t:|1707609583
+|switch|p1a: Exploud|Exploud, L86, F|152\/319
+|move|p2a: Raichu|Encore||[still]
+|-fail|p2a: Raichu
+|
+|upkeep
+|turn|30
+|l| pokemery
+|
+|t:|1707609606
+|switch|p1a: Ferrothorn|Ferrothorn, L76, M|125\/238
+|move|p2a: Raichu|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|80\/238
+|
+|-heal|p1a: Ferrothorn|94\/238|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1707609609
+|move|p2a: Raichu|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|52\/238
+|move|p1a: Ferrothorn|Power Whip|p2a: Raichu
+|-damage|p2a: Raichu|105\/249
+|
+|-heal|p2a: Raichu|120\/249|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|66\/238|[from] item: Leftovers
+|upkeep
+|turn|32
+|c| Iceman8911|well then
+|
+|t:|1707609627
+|move|p2a: Raichu|Encore|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|Encore
+|move|p1a: Ferrothorn|Power Whip|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|-heal|p1a: Ferrothorn|80\/238|[from] item: Leftovers
+|upkeep
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1707609666
+|switch|p2a: Lugia|Lugia, L72|272\/272
+|-damage|p2a: Lugia|204\/272|[from] Stealth Rock
+|turn|33
+|c|☆Michielleus|just miss aero 8 times thnks
+|
+|t:|1707609682
+|move|p2a: Lugia|Aeroblast|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|14\/238
+|move|p1a: Ferrothorn|Power Whip|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|163\/272
+|
+|-heal|p2a: Lugia|180\/272|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|28\/238|[from] item: Leftovers
+|upkeep
+|turn|34
+|c|☆35Q71N|I can try
+|
+|t:|1707609694
+|move|p2a: Lugia|Roost|p2a: Lugia
+|-heal|p2a: Lugia|272\/272
+|-singleturn|p2a: Lugia|move: Roost
+|move|p1a: Ferrothorn|Power Whip|p2a: Lugia
+|-damage|p2a: Lugia|227\/272
+|
+|-heal|p2a: Lugia|244\/272|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|42\/238|[from] item: Leftovers
+|-end|p1a: Ferrothorn|Encore
+|upkeep
+|turn|35
+|
+|t:|1707609696
+|move|p2a: Lugia|Aeroblast|p1a: Ferrothorn|[miss]
+|-miss|p2a: Lugia|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Lugia
+|-damage|p2a: Lugia|144\/272
+|
+|-heal|p2a: Lugia|161\/272|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|56\/238|[from] item: Leftovers
+|upkeep
+|turn|36
+|c|☆Michielleus|thats 1
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1707609704
+|move|p2a: Lugia|Aeroblast|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Lugia|178\/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1707609707
+|switch|p1a: Exploud|Exploud, L86, F|152\/319
+|turn|37
+|c|☆Michielleus|aw
+|
+|t:|1707609728
+|move|p2a: Lugia|Roost|p2a: Lugia
+|-heal|p2a: Lugia|272\/272
+|-singleturn|p2a: Lugia|move: Roost
+|move|p1a: Exploud|Boomburst|p2a: Lugia
+|-damage|p2a: Lugia|194\/272
+|
+|-heal|p2a: Lugia|211\/272|[from] item: Leftovers
+|upkeep
+|turn|38
+|c|☆35Q71N|Let me see how much this does with scale
+|c|☆35Q71N|I am genuinely curious
+|c|☆35Q71N|Ok
+|l|@livid washed
+|inactive|35Q71N has 120 seconds left.
+|c| RosaF4N|Lugia is such a wall
+|
+|t:|1707609764
+|move|p2a: Lugia|Toxic|p1a: Exploud
+|-status|p1a: Exploud|tox
+|move|p1a: Exploud|Boomburst|p2a: Lugia
+|-damage|p2a: Lugia|39\/272
+|
+|-heal|p2a: Lugia|56\/272|[from] item: Leftovers
+|-damage|p1a: Exploud|133\/319 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1707609768
+|move|p2a: Lugia|Roost|p2a: Lugia
+|-heal|p2a: Lugia|192\/272
+|-singleturn|p2a: Lugia|move: Roost
+|move|p1a: Exploud|Boomburst|p2a: Lugia
+|-damage|p2a: Lugia|26\/272
+|
+|-heal|p2a: Lugia|43\/272|[from] item: Leftovers
+|-damage|p1a: Exploud|95\/319 tox|[from] psn
+|upkeep
+|turn|40
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1707609783
+|move|p2a: Lugia|Aeroblast|p1a: Exploud
+|-crit|p1a: Exploud
+|-damage|p1a: Exploud|0 fnt
+|faint|p1a: Exploud
+|
+|-heal|p2a: Lugia|60\/272|[from] item: Leftovers
+|upkeep
+|c|☆35Q71N|Well
+|
+|t:|1707609791
+|switch|p1a: Breloom|Breloom, L84, F|58\/238
+|turn|41
+|c|☆35Q71N|I think I needed to go Talon and not Lugia vs Ferro
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1707609802
+|move|p2a: Lugia|Aeroblast|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|win|35Q71N
+|n|☆Michielleus|michielleus
+|n|☆35Q71N|35q71n
+|n| Referrals|referrals
+|n| Z4d_Th3_0wl|z4dth30wl
+|n| gomdol2|gomdol2
+|n| mikonn|mikonn
+|n| LTX Nemosse|ltxnemosse
+|n| haxlolo|haxlolo
+|n| ignacio1111|ignacio1111
+|n| HarryderSchnetzler|harryderschnetzler
+|n| RosaF4N|rosaf4n
+|n| Arbaz16297|arbaz16297
+|n| drifttrick|drifttrick
+|n| Iceman8911|iceman8911
+|n| hammy358|hammy358
+|n|+notaracist|notaracist
+|c|☆Michielleus|gg
+|l| mikonn
+|c|☆35Q71N|But the mu is ridiculous anyway
+|c|☆35Q71N|Gg and sorry
+|l| hammy358
+|l| Referrals
+|l| RosaF4N
+|l| HarryderSchnetzler
+|l|☆Michielleus
+|player|p1|
+|l| drifttrick
+|l| Iceman8911
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Michielleus and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Michielleus and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Michielleus)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>glhf</em></div><div class="chat"><small>^Referrals,  Z4d_Th3_0wl,  gomdol2,  1999 Ford mustang,  mikonn, and  LTX Nemosse joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It's like my 4th match in 3/4 days vs Michi</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat"><small>@livid washed joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Exploud!<br></div><div class="battle-history">Michielleus sent out <strong>Ferrothorn</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Ferrothorn...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat"><small> comunicado oficial joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Ferrothorn!<br></div><div class="battle-history">Michielleus sent out <strong>Breloom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(The opposing Breloom lost <abbr title="−157/238">66.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat"><small> haxlolo and  ignacio1111 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vileplume!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom used <strong>Rock Tomb</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−103/272">37.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Vileplume's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Breloom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Breloom!<br></div><div class="battle-history">Michielleus sent out <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Strength Sap</strong>!<br></div><div class="battle-history"><small>The opposing Exploud's Attack fell!</small><br></div><div class="battle-history"><small>Vileplume had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−213/272">78.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Exploud fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat"><small> HarryderSchnetzler joined;  1999 Ford mustang left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Strength Sap</strong>!<br></div><div class="battle-history"><small>The opposing Exploud's Attack fell!</small><br></div><div class="battle-history"><small>Vileplume had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Terrakion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Exploud!<br></div><div class="battle-history">Michielleus sent out <strong>Furret</strong>!<br></div><div class="battle-history">[The opposing Furret's Frisk]<br><small>The opposing Furret frisked Terrakion and found its Rockium Z!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Furret lost <abbr title="−309/309">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Furret fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Seaking</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat"><small> FinlayC joined</small></div><div class="chat chatmessage-referrals"><strong style="color:#7773dc"><small>^</small><span class="username" data-name="Referrals">Referrals</span>:</strong> <em>poor furret...</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat"><small> RosaF4N and  Arbaz16297 joined</small></div><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>terrakion brr</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Stoutland!</small><br></div><div class="battle-history">[Stoutland's Intimidate]<br></div><div class="battle-history"><small>The opposing Seaking's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seaking used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−74/293">25.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Seaking lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat"><small> drifttrick joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Seaking lost <abbr title="−182/297">61.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stoutland's Attack fell!</small><br></div><div class="battle-history"><small>Stoutland's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seaking used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Seaking lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Seaking!<br></div><div class="battle-history">Michielleus sent out <strong>Luxray</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Luxray lost <abbr title="−105/284">37.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stoutland's Attack fell!</small><br></div><div class="battle-history"><small>Stoutland's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luxray was burned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Terrakion is disgusting in this mu</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>(The opposing Luxray lost <abbr title="−79/284">27.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stoutland's Attack fell!</small><br></div><div class="battle-history"><small>Stoutland's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luxray used <strong>Facade</strong>!<br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−110/293">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Luxray was hurt by its burn!</small><br></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small> </small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>Stoutland nooo :(</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Terrakion!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(The opposing Luxray lost <abbr title="−83/284">29.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Luxray fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Breloom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vileplume!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Breloom!<br></div><div class="battle-history">Michielleus sent out <strong>Ferrothorn</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Strength Sap</strong>!<br></div><div class="battle-history"><small>The opposing Ferrothorn's Attack fell!</small><br></div><div class="battle-history"><small>Vileplume had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I am sorry Michi</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Talonflame</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Talonflame!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Talonflame lost <abbr title="−54/262">20.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Talonflame restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Even though</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Ferrothorn!<br></div><div class="battle-history">Michielleus sent out <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Talonflame used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Talonflame had its HP restored.</small><br></div><div class="battle-history"><small>(Talonflame loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Talonflame restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Even though nothing</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I have an absurd matchup</em></div><div class="chat"><small> WorstplayerinRBEL joined</small></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>i believe fran will win</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Talonflame used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Exploud lost <abbr title="−56/319">17.6%</abbr> of its health!)</small><br></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small> </small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>This mu is DISGUSTING</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>also this is rbtt guys</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>!</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Talonflame went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Vileplume!</small><br></div><div class="battle-history"><small>Vileplume was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Exploud woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−217/272">79.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Exploud lost <abbr title="−111/319">34.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Exploud had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat"><small> Iceman8911 and  hammy358 joined;  comunicado oficial left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−77/272">28.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Terrakion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Terrakion!</small><br></div><div class="battle-history"><small>Terrakion was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Exploud!<br></div><div class="battle-history">Michielleus sent out <strong>Seaking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(The opposing Seaking lost <abbr title="−57/297">19.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Terrakion's Defense fell!</small><br></div><div class="battle-history"><small>Terrakion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seaking fainted!<br></div><div class="chat"><small> WorstplayerinRBEL left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Breloom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat chatmessage-referrals"><strong style="color:#7773dc"><small>^</small><span class="username" data-name="Referrals">Referrals</span>:</strong> <em>when u said i'm sorry i thought talon was gonna defog lol</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No but this is enough anyway lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Terrakion, come back!<br></div><div class="battle-history">Go! <strong>Raichu</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Raichu!</small><br></div><div class="battle-history"><small>Raichu was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom used <strong>Rock Tomb</strong>!<br></div><div class="battle-history"><small>Raichu avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Welp</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Breloom!<br></div><div class="battle-history">Michielleus sent out <strong>Ferrothorn</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−43/238">18.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat"><small> pokemery and +notaracist joined</small></div><div class="chat chatmessage-notaracist"><strong style="color:#bc469b"><small>+</small><span class="username" data-name="notaracist">notaracist</span>:</strong> <em>HOOP HOOP</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−47/238">19.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Ferrothorn must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat"><small> FinlayC left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−46/238">19.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−47/238">19.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn's encore ended!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Ferrothorn!<br></div><div class="battle-history">Michielleus sent out <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Encore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="chat"><small> pokemery left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus withdrew Exploud!<br></div><div class="battle-history">Michielleus sent out <strong>Ferrothorn</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−45/238">18.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−42/238">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>(Raichu lost <abbr title="−144/249">57.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raichu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat chatmessage-iceman8911"><strong style="color:#c18928"><small> </small><span class="username" data-name="Iceman8911">Iceman8911</span>:</strong> <em>well then</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Ferrothorn must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>(Raichu lost <abbr title="−120/249">48.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Lugia!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>just miss aero 8 times thnks</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−66/238">27.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−41/272">15.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I can try</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−45/272">16.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn's encore ended!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>The opposing Ferrothorn avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−100/272">36.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ferrothorn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>thats 1</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Ferrothorn lost <abbr title="−56/238">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ferrothorn fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>aw</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−78/272">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Let me see how much this does with scale</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I am genuinely curious</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ok</em></div><div class="chat"><small>@livid washed left</small></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small> </small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>Lugia is such a wall</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Exploud was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−172/272">63.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Exploud was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−166/272">61.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Exploud was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Exploud lost <abbr title="−95/319">29.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Well</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Michielleus sent out <strong>Breloom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I think I needed to go Talon and not Lugia vs Ferro</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Breloom lost <abbr title="−58/238">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Breloom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-michielleus"><strong style="color:#6958e9"><small>☆</small><span class="username" data-name="Michielleus">Michielleus</span>:</strong> <em>gg</em></div><div class="chat"><small> mikonn left</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>But the mu is ridiculous anyway</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg and sorry</em></div><div class="chat"><small> hammy358,  Referrals,  RosaF4N,  HarryderSchnetzler, and ☆Michielleus left</small></div><div class="chat"><small> drifttrick and  Iceman8911 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

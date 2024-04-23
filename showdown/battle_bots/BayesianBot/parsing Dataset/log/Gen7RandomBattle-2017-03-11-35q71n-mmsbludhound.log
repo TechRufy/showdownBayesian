@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. mmsbludhound</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-545819753" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/mmsbludhound" class="subtle" target="_blank">mmsbludhound</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|mmsbludhound
+|player|p1|35Q71N|101
+|player|p2|mmsbludhound|169
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|54154,18752,39053,24632,55401,39496,6455,5022,22194,8987,62698,14442
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Furfrou|Furfrou, L79, M|100\/100
+|switch|p2a: Darmanitan|Darmanitan, L77, F|100\/100
+|turn|1
+|choice|move substitute|move superpower
+|
+|move|p1a: Furfrou|Substitute|p1a: Furfrou
+|-start|p1a: Furfrou|Substitute
+|-damage|p1a: Furfrou|75\/100
+|move|p2a: Darmanitan|Superpower|p1a: Furfrou
+|-supereffective|p1a: Furfrou
+|-crit|p1a: Furfrou
+|-end|p1a: Furfrou|Substitute
+|-unboost|p2a: Darmanitan|atk|1
+|-unboost|p2a: Darmanitan|def|1
+|-damage|p2a: Darmanitan|91\/100|[from] item: Life Orb
+|
+|-heal|p1a: Furfrou|82\/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|choice|move substitute|switch 2
+|
+|switch|p2a: Rotom|Rotom, L79|100\/100
+|move|p1a: Furfrou|Substitute|p1a: Furfrou
+|-start|p1a: Furfrou|Substitute
+|-damage|p1a: Furfrou|57\/100
+|
+|-heal|p1a: Furfrou|63\/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|move toxic|move thunderbolt
+|
+|move|p1a: Furfrou|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|move|p2a: Rotom|Thunderbolt|p1a: Furfrou
+|-end|p1a: Furfrou|Substitute
+|-damage|p2a: Rotom|91\/100 tox|[from] item: Life Orb
+|
+|-heal|p1a: Furfrou|69\/100|[from] item: Leftovers
+|-damage|p2a: Rotom|85\/100 tox|[from] psn
+|upkeep
+|turn|4
+|choice|switch 3|move thunderbolt
+|
+|switch|p1a: Pachirisu|Pachirisu, L79, M|100\/100
+|-item|p1a: Pachirisu|Air Balloon
+|move|p2a: Rotom|Thunderbolt|p1a: Pachirisu
+|-immune|p1a: Pachirisu|[msg]|[from] ability: Volt Absorb
+|
+|-damage|p2a: Rotom|72\/100 tox|[from] psn
+|upkeep
+|turn|5
+|choice|move thunderbolt|switch 4
+|
+|switch|p2a: Buzzwole|Buzzwole, L75|100\/100
+|move|p1a: Pachirisu|Thunderbolt|p2a: Buzzwole
+|-damage|p2a: Buzzwole|73\/100
+|
+|upkeep
+|turn|6
+|choice|switch 5|move leechlife
+|
+|switch|p1a: Volbeat|Volbeat, L79, M|100\/100
+|move|p2a: Buzzwole|Leech Life|p1a: Volbeat
+|-damage|p1a: Volbeat|30\/100
+|-heal|p2a: Buzzwole|100\/100|[from] drain|[of] p1a: Volbeat
+|
+|-heal|p1a: Volbeat|36\/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|choice|move thunderwave|switch 4
+|
+|switch|p2a: Rotom|Rotom, L79|72\/100 tox
+|move|p1a: Volbeat|Thunder Wave|p2a: Rotom
+|-fail|p2a: Rotom
+|
+|-heal|p1a: Volbeat|42\/100|[from] item: Leftovers
+|-damage|p2a: Rotom|66\/100 tox|[from] psn
+|upkeep
+|turn|8
+|choice|switch 5|move willowisp
+|
+|switch|p1a: Pachirisu|Pachirisu, L79, M|100\/100
+|-item|p1a: Pachirisu|Air Balloon
+|move|p2a: Rotom|Will-O-Wisp|p1a: Pachirisu
+|-status|p1a: Pachirisu|brn
+|
+|-damage|p1a: Pachirisu|94\/100 brn|[from] brn
+|-damage|p2a: Rotom|54\/100 tox|[from] psn
+|upkeep
+|turn|9
+|choice|move nuzzle|move shadowball
+|
+|move|p1a: Pachirisu|Nuzzle|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|52\/100 tox
+|move|p2a: Rotom|Shadow Ball|p1a: Pachirisu
+|-damage|p1a: Pachirisu|51\/100 brn
+|-enditem|p1a: Pachirisu|Air Balloon
+|-damage|p2a: Rotom|43\/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Pachirisu|45\/100 brn|[from] brn
+|-damage|p2a: Rotom|24\/100 tox|[from] psn
+|upkeep
+|turn|10
+|choice|move thunderbolt|move willowisp
+|
+|move|p1a: Pachirisu|Thunderbolt|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|10\/100 tox
+|move|p2a: Rotom|Will-O-Wisp|p1a: Pachirisu
+|-fail|p1a: Pachirisu|brn
+|
+|-damage|p1a: Pachirisu|38\/100 brn|[from] brn
+|-damage|p2a: Rotom|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Rotom
+|choice||switch 3
+|
+|switch|p2a: Tentacruel|Tentacruel, L77, M|100\/100
+|turn|11
+|choice|move thunderbolt|move sludgebomb
+|
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Pachirisu
+|-damage|p1a: Pachirisu|6\/100 brn
+|move|p1a: Pachirisu|Thunderbolt|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|76\/100
+|
+|-damage|p1a: Pachirisu|0 fnt|[from] brn
+|upkeep
+|faint|p1a: Pachirisu
+|choice|switch 6|
+|
+|switch|p1a: Weavile|Weavile, L76, F|100\/100
+|-ability|p1a: Weavile|Pressure
+|turn|12
+|choice|move knockoff|move scald
+|
+|move|p1a: Weavile|Knock Off|p2a: Tentacruel
+|-damage|p2a: Tentacruel|8\/100
+|-enditem|p2a: Tentacruel|Assault Vest|[from] move: Knock Off|[of] p1a: Weavile
+|-damage|p1a: Weavile|91\/100|[from] item: Life Orb
+|move|p2a: Tentacruel|Scald|p1a: Weavile
+|-damage|p1a: Weavile|62\/100
+|-status|p1a: Weavile|brn
+|
+|-damage|p1a: Weavile|56\/100 brn|[from] brn
+|upkeep
+|turn|13
+|choice|move knockoff|switch 2
+|
+|switch|p2a: Darmanitan|Darmanitan, L77, F|91\/100
+|move|p1a: Weavile|Knock Off|p2a: Darmanitan
+|-damage|p2a: Darmanitan|59\/100
+|-enditem|p2a: Darmanitan|Life Orb|[from] move: Knock Off|[of] p1a: Weavile
+|-damage|p1a: Weavile|46\/100 brn|[from] item: Life Orb
+|
+|-damage|p1a: Weavile|40\/100 brn|[from] brn
+|upkeep
+|turn|14
+|choice|move knockoff|move rockslide
+|
+|move|p1a: Weavile|Knock Off|p2a: Darmanitan
+|-damage|p2a: Darmanitan|37\/100
+|-damage|p1a: Weavile|30\/100 brn|[from] item: Life Orb
+|move|p2a: Darmanitan|Rock Slide|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Feraligatr|Feraligatr, L79, F|100\/100
+|turn|15
+|choice|move waterfall|switch 5
+|
+|switch|p2a: Kartana|Kartana, L75|100\/100
+|move|p1a: Feraligatr|Waterfall|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|73\/100
+|
+|upkeep
+|turn|16
+|choice|switch 4|move leafblade
+|
+|switch|p1a: Butterfree|Butterfree, L79, F|100\/100
+|move|p2a: Kartana|Leaf Blade|p1a: Butterfree
+|-resisted|p1a: Butterfree
+|-damage|p1a: Butterfree|64\/100
+|
+|upkeep
+|turn|17
+|choice|move bugbuzz|move leafblade
+|
+|move|p2a: Kartana|Leaf Blade|p1a: Butterfree
+|-resisted|p1a: Butterfree
+|-damage|p1a: Butterfree|32\/100
+|move|p1a: Butterfree|Bug Buzz|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-damage|p1a: Butterfree|22\/100|[from] item: Life Orb
+|faint|p2a: Kartana
+|
+|upkeep
+|choice||switch 2
+|
+|switch|p2a: Tentacruel|Tentacruel, L77, M|8\/100
+|turn|18
+|choice|move gigadrain|move sludgebomb
+|
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Butterfree
+|-damage|p1a: Butterfree|0 fnt
+|faint|p1a: Butterfree
+|
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Furfrou|Furfrou, L79, M|69\/100
+|turn|19
+|choice|move return|move sludgebomb
+|
+|move|p1a: Furfrou|Return|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|-heal|p1a: Furfrou|75\/100|[from] item: Leftovers
+|upkeep
+|choice||switch 4
+|
+|switch|p2a: Buzzwole|Buzzwole, L75|100\/100
+|turn|20
+|choice|switch 4|move leechlife
+|
+|switch|p1a: Feraligatr|Feraligatr, L79, F|100\/100
+|move|p2a: Buzzwole|Leech Life|p1a: Feraligatr
+|-damage|p1a: Feraligatr|55\/100
+|
+|upkeep
+|turn|21
+|choice|move icepunch|move leechlife
+|
+|move|p1a: Feraligatr|Ice Punch|p2a: Buzzwole
+|-damage|p2a: Buzzwole|79\/100
+|move|p2a: Buzzwole|Leech Life|p1a: Feraligatr
+|-damage|p1a: Feraligatr|2\/100
+|-heal|p2a: Buzzwole|100\/100|[from] drain|[of] p1a: Feraligatr
+|
+|upkeep
+|turn|22
+|choice|move waterfall|move leechlife
+|
+|move|p1a: Feraligatr|Waterfall|p2a: Buzzwole
+|-damage|p2a: Buzzwole|62\/100
+|move|p2a: Buzzwole|Leech Life|p1a: Feraligatr
+|-damage|p1a: Feraligatr|0 fnt
+|-heal|p2a: Buzzwole|62\/100|[from] drain|[of] p1a: Feraligatr
+|faint|p1a: Feraligatr
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Volbeat|Volbeat, L79, M|42\/100
+|turn|23
+|choice|move thunderwave|switch 5
+|
+|switch|p2a: Darmanitan|Darmanitan, L77, F|37\/100
+|move|p1a: Volbeat|Thunder Wave|p2a: Darmanitan
+|-status|p2a: Darmanitan|par
+|
+|-heal|p1a: Volbeat|48\/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|choice|move substitute|move flareblitz
+|
+|move|p1a: Volbeat|Substitute|p1a: Volbeat
+|-start|p1a: Volbeat|Substitute
+|-damage|p1a: Volbeat|23\/100
+|cant|p2a: Darmanitan|par
+|
+|-heal|p1a: Volbeat|30\/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|choice|switch 4|move flareblitz
+|
+|switch|p1a: Furfrou|Furfrou, L79, M|75\/100
+|move|p2a: Darmanitan|Flare Blitz|p1a: Furfrou
+|-crit|p1a: Furfrou
+|-damage|p1a: Furfrou|0 fnt
+|-damage|p2a: Darmanitan|16\/100 par|[from] recoil|[of] p1a: Furfrou
+|faint|p1a: Furfrou
+|
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Volbeat|Volbeat, L79, M|30\/100
+|turn|26
+|choice|move substitute|move flareblitz
+|
+|move|p1a: Volbeat|Substitute|p1a: Volbeat
+|-start|p1a: Volbeat|Substitute
+|-damage|p1a: Volbeat|5\/100
+|move|p2a: Darmanitan|Flare Blitz|p1a: Volbeat
+|-supereffective|p1a: Volbeat
+|-end|p1a: Volbeat|Substitute
+|-damage|p2a: Darmanitan|10\/100 par|[from] recoil|[of] p1a: Volbeat
+|
+|-heal|p1a: Volbeat|11\/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|choice|move bugbuzz|switch 6
+|
+|switch|p2a: Diancie|Diancie, L75|100\/100
+|move|p1a: Volbeat|Bug Buzz|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|91\/100
+|
+|-heal|p1a: Volbeat|17\/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c|☆mmsbludhound|gg
+|choice|move thunderwave|move moonblast mega
+|
+|detailschange|p2a: Diancie|Diancie-Mega, L75
+|-mega|p2a: Diancie|Diancie|Diancite
+|move|p1a: Volbeat|Thunder Wave|p2a: Diancie
+|move|p2a: Diancie|Thunder Wave|p1a: Volbeat|[from]Magic Bounce
+|-status|p1a: Volbeat|par
+|move|p2a: Diancie|Moonblast|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|
+|win|mmsbludhound
+|player|p1
+|player|p2
+|c|☆35Q71N|gg</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and mmsbludhound joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and mmsbludhound!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Furfrou</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound sent out <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Furfrou put in a substitute!</small><br></div><div class="battle-history"><small>(Furfrou lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darmanitan used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>Furfrou's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Darmanitan's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Darmanitan's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Darmanitan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Furfrou restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Darmanitan!<br></div><div class="battle-history">mmsbludhound sent out <strong>Rotom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Furfrou put in a substitute!</small><br></div><div class="battle-history"><small>(Furfrou lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Furfrou restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Rotom was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>Furfrou's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Rotom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Furfrou restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou, come back!<br></div><div class="battle-history">Go! <strong>Pachirisu</strong>!<br></div><div class="battle-history"><small>Pachirisu floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history">[Pachirisu's Volt Absorb]<br><small>It doesn't affect Pachirisu...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Rotom!<br></div><div class="battle-history">mmsbludhound sent out <strong>Buzzwole</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Buzzwole lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu, come back!<br></div><div class="battle-history">Go! <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Buzzwole used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>(Volbeat lost 70% of its health!)</small><br></div><div class="battle-history"><small>Volbeat had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Buzzwole!<br></div><div class="battle-history">mmsbludhound sent out <strong>Rotom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat, come back!<br></div><div class="battle-history">Go! <strong>Pachirisu</strong>!<br></div><div class="battle-history"><small>Pachirisu floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Pachirisu was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pachirisu was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu used <strong>Nuzzle</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost 2% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Pachirisu lost 43% of its health!)</small><br></div><div class="battle-history"><small>Pachirisu's Air Balloon popped!</small><br></div><div class="battle-history"><small>The opposing Rotom lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pachirisu was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Rotom lost 14% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Pachirisu is already burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pachirisu was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Rotom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound sent out <strong>Tentacruel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Pachirisu lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost 24% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pachirisu was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pachirisu fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Weavile</strong>!<br></div><div class="battle-history">[Weavile's Pressure]<br><small>Weavile is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Weavile used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Tentacruel lost 68% of its health!)</small><br></div><div class="battle-history"><small>Weavile knocked off the opposing Tentacruel's Assault Vest!</small><br></div><div class="battle-history"><small>Weavile lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Weavile lost 29% of its health!)</small><br></div><div class="battle-history"><small>Weavile was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Weavile was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Tentacruel!<br></div><div class="battle-history">mmsbludhound sent out <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Weavile used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Darmanitan lost 32% of its health!)</small><br></div><div class="battle-history"><small>Weavile knocked off the opposing Darmanitan's Life Orb!</small><br></div><div class="battle-history"><small>Weavile lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Weavile was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Weavile used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Darmanitan lost 22% of its health!)</small><br></div><div class="battle-history"><small>Weavile lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darmanitan used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Weavile lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Weavile fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Darmanitan!<br></div><div class="battle-history">mmsbludhound sent out <strong>Kartana</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Kartana lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Butterfree</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kartana used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Butterfree lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kartana used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Butterfree lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Butterfree used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(The opposing Kartana lost 73% of its health!)</small><br></div><div class="battle-history"><small>Butterfree lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kartana fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound sent out <strong>Tentacruel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Butterfree lost 22% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Butterfree fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Furfrou</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Tentacruel lost 8% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Furfrou restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound sent out <strong>Buzzwole</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Buzzwole used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost 45% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Buzzwole lost 21% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Buzzwole used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost 53% of its health!)</small><br></div><div class="battle-history"><small>Feraligatr had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(The opposing Buzzwole lost 38% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Buzzwole used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost 2% of its health!)</small><br></div><div class="battle-history"><small>Feraligatr had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr fainted!<br></div><div class="battle-history">[The opposing Buzzwole's Beast Boost]<br></div><div class="battle-history"><small>The opposing Buzzwole's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Buzzwole!<br></div><div class="battle-history">mmsbludhound sent out <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Darmanitan is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Volbeat put in a substitute!</small><br></div><div class="battle-history"><small>(Volbeat lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darmanitan is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat, come back!<br></div><div class="battle-history">Go! <strong>Furfrou</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Furfrou lost 75% of its health!)</small><br></div><div class="battle-history"><small>The opposing Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Furfrou fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Volbeat</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Volbeat put in a substitute!</small><br></div><div class="battle-history"><small>(Volbeat lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Volbeat's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">mmsbludhound withdrew Darmanitan!<br></div><div class="battle-history">mmsbludhound sent out <strong>Diancie</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Diancie lost 9% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Volbeat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat chatmessage-mmsbludhound"><strong style="color:#bb291c"><small>☆</small><span class="username" data-name="mmsbludhound">mmsbludhound</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Diancie's Diancite is reacting to the Key Stone!</small><br>The opposing Diancie has Mega Evolved into Mega Diancie!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat used <strong>Thunder Wave</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Diancie's Magic Bounce]<br>The opposing Diancie bounced the Thunder Wave back!<br></div><div class="battle-history"><small>Volbeat is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diancie used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Volbeat lost 17% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volbeat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>mmsbludhound</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

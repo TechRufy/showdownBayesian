@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. ilikestealingseats</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-538517370" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/ilikestealingseats" class="subtle" target="_blank">ilikestealingseats</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|ilikestealingseats
+|player|p1|35Q71N|169
+|player|p2|ilikestealingseats|169
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|1740,29530,64139,2382
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Dugtrio|Dugtrio-Alola, L79, F|100\/100
+|switch|p2a: Mamoswine|Mamoswine, L75, F|100\/100
+|turn|1
+|choice|move ironhead|move stealthrock
+|
+|move|p1a: Dugtrio|Iron Head|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|20\/100
+|-damage|p1a: Dugtrio|91\/100|[from] item: Life Orb
+|move|p2a: Mamoswine|Stealth Rock|p1a: Dugtrio
+|-sidestart|p1: 35Q71N|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|choice|move earthquake|move endeavor
+|
+|move|p1a: Dugtrio|Earthquake|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|-damage|p1a: Dugtrio|81\/100|[from] item: Life Orb
+|faint|p2a: Mamoswine
+|
+|upkeep
+|choice||switch 4
+|
+|switch|p2a: Talonflame|Talonflame, L79, F|100\/100
+|turn|3
+|choice|move stoneedge|move flareblitz
+|
+|move|p2a: Talonflame|Flare Blitz|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|-ability|p1a: Dugtrio|Tangling Hair
+|-unboost|p2a: Talonflame|spe|1
+|-damage|p2a: Talonflame|81\/100|[from] recoil|[of] p1a: Dugtrio
+|faint|p1a: Dugtrio
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Ampharos|Ampharos, L79, M|100\/100
+|-damage|p1a: Ampharos|88\/100|[from] Stealth Rock
+|turn|4
+|choice|move voltswitch|switch 2
+|
+|switch|p2a: Roserade|Roserade, L79, F|100\/100
+|move|p1a: Ampharos|Volt Switch|p2a: Roserade
+|-resisted|p2a: Roserade
+|-damage|p2a: Roserade|84\/100
+|choice|switch 4|
+|
+|switch|p1a: Mothim|Mothim, L79, M|100\/100
+|-damage|p1a: Mothim|51\/100|[from] Stealth Rock
+|
+|-heal|p2a: Roserade|91\/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|choice|move airslash|switch 3
+|
+|switch|p2a: Tropius|Tropius, L79, M|100\/100
+|move|p1a: Mothim|Air Slash|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|30\/100
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|54\/100|[from] item: Sitrus Berry
+|-damage|p1a: Mothim|41\/100|[from] item: Life Orb
+|
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|6
+|choice|move airslash|move airslash
+|
+|move|p1a: Mothim|Air Slash|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|-damage|p1a: Mothim|31\/100|[from] item: Life Orb
+|faint|p2a: Tropius
+|
+|upkeep
+|choice||switch 2
+|
+|switch|p2a: Talonflame|Talonflame, L79, F|81\/100
+|turn|7
+|choice|move airslash|move flareblitz
+|
+|move|p2a: Talonflame|Flare Blitz|p1a: Mothim
+|-supereffective|p1a: Mothim
+|-damage|p1a: Mothim|0 fnt
+|-damage|p2a: Talonflame|72\/100|[from] recoil|[of] p1a: Mothim
+|faint|p1a: Mothim
+|
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Ampharos|Ampharos, L79, M|88\/100
+|-damage|p1a: Ampharos|75\/100|[from] Stealth Rock
+|turn|8
+|choice|move voltswitch|switch 3
+|
+|switch|p2a: Roserade|Roserade, L79, F|91\/100
+|move|p1a: Ampharos|Volt Switch|p2a: Roserade
+|-resisted|p2a: Roserade
+|-damage|p2a: Roserade|75\/100
+|choice|switch 5|
+|
+|switch|p1a: Venusaur|Venusaur, L75, M|100\/100
+|-damage|p1a: Venusaur|88\/100|[from] Stealth Rock
+|
+|-heal|p2a: Roserade|81\/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|choice|move knockoff mega|switch 6
+|
+|switch|p2a: Avalugg|Avalugg, L79, M|100\/100
+|detailschange|p1a: Venusaur|Venusaur-Mega, L75, M
+|-mega|p1a: Venusaur|Venusaur|Venusaurite
+|move|p1a: Venusaur|Knock Off|p2a: Avalugg
+|-damage|p2a: Avalugg|87\/100
+|-enditem|p2a: Avalugg|Leftovers|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|upkeep
+|turn|10
+|choice|move sleeppowder|move avalanche
+|
+|move|p1a: Venusaur|Sleep Powder|p2a: Avalugg
+|-status|p2a: Avalugg|slp
+|cant|p2a: Avalugg|slp
+|
+|upkeep
+|turn|11
+|choice|move sludgebomb|switch 3
+|
+|switch|p2a: Talonflame|Talonflame, L79, F|72\/100
+|move|p1a: Venusaur|Sludge Bomb|p2a: Talonflame
+|-damage|p2a: Talonflame|24\/100
+|
+|upkeep
+|turn|12
+|choice|switch 5|move bravebird zmove
+|
+|switch|p1a: Ampharos|Ampharos, L79, M|75\/100
+|-damage|p1a: Ampharos|63\/100|[from] Stealth Rock
+|-zpower|p2a: Talonflame
+|move|p2a: Talonflame|Supersonic Skystrike|p1a: Ampharos|[zeffect]
+|-resisted|p1a: Ampharos
+|-damage|p1a: Ampharos|31\/100
+|
+|upkeep
+|turn|13
+|choice|move voltswitch|move flareblitz
+|
+|move|p2a: Talonflame|Flare Blitz|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|-damage|p2a: Talonflame|13\/100|[from] recoil|[of] p1a: Ampharos
+|faint|p1a: Ampharos
+|
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Mamoswine|Mamoswine, L75, F|100\/100
+|-damage|p1a: Mamoswine|88\/100|[from] Stealth Rock
+|turn|14
+|choice|move iceshard|switch 6
+|
+|switch|p2a: Roserade|Roserade, L79, F|81\/100
+|move|p1a: Mamoswine|Ice Shard|p2a: Roserade
+|-supereffective|p2a: Roserade
+|-crit|p2a: Roserade
+|-damage|p2a: Roserade|0 fnt
+|-damage|p1a: Mamoswine|78\/100|[from] item: Life Orb
+|faint|p2a: Roserade
+|
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Blaziken|Blaziken, L73, F|100\/100
+|turn|15
+|choice|switch 3|move highjumpkick mega
+|
+|switch|p1a: Mantine|Mantine, L77, F|100\/100
+|-damage|p1a: Mantine|76\/100|[from] Stealth Rock
+|detailschange|p2a: Blaziken|Blaziken-Mega, L73, F
+|-mega|p2a: Blaziken|Blaziken|Blazikenite
+|move|p2a: Blaziken|High Jump Kick|p1a: Mantine
+|-resisted|p1a: Mantine
+|-crit|p1a: Mantine
+|-damage|p1a: Mantine|13\/100
+|
+|-heal|p1a: Mantine|19\/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|16
+|choice|move scald|move flareblitz
+|
+|move|p2a: Blaziken|Flare Blitz|p1a: Mantine
+|-resisted|p1a: Mantine
+|-damage|p1a: Mantine|0 fnt
+|-damage|p2a: Blaziken|94\/100|[from] recoil|[of] p1a: Mantine
+|faint|p1a: Mantine
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Venusaur|Venusaur-Mega, L75, M|88\/100
+|-damage|p1a: Venusaur|76\/100|[from] Stealth Rock
+|turn|17
+|choice|move earthquake|switch 3
+|
+|switch|p2a: Avalugg|Avalugg, L79, M|87\/100 slp
+|move|p1a: Venusaur|Earthquake|p2a: Avalugg
+|-damage|p2a: Avalugg|75\/100 slp
+|
+|upkeep
+|turn|18
+|choice|switch 3|move avalanche
+|
+|switch|p1a: Mamoswine|Mamoswine, L75, F|78\/100
+|-damage|p1a: Mamoswine|66\/100|[from] Stealth Rock
+|cant|p2a: Avalugg|slp
+|
+|upkeep
+|turn|19
+|choice|move stealthrock|move earthquake
+|
+|move|p1a: Mamoswine|Stealth Rock|p2a: Avalugg
+|-sidestart|p2: ilikestealingseats|move: Stealth Rock
+|cant|p2a: Avalugg|slp
+|
+|upkeep
+|turn|20
+|choice|move superpower|move avalanche
+|
+|move|p1a: Mamoswine|Superpower|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|29\/100 slp
+|-unboost|p1a: Mamoswine|atk|1
+|-unboost|p1a: Mamoswine|def|1
+|-damage|p1a: Mamoswine|56\/100|[from] item: Life Orb
+|-curestatus|p2a: Avalugg|slp|[msg]
+|move|p2a: Avalugg|Avalanche|p1a: Mamoswine
+|-crit|p1a: Mamoswine
+|-damage|p1a: Mamoswine|1\/100
+|
+|upkeep
+|turn|21
+|choice|move superpower|move earthquake
+|
+|move|p1a: Mamoswine|Superpower|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-crit|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|-unboost|p1a: Mamoswine|atk|1
+|-unboost|p1a: Mamoswine|def|1
+|-damage|p1a: Mamoswine|0 fnt|[from] item: Life Orb
+|faint|p2a: Avalugg
+|faint|p1a: Mamoswine
+|
+|upkeep
+|choice|switch 3|switch 6
+|
+|switch|p2a: Talonflame|Talonflame, L79, F|13\/100
+|switch|p1a: Venusaur|Venusaur-Mega, L75, M|76\/100
+|-damage|p2a: Talonflame|0 fnt|[from] Stealth Rock
+|faint|p2a: Talonflame
+|-damage|p1a: Venusaur|64\/100|[from] Stealth Rock
+|choice||switch 3
+|
+|switch|p2a: Blaziken|Blaziken-Mega, L73, F|94\/100
+|-damage|p2a: Blaziken|82\/100|[from] Stealth Rock
+|turn|22
+|choice|move earthquake|move swordsdance
+|
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Venusaur|Earthquake|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|17\/100
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|23
+|choice|move earthquake|move flareblitz
+|
+|move|p2a: Blaziken|Flare Blitz|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-damage|p2a: Blaziken|0 fnt|[from] recoil|[of] p1a: Venusaur
+|faint|p1a: Venusaur
+|faint|p2a: Blaziken
+|
+|win|ilikestealingseats
+|player|p1
+|player|p2</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and ilikestealingseats joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and ilikestealingseats!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Dugtrio (<strong>Dugtrio-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out <strong>Mamoswine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dugtrio used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mamoswine lost 80% of its health!)</small><br></div><div class="battle-history"><small>Dugtrio lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mamoswine used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dugtrio used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Mamoswine lost 20% of its health!)</small><br></div><div class="battle-history"><small>Dugtrio lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mamoswine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out <strong>Talonflame</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Talonflame used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dugtrio lost 81% of its health!)</small><br></div><div class="battle-history">[Dugtrio's Tangling Hair]<br></div><div class="battle-history"><small>The opposing Talonflame's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Talonflame was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dugtrio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ampharos!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Talonflame!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Roserade lost 16% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos, come back!<br></div><div class="battle-history">Go! <strong>Mothim</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Mothim!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Roserade restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Roserade!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mothim used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 70% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Tropius restored HP using its Sitrus Berry!</small><br></div><div class="battle-history"><small>Mothim lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Tropius's Harvest]<br><small>The opposing Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mothim used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 54% of its health!)</small><br></div><div class="battle-history"><small>Mothim lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out <strong>Talonflame</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Talonflame used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mothim lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Talonflame was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mothim fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ampharos!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Talonflame!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Roserade lost 16% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos, come back!<br></div><div class="battle-history">Go! <strong>Venusaur</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Venusaur!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Roserade restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Roserade!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Avalugg</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Venusaur's Venusaurite is reacting to the Key Stone!</small><br>Venusaur has Mega Evolved into Mega Venusaur!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Avalugg lost 13% of its health!)</small><br></div><div class="battle-history"><small>Venusaur knocked off the opposing Avalugg's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Avalugg fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Avalugg!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Talonflame</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Talonflame lost 48% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur, come back!<br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ampharos!</small><br></div><div class="battle-history"><small>The opposing Talonflame surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Talonflame unleashes its full-force Z-Move!</small><br>The opposing Talonflame used <strong>Supersonic Skystrike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ampharos lost 32% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Talonflame used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(Ampharos lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Talonflame was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mamoswine</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Mamoswine!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Talonflame!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mamoswine used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Roserade lost 81% of its health!)</small><br></div><div class="battle-history"><small>Mamoswine lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Roserade fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out <strong>Blaziken</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mamoswine, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Mantine!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Blaziken's Blazikenite is reacting to the Key Stone!</small><br>The opposing Blaziken has Mega Evolved into Mega Blaziken!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blaziken used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Mantine lost 63% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[The opposing Blaziken's Speed Boost]<br></div><div class="battle-history"><small>The opposing Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blaziken used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Mantine lost 19% of its health!)</small><br></div><div class="battle-history"><small>The opposing Blaziken was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Blaziken's Speed Boost]<br></div><div class="battle-history"><small>The opposing Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Venusaur (<strong>Venusaur-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Venusaur!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats withdrew Blaziken!<br></div><div class="battle-history">ilikestealingseats sent out <strong>Avalugg</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Avalugg lost 12% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur, come back!<br></div><div class="battle-history">Go! <strong>Mamoswine</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Mamoswine!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mamoswine used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mamoswine used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Avalugg lost 46% of its health!)</small><br></div><div class="battle-history"><small>Mamoswine's Attack fell!</small><br></div><div class="battle-history"><small>Mamoswine's Defense fell!</small><br></div><div class="battle-history"><small>Mamoswine lost some of its HP!</small><br></div><div class="battle-history"><small>The opposing Avalugg woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Avalanche</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Mamoswine lost 55% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mamoswine used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Avalugg lost 29% of its health!)</small><br></div><div class="battle-history"><small>Mamoswine's Attack fell!</small><br></div><div class="battle-history"><small>Mamoswine's Defense fell!</small><br></div><div class="battle-history"><small>Mamoswine lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg fainted!<br></div><div class="battle-history">Mamoswine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out <strong>Talonflame</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Venusaur (<strong>Venusaur-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Talonflame!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Talonflame fainted!<br></div><div class="battle-history"><small>Pointed stones dug into Venusaur!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">ilikestealingseats sent out Blaziken (<strong>Blaziken-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Blaziken!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blaziken used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Blaziken's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Blaziken lost 65% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Blaziken's Speed Boost]<br></div><div class="battle-history"><small>The opposing Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Blaziken used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Venusaur lost 64% of its health!)</small><br></div><div class="battle-history"><small>The opposing Blaziken was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venusaur fainted!<br></div><div class="battle-history">The opposing Blaziken fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>ilikestealingseats</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

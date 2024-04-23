@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: munch857 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2101676277" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/munch857" class="subtle" target="_blank">munch857</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆munch857
+|j|☆35Q71N
+|t:|1712909858
+|gametype|singles
+|player|p1|munch857|yellow|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712909858
+|start
+|switch|p1a: Camerupt|Camerupt, L88, M|266\/266
+|switch|p2a: Sawk|Sawk, L87, M|272\/272
+|-ability|p2a: Sawk|Mold Breaker
+|turn|1
+|c|☆35Q71N|Glhf!
+|c|☆munch857|glhf~
+|
+|t:|1712909907
+|move|p2a: Sawk|Earthquake|p1a: Camerupt
+|-supereffective|p1a: Camerupt
+|-damage|p1a: Camerupt|72\/266
+|move|p1a: Camerupt|Rock Polish|p1a: Camerupt
+|-boost|p1a: Camerupt|spe|2
+|
+|-heal|p1a: Camerupt|88\/266|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1712909925
+|move|p2a: Sawk|Earthquake|p1a: Camerupt
+|-supereffective|p1a: Camerupt
+|-damage|p1a: Camerupt|0 fnt
+|faint|p1a: Camerupt
+|
+|upkeep
+|
+|t:|1712909943
+|switch|p1a: Butterfree|Butterfree, L90, M|254\/254
+|turn|3
+|j| critsomnia
+|
+|t:|1712909973
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243\/243
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Butterfree|Sleep Powder|p2a: Tapu Fini|[miss]
+|-miss|p1a: Butterfree|p2a: Tapu Fini
+|
+|upkeep
+|turn|4
+|
+|t:|1712910010
+|switch|p1a: Castform|Castform, L99, F|299\/299
+|move|p2a: Tapu Fini|Taunt|p1a: Castform
+|-start|p1a: Castform|move: Taunt
+|
+|upkeep
+|turn|5
+|
+|t:|1712910052
+|switch|p2a: Audino|Audino, L92, F|339\/339
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|233\/339
+|
+|upkeep
+|turn|6
+|
+|t:|1712910092
+|switch|p1a: Swampert|Swampert, L81, M|295\/295
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|upkeep
+|turn|7
+|
+|t:|1712910144
+|detailschange|p1a: Swampert|Swampert-Mega, L81, M
+|-mega|p1a: Swampert|Swampert|Swampertite
+|move|p1a: Swampert|Rain Dance|p1a: Swampert
+|-weather|RainDance
+|move|p2a: Audino|Dazzling Gleam|p1a: Swampert
+|-damage|p1a: Swampert|253\/295
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Audino|339\/339|[from] move: Wish|[wisher] Audino
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|
+|t:|1712910152
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Swampert|Waterfall|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1712910194
+|switch|p2a: Carnivine|Carnivine, L98, F|304\/304
+|move|p1a: Swampert|Waterfall|p2a: Carnivine
+|-resisted|p2a: Carnivine
+|-damage|p2a: Carnivine|215\/304
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Carnivine|234\/304|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1712910221
+|switch|p1a: Butterfree|Butterfree, L90, M|254\/254
+|move|p2a: Carnivine|Power Whip|p1a: Butterfree
+|-resisted|p1a: Butterfree
+|-damage|p1a: Butterfree|196\/254
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Butterfree|211\/254|[from] item: Leftovers
+|-heal|p2a: Carnivine|253\/304|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1712910241
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243\/243
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Butterfree|Quiver Dance|p1a: Butterfree
+|-boost|p1a: Butterfree|spa|1
+|-boost|p1a: Butterfree|spd|1
+|-boost|p1a: Butterfree|spe|1
+|
+|-weather|none
+|-heal|p1a: Butterfree|226\/254|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1712910268
+|move|p1a: Butterfree|Quiver Dance|p1a: Butterfree
+|-boost|p1a: Butterfree|spa|1
+|-boost|p1a: Butterfree|spd|1
+|-boost|p1a: Butterfree|spe|1
+|move|p2a: Tapu Fini|Taunt|p1a: Butterfree
+|-start|p1a: Butterfree|move: Taunt
+|
+|-heal|p1a: Butterfree|241\/254|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1712910274
+|switch|p2a: Audino|Audino, L92, F|339\/339
+|move|p1a: Butterfree|Air Slash|p2a: Audino|[miss]
+|-miss|p1a: Butterfree|p2a: Audino
+|
+|-heal|p1a: Butterfree|254\/254|[from] item: Leftovers
+|upkeep
+|turn|14
+|c|☆35Q71N|My bad
+|
+|t:|1712910286
+|move|p1a: Butterfree|Air Slash|p2a: Audino
+|-damage|p2a: Audino|164\/339
+|move|p2a: Audino|Toxic|p1a: Butterfree
+|-status|p1a: Butterfree|tox
+|
+|-damage|p1a: Butterfree|239\/254 tox|[from] psn
+|upkeep
+|turn|15
+|c|☆munch857|no big haha
+|
+|t:|1712910330
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Butterfree|Bug Buzz|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p1a: Butterfree|254\/254 tox|[from] item: Leftovers
+|-damage|p1a: Butterfree|224\/254 tox|[from] psn
+|-end|p1a: Butterfree|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|16
+|
+|t:|1712910352
+|detailschange|p2a: Audino|Audino-Mega, L92, F
+|-mega|p2a: Audino|Audino|Audinite
+|move|p1a: Butterfree|Bug Buzz|p2a: Audino
+|-resisted|p2a: Audino
+|-damage|p2a: Audino|20\/339
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Butterfree|239\/254 tox|[from] item: Leftovers
+|-damage|p1a: Butterfree|194\/254 tox|[from] psn
+|upkeep
+|turn|17
+|j| Toxic Mixture
+|
+|t:|1712910390
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Butterfree|Quiver Dance|p1a: Butterfree
+|-boost|p1a: Butterfree|spa|1
+|-boost|p1a: Butterfree|spd|1
+|-boost|p1a: Butterfree|spe|1
+|
+|-heal|p2a: Audino|189\/339|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Butterfree|209\/254 tox|[from] item: Leftovers
+|-damage|p1a: Butterfree|149\/254 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1712910417
+|move|p1a: Butterfree|Sleep Powder|p2a: Audino|[miss]
+|-miss|p1a: Butterfree|p2a: Audino
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Butterfree|164\/254 tox|[from] item: Leftovers
+|-damage|p1a: Butterfree|89\/254 tox|[from] psn
+|upkeep
+|turn|19
+|c|☆35Q71N|My bad...
+|c|☆munch857|ahhhh
+|l| critsomnia
+|
+|t:|1712910457
+|switch|p1a: Castform|Castform, L99, F|299\/299
+|move|p2a: Audino|Protect||[still]
+|-fail|p2a: Audino
+|
+|-heal|p2a: Audino|339\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|20
+|l| Toxic Mixture
+|
+|t:|1712910476
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L87, M|272\/272
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|148\/272
+|
+|-heal|p2a: Oricorio|165\/272|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1712910509
+|move|p2a: Oricorio|Toxic|p1a: Castform|[miss]
+|-miss|p2a: Oricorio|p1a: Castform
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|38\/272
+|
+|-heal|p2a: Oricorio|55\/272|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1712910531
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|191\/272
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|52\/272
+|
+|-heal|p2a: Oricorio|69\/272|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1712910560
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|205\/272
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|72\/272
+|
+|-heal|p2a: Oricorio|89\/272|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1712910578
+|switch|p1a: Liepard|Liepard, L91, M|264\/264
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|225\/272
+|-singleturn|p2a: Oricorio|move: Roost
+|
+|-heal|p2a: Oricorio|242\/272|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1712910591
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243\/243
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Liepard|Encore||[still]
+|-fail|p1a: Liepard
+|
+|upkeep
+|turn|26
+|
+|t:|1712910600
+|switch|p1a: Castform|Castform, L99, F|299\/299
+|move|p2a: Tapu Fini|Moonblast|p1a: Castform
+|-damage|p1a: Castform|209\/299
+|-unboost|p1a: Castform|spa|1
+|
+|-heal|p1a: Castform|227\/299|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1712910610
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L87, M|242\/272
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|110\/272
+|
+|-heal|p2a: Oricorio|127\/272|[from] item: Leftovers
+|-heal|p1a: Castform|245\/299|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1712910629
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|263\/272
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Castform|Return|p2a: Oricorio
+|-damage|p2a: Oricorio|142\/272
+|
+|-heal|p2a: Oricorio|159\/272|[from] item: Leftovers
+|-heal|p1a: Castform|263\/299|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1712910646
+|switch|p1a: Liepard|Liepard, L91, M|264\/264
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|272\/272
+|-singleturn|p2a: Oricorio|move: Roost
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|30
+|
+|t:|1712910655
+|switch|p2a: Audino|Audino-Mega, L92, F|339\/339
+|move|p1a: Liepard|Knock Off|p2a: Audino
+|-resisted|p2a: Audino
+|-damage|p2a: Audino|313\/339
+|
+|upkeep
+|turn|31
+|
+|t:|1712910666
+|move|p1a: Liepard|Thunder Wave|p2a: Audino
+|-status|p2a: Audino|par
+|move|p2a: Audino|Dazzling Gleam|p1a: Liepard
+|-supereffective|p1a: Liepard
+|-damage|p1a: Liepard|18\/264
+|
+|-heal|p1a: Liepard|34\/264|[from] item: Leftovers
+|upkeep
+|turn|32
+|j| slatevik
+|
+|t:|1712910705
+|switch|p1a: Castform|Castform, L99, F|263\/299
+|cant|p2a: Audino|par
+|
+|-heal|p1a: Castform|281\/299|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1712910710
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|231\/339 par
+|move|p2a: Audino|Toxic|p1a: Castform
+|-status|p1a: Castform|tox
+|
+|-heal|p1a: Castform|299\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|281\/299 tox|[from] psn
+|upkeep
+|turn|34
+|c|☆35Q71N|Gen 7 matchups
+|
+|t:|1712910725
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|144\/339 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Castform|299\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|263\/299 tox|[from] psn
+|upkeep
+|turn|35
+|c|☆munch857|good practice for the tour at least haha
+|c|☆35Q71N|Oh I didn't know you joined it
+|c|☆35Q71N|When do you play?
+|c|☆munch857|supposed to be last night and a few hours ago but my opp is having troubles making it it seems
+|
+|t:|1712910802
+|switch|p1a: Liepard|Liepard, L91, M|34\/264
+|cant|p2a: Audino|par
+|
+|-heal|p2a: Audino|313\/339 par|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Liepard|50\/264|[from] item: Leftovers
+|upkeep
+|turn|36
+|c|☆35Q71N|Ah I see
+|
+|t:|1712910826
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243\/243
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Liepard|Copycat|p1a: Liepard
+|move|p1a: Liepard|Wish|p1a: Liepard|[from]move: Copycat
+|
+|-heal|p1a: Liepard|66\/264|[from] item: Leftovers
+|upkeep
+|turn|37
+|c|☆35Q71N|Oh!
+|c|☆35Q71N|Gaming
+|c|☆munch857|my cool strat that uh
+|c|☆munch857|brings me nowhere LOL
+|c|☆35Q71N|Not your fault, the matchup is AWFUL
+|c|☆35Q71N|And you got unlucky too
+|
+|t:|1712910890
+|switch|p1a: Swampert|Swampert-Mega, L81, M|253\/295
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p1a: Swampert|295\/295|[from] move: Wish|[wisher] Liepard
+|upkeep
+|turn|38
+|
+|t:|1712910944
+|switch|p2a: Carnivine|Carnivine, L98, F|253\/304
+|switch|p1a: Castform|Castform, L99, F|263\/299 tox
+|
+|-heal|p1a: Castform|281\/299 tox|[from] item: Leftovers
+|-heal|p2a: Carnivine|272\/304|[from] item: Leftovers
+|-damage|p1a: Castform|263\/299 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1712910960
+|switch|p2a: Audino|Audino-Mega, L92, F|313\/339 par
+|move|p1a: Castform|Ice Beam|p2a: Audino
+|-damage|p2a: Audino|266\/339 par
+|
+|-heal|p1a: Castform|281\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|245\/299 tox|[from] psn
+|upkeep
+|turn|40
+|c|☆munch857|i should have just took those para chance a while ago lol
+|
+|t:|1712910991
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|184\/339 par
+|move|p2a: Audino|Dazzling Gleam|p1a: Castform
+|-damage|p1a: Castform|158\/299 tox
+|
+|-heal|p1a: Castform|176\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|122\/299 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|41
+|
+|t:|1712911003
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|97\/339 par
+|cant|p2a: Audino|par
+|
+|-heal|p1a: Castform|140\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|68\/299 tox|[from] psn
+|upkeep
+|turn|42
+|j| Unlea$h the Bea$t
+|
+|t:|1712911040
+|switch|p1a: Swampert|Swampert-Mega, L81, M|295\/295
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|upkeep
+|turn|43
+|c|☆munch857|fml
+|
+|t:|1712911048
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Swampert|Earthquake|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p2a: Audino|266\/339 par|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|44
+|c|☆munch857|not like this ahh
+|
+|t:|1712911071
+|switch|p1a: Castform|Castform, L99, F|68\/299 tox
+|switch|p2a: Carnivine|Carnivine, L98, F|272\/304
+|
+|-heal|p1a: Castform|86\/299 tox|[from] item: Leftovers
+|-heal|p2a: Carnivine|291\/304|[from] item: Leftovers
+|-damage|p1a: Castform|68\/299 tox|[from] psn
+|upkeep
+|turn|45
+|c|☆35Q71N|I am hoping for you you are getting karma points for the open lol
+|
+|t:|1712911081
+|switch|p2a: Audino|Audino-Mega, L92, F|266\/339 par
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|178\/339 par
+|
+|-heal|p1a: Castform|86\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|50\/299 tox|[from] psn
+|upkeep
+|turn|46
+|c|☆munch857|haha thanks :3
+|c|☆35Q71N|What's your name on Smog?
+|
+|t:|1712911123
+|move|p1a: Castform|Return|p2a: Audino
+|-damage|p2a: Audino|94\/339 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Castform|68\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|14\/299 tox|[from] psn
+|upkeep
+|turn|47
+|c|☆munch857|cureja!
+|c|☆35Q71N|Ah!
+|c|☆35Q71N|I remember your name
+|c|☆35Q71N|I didn't know it was you :o
+|c|☆35Q71N|Mimi pfp, right?
+|c|☆munch857|yaaaaa
+|c|☆munch857|i should prob use that name on showdown but this acc has too much history for me T u T
+|
+|t:|1712911174
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Castform|Return|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p2a: Audino|263\/339 par|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Castform|32\/299 tox|[from] item: Leftovers
+|-damage|p1a: Castform|0 fnt|[from] psn
+|faint|p1a: Castform
+|upkeep
+|c|☆35Q71N|Fair enough
+|
+|t:|1712911193
+|switch|p1a: Tauros|Tauros, L84, M|263\/263
+|turn|48
+|
+|t:|1712911209
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|154\/339 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|upkeep
+|turn|49
+|
+|t:|1712911246
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|51\/339 par
+|move|p2a: Audino|Toxic|p1a: Tauros
+|-status|p1a: Tauros|tox
+|
+|-heal|p2a: Audino|220\/339 par|[from] move: Wish|[wisher] Audino
+|-damage|p1a: Tauros|247\/263 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1712911278
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|110\/339 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-damage|p1a: Tauros|215\/263 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1712911310
+|switch|p1a: Swampert|Swampert-Mega, L81, M|295\/295
+|move|p2a: Audino|Protect||[still]
+|-fail|p2a: Audino
+|
+|-heal|p2a: Audino|279\/339 par|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|52
+|c|☆munch857|para gods where are you
+|
+|t:|1712911336
+|switch|p2a: Carnivine|Carnivine, L98, F|291\/304
+|move|p1a: Swampert|Waterfall|p2a: Carnivine
+|-resisted|p2a: Carnivine
+|-damage|p2a: Carnivine|231\/304
+|
+|-heal|p2a: Carnivine|250\/304|[from] item: Leftovers
+|upkeep
+|turn|53
+|c|☆35Q71N|Sleepy
+|
+|t:|1712911356
+|switch|p1a: Butterfree|Butterfree, L90, M|89\/254 tox
+|move|p2a: Carnivine|Knock Off|p1a: Butterfree
+|-damage|p1a: Butterfree|0 fnt
+|-enditem|p1a: Butterfree|Leftovers|[from] move: Knock Off|[of] p2a: Carnivine
+|faint|p1a: Butterfree
+|
+|-heal|p2a: Carnivine|269\/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1712911377
+|switch|p1a: Tauros|Tauros, L84, M|215\/263 tox
+|turn|54
+|
+|t:|1712911402
+|switch|p2a: Audino|Audino-Mega, L92, F|279\/339 par
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|176\/339 par
+|
+|-damage|p1a: Tauros|199\/263 tox|[from] psn
+|upkeep
+|turn|55
+|
+|t:|1712911416
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|67\/339 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-damage|p1a: Tauros|167\/263 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1712911422
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p2a: Audino|236\/339 par|[from] move: Wish|[wisher] Audino
+|-damage|p1a: Tauros|119\/263 tox|[from] psn
+|upkeep
+|turn|57
+|
+|t:|1712911431
+|switch|p1a: Liepard|Liepard, L91, M|66\/264
+|cant|p2a: Audino|par
+|
+|-heal|p1a: Liepard|82\/264|[from] item: Leftovers
+|upkeep
+|turn|58
+|c| slatevik|this is the problem with the gen7 playerbase
+|
+|t:|1712911446
+|move|p1a: Liepard|Encore|p2a: Audino
+|-start|p2a: Audino|Encore
+|move|p2a: Audino|Protect||[still]
+|-fail|p2a: Audino
+|
+|-heal|p1a: Liepard|98\/264|[from] item: Leftovers
+|upkeep
+|turn|59
+|c| slatevik|they cant get medaaudino below 92
+|c|☆munch857|hahaha
+|c| slatevik|I mean why are audino amd mega same level
+|
+|t:|1712911467
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243\/243
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Liepard|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|198\/243
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Liepard
+|
+|-heal|p1a: Liepard|114\/264|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1712911477
+|switch|p1a: Swampert|Swampert-Mega, L81, M|295\/295
+|move|p2a: Tapu Fini|Moonblast|p1a: Swampert
+|-damage|p1a: Swampert|216\/295
+|
+|upkeep
+|turn|61
+|
+|t:|1712911501
+|switch|p2a: Carnivine|Carnivine, L98, F|269\/304
+|switch|p1a: Tauros|Tauros, L84, M|119\/263 tox
+|
+|-heal|p2a: Carnivine|288\/304|[from] item: Leftovers
+|-damage|p1a: Tauros|103\/263 tox|[from] psn
+|upkeep
+|turn|62
+|
+|t:|1712911509
+|switch|p2a: Audino|Audino-Mega, L92, F|236\/339 par
+|move|p1a: Tauros|Body Slam|p2a: Audino
+|-damage|p2a: Audino|123\/339 par
+|
+|-damage|p1a: Tauros|71\/263 tox|[from] psn
+|upkeep
+|turn|63
+|
+|t:|1712911525
+|switch|p1a: Liepard|Liepard, L91, M|114\/264
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Liepard|130\/264|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|64
+|
+|t:|1712911538
+|cant|p2a: Audino|par
+|move|p1a: Liepard|Encore|p2a: Audino
+|-start|p2a: Audino|Encore
+|
+|-heal|p2a: Audino|292\/339 par|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Liepard|146\/264|[from] item: Leftovers
+|upkeep
+|turn|65
+|c|☆munch857|fk wait im dumb
+|c|☆munch857|my copycat..
+|
+|t:|1712911592
+|switch|p1a: Swampert|Swampert-Mega, L81, M|216\/295
+|switch|p2a: Darmanitan|Darmanitan, L83, M|310\/310
+|
+|upkeep
+|turn|66
+|
+|t:|1712911619
+|move|p2a: Darmanitan|U-turn|p1a: Swampert
+|-damage|p1a: Swampert|145\/295
+|-damage|p2a: Darmanitan|279\/310|[from] item: Life Orb
+|
+|t:|1712911621
+|switch|p2a: Carnivine|Carnivine, L98, F|288\/304|[from] U-turn
+|move|p1a: Swampert|Waterfall|p2a: Carnivine
+|-resisted|p2a: Carnivine
+|-damage|p2a: Carnivine|237\/304
+|
+|-heal|p2a: Carnivine|256\/304|[from] item: Leftovers
+|upkeep
+|turn|67
+|c|☆munch857|hm
+|l| slatevik
+|c|☆munch857|is my out, miss into crit on tauros or miss into dance and waterfall flinches
+|
+|t:|1712911676
+|move|p1a: Swampert|Rain Dance|p1a: Swampert
+|-weather|RainDance
+|move|p2a: Carnivine|Power Whip|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Carnivine|275\/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1712911678
+|switch|p1a: Tauros|Tauros, L84, M|71\/263 tox
+|turn|68
+|c|☆munch857|haha thanks for letting me play this losing game out
+|
+|t:|1712911700
+|move|p1a: Tauros|Body Slam|p2a: Carnivine
+|-damage|p2a: Carnivine|131\/304
+|move|p2a: Carnivine|Knock Off|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|-enditem|p1a: Tauros|Life Orb|[from] move: Knock Off|[of] p2a: Carnivine
+|faint|p1a: Tauros
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Carnivine|150\/304|[from] item: Leftovers
+|upkeep
+|c|☆35Q71N|No worries!
+|c|☆munch857|it was a fun struggle
+|
+|t:|1712911710
+|switch|p1a: Liepard|Liepard, L91, M|146\/264
+|turn|69
+|c|☆35Q71N|I feel bad for what you had to go through
+|
+|t:|1712911719
+|move|p1a: Liepard|Thunder Wave|p2a: Carnivine
+|-status|p2a: Carnivine|par
+|move|p2a: Carnivine|Power Whip|p1a: Liepard
+|-damage|p1a: Liepard|0 fnt
+|faint|p1a: Liepard
+|
+|win|35Q71N
+|c|☆munch857|gg!
+|c|☆35Q71N|Hopefully you'll be lucky in the open
+|c|☆35Q71N|And in the other ac matches
+|c|☆munch857|haha thanks c:
+|c|☆munch857|have a nice day!
+|c|☆35Q71N|U2!
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆munch857 and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between munch857 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Camerupt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sawk</strong>!<br></div><div class="battle-history">[Sawk's Mold Breaker]<br><small>Sawk breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>glhf~</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Sawk used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−194/266">72.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Camerupt used <strong>Rock Polish</strong>!<br></div><div class="battle-history"><small>The opposing Camerupt's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Camerupt restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sawk used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−88/266">33.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Camerupt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Butterfree</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat"><small> critsomnia joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Sawk, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Tapu Fini avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Butterfree!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Castform fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−106/339">31.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Castform!<br></div><div class="battle-history">munch857 sent out <strong>Swampert</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swampert's Swampertite is reacting to the Key Stone!</small><br>The opposing Swampert has Mega Evolved into Mega Swampert!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Rain Dance</strong>!<br></div><div class="battle-history"><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−42/295">14.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Carnivine lost <abbr title="−89/304">29.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Swampert!<br></div><div class="battle-history">munch857 sent out <strong>Butterfree</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Butterfree lost <abbr title="−58/254">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>Audino avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>My bad</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−175/339">51.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>no big haha</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Butterfree was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Butterfree shook off the taunt!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's Audinite is reacting to the Key Stone!</small><br>Audino has Mega Evolved into Mega Audino!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Audino lost <abbr title="−144/339">42.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Butterfree was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat"><small> Toxic Mixture joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Butterfree was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Audino avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Butterfree restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Butterfree was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>My bad...</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>ahhhh</em></div><div class="chat"><small> critsomnia left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Butterfree!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat"><small> Toxic Mixture left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! Oricorio (<strong>Oricorio-Pom-Pom</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−124/272">45.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Castform avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−127/272">46.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Oricorio had its HP restored.</small><br></div><div class="battle-history"><small>(Oricorio loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−139/272">51.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Oricorio had its HP restored.</small><br></div><div class="battle-history"><small>(Oricorio loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−133/272">48.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Castform!<br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Oricorio had its HP restored.</small><br></div><div class="battle-history"><small>(Oricorio loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Liepard!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Castform lost <abbr title="−90/299">30.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Castform's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! Oricorio (<strong>Oricorio-Pom-Pom</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−132/272">48.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Oricorio had its HP restored.</small><br></div><div class="battle-history"><small>(Oricorio loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−121/272">44.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oricorio restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Castform!<br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Oricorio had its HP restored.</small><br></div><div class="battle-history"><small>(Oricorio loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio, come back!<br></div><div class="battle-history">Go! Audino (<strong>Audino-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Audino lost <abbr title="−26/339">7.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Audino is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Liepard lost <abbr title="−246/264">93.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat"><small> slatevik joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Liepard!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−82/339">24.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Castform was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gen 7 matchups</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−87/339">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>good practice for the tour at least haha</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh I didn't know you joined it</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>When do you play?</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>supposed to be last night and a few hours ago but my opp is having troubles making it it seems</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Castform!<br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah I see</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Copycat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gaming</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>my cool strat that uh</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>brings me nowhere LOL</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Not your fault, the matchup is AWFUL</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>And you got unlucky too</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Liepard!<br></div><div class="battle-history">munch857 sent out Swampert (<strong>Swampert-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Tapu Fini's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Tapu Fini's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Liepard's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Swampert!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine, come back!<br></div><div class="battle-history">Go! Audino (<strong>Audino-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−47/339">13.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>i should have just took those para chance a while ago lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−82/339">24.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(The opposing Castform lost <abbr title="−87/299">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−87/339">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat"><small> Unlea$h the Bea$t joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Castform!<br></div><div class="battle-history">munch857 sent out Swampert (<strong>Swampert-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>fml</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>not like this ahh</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Swampert!<br></div><div class="battle-history">munch857 sent out <strong>Castform</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I am hoping for you you are getting karma points for the open lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine, come back!<br></div><div class="battle-history">Go! Audino (<strong>Audino-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−88/339">26.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>haha thanks :3</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>What's your name on Smog?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−84/339">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>cureja!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I remember your name</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I didn't know it was you :o</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Mimi pfp, right?</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>yaaaaa</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>i should prob use that name on showdown but this acc has too much history for me T u T</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform used <strong>Return</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Castform restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Castform was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Castform fainted!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Fair enough</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−109/339">32.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−103/339">30.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Tauros was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−110/339">32.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Tauros!<br></div><div class="battle-history">munch857 sent out Swampert (<strong>Swampert-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>para gods where are you</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Carnivine lost <abbr title="−60/304">19.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Sleepy</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Swampert!<br></div><div class="battle-history">munch857 sent out <strong>Butterfree</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Butterfree lost <abbr title="−89/254">35.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Carnivine knocked off the opposing Butterfree's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine, come back!<br></div><div class="battle-history">Go! Audino (<strong>Audino-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−103/339">30.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−109/339">32.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 57</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Tauros!<br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 58</h2><div class="chat chatmessage-slatevik"><strong style="color:#4c51ed"><small> </small><span class="username" data-name="slatevik">slatevik</span>:</strong> <em>this is the problem with the gen7 playerbase</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Audino must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 59</h2><div class="chat chatmessage-slatevik"><strong style="color:#4c51ed"><small> </small><span class="username" data-name="slatevik">slatevik</span>:</strong> <em>they cant get medaaudino below 92</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>hahaha</em></div><div class="chat chatmessage-slatevik"><strong style="color:#4c51ed"><small> </small><span class="username" data-name="slatevik">slatevik</span>:</strong> <em>I mean why are audino amd mega same level</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Tapu Fini lost <abbr title="−45/243">18.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Liepard knocked off Tapu Fini's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 60</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Liepard!<br></div><div class="battle-history">munch857 sent out Swampert (<strong>Swampert-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−79/295">26.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 61</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Swampert!<br></div><div class="battle-history">munch857 sent out <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 62</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine, come back!<br></div><div class="battle-history">Go! Audino (<strong>Audino-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−113/339">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Tauros was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 63</h2><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Tauros!<br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 64</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>Audino must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Liepard restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 65</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>fk wait im dumb</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>my copycat..</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 withdrew Liepard!<br></div><div class="battle-history">munch857 sent out Swampert (<strong>Swampert-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 66</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−71/295">24.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Carnivine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Carnivine lost <abbr title="−51/304">16.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 67</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>hm</em></div><div class="chat"><small> slatevik left</small></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>is my out, miss into crit on tauros or miss into dance and waterfall flinches</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert used <strong>Rain Dance</strong>!<br></div><div class="battle-history"><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Swampert lost <abbr title="−145/295">49.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swampert fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 68</h2><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>haha thanks for letting me play this losing game out</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Carnivine lost <abbr title="−144/304">47.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Tauros lost <abbr title="−71/263">27.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Carnivine knocked off the opposing Tauros's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tauros fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>Carnivine restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No worries!</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>it was a fun struggle</em></div><div class="spacer battle-history"><br></div><div class="battle-history">munch857 sent out <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 69</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I feel bad for what you had to go through</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Carnivine is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carnivine used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>(The opposing Liepard lost <abbr title="−146/264">55.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Liepard fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>gg!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Hopefully you'll be lucky in the open</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>And in the other ac matches</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>haha thanks c:</em></div><div class="chat chatmessage-munch857"><strong style="color:#b86a2e"><small>☆</small><span class="username" data-name="munch857">munch857</span>:</strong> <em>have a nice day!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>U2!</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

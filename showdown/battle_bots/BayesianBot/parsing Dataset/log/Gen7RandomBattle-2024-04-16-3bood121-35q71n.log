@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 3bood121 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2104922424" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/3bood121" class="subtle" target="_blank">3bood121</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆3bood121
+|j|☆35Q71N
+|t:|1713295719
+|gametype|singles
+|player|p1|3bood121|265|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713295719
+|start
+|switch|p1a: Pyukumuku|Pyukumuku, L91, M|248\/248
+|switch|p2a: Oranguru|Oranguru, L93, F|318\/318
+|turn|1
+|c|☆35Q71N|Glhf!
+|c|☆3bood121|u2
+|
+|t:|1713295814
+|switch|p2a: Empoleon|Empoleon, L83, M|275\/275
+|switch|p1a: Krookodile|Krookodile, L80, F|283\/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Empoleon|atk|1
+|
+|upkeep
+|turn|2
+|c|☆3bood121|wowww
+|c|☆3bood121|your fav mon lol
+|c|☆35Q71N|:D
+|c|☆35Q71N|I always lose with Empo though lol
+|c|☆3bood121|feelsbadman
+|
+|t:|1713295869
+|switch|p1a: Maractus|Maractus, L97, M|302\/302
+|switch|p2a: Feraligatr|Feraligatr, L80, M|267\/267
+|
+|upkeep
+|turn|3
+|
+|t:|1713295908
+|switch|p2a: Infernape|Infernape, L81, M|256\/256
+|move|p1a: Maractus|Leech Seed|p2a: Infernape
+|-start|p2a: Infernape|move: Leech Seed
+|
+|-damage|p2a: Infernape|224\/256|[from] Leech Seed|[of] p1a: Maractus
+|upkeep
+|turn|4
+|c|☆3bood121|i wonder if you have a 3rd starter mon
+|c|☆3bood121|WHA
+|c|☆35Q71N|:p
+|c|☆3bood121|X)
+|
+|t:|1713295943
+|switch|p1a: Incineroar|Incineroar, L84, M|297\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Infernape|atk|1
+|move|p2a: Infernape|Overheat|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|239\/297
+|-unboost|p2a: Infernape|spa|2
+|-damage|p2a: Infernape|199\/256|[from] item: Life Orb
+|
+|-damage|p2a: Infernape|167\/256|[from] Leech Seed|[of] p1a: Incineroar
+|-heal|p1a: Incineroar|271\/297|[silent]
+|upkeep
+|turn|5
+|
+|t:|1713295983
+|switch|p2a: Feraligatr|Feraligatr, L80, M|267\/267
+|move|p1a: Incineroar|U-turn|p2a: Feraligatr
+|-damage|p2a: Feraligatr|213\/267
+|
+|t:|1713296005
+|switch|p1a: Pyukumuku|Pyukumuku, L91, M|248\/248|[from] U-turn
+|
+|upkeep
+|turn|6
+|j| RoFnA
+|
+|t:|1713296046
+|switch|p2a: Empoleon|Empoleon, L83, M|275\/275
+|move|p1a: Pyukumuku|Soak|p2a: Empoleon
+|-start|p2a: Empoleon|typechange|Water
+|
+|upkeep
+|turn|7
+|c| RoFnA|Lets !gogoat
+|c|☆35Q71N|This is just a friendly though
+|c|☆3bood121|ye
+|c|☆35Q71N|Gg Rof for winning your round :)
+|
+|t:|1713296071
+|move|p2a: Empoleon|Toxic|p1a: Pyukumuku
+|-status|p1a: Pyukumuku|tox
+|move|p1a: Pyukumuku|Toxic|p2a: Empoleon
+|-status|p2a: Empoleon|tox
+|
+|-damage|p2a: Empoleon|258\/275 tox|[from] psn
+|-damage|p1a: Pyukumuku|233\/248 tox|[from] psn
+|upkeep
+|turn|8
+|c|☆3bood121|what an toxic relationship
+|c|☆3bood121|lol
+|c| RoFnA|gg :D
+|
+|t:|1713296097
+|switch|p2a: Tapu Koko|Tapu Koko, L77|234\/234
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Pyukumuku|Block|p2a: Tapu Koko
+|-activate|p2a: Tapu Koko|trapped
+|
+|-heal|p1a: Pyukumuku|248\/248 tox|[from] item: Leftovers
+|-damage|p1a: Pyukumuku|218\/248 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1713296158
+|switch|p1a: Nidoqueen|Nidoqueen, L83, F|285\/285
+|move|p2a: Tapu Koko|U-turn|p1a: Nidoqueen
+|-resisted|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|260\/285
+|
+|t:|1713296167
+|switch|p2a: Oranguru|Oranguru, L93, F|318\/318|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1713296206
+|switch|p1a: Maractus|Maractus, L97, M|302\/302
+|switch|p2a: Feraligatr|Feraligatr, L80, M|213\/267
+|
+|upkeep
+|turn|11
+|
+|t:|1713296260
+|switch|p1a: Krookodile|Krookodile, L80, F|283\/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Feraligatr|atk|1
+|switch|p2a: Infernape|Infernape, L81, M|167\/256
+|
+|upkeep
+|turn|12
+|
+|t:|1713296289
+|move|p1a: Krookodile|Earthquake|p2a: Infernape
+|-supereffective|p2a: Infernape
+|-damage|p2a: Infernape|0 fnt
+|faint|p2a: Infernape
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|c|☆35Q71N|Ah rip
+|c|☆35Q71N|It's scarf
+|
+|t:|1713296316
+|switch|p2a: Feraligatr|Feraligatr, L80, M|213\/267
+|turn|13
+|
+|t:|1713296360
+|switch|p1a: Pyukumuku|Pyukumuku, L91, M|218\/248 tox
+|switch|p2a: Oranguru|Oranguru, L93, F|318\/318
+|
+|-heal|p1a: Pyukumuku|233\/248 tox|[from] item: Leftovers
+|-damage|p1a: Pyukumuku|218\/248 tox|[from] psn
+|upkeep
+|turn|14
+|c|☆3bood121|i realized it was an alligator vs crocodile
+|
+|t:|1713296392
+|move|p2a: Oranguru|Thunderbolt|p1a: Pyukumuku
+|-supereffective|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|83\/248 tox
+|-damage|p2a: Oranguru|287\/318|[from] item: Life Orb
+|move|p1a: Pyukumuku|Toxic|p2a: Oranguru
+|-status|p2a: Oranguru|tox
+|
+|-heal|p1a: Pyukumuku|98\/248 tox|[from] item: Leftovers
+|-damage|p2a: Oranguru|268\/318 tox|[from] psn
+|-damage|p1a: Pyukumuku|68\/248 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1713296433
+|switch|p1a: Krookodile|Krookodile, L80, F|283\/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Oranguru|atk|1
+|move|p2a: Oranguru|Nature Power|p1a: Krookodile
+|move|p2a: Oranguru|Tri Attack|p1a: Krookodile|[from]move: Nature Power
+|-damage|p1a: Krookodile|130\/283
+|-damage|p2a: Oranguru|237\/318 tox|[from] item: Life Orb
+|
+|-damage|p2a: Oranguru|199\/318 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1713296502
+|switch|p1a: Registeel|Registeel, L84|272\/272
+|switch|p2a: Tapu Koko|Tapu Koko, L77|234\/234
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|turn|17
+|
+|t:|1713296548
+|move|p2a: Tapu Koko|U-turn|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|255\/272
+|
+|t:|1713296560
+|switch|p2a: Ursaring|Ursaring, L85, F|292\/292|[from] U-turn
+|move|p1a: Registeel|Stealth Rock|p2a: Ursaring
+|-sidestart|p2: 35Q71N|move: Stealth Rock
+|
+|-heal|p1a: Registeel|272\/272|[from] item: Leftovers
+|-status|p2a: Ursaring|brn|[from] item: Flame Orb
+|upkeep
+|turn|18
+|
+|t:|1713296660
+|switch|p1a: Incineroar|Incineroar, L84, M|271\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Ursaring|atk|1
+|move|p2a: Ursaring|Close Combat|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|-unboost|p2a: Ursaring|def|1
+|-unboost|p2a: Ursaring|spd|1
+|faint|p1a: Incineroar
+|
+|-damage|p2a: Ursaring|274\/292 brn|[from] brn
+|upkeep
+|
+|t:|1713296673
+|switch|p1a: Krookodile|Krookodile, L80, F|130\/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Ursaring|atk|1
+|turn|19
+|
+|t:|1713296719
+|switch|p1a: Nidoqueen|Nidoqueen, L83, F|260\/285
+|switch|p2a: Oranguru|Oranguru, L93, F|199\/318 tox
+|-damage|p2a: Oranguru|160\/318 tox|[from] Stealth Rock
+|
+|-damage|p2a: Oranguru|141\/318 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1713296768
+|switch|p1a: Krookodile|Krookodile, L80, F|130\/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Oranguru|atk|1
+|move|p2a: Oranguru|Psyshock|p1a: Krookodile
+|-immune|p1a: Krookodile
+|
+|-damage|p2a: Oranguru|103\/318 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|21
+|
+|t:|1713296815
+|move|p1a: Krookodile|Earthquake|p2a: Oranguru
+|-damage|p2a: Oranguru|0 fnt
+|faint|p2a: Oranguru
+|
+|upkeep
+|
+|t:|1713296836
+|switch|p2a: Ursaring|Ursaring, L85, F|274\/292 brn
+|-damage|p2a: Ursaring|238\/292 brn|[from] Stealth Rock
+|turn|22
+|
+|t:|1713296851
+|switch|p1a: Pyukumuku|Pyukumuku, L91, M|68\/248 tox
+|move|p2a: Ursaring|Facade|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|0 fnt
+|faint|p1a: Pyukumuku
+|
+|-damage|p2a: Ursaring|220\/292 brn|[from] brn
+|upkeep
+|
+|t:|1713296867
+|switch|p1a: Maractus|Maractus, L97, M|302\/302
+|turn|23
+|
+|t:|1713296886
+|move|p1a: Maractus|Spiky Shield|p1a: Maractus
+|-singleturn|p1a: Maractus|move: Protect
+|move|p2a: Ursaring|Facade|p1a: Maractus
+|-activate|p1a: Maractus|move: Protect
+|-damage|p2a: Ursaring|184\/292 brn|[from] Spiky Shield|[of] p1a: Maractus
+|
+|-damage|p2a: Ursaring|166\/292 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1713296910
+|move|p1a: Maractus|Spiky Shield||[still]
+|-fail|p1a: Maractus
+|move|p2a: Ursaring|Facade|p1a: Maractus
+|-damage|p1a: Maractus|0 fnt
+|faint|p1a: Maractus
+|
+|-damage|p2a: Ursaring|148\/292 brn|[from] brn
+|upkeep
+|l| RoFnA
+|j| RoFnA
+|l| RoFnA
+|
+|t:|1713296926
+|switch|p1a: Registeel|Registeel, L84|272\/272
+|turn|25
+|
+|t:|1713296952
+|move|p1a: Registeel|Protect|p1a: Registeel
+|-singleturn|p1a: Registeel|Protect
+|move|p2a: Ursaring|Close Combat|p1a: Registeel
+|-activate|p1a: Registeel|move: Protect
+|
+|-damage|p2a: Ursaring|130\/292 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1713296979
+|move|p2a: Ursaring|Close Combat|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|58\/272
+|-unboost|p2a: Ursaring|def|1
+|-unboost|p2a: Ursaring|spd|1
+|move|p1a: Registeel|Seismic Toss|p2a: Ursaring
+|-damage|p2a: Ursaring|46\/292 brn
+|
+|-heal|p1a: Registeel|75\/272|[from] item: Leftovers
+|-damage|p2a: Ursaring|28\/292 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1713296987
+|switch|p2a: Empoleon|Empoleon, L83, M|258\/275 tox
+|-damage|p2a: Empoleon|241\/275 tox|[from] Stealth Rock
+|move|p1a: Registeel|Protect||[still]
+|-fail|p1a: Registeel
+|
+|-heal|p2a: Empoleon|258\/275 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|92\/272|[from] item: Leftovers
+|-damage|p2a: Empoleon|241\/275 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1713297004
+|move|p2a: Empoleon|Defog|p1a: Registeel
+|-fail|p1a: Registeel|unboost|[from] ability: Clear Body|[of] p1a: Registeel
+|-sideend|p2: 35Q71N|Stealth Rock|[from] move: Defog|[of] p2a: Empoleon
+|move|p1a: Registeel|Seismic Toss|p2a: Empoleon
+|-damage|p2a: Empoleon|157\/275 tox
+|
+|-heal|p2a: Empoleon|174\/275 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|109\/272|[from] item: Leftovers
+|-damage|p2a: Empoleon|140\/275 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1713297058
+|move|p2a: Empoleon|Scald|p1a: Registeel
+|-damage|p1a: Registeel|42\/272
+|move|p1a: Registeel|Seismic Toss|p2a: Empoleon
+|-damage|p2a: Empoleon|56\/275 tox
+|
+|-heal|p2a: Empoleon|73\/275 tox|[from] item: Leftovers
+|-heal|p1a: Registeel|59\/272|[from] item: Leftovers
+|-damage|p2a: Empoleon|22\/275 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1713297072
+|move|p2a: Empoleon|Scald|p1a: Registeel
+|-damage|p1a: Registeel|0 fnt
+|faint|p1a: Registeel
+|
+|-heal|p2a: Empoleon|39\/275 tox|[from] item: Leftovers
+|-damage|p2a: Empoleon|0 fnt|[from] psn
+|faint|p2a: Empoleon
+|upkeep
+|
+|t:|1713297090
+|switch|p2a: Ursaring|Ursaring, L85, F|28\/292 brn
+|switch|p1a: Nidoqueen|Nidoqueen, L83, F|260\/285
+|turn|31
+|
+|t:|1713297101
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|faint|p2a: Ursaring
+|
+|upkeep
+|
+|t:|1713297110
+|switch|p2a: Feraligatr|Feraligatr, L80, M|213\/267
+|turn|32
+|
+|t:|1713297156
+|switch|p2a: Tapu Koko|Tapu Koko, L77|234\/234
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|c|☆35Q71N|I realized I threw it
+|
+|t:|1713297164
+|switch|p2a: Feraligatr|Feraligatr, L80, M|213\/267
+|turn|33
+|c|☆3bood121|oh
+|c|☆3bood121|i was terrified lmao
+|c|☆3bood121|i thought you brough a master plan
+|c|☆3bood121|brought*
+|c|☆35Q71N|I needed to go Koko first
+|c|☆35Q71N|And then Fera with SD
+|c|☆3bood121|u turn to fera?
+|c|☆35Q71N|No no
+|c|☆35Q71N|Just damage on Nido
+|c|☆35Q71N|And then SD + Aqua Jet
+|c|☆3bood121|oh wait
+|
+|t:|1713297237
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Feraligatr
+|-damage|p2a: Feraligatr|53\/267
+|move|p2a: Feraligatr|Swords Dance|p2a: Feraligatr
+|-boost|p2a: Feraligatr|atk|2
+|
+|upkeep
+|turn|34
+|c|☆3bood121|you had aqua jet
+|c|☆3bood121|bruh i was playing risky all the time
+|c|☆3bood121|if i had considered the aqua jet it would have been a different story
+|
+|t:|1713297279
+|move|p2a: Feraligatr|Aqua Jet|p1a: Nidoqueen
+|-supereffective|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|34\/285
+|-damage|p2a: Feraligatr|27\/267|[from] item: Life Orb
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Feraligatr
+|-damage|p2a: Feraligatr|0 fnt
+|faint|p2a: Feraligatr
+|
+|win|3bood121
+|c|☆35Q71N|Gg
+|c|☆3bood121|gg
+|c|☆35Q71N|Welp
+|c|☆35Q71N|That's on me
+|c|☆3bood121|i didnt check the bulky setup of fera
+|c|☆3bood121|bruh i sat up a good position for my krooko
+|c|☆3bood121|but i realized now i was leading it to demise
+|c|☆3bood121|lol
+|c|☆35Q71N|x)
+|c|☆3bood121|i thought speed mattered but you had priority
+|l|☆35Q71N
+|player|p2|
+|j|☆35Q71N
+|player|p2|35Q71N|byron|
+|l|☆35Q71N
+|player|p2|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆3bood121 and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 3bood121 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 sent out <strong>Pyukumuku</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>u2</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru, come back!<br></div><div class="battle-history">Go! <strong>Empoleon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Pyukumuku!<br></div><div class="battle-history">3bood121 sent out <strong>Krookodile</strong>!<br></div><div class="battle-history">[The opposing Krookodile's Intimidate]<br></div><div class="battle-history"><small>Empoleon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>wowww</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>your fav mon lol</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>:D</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I always lose with Empo though lol</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>feelsbadman</em></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Krookodile!<br></div><div class="battle-history">3bood121 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Infernape</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Infernape was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Infernape's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i wonder if you have a 3rd starter mon</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>WHA</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>:p</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>X)</em></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Maractus!<br></div><div class="battle-history">3bood121 sent out <strong>Incineroar</strong>!<br></div><div class="battle-history">[The opposing Incineroar's Intimidate]<br></div><div class="battle-history"><small>Infernape's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Infernape used <strong>Overheat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−58/297">19.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Infernape's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>Infernape lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Infernape's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Infernape, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−54/267">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar went back to 3bood121!<br></div><div class="battle-history">3bood121 sent out <strong>Pyukumuku</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat"><small> RoFnA joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Empoleon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pyukumuku used <strong>Soak</strong>!<br></div><div class="battle-history"><small>Empoleon's type changed to Water!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-rofna"><strong style="color:#919d25"><small> </small><span class="username" data-name="RoFnA">RoFnA</span>:</strong> <em>Lets !gogoat</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This is just a friendly though</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>ye</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg Rof for winning your round :)</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Pyukumuku was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pyukumuku used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Empoleon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Pyukumuku was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>what an toxic relationship</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>lol</em></div><div class="chat chatmessage-rofna"><strong style="color:#919d25"><small> </small><span class="username" data-name="RoFnA">RoFnA</span>:</strong> <em>gg :D</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon, come back!<br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pyukumuku used <strong>Block</strong>!<br></div><div class="battle-history"><small>Tapu Koko can no longer escape!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Pyukumuku restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Pyukumuku was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Pyukumuku!<br></div><div class="battle-history">3bood121 sent out <strong>Nidoqueen</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Nidoqueen lost <abbr title="−25/285">8.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Nidoqueen!<br></div><div class="battle-history">3bood121 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Maractus!<br></div><div class="battle-history">3bood121 sent out <strong>Krookodile</strong>!<br></div><div class="battle-history">[The opposing Krookodile's Intimidate]<br></div><div class="battle-history"><small>Feraligatr's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Infernape</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Krookodile used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Infernape lost <abbr title="−167/256">65.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Infernape fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The electricity disappeared from the battlefield.</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah rip</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It's scarf</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Krookodile!<br></div><div class="battle-history">3bood121 sent out <strong>Pyukumuku</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Pyukumuku restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Pyukumuku was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i realized it was an alligator vs crocodile</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Pyukumuku lost <abbr title="−135/248">54.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pyukumuku used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Oranguru was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Pyukumuku restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Oranguru was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Pyukumuku was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Pyukumuku!<br></div><div class="battle-history">3bood121 sent out <strong>Krookodile</strong>!<br></div><div class="battle-history">[The opposing Krookodile's Intimidate]<br></div><div class="battle-history"><small>Oranguru's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>(The opposing Krookodile lost <abbr title="−153/283">54.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oranguru was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Krookodile!<br></div><div class="battle-history">3bood121 sent out <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru, come back!<br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Registeel lost <abbr title="−17/272">6.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Ursaring</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Ursaring was burned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Registeel!<br></div><div class="battle-history">3bood121 sent out <strong>Incineroar</strong>!<br></div><div class="battle-history">[The opposing Incineroar's Intimidate]<br></div><div class="battle-history"><small>Ursaring's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−271/297">91.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ursaring's Defense fell!</small><br></div><div class="battle-history"><small>Ursaring's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 sent out <strong>Krookodile</strong>!<br></div><div class="battle-history">[The opposing Krookodile's Intimidate]<br></div><div class="battle-history"><small>Ursaring's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Krookodile!<br></div><div class="battle-history">3bood121 sent out <strong>Nidoqueen</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring, come back!<br></div><div class="battle-history">Go! <strong>Oranguru</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Oranguru!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oranguru was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Nidoqueen!<br></div><div class="battle-history">3bood121 sent out <strong>Krookodile</strong>!<br></div><div class="battle-history">[The opposing Krookodile's Intimidate]<br></div><div class="battle-history"><small>Oranguru's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Krookodile...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oranguru was hurt by poison!</small><br></div><div class="battle-history"><small>The electricity disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Krookodile used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Oranguru lost <abbr title="−103/318">32.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ursaring</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ursaring!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 withdrew Krookodile!<br></div><div class="battle-history">3bood121 sent out <strong>Pyukumuku</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Facade</strong>!<br></div><div class="battle-history"><small>(The opposing Pyukumuku lost <abbr title="−68/248">27.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pyukumuku fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Maractus protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Facade</strong>!<br></div><div class="battle-history"><small>The opposing Maractus protected itself!</small><br></div><div class="battle-history"><small>Ursaring was hurt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Facade</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−302/302">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="chat"><small> RoFnA left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 sent out <strong>Registeel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Registeel protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>The opposing Registeel protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Registeel lost <abbr title="−214/272">78.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ursaring's Defense fell!</small><br></div><div class="battle-history"><small>Ursaring's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Ursaring lost <abbr title="−84/292">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring, come back!<br></div><div class="battle-history">Go! <strong>Empoleon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Empoleon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Empoleon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Defog</strong>!<br></div><div class="battle-history">[The opposing Registeel's Clear Body]<br><small>The opposing Registeel's stats were not lowered!</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Empoleon lost <abbr title="−84/275">30.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Empoleon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Registeel lost <abbr title="−67/272">24.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(Empoleon lost <abbr title="−84/275">30.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Registeel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Empoleon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Registeel lost <abbr title="−59/272">21.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Registeel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Empoleon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ursaring</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">3bood121 sent out <strong>Nidoqueen</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Ursaring lost <abbr title="−28/292">9.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ursaring fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tapu Koko lost <abbr title="−234/234">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko fainted!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I realized I threw it</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>oh</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i was terrified lmao</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i thought you brough a master plan</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>brought*</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I needed to go Koko first</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>And then Fera with SD</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>u turn to fera?</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No no</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Just damage on Nido</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>And then SD + Aqua Jet</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>oh wait</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−160/267">59.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Feraligatr's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>you had aqua jet</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>bruh i was playing risky all the time</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>if i had considered the aqua jet it would have been a different story</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Nidoqueen lost <abbr title="−226/285">79.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Feraligatr lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−27/267">10.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>3bood121</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Welp</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>That's on me</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i didnt check the bulky setup of fera</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>bruh i sat up a good position for my krooko</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>but i realized now i was leading it to demise</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>lol</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>x)</em></div><div class="chat chatmessage-3bood121"><strong style="color:#4d68d3"><small>☆</small><span class="username" data-name="3bood121">3bood121</span>:</strong> <em>i thought speed mattered but you had priority</em></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat"><small>☆35Q71N joined</small></div><div class="chat"><small>☆35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

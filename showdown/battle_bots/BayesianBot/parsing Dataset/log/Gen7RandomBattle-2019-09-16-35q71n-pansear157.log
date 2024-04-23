@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. Pansear157</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-976974899" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/pansear157" class="subtle" target="_blank">Pansear157</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆Pansear157
+|player|p1|35Q71N|65|2121
+|player|p2|Pansear157|125|2011
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Sylveon|Sylveon, L82, F|290\/290
+|switch|p2a: Aerodactyl|Aerodactyl, L82, M|265\/265
+|-ability|p2a: Aerodactyl|Unnerve|p1: 35Q71N
+|turn|1
+|
+|switch|p2a: Magearna|Magearna, L80|259\/259
+|switch|p1a: Hitmontop|Hitmontop, L86, M|226\/226
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Magearna|atk|1
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Skuntank|Skuntank, L88, M|325\/325
+|move|p2a: Magearna|Fleur Cannon|p1a: Skuntank
+|-damage|p1a: Skuntank|141\/325
+|-unboost|p2a: Magearna|spa|2
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: Reshiram|Reshiram, L78|283\/283
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Skuntank|Fire Blast|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-crit|p2a: Reshiram
+|-damage|p2a: Reshiram|257\/283
+|-damage|p1a: Skuntank|109\/325|[from] item: Life Orb
+|
+|-heal|p2a: Reshiram|274\/283|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|switch|p1a: Sylveon|Sylveon, L82, F|290\/290
+|move|p2a: Reshiram|Draco Meteor|p1a: Sylveon
+|-immune|p1a: Sylveon
+|
+|-heal|p2a: Reshiram|283\/283|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|move|p2a: Reshiram|Toxic|p1a: Sylveon
+|-status|p1a: Sylveon|tox
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-damage|p1a: Sylveon|272\/290 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pansear157)
+|
+|switch|p1a: Hitmontop|Hitmontop, L86, M|226\/226
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Reshiram|atk|1
+|move|p2a: Reshiram|Blue Flare|p1a: Hitmontop
+|-damage|p1a: Hitmontop|97\/226
+|
+|-heal|p1a: Hitmontop|226\/226|[from] move: Wish|[wisher] Sylveon
+|upkeep
+|turn|7
+|
+|move|p2a: Reshiram|Toxic|p1a: Hitmontop
+|-status|p1a: Hitmontop|tox
+|move|p1a: Hitmontop|Toxic|p2a: Reshiram
+|-status|p2a: Reshiram|tox
+|
+|-damage|p2a: Reshiram|266\/283 tox|[from] psn
+|-damage|p1a: Hitmontop|212\/226 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Ditto|Ditto, L89|230\/230
+|-transform|p1a: Ditto|p2a: Reshiram|[from] ability: Imposter
+|-ability|p1a: Ditto|Turboblaze
+|move|p2a: Reshiram|Blue Flare|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|195\/230
+|
+|-heal|p2a: Reshiram|283\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|249\/283 tox|[from] psn
+|upkeep
+|turn|9
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|231\/231
+|move|p1a: Ditto|Draco Meteor|p2a: Spiritomb
+|-damage|p2a: Spiritomb|62\/231
+|-unboost|p1a: Ditto|spa|2
+|
+|-heal|p2a: Spiritomb|76\/231|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Skuntank|Skuntank, L88, M|109\/325
+|move|p2a: Spiritomb|Rest|p2a: Spiritomb
+|-status|p2a: Spiritomb|slp|[from] move: Rest
+|-heal|p2a: Spiritomb|231\/231 slp|[silent]
+|
+|upkeep
+|turn|11
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Sylveon|Sylveon, L82, F|272\/290 tox
+|switch|p2a: Aerodactyl|Aerodactyl, L82, M|265\/265
+|-ability|p2a: Aerodactyl|Unnerve|p1: 35Q71N
+|
+|-heal|p1a: Sylveon|290\/290 tox|[from] item: Leftovers
+|-damage|p1a: Sylveon|272\/290 tox|[from] psn
+|upkeep
+|turn|12
+|
+|switch|p1a: Hitmontop|Hitmontop, L86, M|212\/226 tox
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Aerodactyl|atk|1
+|detailschange|p2a: Aerodactyl|Aerodactyl-Mega, L82, M
+|-mega|p2a: Aerodactyl|Aerodactyl|Aerodactylite
+|move|p2a: Aerodactyl|Aerial Ace|p1a: Hitmontop
+|-supereffective|p1a: Hitmontop
+|-crit|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|upkeep
+|
+|switch|p1a: Ditto|Ditto, L89|195\/230
+|-transform|p1a: Ditto|p2a: Aerodactyl|[from] ability: Imposter
+|turn|13
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|231\/231 slp
+|move|p1a: Ditto|Stone Edge|p2a: Spiritomb
+|-damage|p2a: Spiritomb|146\/231 slp
+|
+|-heal|p2a: Spiritomb|160\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|switch|p1a: Sylveon|Sylveon, L82, F|272\/290 tox
+|cant|p2a: Spiritomb|slp
+|move|p2a: Spiritomb|Sleep Talk|p2a: Spiritomb
+|move|p2a: Spiritomb|Rest|p2a: Spiritomb|[from]Sleep Talk
+|-fail|p2a: Spiritomb
+|
+|-heal|p1a: Sylveon|290\/290 tox|[from] item: Leftovers
+|-heal|p2a: Spiritomb|174\/231 slp|[from] item: Leftovers
+|-damage|p1a: Sylveon|272\/290 tox|[from] psn
+|upkeep
+|turn|15
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Magearna|Magearna, L80|259\/259
+|move|p1a: Sylveon|Hyper Voice|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|211\/259
+|
+|-heal|p1a: Sylveon|290\/290 tox|[from] item: Leftovers
+|-damage|p1a: Sylveon|254\/290 tox|[from] psn
+|upkeep
+|turn|16
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Skuntank|Skuntank, L88, M|109\/325
+|move|p2a: Magearna|Flash Cannon|p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt
+|faint|p1a: Skuntank
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|upkeep
+|
+|switch|p1a: Ditto|Ditto, L89|195\/230
+|-transform|p1a: Ditto|p2a: Magearna|[from] ability: Imposter
+|turn|17
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|174\/231 slp
+|move|p1a: Ditto|Flash Cannon|p2a: Spiritomb
+|-damage|p2a: Spiritomb|42\/231 slp
+|
+|-heal|p2a: Spiritomb|56\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Reshiram|Reshiram, L78|249\/283 tox
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Ditto|Flash Cannon|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|180\/283 tox
+|
+|-heal|p2a: Reshiram|197\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|180\/283 tox|[from] psn
+|upkeep
+|turn|19
+|
+|switch|p1a: Sylveon|Sylveon, L82, F|254\/290 tox
+|move|p2a: Reshiram|Blue Flare|p1a: Sylveon|[miss]
+|-miss|p2a: Reshiram|p1a: Sylveon
+|
+|-heal|p2a: Reshiram|197\/283 tox|[from] item: Leftovers
+|-heal|p1a: Sylveon|272\/290 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|163\/283 tox|[from] psn
+|-damage|p1a: Sylveon|254\/290 tox|[from] psn
+|upkeep
+|turn|20
+|
+|move|p2a: Reshiram|Roost|p2a: Reshiram
+|-heal|p2a: Reshiram|283\/283 tox
+|-singleturn|p2a: Reshiram|move: Roost
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p1a: Sylveon|272\/290 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|232\/283 tox|[from] psn
+|-damage|p1a: Sylveon|236\/290 tox|[from] psn
+|upkeep
+|turn|21
+|
+|move|p2a: Reshiram|Draco Meteor|p1a: Sylveon
+|-immune|p1a: Sylveon
+|move|p1a: Sylveon|Hyper Voice|p2a: Reshiram
+|-damage|p2a: Reshiram|121\/283 tox
+|
+|-heal|p1a: Sylveon|290\/290 tox|[from] move: Wish|[wisher] Sylveon
+|-heal|p2a: Reshiram|138\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|70\/283 tox|[from] psn
+|-damage|p1a: Sylveon|236\/290 tox|[from] psn
+|upkeep
+|turn|22
+|
+|switch|p1a: Lugia|Lugia, L78|293\/293
+|move|p2a: Reshiram|Roost|p2a: Reshiram
+|-heal|p2a: Reshiram|212\/283 tox
+|-singleturn|p2a: Reshiram|move: Roost
+|
+|-heal|p2a: Reshiram|229\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|144\/283 tox|[from] psn
+|upkeep
+|turn|23
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|56\/231 slp
+|move|p1a: Lugia|Substitute|p1a: Lugia
+|-start|p1a: Lugia|Substitute
+|-damage|p1a: Lugia|220\/293
+|
+|-heal|p1a: Lugia|238\/293|[from] item: Leftovers
+|-heal|p2a: Spiritomb|70\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p1a: Sylveon|Sylveon, L82, F|236\/290 tox
+|cant|p2a: Spiritomb|slp
+|move|p2a: Spiritomb|Sleep Talk|p2a: Spiritomb
+|move|p2a: Spiritomb|Rest|p2a: Spiritomb|[from]Sleep Talk
+|-fail|p2a: Spiritomb
+|
+|-heal|p1a: Sylveon|254\/290 tox|[from] item: Leftovers
+|-heal|p2a: Spiritomb|84\/231 slp|[from] item: Leftovers
+|-damage|p1a: Sylveon|236\/290 tox|[from] psn
+|upkeep
+|turn|25
+|
+|switch|p2a: Aerodactyl|Aerodactyl-Mega, L82, M|265\/265
+|move|p1a: Sylveon|Hyper Voice|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|145\/265
+|
+|-heal|p1a: Sylveon|254\/290 tox|[from] item: Leftovers
+|-damage|p1a: Sylveon|218\/290 tox|[from] psn
+|upkeep
+|turn|26
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p2a: Aerodactyl|Stone Edge|p1a: Sylveon
+|-damage|p1a: Sylveon|64\/290 tox
+|move|p1a: Sylveon|Hyper Voice|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|19\/265
+|
+|-heal|p1a: Sylveon|82\/290 tox|[from] item: Leftovers
+|-damage|p1a: Sylveon|28\/290 tox|[from] psn
+|upkeep
+|turn|27
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p2a: Aerodactyl|Roost|p2a: Aerodactyl
+|-heal|p2a: Aerodactyl|152\/265
+|-singleturn|p2a: Aerodactyl|move: Roost
+|move|p1a: Sylveon|Hyper Voice|p2a: Aerodactyl
+|-crit|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|
+|-heal|p1a: Sylveon|46\/290 tox|[from] item: Leftovers
+|-damage|p1a: Sylveon|0 fnt|[from] psn
+|faint|p1a: Sylveon
+|upkeep
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Magearna|Magearna, L80|211\/259
+|switch|p1a: Lugia|Lugia, L78|238\/293
+|turn|28
+|
+|move|p1a: Lugia|Psychic|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|178\/259
+|move|p2a: Magearna|Flash Cannon|p1a: Lugia
+|-damage|p1a: Lugia|171\/293
+|
+|-heal|p1a: Lugia|189\/293|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|84\/231 slp
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|293\/293
+|-singleturn|p1a: Lugia|move: Roost
+|
+|-heal|p2a: Spiritomb|98\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p1a: Yanmega|Yanmega, L84, F|281\/281
+|-curestatus|p2a: Spiritomb|slp|[msg]
+|move|p2a: Spiritomb|Sleep Talk||[still]
+|-fail|p2a: Spiritomb
+|
+|-heal|p2a: Spiritomb|112\/231|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Reshiram|Reshiram, L78|144\/283 tox
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Yanmega|Bug Buzz|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|89\/283 tox
+|-damage|p1a: Yanmega|253\/281|[from] item: Life Orb
+|
+|-heal|p2a: Reshiram|106\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|89\/283 tox|[from] psn
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|32
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p1a: Lugia|Lugia, L78|293\/293
+|move|p2a: Reshiram|Draco Meteor|p1a: Lugia
+|-damage|p1a: Lugia|182\/293
+|-unboost|p2a: Reshiram|spa|2
+|
+|-heal|p1a: Lugia|200\/293|[from] item: Leftovers
+|-heal|p2a: Reshiram|106\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|72\/283 tox|[from] psn
+|upkeep
+|turn|33
+|
+|move|p1a: Lugia|Substitute|p1a: Lugia
+|-start|p1a: Lugia|Substitute
+|-damage|p1a: Lugia|127\/293
+|move|p2a: Reshiram|Roost|p2a: Reshiram
+|-heal|p2a: Reshiram|214\/283 tox
+|-singleturn|p2a: Reshiram|move: Roost
+|
+|-heal|p1a: Lugia|145\/293|[from] item: Leftovers
+|-heal|p2a: Reshiram|231\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|180\/283 tox|[from] psn
+|upkeep
+|turn|34
+|
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|292\/293
+|-singleturn|p1a: Lugia|move: Roost
+|move|p2a: Reshiram|Roost|p2a: Reshiram
+|-heal|p2a: Reshiram|283\/283 tox
+|-singleturn|p2a: Reshiram|move: Roost
+|
+|-heal|p1a: Lugia|293\/293|[from] item: Leftovers
+|-damage|p2a: Reshiram|215\/283 tox|[from] psn
+|upkeep
+|turn|35
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|112\/231
+|move|p1a: Lugia|Psychic|p2a: Spiritomb
+|-immune|p2a: Spiritomb
+|
+|-heal|p2a: Spiritomb|126\/231|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|move|p1a: Lugia|Toxic|p2a: Spiritomb
+|-status|p2a: Spiritomb|tox
+|move|p2a: Spiritomb|Dark Pulse|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|229\/293
+|
+|-heal|p1a: Lugia|247\/293|[from] item: Leftovers
+|-heal|p2a: Spiritomb|140\/231 tox|[from] item: Leftovers
+|-damage|p2a: Spiritomb|126\/231 tox|[from] psn
+|upkeep
+|turn|37
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p1a: Yanmega|Yanmega, L84, F|253\/281
+|move|p2a: Spiritomb|Dark Pulse|p1a: Yanmega
+|-damage|p1a: Yanmega|127\/281
+|
+|-heal|p2a: Spiritomb|140\/231 tox|[from] item: Leftovers
+|-damage|p2a: Spiritomb|112\/231 tox|[from] psn
+|upkeep
+|turn|38
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p2a: Reshiram|Reshiram, L78|215\/283 tox
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Yanmega|Air Slash|p2a: Reshiram
+|-damage|p2a: Reshiram|121\/283 tox
+|-damage|p1a: Yanmega|99\/281|[from] item: Life Orb
+|
+|-heal|p2a: Reshiram|138\/283 tox|[from] item: Leftovers
+|-damage|p2a: Reshiram|121\/283 tox|[from] psn
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|39
+|inactive|35Q71N has 90 seconds left.
+|
+|move|p1a: Yanmega|Air Slash|p2a: Reshiram
+|-crit|p2a: Reshiram
+|-damage|p2a: Reshiram|0 fnt
+|-damage|p1a: Yanmega|71\/281|[from] item: Life Orb
+|faint|p2a: Reshiram
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|c|☆Pansear157|Nice
+|
+|switch|p2a: Magearna|Magearna, L80|178\/259
+|turn|40
+|c|☆35Q71N|sorry
+|
+|switch|p1a: Lugia|Lugia, L78|247\/293
+|move|p2a: Magearna|Flash Cannon|p1a: Lugia
+|-damage|p1a: Lugia|181\/293
+|
+|-heal|p1a: Lugia|199\/293|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|switch|p2a: Spiritomb|Spiritomb, L88, M|112\/231 tox
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|293\/293
+|-singleturn|p1a: Lugia|move: Roost
+|
+|-heal|p2a: Spiritomb|126\/231 tox|[from] item: Leftovers
+|-damage|p2a: Spiritomb|112\/231 tox|[from] psn
+|upkeep
+|turn|42
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p1a: Yanmega|Yanmega, L84, F|71\/281
+|move|p2a: Spiritomb|Rest|p2a: Spiritomb
+|-status|p2a: Spiritomb|slp|[from] move: Rest
+|-heal|p2a: Spiritomb|231\/231 slp|[silent]
+|
+|upkeep
+|turn|43
+|
+|move|p1a: Yanmega|Bug Buzz|p2a: Spiritomb
+|-damage|p2a: Spiritomb|124\/231 slp
+|-damage|p1a: Yanmega|43\/281|[from] item: Life Orb
+|cant|p2a: Spiritomb|slp
+|move|p2a: Spiritomb|Sleep Talk|p2a: Spiritomb
+|move|p2a: Spiritomb|Dark Pulse|p1a: Yanmega|[from]Sleep Talk
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|-heal|p2a: Spiritomb|138\/231 slp|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Ditto|Ditto, L89|195\/230
+|-transform|p1a: Ditto|p2a: Spiritomb|[from] ability: Imposter
+|turn|44
+|c|☆Pansear157|Gg
+|
+|switch|p2a: Magearna|Magearna, L80|178\/259
+|move|p1a: Ditto|Dark Pulse|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|142\/259
+|
+|upkeep
+|turn|45
+|
+|switch|p1a: Lugia|Lugia, L78|293\/293
+|switch|p2a: Spiritomb|Spiritomb, L88, M|138\/231 slp
+|
+|-heal|p2a: Spiritomb|152\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|switch|p1a: Ditto|Ditto, L89|195\/230
+|-transform|p1a: Ditto|p2a: Spiritomb|[from] ability: Imposter
+|cant|p2a: Spiritomb|slp
+|move|p2a: Spiritomb|Sleep Talk|p2a: Spiritomb
+|move|p2a: Spiritomb|Rest|p2a: Spiritomb|[from]Sleep Talk
+|-fail|p2a: Spiritomb
+|
+|-heal|p2a: Spiritomb|166\/231 slp|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|move|p1a: Ditto|Dark Pulse|p2a: Spiritomb
+|-damage|p2a: Spiritomb|87\/231 slp
+|-curestatus|p2a: Spiritomb|slp|[msg]
+|move|p2a: Spiritomb|Sleep Talk||[still]
+|-fail|p2a: Spiritomb
+|
+|-heal|p2a: Spiritomb|101\/231|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|move|p1a: Ditto|Dark Pulse|p2a: Spiritomb
+|-crit|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|upkeep
+|c|☆Pansear157|Nice nice
+|
+|switch|p2a: Golem|Golem, L89, F|287\/287
+|turn|49
+|
+|switch|p1a: Lugia|Lugia, L78|293\/293
+|move|p2a: Golem|Earthquake|p1a: Lugia
+|-immune|p1a: Lugia
+|
+|upkeep
+|turn|50
+|
+|move|p1a: Lugia|Toxic|p2a: Golem
+|-status|p2a: Golem|tox
+|move|p2a: Golem|Rock Blast|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|262\/293
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|208\/293
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|154\/293
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|94\/293
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|40\/293
+|-hitcount|p1a: Lugia|5
+|
+|-heal|p1a: Lugia|58\/293|[from] item: Leftovers
+|-damage|p2a: Golem|270\/287 tox|[from] psn
+|upkeep
+|turn|51
+|
+|move|p1a: Lugia|Psychic|p2a: Golem
+|-damage|p2a: Golem|185\/287 tox
+|-unboost|p2a: Golem|spd|1
+|move|p2a: Golem|Toxic|p1a: Lugia
+|-status|p1a: Lugia|tox
+|
+|-heal|p1a: Lugia|76\/293 tox|[from] item: Leftovers
+|-heal|p2a: Golem|202\/287 tox|[from] item: Leftovers
+|-damage|p1a: Lugia|58\/293 tox|[from] psn
+|-damage|p2a: Golem|168\/287 tox|[from] psn
+|upkeep
+|turn|52
+|
+|switch|p2a: Yanmega|Yanmega, L84, M|281\/281
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|205\/293 tox
+|-singleturn|p1a: Lugia|move: Roost
+|
+|-heal|p1a: Lugia|223\/293 tox|[from] item: Leftovers
+|-damage|p1a: Lugia|187\/293 tox|[from] psn
+|upkeep
+|turn|53
+|c|☆Pansear157|Much hax, no wins
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Lugia|Psychic|p2a: Yanmega
+|-damage|p2a: Yanmega|167\/281
+|move|p2a: Yanmega|Air Slash|p1a: Lugia
+|-damage|p1a: Lugia|108\/293 tox
+|-damage|p2a: Yanmega|139\/281|[from] item: Life Orb
+|
+|-heal|p1a: Lugia|126\/293 tox|[from] item: Leftovers
+|-damage|p1a: Lugia|72\/293 tox|[from] psn
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|54
+|
+|move|p2a: Yanmega|Bug Buzz|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|-damage|p2a: Yanmega|111\/281|[from] item: Life Orb
+|faint|p1a: Lugia
+|
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|
+|switch|p1a: Ditto|Ditto, L89|195\/230
+|-transform|p1a: Ditto|p2a: Yanmega|[from] ability: Imposter
+|turn|55
+|
+|move|p1a: Ditto|Air Slash|p2a: Yanmega
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|
+|-ability|p1a: Ditto|Speed Boost|boost
+|-boost|p1a: Ditto|spe|1
+|upkeep
+|
+|switch|p2a: Golem|Golem, L89, F|168\/287 tox
+|turn|56
+|
+|move|p1a: Ditto|Air Slash|p2a: Golem
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|111\/287 tox
+|move|p2a: Golem|Rock Blast|p1a: Ditto
+|-supereffective|p1a: Ditto
+|-damage|p1a: Ditto|39\/230
+|-supereffective|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|-hitcount|p1a: Ditto|2
+|faint|p1a: Ditto
+|
+|win|Pansear157
+|l|☆35Q71N
+||Ladder (probably) updated, but score could not be retrieved (Response not received).
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆Pansear157 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and Pansear157!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 sent out <strong>Aerodactyl</strong>!<br></div><div class="battle-history">[The opposing Aerodactyl's Unnerve]<br><small>Your team is too nervous to eat Berries!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Aerodactyl!<br></div><div class="battle-history">Pansear157 sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Magearna's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop, come back!<br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Fleur Cannon</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−184/325">56.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Magearna!<br></div><div class="battle-history">Pansear157 sent out <strong>Reshiram</strong>!<br></div><div class="battle-history">[The opposing Reshiram's Turboblaze]<br><small>The opposing Reshiram is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−26/283">9.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Skuntank lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It doesn't affect Sylveon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Sylveon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pansear157)</div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Reshiram's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−129/226">57.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Hitmontop was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Reshiram was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history"><small>Hitmontop was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop, come back!<br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Reshiram!<br></div><div class="battle-history">[Ditto's Turboblaze]<br><small>Ditto is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ditto lost <abbr title="−35/230">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Reshiram!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−169/231">73.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ditto's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Spiritomb slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Aerodactyl</strong>!<br></div><div class="battle-history">[The opposing Aerodactyl's Unnerve]<br><small>Your team is too nervous to eat Berries!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Aerodactyl's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aerodactyl's Aerodactylite is reacting to the Key Stone!</small><br>The opposing Aerodactyl has Mega Evolved into Mega Aerodactyl!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl used <strong>Aerial Ace</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−212/226">93.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Aerodactyl-Mega!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Aerodactyl!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−85/231">36.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−48/259">18.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−109/325">33.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank fainted!<br></div><div class="battle-history">[The opposing Magearna's Soul-Heart]<br></div><div class="battle-history"><small>The opposing Magearna's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Magearna!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Magearna!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−132/231">57.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Reshiram</strong>!<br></div><div class="battle-history">[The opposing Reshiram's Turboblaze]<br><small>The opposing Reshiram is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−69/283">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>Sylveon avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Reshiram had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It doesn't affect Sylveon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−111/283">39.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon's wish came true!</small><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Reshiram had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Reshiram!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Lugia put in a substitute!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out Aerodactyl (<strong>Aerodactyl-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(The opposing Aerodactyl lost <abbr title="−120/265">45.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−154/290">53.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(The opposing Aerodactyl lost <abbr title="−126/265">47.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Aerodactyl had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Aerodactyl loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Aerodactyl lost <abbr title="−152/265">57.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon fainted!<br></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−33/259">12.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−67/293">22.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Magearna!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Yanmega</strong>!<br></div><div class="battle-history"><small>The opposing Spiritomb woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Reshiram</strong>!<br></div><div class="battle-history">[The opposing Reshiram's Turboblaze]<br><small>The opposing Reshiram is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−55/283">19.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history">[Yanmega's Speed Boost]<br></div><div class="battle-history"><small>Yanmega's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−111/293">37.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Reshiram's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Lugia put in a substitute!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−73/293">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Reshiram had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Reshiram had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Reshiram!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Spiritomb...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Spiritomb was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−64/293">21.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Yanmega</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Yanmega lost <abbr title="−126/281">44.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Reshiram</strong>!<br></div><div class="battle-history">[The opposing Reshiram's Turboblaze]<br><small>The opposing Reshiram is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−94/283">33.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Reshiram restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Reshiram was hurt by poison!</small><br></div><div class="battle-history">[Yanmega's Speed Boost]<br></div><div class="battle-history"><small>Yanmega's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Reshiram lost <abbr title="−121/283">42.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Reshiram fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Yanmega's Speed Boost]<br></div><div class="battle-history"><small>Yanmega's Speed rose!</small><br></div><div class="chat chatmessage-pansear157"><strong style="color:#bf181d"><small>☆</small><span class="username" data-name="Pansear157">Pansear157</span>:</strong> <em>Nice</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>sorry</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magearna used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−66/293">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Magearna!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Spiritomb was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Yanmega</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Spiritomb slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−107/231">46.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Yanmega lost <abbr title="−43/281">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Spiritomb!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="chat chatmessage-pansear157"><strong style="color:#bf181d"><small>☆</small><span class="username" data-name="Pansear157">Pansear157</span>:</strong> <em>Gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Spiritomb!<br></div><div class="battle-history">Pansear157 sent out <strong>Magearna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magearna lost <abbr title="−36/259">13.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Magearna!<br></div><div class="battle-history">Pansear157 sent out <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Spiritomb!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−79/231">34.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Spiritomb woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb used <strong>Sleep Talk</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Spiritomb lost <abbr title="−101/231">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spiritomb fainted!<br></div><div class="chat chatmessage-pansear157"><strong style="color:#bf181d"><small>☆</small><span class="username" data-name="Pansear157">Pansear157</span>:</strong> <em>Nice nice</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 sent out <strong>Golem</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golem used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Lugia...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Golem was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golem used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−31/293">10.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−54/293">18.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−54/293">18.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−60/293">20.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−54/293">18.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Golem was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Golem lost <abbr title="−85/287">29.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Golem's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golem used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Lugia was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Golem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Golem was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 withdrew Golem!<br></div><div class="battle-history">Pansear157 sent out <strong>Yanmega</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="battle-history"><small>(Lugia loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="chat chatmessage-pansear157"><strong style="color:#bf181d"><small>☆</small><span class="username" data-name="Pansear157">Pansear157</span>:</strong> <em>Much hax, no wins</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Yanmega lost <abbr title="−114/281">40.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Yanmega used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−79/293">27.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia was hurt by poison!</small><br></div><div class="battle-history">[The opposing Yanmega's Speed Boost]<br></div><div class="battle-history"><small>The opposing Yanmega's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Yanmega used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−72/293">24.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Yanmega lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Yanmega's Speed Boost]<br></div><div class="battle-history"><small>The opposing Yanmega's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Yanmega!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Yanmega lost <abbr title="−111/281">39.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Yanmega fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Ditto's Speed Boost]<br></div><div class="battle-history"><small>Ditto's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pansear157 sent out <strong>Golem</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Golem lost <abbr title="−57/287">19.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golem used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Ditto lost <abbr title="−156/230">67.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Ditto lost <abbr title="−39/230">17.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Pansear157</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">Ladder (probably) updated, but score could not be retrieved (Response not received).</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

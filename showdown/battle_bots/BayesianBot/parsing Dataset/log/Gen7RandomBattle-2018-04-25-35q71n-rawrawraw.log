@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. rawrawraw</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-738086972" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/rawrawraw" class="subtle" target="_blank">rawrawraw</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆rawrawraw
+|player|p1|35Q71N|65
+|player|p2|rawrawraw|170
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|33235,37830,26514,27247
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Crustle|Crustle, L83, M|251\/251
+|switch|p2a: Simipour|Simipour, L83, M|260\/260
+|turn|1
+|
+|switch|p1a: Kingdra|Kingdra, L80, M|251\/251
+|move|p2a: Simipour|Hydro Pump|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|221\/251
+|
+|upkeep
+|turn|2
+|
+|move|p2a: Simipour|Ice Beam|p1a: Kingdra
+|-damage|p1a: Kingdra|164\/251
+|move|p1a: Kingdra|Substitute|p1a: Kingdra
+|-start|p1a: Kingdra|Substitute
+|-damage|p1a: Kingdra|102\/251
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)
+|
+|move|p2a: Simipour|Ice Beam|p1a: Kingdra
+|-end|p1a: Kingdra|Substitute
+|move|p1a: Kingdra|Dragon Dance|p1a: Kingdra
+|-boost|p1a: Kingdra|atk|1
+|-boost|p1a: Kingdra|spe|1
+|
+|upkeep
+|turn|4
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p2a: Slowbro|Slowbro, L77, F|273\/273
+|move|p1a: Kingdra|Outrage|p2a: Slowbro
+|-damage|p2a: Slowbro|122\/273
+|
+|upkeep
+|turn|5
+|inactive|rawrawraw has 135 seconds left.
+|inactive|rawrawraw has 120 seconds left.
+|inactive|rawrawraw has 105 seconds left.
+|inactive|rawrawraw has 90 seconds left.
+|inactive|rawrawraw has 75 seconds left.
+|
+|switch|p2a: Minun|Minun, L77, F|219\/219
+|-item|p2a: Minun|Air Balloon
+|move|p1a: Kingdra|Outrage|p2a: Minun|[from]lockedmove
+|-damage|p2a: Minun|0 fnt
+|-enditem|p2a: Minun|Air Balloon
+|faint|p2a: Minun
+|
+|upkeep
+|
+|switch|p2a: Smeargle|Smeargle, L83, M|227\/227
+|turn|6
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p1a: Kingdra|Outrage|p2a: Smeargle|[from]lockedmove
+|-enditem|p2a: Smeargle|Focus Sash
+|-damage|p2a: Smeargle|1\/227
+|-start|p1a: Kingdra|confusion|[fatigue]
+|-enditem|p1a: Kingdra|Lum Berry|[eat]
+|-end|p1a: Kingdra|confusion
+|move|p2a: Smeargle|Whirlwind|p1a: Kingdra
+|drag|p1a: Torkoal|Torkoal, L83, M|251\/251
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p2a: Smeargle|Spore|p1a: Torkoal
+|-status|p1a: Torkoal|slp
+|cant|p1a: Torkoal|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|switch|p1a: Clefable|Clefable, L75, M|266\/266
+|move|p2a: Smeargle|Sticky Web|p1a: Clefable
+|-sidestart|p1: 35Q71N|move: Sticky Web
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|move|p2a: Smeargle|Stealth Rock|p1a: Clefable
+|-sidestart|p1: 35Q71N|move: Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Smeargle|Whirlwind|p1a: Clefable
+|drag|p1a: Kingdra|Kingdra, L80, M|102\/251
+|-activate|p1a: Kingdra|move: Sticky Web
+|-unboost|p1a: Kingdra|spe|1
+|-damage|p1a: Kingdra|71\/251|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|11
+|inactive|rawrawraw has 135 seconds left.
+|
+|move|p1a: Kingdra|Waterfall|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|faint|p2a: Smeargle
+|
+|upkeep
+|inactive|rawrawraw has 135 seconds left.
+|
+|switch|p2a: Giratina|Giratina-Origin, L73|339\/339
+|turn|12
+|
+|move|p2a: Giratina|Earthquake|p1a: Kingdra
+|-damage|p1a: Kingdra|11\/251
+|move|p1a: Kingdra|Outrage|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|87\/339
+|
+|upkeep
+|turn|13
+|inactive|rawrawraw has 135 seconds left.
+|
+|move|p2a: Giratina|Earthquake|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|
+|switch|p1a: Clefable|Clefable, L75, M|266\/266
+|-activate|p1a: Clefable|move: Sticky Web
+|-unboost|p1a: Clefable|spe|1
+|turn|14
+|inactive|rawrawraw has 135 seconds left.
+|
+|switch|p2a: Simipour|Simipour, L83, M|260\/260
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|15
+|
+|move|p2a: Simipour|Substitute|p2a: Simipour
+|-start|p2a: Simipour|Substitute
+|-damage|p2a: Simipour|195\/260
+|move|p1a: Clefable|Moonblast|p2a: Simipour
+|-end|p2a: Simipour|Substitute
+|
+|-heal|p2a: Simipour|211\/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|move|p2a: Simipour|Nasty Plot|p2a: Simipour
+|-boost|p2a: Simipour|spa|2
+|move|p1a: Clefable|Moonblast|p2a: Simipour
+|-crit|p2a: Simipour
+|-damage|p2a: Simipour|0 fnt
+|faint|p2a: Simipour
+|
+|upkeep
+|
+|switch|p2a: Giratina|Giratina-Origin, L73|87\/339
+|turn|17
+|
+|move|p2a: Giratina|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|183\/266
+|move|p1a: Clefable|Moonblast|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|inactive|rawrawraw has 135 seconds left.
+|inactive|rawrawraw has 120 seconds left.
+|inactive|rawrawraw has 105 seconds left.
+|
+|switch|p2a: Darkrai|Darkrai, L73|223\/223
+|turn|18
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p2a: Darkrai|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|97\/266
+|move|p1a: Clefable|Moonblast|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|switch|p2a: Slowbro|Slowbro, L77, F|213\/273
+|turn|19
+|
+|-mega|p2a: Slowbro|Slowbro|Slowbronite
+|detailschange|p2a: Slowbro|Slowbro-Mega, L77, F
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Slowbro
+|-damage|p2a: Slowbro|84\/273
+|
+|upkeep
+|turn|20
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p2a: Slowbro|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Crustle|Crustle, L83, M|251\/251
+|-activate|p1a: Crustle|move: Sticky Web
+|-unboost|p1a: Crustle|spe|1
+|-damage|p1a: Crustle|189\/251|[from] Stealth Rock
+|turn|21
+|
+|move|p2a: Slowbro|Scald|p1a: Crustle
+|-supereffective|p1a: Crustle
+|-damage|p1a: Crustle|0 fnt
+|faint|p1a: Crustle
+|
+|upkeep
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Torkoal|Torkoal, L83, M|251\/251 slp
+|-damage|p1a: Torkoal|189\/251 slp|[from] Stealth Rock
+|-activate|p1a: Torkoal|move: Sticky Web
+|-unboost|p1a: Torkoal|spe|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-enditem|p1a: Torkoal|White Herb
+|-clearnegativeboost|p1a: Torkoal|[silent]
+|turn|22
+|
+|move|p2a: Slowbro|Scald|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|43\/251 slp
+|cant|p1a: Torkoal|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|move|p2a: Slowbro|Scald|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Cobalion|Cobalion, L77|267\/267
+|-damage|p1a: Cobalion|259\/267|[from] Stealth Rock
+|-activate|p1a: Cobalion|move: Sticky Web
+|-unboost|p1a: Cobalion|spe|1
+|turn|24
+|
+|move|p1a: Cobalion|Stone Edge|p2a: Slowbro
+|-damage|p2a: Slowbro|50\/273
+|move|p2a: Slowbro|Fire Blast|p1a: Cobalion
+|-supereffective|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Pyukumuku|Pyukumuku, L83, M|227\/227
+|-damage|p1a: Pyukumuku|199\/227|[from] Stealth Rock
+|-activate|p1a: Pyukumuku|move: Sticky Web
+|-unboost|p1a: Pyukumuku|spe|1
+|turn|25
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-sidestart|p1: 35Q71N|move: Light Screen
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|26
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|-weather|none
+|upkeep
+|turn|27
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|28
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|29
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|move|p1a: Pyukumuku|Reflect|p1a: Pyukumuku
+|-sidestart|p1: 35Q71N|Reflect
+|
+|upkeep
+|turn|30
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Counter|p2a: Slowbro
+|-fail|p2a: Slowbro
+|
+|upkeep
+|turn|31
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Counter|p2a: Slowbro
+|-fail|p2a: Slowbro
+|
+|upkeep
+|turn|32
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|181\/227
+|move|p1a: Pyukumuku|Counter|p2a: Slowbro
+|-fail|p2a: Slowbro
+|
+|-sideend|p1: 35Q71N|move: Light Screen
+|upkeep
+|turn|33
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-sidestart|p1: 35Q71N|move: Light Screen
+|
+|upkeep
+|turn|34
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Baton Pass|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|35
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|166\/227
+|move|p1a: Pyukumuku|Baton Pass|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|36
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|150\/227
+|move|p1a: Pyukumuku|Baton Pass|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|-sideend|p1: 35Q71N|Reflect
+|upkeep
+|turn|37
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|133\/227
+|move|p1a: Pyukumuku|Baton Pass|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|38
+|c|☆rawrawraw|Gg
+|c|☆35Q71N|gg
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|118\/227
+|move|p1a: Pyukumuku|Baton Pass|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|upkeep
+|turn|39
+|
+|move|p2a: Slowbro|Psyshock|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|82\/227
+|move|p1a: Pyukumuku|Reflect|p1a: Pyukumuku
+|-sidestart|p1: 35Q71N|Reflect
+|
+|upkeep
+|turn|40
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|66\/227
+|move|p1a: Pyukumuku|Counter|p2a: Slowbro
+|-fail|p2a: Slowbro
+|
+|-sideend|p1: 35Q71N|move: Light Screen
+|upkeep
+|turn|41
+|
+|move|p2a: Slowbro|Scald|p1a: Pyukumuku
+|-resisted|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|34\/227
+|-status|p1a: Pyukumuku|brn
+|move|p1a: Pyukumuku|Light Screen|p1a: Pyukumuku
+|-sidestart|p1: 35Q71N|move: Light Screen
+|
+|-damage|p1a: Pyukumuku|20\/227 brn|[from] brn
+|upkeep
+|turn|42
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Reflect|p1a: Pyukumuku
+|-fail|p1a: Pyukumuku
+|
+|-damage|p1a: Pyukumuku|6\/227 brn|[from] brn
+|upkeep
+|turn|43
+|
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|0
+|-boost|p2a: Slowbro|spd|0
+|move|p1a: Pyukumuku|Counter|p2a: Slowbro
+|-fail|p2a: Slowbro
+|
+|-damage|p1a: Pyukumuku|0 fnt|[from] brn
+|upkeep
+|faint|p1a: Pyukumuku
+|
+|win|rawrawraw
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆rawrawraw joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and rawrawraw!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out <strong>Simipour</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crustle, come back!<br></div><div class="battle-history">Go! <strong>Kingdra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Kingdra lost <abbr title="−30/251">12.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Kingdra lost <abbr title="−57/251">22.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Kingdra put in a substitute!</small><br></div><div class="battle-history"><small>(Kingdra lost <abbr title="−62/251">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>Kingdra's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>Kingdra's Attack rose!</small><br></div><div class="battle-history"><small>Kingdra's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw withdrew Simipour!<br></div><div class="battle-history">rawrawraw sent out <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−151/273">55.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="chat message-error">rawrawraw has 120 seconds left.</div><div class="chat message-error">rawrawraw has 105 seconds left.</div><div class="chat message-error">rawrawraw has 90 seconds left.</div><div class="chat message-error">rawrawraw has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw withdrew Slowbro!<br></div><div class="battle-history">rawrawraw sent out <strong>Minun</strong>!<br></div><div class="battle-history"><small>The opposing Minun floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Minun lost <abbr title="−219/219">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Minun's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out <strong>Smeargle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>The opposing Smeargle hung on using its Focus Sash!</small><br></div><div class="battle-history"><small>(The opposing Smeargle lost <abbr title="−226/227">99.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kingdra became confused due to fatigue!</small><br></div><div class="battle-history"><small>(Kingdra ate its Lum Berry!)</small><br></div><div class="battle-history"><small>Kingdra snapped out of its confusion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle used <strong>Whirlwind</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Torkoal</strong> was dragged out!<br></div><div class="battle-history">[Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Torkoal fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal, come back!<br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle used <strong>Whirlwind</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Kingdra</strong> was dragged out!<br></div><div class="battle-history"><small>Kingdra was caught in a sticky web!</small><br></div><div class="battle-history"><small>Kingdra's Speed fell!</small><br></div><div class="battle-history"><small>Pointed stones dug into Kingdra!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(The opposing Smeargle lost <abbr title="−1/227">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Smeargle fainted!<br></div><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out Giratina (<strong>Giratina-Origin</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Kingdra lost <abbr title="−60/251">23.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−252/339">74.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Kingdra lost <abbr title="−11/251">4.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kingdra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="battle-history"><small>Clefable was caught in a sticky web!</small><br></div><div class="battle-history"><small>Clefable's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw withdrew Giratina!<br></div><div class="battle-history">rawrawraw sent out <strong>Simipour</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Simipour put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Simipour lost <abbr title="−65/260">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>The opposing Simipour's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Simipour restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Simipour's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Simipour lost <abbr title="−211/260">81.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out Giratina (<strong>Giratina-Origin</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Clefable lost <abbr title="−83/266">31.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Giratina lost <abbr title="−87/339">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Giratina fainted!<br></div><div class="chat message-error">rawrawraw has 135 seconds left.</div><div class="chat message-error">rawrawraw has 120 seconds left.</div><div class="chat message-error">rawrawraw has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out <strong>Darkrai</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darkrai used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Clefable lost <abbr title="−86/266">32.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Darkrai lost <abbr title="−223/223">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darkrai fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">rawrawraw sent out <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Slowbro's Slowbronite is reacting to the Key Stone!</small><br>The opposing Slowbro has Mega Evolved into Mega Slowbro!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−129/273">47.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Clefable lost <abbr title="−97/266">36.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable fainted!<br></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="battle-history"><small>Crustle was caught in a sticky web!</small><br></div><div class="battle-history"><small>Crustle's Speed fell!</small><br></div><div class="battle-history"><small>Pointed stones dug into Crustle!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−189/251">75.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle fainted!<br></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torkoal</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Torkoal!</small><br></div><div class="battle-history"><small>Torkoal was caught in a sticky web!</small><br></div><div class="battle-history"><small>Torkoal's Speed fell!</small><br></div><div class="battle-history">[Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="battle-history"><small>Torkoal returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−146/251">58.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Torkoal lost <abbr title="−43/251">17.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torkoal fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Cobalion!</small><br></div><div class="battle-history"><small>Cobalion was caught in a sticky web!</small><br></div><div class="battle-history"><small>Cobalion's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cobalion used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−34/273">12.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cobalion lost <abbr title="−259/267">97.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cobalion fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Pyukumuku</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Pyukumuku!</small><br></div><div class="battle-history"><small>Pyukumuku was caught in a sticky web!</small><br></div><div class="battle-history"><small>Pyukumuku's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>Reflect made your team stronger against physical moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Counter</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Counter</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−18/227">7.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Counter</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Baton Pass</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−15/227">6.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Baton Pass</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−16/227">7.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Baton Pass</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Reflect wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−17/227">7.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Baton Pass</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat chatmessage-rawrawraw"><strong style="color:#4da544"><small>☆</small><span class="username" data-name="rawrawraw">rawrawraw</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−15/227">6.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Baton Pass</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−36/227">15.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>Reflect made your team stronger against physical moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−16/227">7.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Counter</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Pyukumuku lost <abbr title="−32/227">14.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Pyukumuku was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pyukumuku was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pyukumuku was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Slowbro's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku used <strong>Counter</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Pyukumuku was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pyukumuku fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>rawrawraw</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

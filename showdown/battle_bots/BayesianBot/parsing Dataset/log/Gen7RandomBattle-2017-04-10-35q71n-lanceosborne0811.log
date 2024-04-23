@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. lanceosborne0811</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-559879860" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/lanceosborne0811" class="subtle" target="_blank">lanceosborne0811</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|lanceosborne0811
+|player|p1|35Q71N|2
+|player|p2|lanceosborne0811|102
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|41110,18496,16421,19179,2680,28027,65056,28690,28039,13128,34033,22759
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Mismagius|Mismagius, L79, M|100\/100
+|switch|p2a: Aerodactyl|Aerodactyl, L77, F|100\/100
+|-ability|p2a: Aerodactyl|Unnerve|p1: 35Q71N
+|turn|1
+|choice|switch 6|move pursuit mega
+|
+|-activate|p1a: Mismagius|move: Pursuit
+|detailschange|p2a: Aerodactyl|Aerodactyl-Mega, L77, F
+|-mega|p2a: Aerodactyl|Aerodactyl|Aerodactylite
+|move|p2a: Aerodactyl|Pursuit|p1a: Mismagius|[from]Pursuit
+|-supereffective|p1a: Mismagius
+|-enditem|p1a: Mismagius|Focus Sash
+|-damage|p1a: Mismagius|1\/100
+|switch|p1a: Keldeo|Keldeo, L77|100\/100
+|
+|upkeep
+|turn|2
+|choice|move scald|switch 6
+|
+|switch|p2a: Floatzel|Floatzel, L79, F|100\/100
+|move|p1a: Keldeo|Scald|p2a: Floatzel
+|-resisted|p2a: Floatzel
+|-damage|p2a: Floatzel|75\/100
+|
+|-heal|p2a: Floatzel|82\/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|move scald|move bulkup
+|
+|move|p2a: Floatzel|Bulk Up|p2a: Floatzel
+|-boost|p2a: Floatzel|atk|1
+|-boost|p2a: Floatzel|def|1
+|move|p1a: Keldeo|Scald|p2a: Floatzel
+|-resisted|p2a: Floatzel
+|-damage|p2a: Floatzel|53\/100
+|
+|-heal|p2a: Floatzel|59\/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|choice|move scald|move bulkup
+|
+|move|p2a: Floatzel|Bulk Up|p2a: Floatzel
+|-boost|p2a: Floatzel|atk|1
+|-boost|p2a: Floatzel|def|1
+|move|p1a: Keldeo|Scald|p2a: Floatzel
+|-resisted|p2a: Floatzel
+|-damage|p2a: Floatzel|32\/100
+|
+|-heal|p2a: Floatzel|38\/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|move scald|move brickbreak
+|
+|move|p2a: Floatzel|Brick Break|p1a: Keldeo
+|-damage|p1a: Keldeo|60\/100
+|move|p1a: Keldeo|Scald|p2a: Floatzel
+|-resisted|p2a: Floatzel
+|-damage|p2a: Floatzel|14\/100
+|
+|-heal|p2a: Floatzel|20\/100|[from] item: Leftovers
+|-heal|p1a: Keldeo|66\/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|choice|move scald|move brickbreak
+|
+|move|p2a: Floatzel|Brick Break|p1a: Keldeo
+|-damage|p1a: Keldeo|30\/100
+|move|p1a: Keldeo|Scald|p2a: Floatzel
+|-resisted|p2a: Floatzel
+|-damage|p2a: Floatzel|0 fnt
+|faint|p2a: Floatzel
+|
+|-heal|p1a: Keldeo|36\/100|[from] item: Leftovers
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Wigglytuff|Wigglytuff, L79, F|100\/100
+|turn|7
+|choice|switch 3|move dazzlinggleam
+|
+|switch|p1a: Clefable|Clefable, L77, M|100\/100
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Clefable
+|-damage|p1a: Clefable|67\/100
+|-damage|p2a: Wigglytuff|91\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|choice|move thunderwave|move wish
+|
+|move|p1a: Clefable|Thunder Wave|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|par
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|
+|upkeep
+|turn|9
+|choice|move softboiled|switch 2
+|
+|switch|p2a: Landorus|Landorus-Therian, L75, M|100\/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Clefable|atk|1
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100\/100
+|
+|upkeep
+|turn|10
+|choice|switch 6|move rockpolish
+|
+|switch|p1a: Mismagius|Mismagius, L79, M|1\/100
+|move|p2a: Landorus|Rock Polish|p2a: Landorus
+|-boost|p2a: Landorus|spe|2
+|
+|upkeep
+|turn|11
+|choice|move destinybond|move stoneedge
+|
+|move|p2a: Landorus|Stone Edge|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|-damage|p2a: Landorus|91\/100|[from] item: Life Orb
+|faint|p1a: Mismagius
+|
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Stunfisk|Stunfisk, L79, M|100\/100
+|-item|p1a: Stunfisk|Air Balloon
+|turn|12
+|choice|move toxic|move stoneedge
+|
+|move|p2a: Landorus|Stone Edge|p1a: Stunfisk
+|-resisted|p1a: Stunfisk
+|-damage|p1a: Stunfisk|83\/100
+|-enditem|p1a: Stunfisk|Air Balloon
+|-damage|p2a: Landorus|81\/100|[from] item: Life Orb
+|move|p1a: Stunfisk|Toxic|p2a: Landorus|[miss]
+|-miss|p1a: Stunfisk|p2a: Landorus
+|
+|upkeep
+|turn|13
+|choice|move toxic|move earthquake
+|
+|move|p2a: Landorus|Earthquake|p1a: Stunfisk
+|-supereffective|p1a: Stunfisk
+|-crit|p1a: Stunfisk
+|-damage|p1a: Stunfisk|0 fnt
+|-damage|p2a: Landorus|71\/100|[from] item: Life Orb
+|faint|p1a: Stunfisk
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Tropius|Tropius, L79, F|100\/100
+|turn|14
+|choice|move protect|move stoneedge
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Landorus|Stone Edge|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|upkeep
+|turn|15
+|choice|move leechseed|move stoneedge
+|
+|move|p2a: Landorus|Stone Edge|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|19\/100
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|44\/100|[from] item: Sitrus Berry
+|-damage|p2a: Landorus|62\/100|[from] item: Life Orb
+|move|p1a: Tropius|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-damage|p2a: Landorus|49\/100|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|55\/100|[silent]
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|16
+|choice|move protect|move stoneedge
+|
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Landorus|Stone Edge|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Landorus|37\/100|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|66\/100|[silent]
+|upkeep
+|turn|17
+|choice|switch 2|move stoneedge
+|
+|switch|p1a: Sudowoodo|Sudowoodo, L79, F|100\/100
+|move|p2a: Landorus|Stone Edge|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|65\/100
+|-damage|p2a: Landorus|27\/100|[from] item: Life Orb
+|
+|-damage|p2a: Landorus|15\/100|[from] Leech Seed|[of] p1a: Sudowoodo
+|-heal|p1a: Sudowoodo|78\/100|[silent]
+|upkeep
+|turn|18
+|choice|move suckerpunch|move earthquake
+|
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Sudowoodo|68\/100|[from] item: Life Orb
+|faint|p2a: Landorus
+|
+|upkeep
+|choice||switch 4
+|
+|switch|p2a: Barbaracle|Barbaracle, L79, M|100\/100
+|turn|19
+|choice|move woodhammer|move razorshell
+|
+|move|p2a: Barbaracle|Razor Shell|p1a: Sudowoodo|[miss]
+|-miss|p2a: Barbaracle|p1a: Sudowoodo
+|move|p1a: Sudowoodo|Wood Hammer|p2a: Barbaracle
+|-supereffective|p2a: Barbaracle
+|-damage|p2a: Barbaracle|0 fnt
+|-damage|p1a: Sudowoodo|58\/100|[from] item: Life Orb
+|faint|p2a: Barbaracle
+|
+|upkeep
+|choice||switch 6
+|
+|switch|p2a: Aerodactyl|Aerodactyl-Mega, L77, F|100\/100
+|turn|20
+|choice|move headsmash|move pursuit
+|
+|move|p2a: Aerodactyl|Pursuit|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|43\/100
+|move|p1a: Sudowoodo|Head Smash|p2a: Aerodactyl
+|-supereffective|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|-damage|p1a: Sudowoodo|33\/100|[from] item: Life Orb
+|faint|p2a: Aerodactyl
+|
+|upkeep
+|choice||switch 2
+|
+|switch|p2a: Wigglytuff|Wigglytuff, L79, F|91\/100 par
+|turn|21
+|choice|move headsmash|move dazzlinggleam
+|
+|move|p1a: Sudowoodo|Head Smash|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|-damage|p1a: Sudowoodo|23\/100|[from] item: Life Orb
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|choice||switch 3
+|
+|switch|p2a: Solrock|Solrock, L79|100\/100
+|turn|22
+|-message|lanceosborne0811 forfeited.
+|
+|win|35Q71N
+|l|lanceosborne0811
+|raw|35Q71N's rating: 1753 &rarr; <strong>1770<\/strong><br \/>(+17 for winning)
+|raw|lanceosborne0811's rating: 1690 &rarr; <strong>1674<\/strong><br \/>(-16 for losing)</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and lanceosborne0811 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and lanceosborne0811!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out <strong>Aerodactyl</strong>!<br></div><div class="battle-history">[The opposing Aerodactyl's Unnerve]<br><small>Your team is too nervous to eat Berries!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Mismagius is being withdrawn...)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aerodactyl's Aerodactylite is reacting to the Key Stone!</small><br>The opposing Aerodactyl has Mega Evolved into Mega Aerodactyl!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl used <strong>Pursuit</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Mismagius hung on using its Focus Sash!</small><br></div><div class="battle-history"><small>(Mismagius lost 99% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius, come back!<br></div><div class="battle-history">Go! <strong>Keldeo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 withdrew Aerodactyl!<br></div><div class="battle-history">lanceosborne0811 sent out <strong>Floatzel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Floatzel lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Floatzel used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Floatzel's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Floatzel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Floatzel lost 29% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Floatzel used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Floatzel's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Floatzel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Floatzel lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Floatzel used <strong>Brick Break</strong>!<br></div><div class="battle-history"><small>(Keldeo lost 40% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Floatzel lost 24% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Floatzel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Keldeo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Floatzel used <strong>Brick Break</strong>!<br></div><div class="battle-history"><small>(Keldeo lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Floatzel lost 20% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Floatzel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Keldeo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out <strong>Wigglytuff</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo, come back!<br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wigglytuff used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(Clefable lost 33% of its health!)</small><br></div><div class="battle-history"><small>The opposing Wigglytuff lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Wigglytuff is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wigglytuff used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 withdrew Wigglytuff!<br></div><div class="battle-history">lanceosborne0811 sent out Landorus (<strong>Landorus-Therian</strong>)!<br></div><div class="battle-history">[The opposing Landorus's Intimidate]<br></div><div class="battle-history"><small>Clefable's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Clefable, come back!<br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Rock Polish</strong>!<br></div><div class="battle-history"><small>The opposing Landorus's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Mismagius lost 1% of its health!)</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stunfisk</strong>!<br></div><div class="battle-history"><small>Stunfisk floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Stunfisk lost 17% of its health!)</small><br></div><div class="battle-history"><small>Stunfisk's Air Balloon popped!</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stunfisk used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Landorus avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Stunfisk lost 83% of its health!)</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stunfisk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tropius</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tropius lost 81% of its health!)</small><br></div><div class="battle-history"><small>(Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Tropius restored HP using its Sitrus Berry!</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Landorus was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Landorus's health is sapped by Leech Seed!</small><br></div><div class="battle-history">[Tropius's Harvest]<br><small>Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>Tropius protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Landorus's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tropius, come back!<br></div><div class="battle-history">Go! <strong>Sudowoodo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Sudowoodo lost 35% of its health!)</small><br></div><div class="battle-history"><small>The opposing Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Landorus's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Landorus lost 15% of its health!)</small><br></div><div class="battle-history"><small>Sudowoodo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Landorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out <strong>Barbaracle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Barbaracle used <strong>Razor Shell</strong>!<br></div><div class="battle-history"><small>Sudowoodo avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Barbaracle lost 100% of its health!)</small><br></div><div class="battle-history"><small>Sudowoodo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Barbaracle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out Aerodactyl (<strong>Aerodactyl-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl used <strong>Pursuit</strong>!<br></div><div class="battle-history"><small>(Sudowoodo lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Aerodactyl lost 100% of its health!)</small><br></div><div class="battle-history"><small>Sudowoodo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aerodactyl fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out <strong>Wigglytuff</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>(The opposing Wigglytuff lost 91% of its health!)</small><br></div><div class="battle-history"><small>Sudowoodo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wigglytuff fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lanceosborne0811 sent out <strong>Solrock</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>lanceosborne0811 forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat"><small>lanceosborne0811 left</small></div><div class="chat">35Q71N's rating: 1753 → <strong>1770</strong><br>(+17 for winning)</div><div class="chat">lanceosborne0811's rating: 1690 → <strong>1674</strong><br>(-16 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

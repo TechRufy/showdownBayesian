@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: drifttrick vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2102141250" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/drifttrick" class="subtle" target="_blank">drifttrick</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|badge|p1|silver|gen9randombattle|30-1
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆drifttrick
+|j|☆35Q71N
+|t:|1712956498
+|gametype|singles
+|player|p1|drifttrick|teamrocket|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712956498
+|start
+|switch|p1a: Sableye|Sableye, L87, M|229\/229
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by drifttrick)
+|c|☆35Q71N|Mb for the delay
+|c|☆35Q71N|Glhf
+|c|☆drifttrick|np
+|c|☆drifttrick|glhf
+|inactive|drifttrick has 270 seconds left.
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712956542
+|switch|p1a: Amoonguss|Amoonguss, L84, M|329\/329
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|277\/329
+|
+|-heal|p1a: Amoonguss|297\/329|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1712956567
+|switch|p2a: Minun|Minun, L94, M|265\/265
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Minun
+|-damage|p2a: Minun|190\/265
+|-status|p2a: Minun|psn
+|
+|-heal|p2a: Minun|206\/265 psn|[from] item: Leftovers
+|-heal|p1a: Amoonguss|317\/329|[from] item: Black Sludge
+|-damage|p2a: Minun|173\/265 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1712956593
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Amoonguss|Stomping Tantrum|p2a: Articuno
+|-immune|p2a: Articuno
+|
+|-heal|p1a: Amoonguss|329\/329|[from] item: Black Sludge
+|upkeep
+|turn|4
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712956614
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|224\/298
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Articuno
+|-activate|p2a: Articuno|move: Substitute|[damage]
+|
+|-heal|p2a: Articuno|242\/298|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712956622
+|move|p2a: Articuno|Hurricane|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|57\/329
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|260\/298|[from] item: Leftovers
+|-heal|p1a: Amoonguss|77\/329|[from] item: Black Sludge
+|upkeep
+|turn|6
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712956636
+|switch|p1a: Clefable|Clefable, L83, F|293\/293
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|186\/298
+|
+|-heal|p2a: Articuno|204\/298|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712956665
+|move|p2a: Articuno|Hurricane|p1a: Clefable|[miss]
+|-miss|p2a: Articuno|p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|222\/298|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1712956671
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|148\/298
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Articuno|166\/298|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|drifttrick has 270 seconds left.
+|c|☆35Q71N|Ah
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712956703
+|move|p2a: Articuno|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|212\/293
+|move|p1a: Clefable|Moonblast|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|184\/298|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712956723
+|switch|p2a: Silvally|Silvally-Rock, L87|307\/307
+|move|p1a: Clefable|Moonblast|p2a: Silvally
+|-damage|p2a: Silvally|150\/307
+|-unboost|p2a: Silvally|spa|1
+|
+|upkeep
+|turn|11
+|
+|t:|1712956742
+|move|p2a: Silvally|Multi-Attack|p1a: Clefable
+|-damage|p1a: Clefable|95\/293
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|242\/293
+|
+|upkeep
+|turn|12
+|
+|t:|1712956752
+|move|p2a: Silvally|Multi-Attack|p1a: Clefable
+|-damage|p1a: Clefable|130\/293
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|277\/293
+|
+|upkeep
+|turn|13
+|
+|t:|1712956760
+|move|p2a: Silvally|Multi-Attack|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|93\/293
+|move|p1a: Clefable|Moonblast|p2a: Silvally
+|-damage|p2a: Silvally|0 fnt
+|faint|p2a: Silvally
+|
+|upkeep
+|
+|t:|1712956766
+|switch|p2a: Feraligatr|Feraligatr, L80, F|267\/267
+|turn|14
+|
+|t:|1712956775
+|switch|p1a: Gastrodon|Gastrodon-East, L88, F|339\/339
+|move|p2a: Feraligatr|Liquidation|p1a: Gastrodon
+|-ability|p1a: Gastrodon|Storm Drain|boost
+|-boost|p1a: Gastrodon|spa|1
+|
+|upkeep
+|turn|15
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712956820
+|switch|p2a: Minun|Minun, L94, M|173\/265 psn
+|move|p1a: Gastrodon|Toxic||[still]
+|-fail|p1a: Gastrodon
+|
+|-heal|p2a: Minun|189\/265 psn|[from] item: Leftovers
+|-damage|p2a: Minun|156\/265 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1712956825
+|switch|p2a: Lurantis|Lurantis, L91, F|275\/275
+|move|p1a: Gastrodon|Scald|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|219\/275
+|
+|-heal|p2a: Lurantis|236\/275|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1712956834
+|switch|p1a: Masquerain|Masquerain, L86, F|261\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-boost|p2a: Lurantis|atk|1
+|move|p2a: Lurantis|Leaf Storm|p1a: Masquerain
+|-resisted|p1a: Masquerain
+|-damage|p1a: Masquerain|225\/261
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p1a: Masquerain|241\/261|[from] item: Leftovers
+|-heal|p2a: Lurantis|253\/275|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712956875
+|switch|p2a: Articuno|Articuno, L87|184\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Masquerain|Air Slash|p2a: Articuno
+|-damage|p2a: Articuno|124\/298
+|
+|-heal|p2a: Articuno|142\/298|[from] item: Leftovers
+|-heal|p1a: Masquerain|257\/261|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1712956881
+|switch|p1a: Celesteela|Celesteela, L80|286\/286
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|291\/298
+|-singleturn|p2a: Articuno|move: Roost
+|
+|-heal|p2a: Articuno|298\/298|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|35Q71N has 240 seconds left.
+|
+|t:|1712956905
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|224\/298
+|move|p1a: Celesteela|Earthquake|p2a: Articuno
+|-immune|p2a: Articuno
+|
+|-heal|p2a: Articuno|242\/298|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1712956917
+|move|p2a: Articuno|Freeze-Dry|p1a: Celesteela
+|-damage|p1a: Celesteela|240\/286
+|move|p1a: Celesteela|Heavy Slam|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|260\/298|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|35Q71N has 240 seconds left.
+|
+|t:|1712956939
+|switch|p2a: Feraligatr|Feraligatr, L80, F|267\/267
+|move|p1a: Celesteela|Heavy Slam|p2a: Feraligatr
+|-resisted|p2a: Feraligatr
+|-damage|p2a: Feraligatr|213\/267
+|
+|upkeep
+|turn|23
+|inactive|35Q71N has 240 seconds left.
+|inactive|35Q71N has 210 seconds left.
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712956981
+|switch|p2a: Lurantis|Lurantis, L91, F|253\/275
+|switch|p1a: Gastrodon|Gastrodon-East, L88, F|339\/339
+|
+|-heal|p2a: Lurantis|270\/275|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|35Q71N has 210 seconds left.
+|inactive|drifttrick has 270 seconds left.
+|
+|t:|1712957002
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|switch|p1a: Masquerain|Masquerain, L86, F|257\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|
+|-heal|p1a: Masquerain|261\/261|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|drifttrick has 270 seconds left.
+|inactive|35Q71N has 210 seconds left.
+|
+|t:|1712957037
+|switch|p1a: Clefable|Clefable, L83, F|93\/293
+|move|p2a: Mismagius|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1712957046
+|switch|p1a: Sableye|Sableye, L87, M|229\/229
+|turn|26
+|inactive|35Q71N has 180 seconds left.
+|
+|t:|1712957077
+|detailschange|p1a: Sableye|Sableye-Mega, L87, M
+|-mega|p1a: Sableye|Sableye|Sablenite
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|124\/229
+|move|p1a: Sableye|Calm Mind|p1a: Sableye
+|-boost|p1a: Sableye|spa|1
+|-boost|p1a: Sableye|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1712957082
+|switch|p2a: Lurantis|Lurantis, L91, F|270\/275
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|-heal|p2a: Lurantis|275\/275|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|drifttrick has 240 seconds left.
+|
+|t:|1712957117
+|switch|p1a: Amoonguss|Amoonguss, L84, M|186\/329
+|move|p2a: Lurantis|Leaf Storm|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|147\/329
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p1a: Amoonguss|167\/329|[from] item: Black Sludge
+|upkeep
+|turn|29
+|inactive|35Q71N has 180 seconds left.
+|inactive|drifttrick has 210 seconds left.
+|
+|t:|1712957152
+|switch|p1a: Masquerain|Masquerain, L86, F|261\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-boost|p2a: Lurantis|atk|1
+|move|p2a: Lurantis|Hidden Power|p1a: Masquerain
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|83\/261
+|
+|-heal|p1a: Masquerain|99\/261|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|drifttrick has 210 seconds left.
+|inactive|35Q71N has 180 seconds left.
+|
+|t:|1712957180
+|switch|p2a: Articuno|Articuno, L87|260\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Masquerain|Air Slash|p2a: Articuno
+|-damage|p2a: Articuno|200\/298
+|
+|-heal|p2a: Articuno|218\/298|[from] item: Leftovers
+|-heal|p1a: Masquerain|115\/261|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1712957192
+|switch|p1a: Sableye|Sableye-Mega, L87, M|229\/229
+|move|p2a: Articuno|Freeze-Dry|p1a: Sableye
+|-damage|p1a: Sableye|163\/229
+|
+|-heal|p2a: Articuno|236\/298|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|35Q71N has 180 seconds left.
+|inactive|35Q71N has 150 seconds left.
+|
+|t:|1712957247
+|switch|p2a: Lurantis|Lurantis, L91, F|275\/275
+|move|p1a: Sableye|Will-O-Wisp|p2a: Lurantis|[miss]
+|-miss|p1a: Sableye|p2a: Lurantis
+|
+|upkeep
+|turn|33
+|
+|t:|1712957274
+|switch|p2a: Articuno|Articuno, L87|236\/298
+|-ability|p2a: Articuno|Pressure
+|switch|p1a: Masquerain|Masquerain, L86, F|115\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Articuno|atk|1
+|
+|-heal|p2a: Articuno|254\/298|[from] item: Leftovers
+|-heal|p1a: Masquerain|131\/261|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1712957282
+|switch|p1a: Celesteela|Celesteela, L80|240\/286
+|move|p2a: Articuno|Freeze-Dry|p1a: Celesteela
+|-damage|p1a: Celesteela|191\/286
+|
+|-heal|p2a: Articuno|272\/298|[from] item: Leftovers
+|upkeep
+|turn|35
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957307
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|198\/298
+|move|p1a: Celesteela|Heavy Slam|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|216\/298|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1712957314
+|switch|p2a: Feraligatr|Feraligatr, L80, F|213\/267
+|move|p1a: Celesteela|Air Slash|p2a: Feraligatr
+|-damage|p2a: Feraligatr|134\/267
+|
+|upkeep
+|turn|37
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957333
+|switch|p1a: Gastrodon|Gastrodon-East, L88, F|339\/339
+|move|p2a: Feraligatr|Dragon Dance|p2a: Feraligatr
+|-boost|p2a: Feraligatr|atk|1
+|-boost|p2a: Feraligatr|spe|1
+|
+|upkeep
+|turn|38
+|
+|t:|1712957353
+|move|p2a: Feraligatr|Crunch|p1a: Gastrodon
+|-damage|p1a: Gastrodon|178\/339
+|move|p1a: Gastrodon|Earthquake|p2a: Feraligatr
+|-damage|p2a: Feraligatr|38\/267
+|
+|-heal|p1a: Gastrodon|199\/339|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1712957366
+|switch|p2a: Lurantis|Lurantis, L91, F|275\/275
+|move|p1a: Gastrodon|Scald|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|230\/275
+|
+|-heal|p2a: Lurantis|247\/275|[from] item: Leftovers
+|-heal|p1a: Gastrodon|220\/339|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1712957376
+|switch|p2a: Articuno|Articuno, L87|216\/298
+|-ability|p2a: Articuno|Pressure
+|switch|p1a: Masquerain|Masquerain, L86, F|131\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Articuno|atk|1
+|
+|-heal|p2a: Articuno|234\/298|[from] item: Leftovers
+|-heal|p1a: Masquerain|147\/261|[from] item: Leftovers
+|upkeep
+|turn|41
+|c|☆drifttrick|i was highly tempted to fire off the hero toxic
+|inactive|drifttrick has 180 seconds left.
+|
+|t:|1712957398
+|switch|p1a: Celesteela|Celesteela, L80|191\/286
+|move|p2a: Articuno|Freeze-Dry|p1a: Celesteela
+|-damage|p1a: Celesteela|142\/286
+|
+|-heal|p2a: Articuno|252\/298|[from] item: Leftovers
+|upkeep
+|turn|42
+|c|☆35Q71N|I thank you for not doing that
+|c|☆35Q71N|Could you please get frozen next time?
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957429
+|switch|p2a: Minun|Minun, L94, M|156\/265 psn
+|move|p1a: Celesteela|Heavy Slam|p2a: Minun
+|-resisted|p2a: Minun
+|-damage|p2a: Minun|78\/265 psn
+|
+|-heal|p2a: Minun|94\/265 psn|[from] item: Leftovers
+|-damage|p2a: Minun|61\/265 psn|[from] psn
+|upkeep
+|turn|43
+|c|☆drifttrick|ye ill use freeze shield
+|c|☆35Q71N|Noice
+|inactive|35Q71N has 120 seconds left.
+|c|☆drifttrick|its a move that works like protect but freezes the user
+|c|☆35Q71N|:o
+|inactive|drifttrick has 180 seconds left.
+|
+|t:|1712957465
+|switch|p2a: Articuno|Articuno, L87|252\/298
+|-ability|p2a: Articuno|Pressure
+|switch|p1a: Sableye|Sableye-Mega, L87, M|163\/229
+|
+|-heal|p2a: Articuno|270\/298|[from] item: Leftovers
+|upkeep
+|turn|44
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957476
+|move|p2a: Articuno|Hurricane|p1a: Sableye|[miss]
+|-miss|p2a: Articuno|p1a: Sableye
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|-heal|p2a: Articuno|288\/298|[from] item: Leftovers
+|upkeep
+|turn|45
+|c|☆35Q71N|Aw
+|inactive|drifttrick has 180 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957487
+|switch|p2a: Lurantis|Lurantis, L91, F|247\/275
+|move|p1a: Sableye|Calm Mind|p1a: Sableye
+|-boost|p1a: Sableye|spa|1
+|-boost|p1a: Sableye|spd|1
+|
+|-heal|p2a: Lurantis|264\/275|[from] item: Leftovers
+|upkeep
+|turn|46
+|inactive|drifttrick has 180 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712957498
+|switch|p1a: Masquerain|Masquerain, L86, F|147\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-boost|p2a: Lurantis|atk|1
+|move|p2a: Lurantis|Leaf Storm|p1a: Masquerain
+|-resisted|p1a: Masquerain
+|-damage|p1a: Masquerain|110\/261
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p1a: Masquerain|126\/261|[from] item: Leftovers
+|-heal|p2a: Lurantis|275\/275|[from] item: Leftovers
+|upkeep
+|turn|47
+|inactive|drifttrick has 180 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|inactive|drifttrick has 150 seconds left.
+|
+|t:|1712957543
+|switch|p2a: Articuno|Articuno, L87|288\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Masquerain|Air Slash|p2a: Articuno
+|-damage|p2a: Articuno|224\/298
+|
+|-heal|p2a: Articuno|242\/298|[from] item: Leftovers
+|-heal|p1a: Masquerain|142\/261|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957575
+|switch|p1a: Sableye|Sableye-Mega, L87, M|229\/229
+|move|p2a: Articuno|Freeze-Dry|p1a: Sableye
+|-damage|p1a: Sableye|163\/229
+|
+|-heal|p2a: Articuno|260\/298|[from] item: Leftovers
+|upkeep
+|turn|49
+|inactive|drifttrick has 150 seconds left.
+|
+|t:|1712957594
+|move|p2a: Articuno|Hurricane|p1a: Sableye
+|-damage|p1a: Sableye|60\/229
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|175\/229
+|
+|-heal|p2a: Articuno|278\/298|[from] item: Leftovers
+|upkeep
+|turn|50
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957606
+|move|p2a: Articuno|Hurricane|p1a: Sableye|[miss]
+|-miss|p2a: Articuno|p1a: Sableye
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|-heal|p2a: Articuno|296\/298|[from] item: Leftovers
+|upkeep
+|turn|51
+|inactive|drifttrick has 150 seconds left.
+|
+|t:|1712957633
+|move|p2a: Articuno|Hurricane|p1a: Sableye
+|-damage|p1a: Sableye|139\/229
+|move|p1a: Sableye|Will-O-Wisp|p2a: Articuno|[miss]
+|-miss|p1a: Sableye|p2a: Articuno
+|
+|-heal|p2a: Articuno|298\/298|[from] item: Leftovers
+|upkeep
+|turn|52
+|c|☆35Q71N|Weird turns
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957662
+|switch|p2a: Lurantis|Lurantis, L91, F|275\/275
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|upkeep
+|turn|53
+|inactive|35Q71N has 90 seconds left.
+|inactive|drifttrick has 150 seconds left.
+|
+|t:|1712957681
+|switch|p1a: Amoonguss|Amoonguss, L84, M|276\/329
+|move|p2a: Lurantis|Hidden Power|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|178\/329
+|
+|-heal|p1a: Amoonguss|198\/329|[from] item: Black Sludge
+|upkeep
+|turn|54
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957694
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Articuno
+|-damage|p2a: Articuno|240\/298
+|
+|-heal|p2a: Articuno|258\/298|[from] item: Leftovers
+|-heal|p1a: Amoonguss|218\/329|[from] item: Black Sludge
+|upkeep
+|turn|55
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957705
+|switch|p1a: Sableye|Sableye-Mega, L87, M|229\/229
+|move|p2a: Articuno|Hurricane|p1a: Sableye
+|-damage|p1a: Sableye|129\/229
+|
+|-heal|p2a: Articuno|276\/298|[from] item: Leftovers
+|upkeep
+|turn|56
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712957731
+|move|p2a: Articuno|Hurricane|p1a: Sableye|[miss]
+|-miss|p2a: Articuno|p1a: Sableye
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|-heal|p2a: Articuno|294\/298|[from] item: Leftovers
+|upkeep
+|turn|57
+|inactive|drifttrick has 150 seconds left.
+|
+|t:|1712957783
+|move|p2a: Articuno|Hurricane|p1a: Sableye
+|-damage|p1a: Sableye|136\/229
+|-start|p1a: Sableye|confusion
+|-activate|p1a: Sableye|confusion
+|-damage|p1a: Sableye|120\/229|[from] confusion
+|
+|-heal|p2a: Articuno|298\/298|[from] item: Leftovers
+|upkeep
+|turn|58
+|inactive|35Q71N has 60 seconds left.
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712957840
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|switch|p1a: Celesteela|Celesteela, L80|142\/286
+|
+|upkeep
+|turn|59
+|inactive|drifttrick has 120 seconds left.
+|
+|t:|1712957866
+|switch|p1a: Amoonguss|Amoonguss, L84, M|327\/329
+|move|p2a: Mismagius|Shadow Ball|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|90\/329
+|
+|-heal|p1a: Amoonguss|110\/329|[from] item: Black Sludge
+|upkeep
+|turn|60
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712957890
+|switch|p1a: Gastrodon|Gastrodon-East, L88, F|220\/339
+|move|p2a: Mismagius|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|75\/339
+|-unboost|p1a: Gastrodon|spd|1
+|
+|-heal|p1a: Gastrodon|96\/339|[from] item: Leftovers
+|upkeep
+|turn|61
+|j|+Pulse_kS
+|j| icypenguin604
+|
+|t:|1712957905
+|move|p2a: Mismagius|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1712957923
+|switch|p1a: Amoonguss|Amoonguss, L84, M|219\/329
+|turn|62
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1712957962
+|switch|p2a: Feraligatr|Feraligatr, L80, F|38\/267
+|move|p1a: Amoonguss|Spore|p2a: Feraligatr
+|-status|p2a: Feraligatr|slp|[from] move: Spore
+|
+|-heal|p1a: Amoonguss|239\/329|[from] item: Black Sludge
+|upkeep
+|turn|63
+|inactive|35Q71N has 30 seconds left this turn.
+|c|☆drifttrick|dang
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1712957972
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Articuno
+|-damage|p2a: Articuno|232\/298
+|
+|-heal|p2a: Articuno|250\/298|[from] item: Leftovers
+|-heal|p1a: Amoonguss|259\/329|[from] item: Black Sludge
+|upkeep
+|turn|64
+|inactive|35Q71N has 30 seconds left this turn.
+|c| icypenguin604|drift you literally got stall lol
+|c|☆drifttrick|yeah stall is getting broken
+|
+|t:|1712957987
+|move|p2a: Articuno|Freeze-Dry|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|107\/329
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Articuno
+|-damage|p2a: Articuno|184\/298
+|-status|p2a: Articuno|psn
+|
+|-heal|p2a: Articuno|202\/298 psn|[from] item: Leftovers
+|-heal|p1a: Amoonguss|127\/329|[from] item: Black Sludge
+|-damage|p2a: Articuno|165\/298 psn|[from] psn
+|upkeep
+|turn|65
+|inactive|35Q71N has 30 seconds left.
+|c|☆35Q71N|Ok this is fair
+|
+|t:|1712958001
+|switch|p1a: Celesteela|Celesteela, L80|142\/286
+|move|p2a: Articuno|Freeze-Dry|p1a: Celesteela
+|-damage|p1a: Celesteela|96\/286
+|-status|p1a: Celesteela|frz
+|
+|-heal|p2a: Articuno|183\/298 psn|[from] item: Leftovers
+|-damage|p2a: Articuno|146\/298 psn|[from] psn
+|upkeep
+|turn|66
+|inactive|35Q71N has 30 seconds left.
+|c|☆35Q71N|This is...uhm
+|c| icypenguin604|:o
+|c|☆35Q71N|Unfortunate
+|inactive|drifttrick has 90 seconds left.
+|
+|t:|1712958031
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|295\/298 psn
+|-singleturn|p2a: Articuno|move: Roost
+|cant|p1a: Celesteela|frz
+|
+|-heal|p2a: Articuno|298\/298 psn|[from] item: Leftovers
+|-damage|p2a: Articuno|261\/298 psn|[from] psn
+|upkeep
+|turn|67
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712958046
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|cant|p1a: Celesteela|frz
+|
+|upkeep
+|turn|68
+|inactive|drifttrick has 90 seconds left.
+|
+|t:|1712958068
+|move|p2a: Mismagius|Shadow Ball|p1a: Celesteela
+|-damage|p1a: Celesteela|11\/286 frz
+|cant|p1a: Celesteela|frz
+|
+|upkeep
+|turn|69
+|
+|t:|1712958071
+|move|p2a: Mismagius|Shadow Ball|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|inactive|drifttrick has 90 seconds left.
+|
+|t:|1712958090
+|switch|p1a: Masquerain|Masquerain, L86, F|142\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|turn|70
+|inactive|drifttrick has 90 seconds left.
+|
+|t:|1712958118
+|switch|p2a: Articuno|Articuno, L87|261\/298 psn
+|-ability|p2a: Articuno|Pressure
+|switch|p1a: Sableye|Sableye-Mega, L87, M|120\/229
+|
+|-heal|p2a: Articuno|279\/298 psn|[from] item: Leftovers
+|-damage|p2a: Articuno|242\/298 psn|[from] psn
+|upkeep
+|turn|71
+|c|☆35Q71N|Wp
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712958134
+|switch|p2a: Lurantis|Lurantis, L91, F|275\/275
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|229\/229
+|
+|upkeep
+|turn|72
+|inactive|35Q71N has 30 seconds left.
+|inactive|drifttrick has 90 seconds left.
+|
+|t:|1712958170
+|move|p2a: Lurantis|Hidden Power|p1a: Sableye
+|-damage|p1a: Sableye|197\/229
+|move|p1a: Sableye|Calm Mind|p1a: Sableye
+|-boost|p1a: Sableye|spa|1
+|-boost|p1a: Sableye|spd|1
+|
+|upkeep
+|turn|73
+|
+|t:|1712958180
+|switch|p1a: Masquerain|Masquerain, L86, F|142\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-boost|p2a: Lurantis|atk|1
+|move|p2a: Lurantis|Leaf Storm|p1a: Masquerain|[miss]
+|-miss|p2a: Lurantis|p1a: Masquerain
+|
+|-heal|p1a: Masquerain|158\/261|[from] item: Leftovers
+|upkeep
+|turn|74
+|inactive|drifttrick has 60 seconds left.
+|
+|t:|1712958211
+|switch|p2a: Articuno|Articuno, L87|242\/298 psn
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Masquerain|Air Slash|p2a: Articuno
+|-damage|p2a: Articuno|176\/298 psn
+|
+|-heal|p2a: Articuno|194\/298 psn|[from] item: Leftovers
+|-heal|p1a: Masquerain|174\/261|[from] item: Leftovers
+|-damage|p2a: Articuno|157\/298 psn|[from] psn
+|upkeep
+|turn|75
+|
+|t:|1712958220
+|move|p2a: Articuno|Freeze-Dry|p1a: Masquerain
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|6\/261
+|move|p1a: Masquerain|Stun Spore|p2a: Articuno|[miss]
+|-miss|p1a: Masquerain|p2a: Articuno
+|
+|-heal|p2a: Articuno|175\/298 psn|[from] item: Leftovers
+|-heal|p1a: Masquerain|22\/261|[from] item: Leftovers
+|-damage|p2a: Articuno|138\/298 psn|[from] psn
+|upkeep
+|turn|76
+|j|+BoboMania
+|
+|t:|1712958227
+|switch|p1a: Sableye|Sableye-Mega, L87, M|197\/229
+|move|p2a: Articuno|Freeze-Dry|p1a: Sableye
+|-damage|p1a: Sableye|140\/229
+|
+|-heal|p2a: Articuno|156\/298 psn|[from] item: Leftovers
+|-damage|p2a: Articuno|119\/298 psn|[from] psn
+|upkeep
+|turn|77
+|j| MDILL97@!
+|inactive|35Q71N has 60 seconds left.
+|
+|t:|1712958243
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|switch|p1a: Amoonguss|Amoonguss, L84, M|236\/329
+|
+|-heal|p1a: Amoonguss|256\/329|[from] item: Black Sludge
+|upkeep
+|turn|78
+|inactive|drifttrick has 60 seconds left.
+|
+|t:|1712958271
+|move|p2a: Mismagius|Shadow Ball|p1a: Amoonguss
+|-damage|p1a: Amoonguss|108\/329
+|move|p1a: Amoonguss|Giga Drain|p2a: Mismagius
+|-damage|p2a: Mismagius|186\/243
+|-heal|p1a: Amoonguss|137\/329|[from] drain|[of] p2a: Mismagius
+|
+|-heal|p1a: Amoonguss|157\/329|[from] item: Black Sludge
+|upkeep
+|turn|79
+|inactive|drifttrick has 60 seconds left.
+|
+|t:|1712958285
+|switch|p1a: Masquerain|Masquerain, L86, F|22\/261
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Shadow Ball|p1a: Masquerain
+|-damage|p1a: Masquerain|0 fnt
+|faint|p1a: Masquerain
+|
+|upkeep
+|
+|t:|1712958287
+|switch|p1a: Sableye|Sableye-Mega, L87, M|140\/229
+|turn|80
+|l| MDILL97
+|inactive|35Q71N has 60 seconds left.
+|
+|t:|1712958298
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|28\/229
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|143\/229
+|
+|upkeep
+|turn|81
+|
+|t:|1712958315
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|34\/229
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|149\/229
+|
+|upkeep
+|turn|82
+|
+|t:|1712958321
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|43\/229
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|158\/229
+|
+|upkeep
+|turn|83
+|
+|t:|1712958331
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|38\/229
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|153\/229
+|
+|upkeep
+|turn|84
+|
+|t:|1712958336
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|39\/229
+|move|p1a: Sableye|Dark Pulse|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-damage|p2a: Mismagius|54\/243
+|
+|upkeep
+|turn|85
+|c|☆drifttrick|ye gg
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712958341
+|move|p2a: Mismagius|Shadow Ball|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|upkeep
+|c|☆35Q71N|Gg
+|c|☆35Q71N|Wow, what a match
+|c|☆35Q71N|Sorry for the freeze
+|inactive|drifttrick has 90 seconds left.
+|c|☆drifttrick|np
+|c|☆drifttrick|that wasnt the problem
+|c|☆drifttrick|the problem was me playing too passively
+|c|☆drifttrick|i needed to recognize this was a losing mu
+|c|☆drifttrick|and make plays sooner
+|
+|t:|1712958381
+|switch|p1a: Amoonguss|Amoonguss, L84, M|266\/329
+|turn|86
+|c|☆35Q71N|It reminded me a bit of the match we played in the last gen 4 tour
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712958408
+|move|p2a: Mismagius|Shadow Ball|p1a: Amoonguss
+|-damage|p1a: Amoonguss|115\/329
+|-unboost|p1a: Amoonguss|spd|1
+|move|p1a: Amoonguss|Giga Drain|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|-heal|p1a: Amoonguss|142\/329|[from] drain|[of] p2a: Mismagius
+|faint|p2a: Mismagius
+|
+|-heal|p1a: Amoonguss|162\/329|[from] item: Black Sludge
+|upkeep
+|
+|t:|1712958410
+|switch|p2a: Articuno|Articuno, L87|119\/298 psn
+|-ability|p2a: Articuno|Pressure
+|turn|87
+|inactive|35Q71N has 90 seconds left.
+|c|☆35Q71N|Where I had a great mu
+|c|☆35Q71N|But some moves were still too passive
+|c|☆drifttrick|ill pretend to remember that
+|c|☆35Q71N|It's normal to fall into a certain false sense of security sometimes
+|c|☆35Q71N|Lol fair enough
+|
+|t:|1712958442
+|move|p2a: Articuno|Freeze-Dry|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|win|35Q71N
+|c|☆35Q71N|Gg, always a pleasure
+|l|+BoboMania
+|l| icypenguin604
+|c|☆drifttrick|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆drifttrick and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between drifttrick and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out <strong>Sableye</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by drifttrick)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Mb for the delay</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>np</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>glhf</em></div><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−52/329">15.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius, come back!<br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Minun lost <abbr title="−75/265">28.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Minun was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Stomping Tantrum</strong>!<br></div><div class="battle-history"><small>It doesn't affect Articuno...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Articuno!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−272/329">82.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>Articuno's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Clefable avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>Articuno's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah</em></div><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−81/293">27.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>Articuno's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! Silvally (<strong>Silvally-Rock</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Silvally lost <abbr title="−157/307">51.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Silvally's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Multi-Attack</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−117/293">39.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Multi-Attack</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−112/293">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Multi-Attack</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−184/293">62.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Silvally lost <abbr title="−150/307">48.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Clefable!<br></div><div class="battle-history">drifttrick sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Liquidation</strong>!<br></div><div class="battle-history">[The opposing Gastrodon's Storm Drain]<br></div><div class="battle-history"><small>The opposing Gastrodon's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Lurantis lost <abbr title="−56/275">20.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Gastrodon!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Lurantis's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Masquerain lost <abbr title="−36/261">13.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Lurantis's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−60/298">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Articuno...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−46/286">16.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Articuno's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−54/267">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="chat message-error">35Q71N has 210 seconds left.</div><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Celesteela!<br></div><div class="battle-history">drifttrick sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">35Q71N has 210 seconds left.</div><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Gastrodon!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat message-error">drifttrick has 270 seconds left.</div><div class="chat message-error">35Q71N has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−93/293">31.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out <strong>Sableye</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sableye's Sablenite is reacting to the Key Stone!</small><br>The opposing Sableye has Mega Evolved into Mega Sableye!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−105/229">45.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sableye's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sableye's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat message-error">drifttrick has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−39/329">11.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Lurantis's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="chat message-error">drifttrick has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Lurantis's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Masquerain lost <abbr title="−178/261">68.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="chat message-error">drifttrick has 210 seconds left.</div><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−60/298">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−66/229">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="chat message-error">35Q71N has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Lurantis avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Articuno's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−49/286">17.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Articuno's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−79/267">29.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Celesteela!<br></div><div class="battle-history">drifttrick sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>Feraligatr's Attack rose!</small><br></div><div class="battle-history"><small>Feraligatr's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(The opposing Gastrodon lost <abbr title="−161/339">47.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Feraligatr lost <abbr title="−96/267">36.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Lurantis lost <abbr title="−45/275">16.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Gastrodon!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Articuno's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>i was highly tempted to fire off the hero toxic</em></div><div class="chat message-error">drifttrick has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−49/286">17.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I thank you for not doing that</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Could you please get frozen next time?</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−78/265">29.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>ye ill use freeze shield</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Noice</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>its a move that works like protect but freezes the user</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>:o</em></div><div class="chat message-error">drifttrick has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Minun, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Celesteela!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Sableye avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Aw</em></div><div class="chat message-error">drifttrick has 180 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sableye's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sableye's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="chat message-error">drifttrick has 180 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Lurantis's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Masquerain lost <abbr title="−37/261">14.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Lurantis's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lurantis restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="chat message-error">drifttrick has 180 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">drifttrick has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−64/298">21.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−66/229">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="chat message-error">drifttrick has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−103/229">45.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Sableye avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="chat message-error">drifttrick has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−90/229">39.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Articuno avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Weird turns</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">drifttrick has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−98/329">29.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−58/298">19.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−100/229">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Sableye avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 57</h2><div class="chat message-error">drifttrick has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−93/229">40.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sableye became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sableye is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 58</h2><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 59</h2><div class="chat message-error">drifttrick has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Celesteela!<br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−237/329">72.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 60</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Gastrodon lost <abbr title="−145/339">42.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Gastrodon's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 61</h2><div class="chat"><small>+Pulse_kS and  icypenguin604 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Gastrodon lost <abbr title="−96/339">28.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 62</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius, come back!<br></div><div class="battle-history">Go! <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Feraligatr fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 63</h2><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>dang</em></div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Feraligatr, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−66/298">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 64</h2><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small> </small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>drift you literally got stall lol</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>yeah stall is getting broken</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−152/329">46.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−66/298">22.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Articuno was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 65</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ok this is fair</em></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−46/286">16.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Celesteela was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 66</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This is...uhm</em></div><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small> </small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>:o</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Unfortunate</em></div><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 67</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela is frozen solid!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 68</h2><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−85/286">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela is frozen solid!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 69</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−11/286">3.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela fainted!<br></div><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 70</h2><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 71</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Wp</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Lurantis</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 72</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−32/229">14.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sableye's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sableye's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 73</h2><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Lurantis's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis used <strong>Leaf Storm</strong>!<br></div><div class="battle-history"><small>The opposing Masquerain avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 74</h2><div class="chat message-error">drifttrick has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lurantis, come back!<br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Articuno lost <abbr title="−66/298">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 75</h2><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Masquerain lost <abbr title="−168/261">64.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain used <strong>Stun Spore</strong>!<br></div><div class="battle-history"><small>Articuno avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Masquerain restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 76</h2><div class="chat"><small>+BoboMania joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Masquerain!<br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−57/229">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 77</h2><div class="chat"><small> MDILL97 joined</small></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno, come back!<br></div><div class="battle-history">Go! <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Sableye!<br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 78</h2><div class="chat message-error">drifttrick has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−148/329">45.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Mismagius lost <abbr title="−57/243">23.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mismagius had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 79</h2><div class="chat message-error">drifttrick has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick withdrew Amoonguss!<br></div><div class="battle-history">drifttrick sent out <strong>Masquerain</strong>!<br></div><div class="battle-history">[The opposing Masquerain's Intimidate]<br></div><div class="battle-history"><small>Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Masquerain lost <abbr title="−22/261">8.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Masquerain fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out Sableye (<strong>Sableye-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 80</h2><div class="chat"><small> MDILL97 left</small></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−112/229">48.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 81</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−109/229">47.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 82</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−106/229">46.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 83</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−120/229">52.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Sableye had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 84</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−114/229">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mismagius lost <abbr title="−132/243">54.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 85</h2><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>ye gg</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Sableye lost <abbr title="−39/229">17.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sableye fainted!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Wow, what a match</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Sorry for the freeze</em></div><div class="chat message-error">drifttrick has 90 seconds left.</div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>np</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>that wasnt the problem</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>the problem was me playing too passively</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>i needed to recognize this was a losing mu</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>and make plays sooner</em></div><div class="spacer battle-history"><br></div><div class="battle-history">drifttrick sent out <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 86</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It reminded me a bit of the match we played in the last gen 4 tour</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−151/329">45.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Amoonguss's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Mismagius lost <abbr title="−54/243">22.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mismagius had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mismagius fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Articuno</strong>!<br></div><div class="battle-history">[Articuno's Pressure]<br><small>Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 87</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Where I had a great mu</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>But some moves were still too passive</em></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>ill pretend to remember that</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It's normal to fall into a certain false sense of security sometimes</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Lol fair enough</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Amoonguss lost <abbr title="−162/329">49.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Amoonguss fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg, always a pleasure</em></div><div class="chat"><small>+BoboMania and  icypenguin604 left</small></div><div class="chat chatmessage-drifttrick"><strong style="color:#24a842"><small>☆</small><span class="username" data-name="drifttrick">drifttrick</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

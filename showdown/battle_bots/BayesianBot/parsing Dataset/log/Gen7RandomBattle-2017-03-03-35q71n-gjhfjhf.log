@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. gjhfjhf</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-541924482" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/gjhfjhf" class="subtle" target="_blank">gjhfjhf</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|gjhfjhf
+|player|p1|35Q71N|170
+|player|p2|gjhfjhf|290
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|21107,61982,31192,16325,13349,59387,30979,33763,28991,1873,21257,26799
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Toxapex|Toxapex, L75, F|100\/100
+|switch|p2a: Electivire|Electivire, L79, M|100\/100
+|turn|1
+|choice|move banefulbunker|move earthquake
+|
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Electivire|Earthquake|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|upkeep
+|turn|2
+|choice|move toxicspikes|move voltswitch
+|
+|move|p2a: Electivire|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|43\/100
+|choice||switch 4
+|
+|switch|p2a: Arceus|Arceus-Flying, L73|100\/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Arceus
+|-sidestart|p2: gjhfjhf|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|49\/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|choice|switch 4|move earthpower
+|
+|switch|p1a: Bronzong|Bronzong, L79, shiny|100\/100
+|move|p2a: Arceus|Earth Power|p1a: Bronzong
+|-immune|p1a: Bronzong|[msg]|[from] ability: Levitate
+|
+|upkeep
+|turn|4
+|choice|move toxic|switch 2
+|
+|switch|p2a: Azelf|Azelf, L77|100\/100
+|move|p1a: Bronzong|Toxic|p2a: Azelf
+|-status|p2a: Azelf|tox
+|
+|-damage|p2a: Azelf|94\/100 tox|[from] psn
+|upkeep
+|turn|5
+|choice|switch 4|move knockoff
+|
+|switch|p1a: Toxapex|Toxapex, L75, F|82\/100
+|move|p2a: Azelf|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|50\/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Azelf
+|-damage|p2a: Azelf|84\/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Azelf|72\/100 tox|[from] psn
+|upkeep
+|turn|6
+|choice|move banefulbunker|switch 6
+|
+|switch|p2a: Dedenne|Dedenne, L79, M|100\/100
+|-status|p2a: Dedenne|psn
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-fail|p1a: Toxapex
+|
+|-damage|p2a: Dedenne|88\/100 psn|[from] psn
+|upkeep
+|turn|7
+|choice|switch 5|move thunderbolt
+|
+|switch|p1a: Arbok|Arbok, L79, M|100\/100
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Dedenne|atk|1
+|move|p2a: Dedenne|Thunderbolt|p1a: Arbok
+|-damage|p1a: Arbok|60\/100
+|
+|-damage|p2a: Dedenne|76\/100 psn|[from] psn
+|upkeep
+|turn|8
+|choice|move gunkshot|switch 2
+|
+|switch|p2a: Arceus|Arceus-Flying, L73|100\/100
+|move|p1a: Arbok|Gunk Shot|p2a: Arceus
+|-damage|p2a: Arceus|69\/100
+|-status|p2a: Arceus|psn
+|
+|-damage|p2a: Arceus|57\/100 psn|[from] psn
+|upkeep
+|turn|9
+|choice|switch 4|move judgment
+|
+|switch|p1a: Bronzong|Bronzong, L79, shiny|100\/100
+|move|p2a: Arceus|Judgment|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|80\/100
+|
+|-damage|p2a: Arceus|45\/100 psn|[from] psn
+|upkeep
+|turn|10
+|choice|move gyroball|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|95\/100 psn
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|68\/100 psn
+|
+|-damage|p2a: Arceus|56\/100 psn|[from] psn
+|upkeep
+|turn|11
+|choice|move gyroball|move calmmind
+|
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|29\/100 psn
+|
+|-damage|p2a: Arceus|17\/100 psn|[from] psn
+|upkeep
+|turn|12
+|choice|move reflect|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|67\/100 psn
+|move|p1a: Bronzong|Reflect|p1a: Bronzong
+|-sidestart|p1: 35Q71N|Reflect
+|
+|-damage|p2a: Arceus|55\/100 psn|[from] psn
+|upkeep
+|turn|13
+|choice|move gyroball|move calmmind
+|
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|27\/100 psn
+|
+|-damage|p2a: Arceus|15\/100 psn|[from] psn
+|upkeep
+|turn|14
+|choice|move gyroball|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|65\/100 psn
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|42\/100 psn
+|
+|-damage|p2a: Arceus|29\/100 psn|[from] psn
+|upkeep
+|turn|15
+|choice|move gyroball|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|79\/100 psn
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|54\/100 psn
+|
+|-damage|p2a: Arceus|42\/100 psn|[from] psn
+|upkeep
+|turn|16
+|choice|move gyroball|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|92\/100 psn
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|51\/100 psn
+|
+|-damage|p2a: Arceus|39\/100 psn|[from] psn
+|upkeep
+|turn|17
+|choice|move gyroball|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|89\/100 psn
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|66\/100 psn
+|
+|-damage|p2a: Arceus|53\/100 psn|[from] psn
+|upkeep
+|turn|18
+|choice|move gyroball|move judgment
+|
+|move|p2a: Arceus|Judgment|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|39\/100
+|move|p1a: Bronzong|Gyro Ball|p2a: Arceus
+|-damage|p2a: Arceus|28\/100 psn
+|
+|-damage|p2a: Arceus|16\/100 psn|[from] psn
+|upkeep
+|turn|19
+|choice|move explosion|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|66\/100 psn
+|move|p1a: Bronzong|Explosion|p2a: Arceus
+|-damage|p2a: Arceus|20\/100 psn
+|faint|p1a: Bronzong
+|
+|-damage|p2a: Arceus|8\/100 psn|[from] psn
+|-sideend|p1: 35Q71N|Reflect
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Escavalier|Escavalier, L79, M|100\/100
+|turn|20
+|choice|move ironhead|move recover
+|
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|58\/100 psn
+|move|p1a: Escavalier|Iron Head|p2a: Arceus
+|-damage|p2a: Arceus|17\/100 psn
+|-damage|p1a: Escavalier|90\/100|[from] item: Life Orb
+|
+|-damage|p2a: Arceus|5\/100 psn|[from] psn
+|upkeep
+|turn|21
+|choice|move ironhead|move judgment
+|
+|move|p2a: Arceus|Judgment|p1a: Escavalier
+|-damage|p1a: Escavalier|0 fnt
+|faint|p1a: Escavalier
+|
+|-damage|p2a: Arceus|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Arceus
+|choice|switch 5|switch 3
+|
+|switch|p2a: Bouffalant|Bouffalant, L79, M|100\/100
+|switch|p1a: Toxapex|Toxapex, L75, F|83\/100
+|-status|p2a: Bouffalant|psn
+|turn|22
+|choice|move recover|move swordsdance
+|
+|move|p2a: Bouffalant|Swords Dance|p2a: Bouffalant
+|-boost|p2a: Bouffalant|atk|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100\/100
+|
+|-damage|p2a: Bouffalant|88\/100 psn|[from] psn
+|upkeep
+|turn|23
+|choice|move scald|move earthquake
+|
+|move|p2a: Bouffalant|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|7\/100
+|move|p1a: Toxapex|Scald|p2a: Bouffalant
+|-damage|p2a: Bouffalant|70\/100 psn
+|
+|-heal|p2a: Bouffalant|77\/100 psn|[from] item: Leftovers
+|-damage|p2a: Bouffalant|64\/100 psn|[from] psn
+|upkeep
+|turn|24
+|choice|move banefulbunker|move earthquake
+|
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Bouffalant|Earthquake|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-heal|p2a: Bouffalant|70\/100 psn|[from] item: Leftovers
+|-damage|p2a: Bouffalant|58\/100 psn|[from] psn
+|upkeep
+|turn|25
+|choice|move scald|move earthquake
+|
+|move|p2a: Bouffalant|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-heal|p2a: Bouffalant|64\/100 psn|[from] item: Leftovers
+|-damage|p2a: Bouffalant|51\/100 psn|[from] psn
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Glalie|Glalie, L79, F|100\/100
+|turn|26
+|choice|move return mega|move stoneedge
+|
+|detailschange|p1a: Glalie|Glalie-Mega, L79, F
+|-mega|p1a: Glalie|Glalie|Glalitite
+|move|p1a: Glalie|Return|p2a: Bouffalant
+|-damage|p2a: Bouffalant|0 fnt
+|faint|p2a: Bouffalant
+|
+|upkeep
+|choice||switch 6
+|
+|switch|p2a: Azelf|Azelf, L77|72\/100 tox
+|turn|27
+|choice|switch 6|move psyshock
+|
+|switch|p1a: Cradily|Cradily, L79, F|100\/100
+|move|p2a: Azelf|Psyshock|p1a: Cradily
+|-damage|p1a: Cradily|62\/100
+|-damage|p2a: Azelf|62\/100 tox|[from] item: Life Orb
+|
+|-heal|p1a: Cradily|68\/100|[from] item: Leftovers
+|-damage|p2a: Azelf|56\/100 tox|[from] psn
+|upkeep
+|turn|28
+|choice|switch 4|move knockoff
+|
+|switch|p1a: Arbok|Arbok, L79, M|60\/100
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Azelf|atk|1
+|move|p2a: Azelf|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|23\/100
+|-enditem|p1a: Arbok|Chesto Berry|[from] move: Knock Off|[of] p2a: Azelf
+|-damage|p2a: Azelf|46\/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Azelf|34\/100 tox|[from] psn
+|upkeep
+|turn|29
+|choice|move suckerpunch|move psyshock
+|
+|move|p1a: Arbok|Sucker Punch|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|choice||switch 2
+|
+|switch|p2a: Dedenne|Dedenne, L79, M|76\/100 psn
+|turn|30
+|choice|move rest|move substitute
+|
+|move|p2a: Dedenne|Substitute|p2a: Dedenne
+|-start|p2a: Dedenne|Substitute
+|-damage|p2a: Dedenne|51\/100 psn
+|move|p1a: Arbok|Rest|p1a: Arbok
+|-status|p1a: Arbok|slp
+|-heal|p1a: Arbok|100\/100 slp|[silent]
+|-status|p1a: Arbok|slp|[from] move: Rest
+|
+|-damage|p2a: Dedenne|39\/100 psn|[from] psn
+|upkeep
+|turn|31
+|choice|move gunkshot|move thunderbolt
+|
+|move|p2a: Dedenne|Thunderbolt|p1a: Arbok
+|-damage|p1a: Arbok|63\/100 slp
+|cant|p1a: Arbok|slp
+|
+|-damage|p2a: Dedenne|26\/100 psn|[from] psn
+|upkeep
+|turn|32
+|choice|move rest|move thunderbolt
+|
+|move|p2a: Dedenne|Thunderbolt|p1a: Arbok
+|-damage|p1a: Arbok|25\/100 slp
+|cant|p1a: Arbok|slp
+|
+|-damage|p2a: Dedenne|14\/100 psn|[from] psn
+|upkeep
+|-enditem|p2a: Dedenne|Petaya Berry|[eat]
+|-boost|p2a: Dedenne|spa|1
+|-heal|p2a: Dedenne|47\/100 psn|[from] ability: Cheek Pouch
+|turn|33
+|choice|move rest|move thunderbolt
+|
+|move|p2a: Dedenne|Thunderbolt|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|-damage|p2a: Dedenne|35\/100 psn|[from] psn
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Cradily|Cradily, L79, F|68\/100
+|turn|34
+|choice|move recover|move thunderbolt
+|
+|move|p2a: Dedenne|Thunderbolt|p1a: Cradily
+|-resisted|p1a: Cradily
+|-damage|p1a: Cradily|48\/100
+|move|p1a: Cradily|Recover|p1a: Cradily
+|-heal|p1a: Cradily|99\/100
+|
+|-heal|p1a: Cradily|100\/100|[from] item: Leftovers
+|-damage|p2a: Dedenne|23\/100 psn|[from] psn
+|upkeep
+|turn|35
+|choice|move curse|move toxic
+|
+|move|p2a: Dedenne|Toxic|p1a: Cradily
+|-status|p1a: Cradily|tox
+|move|p1a: Cradily|Curse|p1a: Cradily
+|-unboost|p1a: Cradily|spe|1
+|-boost|p1a: Cradily|atk|1
+|-boost|p1a: Cradily|def|1
+|
+|-damage|p2a: Dedenne|10\/100 psn|[from] psn
+|-damage|p1a: Cradily|94\/100 tox|[from] psn
+|upkeep
+|turn|36
+|choice|move recover|move thunderbolt
+|
+|move|p2a: Dedenne|Thunderbolt|p1a: Cradily
+|-resisted|p1a: Cradily
+|-damage|p1a: Cradily|75\/100 tox
+|move|p1a: Cradily|Recover|p1a: Cradily
+|-heal|p1a: Cradily|100\/100 tox
+|
+|-damage|p2a: Dedenne|0 fnt|[from] psn
+|-damage|p1a: Cradily|88\/100 tox|[from] psn
+|upkeep
+|faint|p2a: Dedenne
+|choice||switch 4
+|
+|switch|p2a: Electivire|Electivire, L79, M|100\/100
+|-status|p2a: Electivire|psn
+|turn|37
+|choice|move seedbomb|move flamethrower
+|
+|move|p2a: Electivire|Flamethrower|p1a: Cradily
+|-damage|p1a: Cradily|70\/100 tox
+|move|p1a: Cradily|Seed Bomb|p2a: Electivire
+|-damage|p2a: Electivire|49\/100 psn
+|
+|-heal|p1a: Cradily|76\/100 tox|[from] item: Leftovers
+|-damage|p2a: Electivire|37\/100 psn|[from] psn
+|-damage|p1a: Cradily|57\/100 tox|[from] psn
+|upkeep
+|turn|38
+|choice|move recover|move crosschop
+|
+|move|p2a: Electivire|Cross Chop|p1a: Cradily
+|-supereffective|p1a: Cradily
+|-damage|p1a: Cradily|8\/100 tox
+|move|p1a: Cradily|Recover|p1a: Cradily
+|-heal|p1a: Cradily|59\/100 tox
+|
+|-heal|p1a: Cradily|65\/100 tox|[from] item: Leftovers
+|-damage|p2a: Electivire|24\/100 psn|[from] psn
+|-damage|p1a: Cradily|40\/100 tox|[from] psn
+|upkeep
+|turn|39
+|choice|move seedbomb|move crosschop
+|
+|move|p2a: Electivire|Cross Chop|p1a: Cradily
+|-supereffective|p1a: Cradily
+|-damage|p1a: Cradily|0 fnt
+|faint|p1a: Cradily
+|
+|-damage|p2a: Electivire|12\/100 psn|[from] psn
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Glalie|Glalie-Mega, L79, F|100\/100
+|turn|40
+|choice|move return|move crosschop
+|
+|move|p1a: Glalie|Return|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Rampardos|Rampardos, L79, F|100\/100
+|-status|p2a: Rampardos|psn
+|turn|41
+|choice|move earthquake|move headsmash
+|
+|move|p1a: Glalie|Earthquake|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|28\/100 psn
+|move|p2a: Rampardos|Head Smash|p1a: Glalie|[miss]
+|-miss|p2a: Rampardos|p1a: Glalie
+|
+|-damage|p2a: Rampardos|15\/100 psn|[from] psn
+|upkeep
+|turn|42
+|c|☆gjhfjhf|..
+|c|☆gjhfjhf|lucky
+|c|☆gjhfjhf|but well played
+|-message|gjhfjhf forfeited.
+|
+|win|35Q71N
+|player|p1
+|player|p2
+|l|gjhfjhf
+|c|☆35Q71N|sorry :(
+|raw|35Q71N's rating: 1522 &rarr; <strong>1538<\/strong><br \/>(+16 for winning)
+|raw|gjhfjhf's rating: 1457 &rarr; <strong>1441<\/strong><br \/>(-16 for losing)</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and gjhfjhf joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and gjhfjhf!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Toxapex</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Electivire</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Baneful Bunker</strong>!<br></div><div class="battle-history"><small>Toxapex protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>Toxapex protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Toxapex lost 57% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf withdrew Electivire!<br></div><div class="battle-history">gjhfjhf sent out Arceus (<strong>Arceus-Flying</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Toxic Spikes</strong>!<br></div><div class="battle-history"><small>Poison spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Toxapex restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex, come back!<br></div><div class="battle-history">Go! <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Earth Power</strong>!<br></div><div class="battle-history">[Bronzong's Levitate]<br><small>It doesn't affect Bronzong...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf withdrew Arceus!<br></div><div class="battle-history">gjhfjhf sent out <strong>Azelf</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Azelf was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Azelf was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong, come back!<br></div><div class="battle-history">Go! <strong>Toxapex</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azelf used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Toxapex lost 32% of its health!)</small><br></div><div class="battle-history"><small>The opposing Azelf knocked off Toxapex's Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Azelf lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Azelf was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf withdrew Azelf!<br></div><div class="battle-history">gjhfjhf sent out <strong>Dedenne</strong>!<br></div><div class="battle-history"><small>The opposing Dedenne was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Baneful Bunker</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history">[Arbok's Intimidate]<br></div><div class="battle-history"><small>The opposing Dedenne's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Arbok lost 40% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf withdrew Dedenne!<br></div><div class="battle-history">gjhfjhf sent out Arceus (<strong>Arceus-Flying</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Arceus was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok, come back!<br></div><div class="battle-history">Go! <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Bronzong lost 20% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Arceus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Arceus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>Reflect made your team stronger against physical moves!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Arceus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Arceus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 28% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 23% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Arceus lost 41% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 23% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Bronzong lost 41% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong used <strong>Explosion</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 46% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bronzong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="battle-history"><small>Your team's Reflect wore off!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost 41% of its health!)</small><br></div><div class="battle-history"><small>Escavalier lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(Escavalier lost 90% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Bouffalant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Toxapex</strong>!<br></div><div class="battle-history"><small>The opposing Bouffalant was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Bouffalant's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Toxapex had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bouffalant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Toxapex lost 93% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Bouffalant lost 18% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bouffalant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bouffalant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex used <strong>Baneful Bunker</strong>!<br></div><div class="battle-history"><small>Toxapex protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>Toxapex protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bouffalant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bouffalant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Toxapex lost 7% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxapex fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bouffalant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bouffalant was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Glalie's Glalitite is reacting to the Key Stone!</small><br>Glalie has Mega Evolved into Mega Glalie!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Bouffalant lost 51% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bouffalant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Azelf</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Glalie, come back!<br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azelf used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Cradily lost 38% of its health!)</small><br></div><div class="battle-history"><small>The opposing Azelf lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Azelf was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cradily, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history">[Arbok's Intimidate]<br></div><div class="battle-history"><small>The opposing Azelf's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azelf used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Arbok lost 37% of its health!)</small><br></div><div class="battle-history"><small>The opposing Azelf knocked off Arbok's Chesto Berry!</small><br></div><div class="battle-history"><small>The opposing Azelf lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Azelf was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Azelf lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azelf fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Dedenne</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Dedenne put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Dedenne lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Arbok fell asleep!</small><br></div><div class="battle-history"><small>Arbok slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Arbok lost 37% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Arbok lost 38% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Dedenne ate its Petaya Berry!)</small><br></div><div class="battle-history"><small>The opposing Dedenne's Sp. Atk rose!</small><br></div><div class="battle-history">[The opposing Dedenne's Cheek Pouch]<br><small>The opposing Dedenne had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Arbok lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Cradily lost 20% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Cradily had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Cradily was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Cradily's Speed fell!</small><br></div><div class="battle-history"><small>Cradily's Attack rose!</small><br></div><div class="battle-history"><small>Cradily's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="battle-history"><small>Cradily was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Cradily lost 19% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Cradily had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dedenne was hurt by poison!</small><br></div><div class="battle-history"><small>Cradily was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Electivire</strong>!<br></div><div class="battle-history"><small>The opposing Electivire was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire used <strong>Flamethrower</strong>!<br></div><div class="battle-history"><small>(Cradily lost 18% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Seed Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Electivire lost 51% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Electivire was hurt by poison!</small><br></div><div class="battle-history"><small>Cradily was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cradily lost 49% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Cradily had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Electivire was hurt by poison!</small><br></div><div class="battle-history"><small>Cradily was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire used <strong>Cross Chop</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cradily lost 40% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Electivire was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Glalie (<strong>Glalie-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Electivire lost 12% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Electivire fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gjhfjhf sent out <strong>Rampardos</strong>!<br></div><div class="battle-history"><small>The opposing Rampardos was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Rampardos lost 72% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rampardos used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>Glalie avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Rampardos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat chatmessage-gjhfjhf"><strong style="color:#bb4c86"><small>☆</small><span class="username" data-name="gjhfjhf">gjhfjhf</span>:</strong> <em>..</em></div><div class="chat chatmessage-gjhfjhf"><strong style="color:#bb4c86"><small>☆</small><span class="username" data-name="gjhfjhf">gjhfjhf</span>:</strong> <em>lucky</em></div><div class="chat chatmessage-gjhfjhf"><strong style="color:#bb4c86"><small>☆</small><span class="username" data-name="gjhfjhf">gjhfjhf</span>:</strong> <em>but well played</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>gjhfjhf forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat"><small>gjhfjhf left</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>sorry :(</em></div><div class="chat">35Q71N's rating: 1522 → <strong>1538</strong><br>(+16 for winning)</div><div class="chat">gjhfjhf's rating: 1457 → <strong>1441</strong><br>(-16 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: c34 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-729051589" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/c34" class="subtle" target="_blank">c34</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆c34
+|j|☆35Q71N
+|player|p1|c34|1
+|player|p2|35Q71N|101
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|48367,17659,43656,46951
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Pidgeot|Pidgeot, L77, F|254\/254
+|switch|p2a: Tapu Fini|Tapu Fini, L75|229\/229
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|-mega|p1a: Pidgeot|Pidgeot|Pidgeotite
+|detailschange|p1a: Pidgeot|Pidgeot-Mega, L77, F
+|move|p1a: Pidgeot|Hurricane|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|120\/229
+|move|p2a: Tapu Fini|Surf|p1a: Pidgeot
+|-damage|p1a: Pidgeot|157\/254
+|
+|-heal|p2a: Tapu Fini|134\/229|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)
+|
+|switch|p2a: Kyogre|Kyogre, L73|266\/266
+|detailschange|p2a: Kyogre|Kyogre-Primal, L73
+|-primal|p2a: Kyogre
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Kyogre
+|move|p1a: Pidgeot|Hurricane|p2a: Kyogre
+|-damage|p2a: Kyogre|169\/266
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|3
+|
+|move|p1a: Pidgeot|U-turn|p2a: Kyogre
+|-damage|p2a: Kyogre|127\/266
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|303\/303|[from]move: U-turn
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Kyogre|Thunder|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|254\/303
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Kyurem|272\/303|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|35Q71N has 135 seconds left.
+|
+|-weather|none
+|switch|p2a: Tapu Fini|Tapu Fini, L75|134\/229
+|move|p1a: Kyurem|Dragon Pulse|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini|[msg]
+|
+|-heal|p1a: Kyurem|290\/303|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|148\/229|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|switch|p1a: Excadrill|Excadrill, L75, M|289\/289
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Tapu Fini|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|235\/289
+|
+|-heal|p2a: Tapu Fini|162\/229|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|-item|p2a: Magnezone|Air Balloon
+|move|p1a: Excadrill|Earthquake|p2a: Magnezone
+|-immune|p2a: Magnezone|[msg]
+|
+|upkeep
+|turn|7
+|
+|move|p1a: Excadrill|Iron Head|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|200\/229
+|-enditem|p2a: Magnezone|Air Balloon
+|-damage|p1a: Excadrill|207\/289|[from] item: Life Orb
+|move|p2a: Magnezone|Hidden Power|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|79\/289
+|
+|upkeep
+|turn|8
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 105 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|inactive|35Q71N has 75 seconds left.
+|
+|switch|p2a: Mawile|Mawile, L77, M|204\/204
+|move|p1a: Excadrill|Earthquake|p2a: Mawile
+|-supereffective|p2a: Mawile
+|-damage|p2a: Mawile|0 fnt
+|-damage|p1a: Excadrill|51\/289|[from] item: Life Orb
+|faint|p2a: Mawile
+|
+|upkeep
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p2a: Crustle|Crustle, L83, M|251\/251
+|turn|9
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p1a: Excadrill|Iron Head|p2a: Crustle
+|-supereffective|p2a: Crustle
+|-damage|p2a: Crustle|85\/251
+|-damage|p1a: Excadrill|23\/289|[from] item: Life Orb
+|move|p2a: Crustle|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Crustle|100\/251|[from] item: Leftovers
+|upkeep
+|inactive|c34 has 135 seconds left.
+|
+|switch|p1a: Pidgeot|Pidgeot-Mega, L77, F|157\/254
+|turn|10
+|
+|switch|p2a: Magnezone|Magnezone, L75|200\/229
+|move|p1a: Pidgeot|Hurricane|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|164\/229
+|
+|upkeep
+|turn|11
+|
+|move|p1a: Pidgeot|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|147\/229
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|290\/303|[from]move: U-turn
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Magnezone|Flash Cannon|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|120\/303
+|
+|-heal|p1a: Kyurem|138\/303|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|switch|p2a: Tapu Fini|Tapu Fini, L75|162\/229
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Kyurem|Earth Power|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|72\/229
+|
+|-heal|p1a: Kyurem|156\/303|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|86\/229|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|switch|p1a: Jirachi|Jirachi, L76|277\/277
+|move|p2a: Tapu Fini|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|239\/277
+|
+|-heal|p1a: Jirachi|256\/277|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|100\/229|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Audino|Audino, L81, M|299\/299
+|move|p1a: Jirachi|Iron Head|p2a: Audino
+|-damage|p2a: Audino|221\/299
+|
+|-heal|p1a: Jirachi|273\/277|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|move|p1a: Jirachi|Iron Head|p2a: Audino
+|-damage|p2a: Audino|145\/299
+|cant|p2a: Audino|flinch
+|
+|-heal|p1a: Jirachi|277\/277|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|move|p1a: Jirachi|Iron Head|p2a: Audino
+|-damage|p2a: Audino|67\/299
+|cant|p2a: Audino|flinch
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|17
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p2a: Magnezone|Magnezone, L75|147\/229
+|move|p1a: Jirachi|Iron Head|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|132\/229
+|
+|upkeep
+|turn|18
+|
+|move|p1a: Jirachi|Fire Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|46\/229
+|move|p2a: Magnezone|Thunderbolt|p1a: Jirachi
+|-damage|p1a: Jirachi|175\/277
+|-status|p1a: Jirachi|par
+|
+|-heal|p1a: Jirachi|192\/277 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|move|p2a: Magnezone|Thunderbolt|p1a: Jirachi
+|-damage|p1a: Jirachi|101\/277 par
+|cant|p1a: Jirachi|par
+|
+|-heal|p1a: Jirachi|118\/277 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p2a: Magnezone|Thunderbolt|p1a: Jirachi
+|-damage|p1a: Jirachi|19\/277 par
+|move|p1a: Jirachi|Fire Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-heal|p1a: Jirachi|36\/277 par|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Crustle|Crustle, L83, M|100\/251
+|turn|21
+|
+|move|p2a: Crustle|Spikes|p1a: Jirachi
+|-sidestart|p1: c34|Spikes
+|move|p1a: Jirachi|Body Slam|p2a: Crustle
+|-resisted|p2a: Crustle
+|-damage|p2a: Crustle|81\/251
+|-status|p2a: Crustle|par
+|
+|-heal|p1a: Jirachi|53\/277 par|[from] item: Leftovers
+|-heal|p2a: Crustle|96\/251 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|move|p1a: Jirachi|Iron Head|p2a: Crustle
+|-supereffective|p2a: Crustle
+|-damage|p2a: Crustle|0 fnt
+|faint|p2a: Crustle
+|
+|-heal|p1a: Jirachi|70\/277 par|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Kyogre|Kyogre-Primal, L73|127\/266
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Kyogre
+|turn|23
+|
+|move|p2a: Kyogre|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|
+|switch|p1a: Pidgeot|Pidgeot-Mega, L77, F|157\/254
+|turn|24
+|
+|move|p1a: Pidgeot|Hurricane|p2a: Kyogre
+|-damage|p2a: Kyogre|31\/266
+|move|p2a: Kyogre|Rest|p2a: Kyogre
+|-status|p2a: Kyogre|slp
+|-heal|p2a: Kyogre|266\/266 slp|[silent]
+|-status|p2a: Kyogre|slp|[from] move: Rest
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|25
+|
+|move|p1a: Pidgeot|U-turn|p2a: Kyogre
+|-damage|p2a: Kyogre|228\/266 slp
+|
+|switch|p1a: Aurorus|Aurorus, L83, M|339\/339|[from]move: U-turn
+|-damage|p1a: Aurorus|297\/339|[from] Spikes
+|-ability|p1a: Aurorus|Snow Warning|[from] primordialsea|[fail]
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Rest|p2a: Kyogre|[from]Sleep Talk
+|-fail|p2a: Kyogre
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Aurorus|318\/339|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|35Q71N has 135 seconds left.
+|
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Rest|p2a: Kyogre|[from]Sleep Talk
+|-fail|p2a: Kyogre
+|move|p1a: Aurorus|Freeze-Dry|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|112\/266 slp
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Aurorus|339\/339|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|-curestatus|p2a: Kyogre|slp|[msg]
+|move|p2a: Kyogre|Rest|p2a: Kyogre
+|-status|p2a: Kyogre|slp
+|-heal|p2a: Kyogre|266\/266 slp|[silent]
+|-status|p2a: Kyogre|slp|[from] move: Rest
+|move|p1a: Aurorus|Thunder Wave|p2a: Kyogre
+|-fail|p2a: Kyogre
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|28
+|
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Rest|p2a: Kyogre|[from]Sleep Talk
+|-fail|p2a: Kyogre
+|move|p1a: Aurorus|Freeze-Dry|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|164\/266 slp
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|29
+|
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Thunder|p1a: Aurorus|[from]Sleep Talk
+|-damage|p1a: Aurorus|246\/339
+|move|p1a: Aurorus|Freeze-Dry|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|66\/266 slp
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Aurorus|267\/339|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|-curestatus|p2a: Kyogre|slp|[msg]
+|move|p2a: Kyogre|Rest|p2a: Kyogre
+|-status|p2a: Kyogre|slp
+|-heal|p2a: Kyogre|266\/266 slp|[silent]
+|-status|p2a: Kyogre|slp|[from] move: Rest
+|move|p1a: Aurorus|Freeze-Dry|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|158\/266 slp
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Aurorus|288\/339|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Scald|p1a: Aurorus|[from]Sleep Talk
+|-supereffective|p1a: Aurorus
+|-damage|p1a: Aurorus|0 fnt
+|faint|p1a: Aurorus
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|156\/303
+|-damage|p1a: Kyurem|119\/303|[from] Spikes
+|-ability|p1a: Kyurem|Turboblaze
+|turn|32
+|
+|-weather|none
+|switch|p2a: Tapu Fini|Tapu Fini, L75|100\/229
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Kyurem|Dragon Pulse|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini|[msg]
+|
+|-heal|p1a: Kyurem|137\/303|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|114\/229|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p1a: Pidgeot|Pidgeot-Mega, L77, F|157\/254
+|move|p2a: Tapu Fini|Moonblast|p1a: Pidgeot
+|-damage|p1a: Pidgeot|61\/254
+|
+|-heal|p2a: Tapu Fini|128\/229|[from] item: Leftovers
+|upkeep
+|turn|34
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Pidgeot|Hurricane|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|29\/229
+|move|p2a: Tapu Fini|Moonblast|p1a: Pidgeot
+|-damage|p1a: Pidgeot|0 fnt
+|faint|p1a: Pidgeot
+|
+|-heal|p2a: Tapu Fini|43\/229|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Kyurem|Kyurem-White, L73|137\/303
+|-damage|p1a: Kyurem|100\/303|[from] Spikes
+|-ability|p1a: Kyurem|Turboblaze
+|turn|35
+|
+|switch|p2a: Kyogre|Kyogre-Primal, L73|158\/266 slp
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Kyogre
+|move|p1a: Kyurem|Earth Power|p2a: Kyogre
+|-damage|p2a: Kyogre|107\/266 slp
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Kyurem|118\/303|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|move|p1a: Kyurem|Dragon Pulse|p2a: Kyogre
+|-damage|p2a: Kyogre|68\/266 slp
+|cant|p2a: Kyogre|slp
+|move|p2a: Kyogre|Sleep Talk|p2a: Kyogre
+|move|p2a: Kyogre|Thunder|p1a: Kyurem|[from]Sleep Talk
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|67\/303
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Kyurem|85\/303|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|37
+|
+|move|p1a: Kyurem|Dragon Pulse|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|-weather|none
+|
+|-heal|p1a: Kyurem|103\/303|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Tapu Fini|Tapu Fini, L75|43\/229
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|38
+|
+|move|p1a: Kyurem|Earth Power|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-heal|p1a: Kyurem|121\/303|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Audino|Audino, L81, M|166\/299
+|turn|39
+|
+|-mega|p2a: Audino|Audino|Audinite
+|detailschange|p2a: Audino|Audino-Mega, L81, M
+|move|p1a: Kyurem|Ice Beam|p2a: Audino
+|-damage|p2a: Audino|70\/299
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p1a: Kyurem|139\/303|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|move|p1a: Kyurem|Ice Beam|p2a: Audino
+|-damage|p2a: Audino|0 fnt
+|faint|p2a: Audino
+|
+|win|c34
+|l|☆35Q71N
+|raw|c34's rating: 1765 &rarr; <strong>1787<\/strong><br \/>(+22 for winning)
+|raw|35Q71N's rating: 1805 &rarr; <strong>1782<\/strong><br \/>(-23 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆c34 and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between c34 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">c34 sent out <strong>Pidgeot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Pidgeot's Pidgeotite is reacting to the Key Stone!</small><br>The opposing Pidgeot has Mega Evolved into Mega Pidgeot!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Tapu Fini lost <abbr title="−109/229">47.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Pidgeot lost <abbr title="−97/254">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)</div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Kyogre</strong>!<br></div><div class="battle-history">Kyogre's Primal Reversion! It reverted to its primal state!<br></div><div class="battle-history">[Kyogre's Primordial Sea]<br><small>A heavy rain began to fall!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−97/266">36.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−42/266">15.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot went back to c34!<br></div><div class="battle-history">c34 sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−49/303">16.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The heavy rain has lifted!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect Tapu Fini...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">c34 withdrew Kyurem!<br></div><div class="battle-history">c34 sent out <strong>Excadrill</strong>!<br></div><div class="battle-history">[The opposing Excadrill's Mold Breaker]<br><small>The opposing Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Excadrill lost <abbr title="−54/289">18.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="battle-history"><small>Magnezone floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Magnezone...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−29/229">12.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Magnezone's Air Balloon popped!</small><br></div><div class="battle-history"><small>The opposing Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Excadrill lost <abbr title="−128/289">44.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 105 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">35Q71N has 75 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Mawile</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mawile lost <abbr title="−204/204">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mawile fainted!<br></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−166/251">66.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Excadrill lost <abbr title="−23/289">8.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crustle restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">c34 has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">c34 sent out Pidgeot (<strong>Pidgeot-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crustle, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−36/229">15.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−17/229">7.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot went back to c34!<br></div><div class="battle-history">c34 sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−170/303">56.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Tapu Fini lost <abbr title="−90/229">39.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">c34 withdrew Kyurem!<br></div><div class="battle-history">c34 sent out <strong>Jirachi</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Jirachi lost <abbr title="−38/277">13.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−78/299">26.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−76/299">25.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−78/299">26.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−15/229">6.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−86/229">37.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Jirachi lost <abbr title="−102/277">36.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Jirachi is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Jirachi lost <abbr title="−91/277">32.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Jirachi lost <abbr title="−99/277">35.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−46/229">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−19/251">7.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Crustle is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Crustle restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−96/251">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jirachi restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Kyogre (<strong>Kyogre-Primal</strong>)!<br></div><div class="battle-history">[Kyogre's Primordial Sea]<br><small>A heavy rain began to fall!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Jirachi lost <abbr title="−70/277">25.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jirachi fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">c34 sent out Pidgeot (<strong>Pidgeot-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−96/266">36.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Kyogre fell asleep!</small><br></div><div class="battle-history"><small>Kyogre slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−38/266">14.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot went back to c34!<br></div><div class="battle-history">c34 sent out <strong>Aurorus</strong>!<br></div><div class="battle-history"><small>The opposing Aurorus was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>There is no relief from this heavy rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−116/266">43.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kyogre woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Kyogre fell asleep!</small><br></div><div class="battle-history"><small>Kyogre slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−102/266">38.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−93/339">27.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−98/266">36.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kyogre woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Kyogre fell asleep!</small><br></div><div class="battle-history"><small>Kyogre slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−108/266">40.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−288/339">85.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">c34 sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history"><small>The opposing Kyurem was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The heavy rain has lifted!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre, come back!<br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect Tapu Fini...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">c34 withdrew Kyurem!<br></div><div class="battle-history">c34 sent out Pidgeot (<strong>Pidgeot-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Pidgeot lost <abbr title="−96/254">37.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Tapu Fini lost <abbr title="−99/229">43.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Pidgeot lost <abbr title="−61/254">24.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pidgeot fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tapu Fini restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">c34 sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history"><small>The opposing Kyurem was hurt by the spikes!</small><br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini, come back!<br></div><div class="battle-history">Go! Kyogre (<strong>Kyogre-Primal</strong>)!<br></div><div class="battle-history">[Kyogre's Primordial Sea]<br><small>A heavy rain began to fall!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−51/266">19.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−39/266">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−51/303">16.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The mist disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>(Kyogre lost <abbr title="−68/266">25.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kyogre fainted!<br></div><div class="battle-history"><small>The heavy rain has lifted!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tapu Fini</strong>!<br></div><div class="battle-history">[Tapu Fini's Misty Surge]<br><small>Mist swirled around the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>(Tapu Fini lost <abbr title="−43/229">18.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Fini fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's Audinite is reacting to the Key Stone!</small><br>Audino has Mega Evolved into Mega Audino!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−96/299">32.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−70/299">23.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>c34</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">c34's rating: 1765 → <strong>1787</strong><br>(+22 for winning)</div><div class="chat">35Q71N's rating: 1805 → <strong>1782</strong><br>(-23 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

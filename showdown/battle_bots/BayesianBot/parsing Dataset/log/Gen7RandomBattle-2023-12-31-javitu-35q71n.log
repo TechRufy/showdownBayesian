@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Javitu vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2023911401" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/javitu" class="subtle" target="_blank">Javitu</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Javitu
+|j|☆35Q71N
+|t:|1704032193
+|gametype|singles
+|player|p1|Javitu|#wcop2023spain2|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1704032193
+|start
+|switch|p1a: Gurdurr|Gurdurr, L88, F|293\/293
+|switch|p2a: Floatzel|Floatzel, L86, F|286\/286
+|turn|1
+|c|☆35Q71N|Glhf!
+|j| JustOut459
+|c|☆Javitu|hf
+|j| oaklies
+|c| oaklies|wait javi
+|c|☆Javitu|hm?
+|c| oaklies|https:\/\/www.smogon.com\/forums\/threads\/broken-cup-1v1-tournament-signups.3733243\/
+|
+|t:|1704032247
+|switch|p2a: Armaldo|Armaldo, L88, F|275\/275
+|move|p1a: Gurdurr|Knock Off|p2a: Armaldo
+|-damage|p2a: Armaldo|207\/275
+|-enditem|p2a: Armaldo|Leftovers|[from] move: Knock Off|[of] p1a: Gurdurr
+|
+|upkeep
+|turn|2
+|c|☆35Q71N|Oaklies '-'
+|
+|t:|1704032271
+|move|p2a: Armaldo|Stealth Rock|p1a: Gurdurr
+|-sidestart|p1: Javitu|move: Stealth Rock
+|move|p1a: Gurdurr|Bulk Up|p1a: Gurdurr
+|-boost|p1a: Gurdurr|atk|1
+|-boost|p1a: Gurdurr|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1704032290
+|move|p2a: Armaldo|Toxic|p1a: Gurdurr
+|-status|p1a: Gurdurr|tox
+|move|p1a: Gurdurr|Bulk Up|p1a: Gurdurr
+|-boost|p1a: Gurdurr|atk|1
+|-boost|p1a: Gurdurr|def|1
+|
+|-damage|p1a: Gurdurr|275\/293 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1704032298
+|switch|p2a: Golurk|Golurk, L88|300\/300
+|move|p1a: Gurdurr|Drain Punch|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-damage|p1a: Gurdurr|239\/293 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1704032313
+|switch|p2a: Armaldo|Armaldo, L88, F|207\/275
+|move|p1a: Gurdurr|Knock Off|p2a: Armaldo
+|-damage|p2a: Armaldo|78\/275
+|
+|-damage|p1a: Gurdurr|185\/293 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1704032324
+|move|p2a: Armaldo|Stone Edge|p1a: Gurdurr
+|-resisted|p1a: Gurdurr
+|-damage|p1a: Gurdurr|164\/293 tox
+|move|p1a: Gurdurr|Knock Off|p2a: Armaldo
+|-damage|p2a: Armaldo|0 fnt
+|faint|p2a: Armaldo
+|
+|-damage|p1a: Gurdurr|92\/293 tox|[from] psn
+|upkeep
+|
+|t:|1704032335
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings, L72|259\/259
+|turn|7
+|
+|t:|1704032341
+|move|p2a: Necrozma|Photon Geyser|p1a: Gurdurr
+|-supereffective|p1a: Gurdurr
+|-damage|p1a: Gurdurr|0 fnt
+|faint|p1a: Gurdurr
+|
+|upkeep
+|
+|t:|1704032347
+|switch|p1a: Watchog|Watchog, L93, M|262\/262
+|-damage|p1a: Watchog|230\/262|[from] Stealth Rock
+|turn|8
+|j|+Tarrembeau
+|
+|t:|1704032367
+|switch|p2a: Floatzel|Floatzel, L86, F|286\/286
+|move|p1a: Watchog|Knock Off|p2a: Floatzel
+|-damage|p2a: Floatzel|148\/286
+|-enditem|p2a: Floatzel|Choice Band|[from] move: Knock Off|[of] p1a: Watchog
+|
+|-heal|p1a: Watchog|246\/262|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|+Tarrembeau|is this wcop winner javi
+|c|☆Javitu|hello tarre
+|
+|t:|1704032398
+|move|p2a: Floatzel|Liquidation|p1a: Watchog
+|-damage|p1a: Watchog|140\/262
+|move|p1a: Watchog|Return|p2a: Floatzel
+|-crit|p2a: Floatzel
+|-damage|p2a: Floatzel|0 fnt
+|faint|p2a: Floatzel
+|
+|-heal|p1a: Watchog|156\/262|[from] item: Leftovers
+|upkeep
+|c|+Tarrembeau|gm
+|c|☆Javitu|it is I
+|j| critsomnia
+|c|+Tarrembeau|nice to meet you
+|c|☆Javitu|nice to meet u too
+|c|☆Javitu|how's holidays going?
+|c|+Tarrembeau|fine so far
+|c|+Tarrembeau|not doing much
+|c|+Tarrembeau|wbu
+|c|☆Javitu|same tbh, resting and spending time with friends
+|
+|t:|1704032450
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings, L72|259\/259
+|turn|10
+|
+|t:|1704032453
+|detailschange|p2a: Necrozma|Necrozma-Ultra, L72
+|-burst|p2a: Necrozma|Necrozma|Ultranecrozium Z
+|move|p2a: Necrozma|Photon Geyser|p1a: Watchog
+|-damage|p1a: Watchog|36\/262
+|move|p1a: Watchog|Hypnosis|p2a: Necrozma
+|-status|p2a: Necrozma|slp|[from] move: Hypnosis
+|
+|-heal|p1a: Watchog|52\/262|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆35Q71N|I had orb in the calc nooo
+|
+|t:|1704032479
+|cant|p2a: Necrozma|slp
+|move|p1a: Watchog|Return|p2a: Necrozma
+|-damage|p2a: Necrozma|76\/259 slp
+|
+|-heal|p1a: Watchog|68\/262|[from] item: Leftovers
+|upkeep
+|turn|12
+|c|☆Javitu|that can never be orb innit?
+|
+|t:|1704032488
+|cant|p2a: Necrozma|slp
+|move|p1a: Watchog|Return|p2a: Necrozma
+|-crit|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|-heal|p1a: Watchog|84\/262|[from] item: Leftovers
+|upkeep
+|c|☆35Q71N|Maybe
+|c|☆35Q71N|But in the calc I can't manually use Ultra Necrozma
+|c|☆35Q71N|So I had to change its form :(
+|c|☆Javitu|ah i see
+|
+|t:|1704032526
+|switch|p2a: Magmortar|Magmortar, L87, F|272\/272
+|turn|13
+|
+|t:|1704032531
+|move|p1a: Watchog|Knock Off|p2a: Magmortar
+|-damage|p2a: Magmortar|180\/272
+|-enditem|p2a: Magmortar|Leftovers|[from] move: Knock Off|[of] p1a: Watchog
+|move|p2a: Magmortar|Fire Blast|p1a: Watchog
+|-damage|p1a: Watchog|0 fnt
+|faint|p1a: Watchog
+|
+|upkeep
+|
+|t:|1704032546
+|switch|p1a: Lycanroc|Lycanroc-Dusk, L83, M|260\/260
+|-damage|p1a: Lycanroc|228\/260|[from] Stealth Rock
+|turn|14
+|
+|t:|1704032565
+|switch|p2a: Golurk|Golurk, L88|300\/300
+|move|p1a: Lycanroc|Drill Run|p2a: Golurk
+|-damage|p2a: Golurk|166\/300
+|
+|upkeep
+|turn|15
+|
+|t:|1704032570
+|switch|p1a: Druddigon|Druddigon, L86, F|273\/273
+|-damage|p1a: Druddigon|239\/273|[from] Stealth Rock
+|move|p2a: Golurk|Rock Polish|p2a: Golurk
+|-boost|p2a: Golurk|spe|2
+|
+|upkeep
+|turn|16
+|
+|t:|1704032579
+|move|p2a: Golurk|Dynamic Punch|p1a: Druddigon
+|-damage|p1a: Druddigon|126\/273
+|-start|p1a: Druddigon|confusion
+|-damage|p2a: Golurk|129\/300|[from] ability: Rough Skin|[of] p1a: Druddigon
+|-damage|p2a: Golurk|79\/300|[from] item: Rocky Helmet|[of] p1a: Druddigon
+|-damage|p2a: Golurk|49\/300|[from] item: Life Orb
+|-activate|p1a: Druddigon|confusion
+|-damage|p1a: Druddigon|94\/273|[from] confusion
+|
+|upkeep
+|turn|17
+|
+|t:|1704032588
+|move|p2a: Golurk|Earthquake|p1a: Druddigon
+|-damage|p1a: Druddigon|0 fnt
+|faint|p1a: Druddigon
+|-damage|p2a: Golurk|19\/300|[from] item: Life Orb
+|
+|upkeep
+|c|☆35Q71N|Only rogue can like this gen
+|
+|t:|1704032595
+|switch|p1a: Lycanroc|Lycanroc-Dusk, L83, M|228\/260
+|-damage|p1a: Lycanroc|196\/260|[from] Stealth Rock
+|turn|18
+|
+|t:|1704032599
+|move|p1a: Lycanroc|Accelerock|p2a: Golurk
+|-resisted|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|faint|p2a: Golurk
+|
+|upkeep
+|
+|t:|1704032602
+|switch|p2a: Snorlax|Snorlax, L84, M|406\/406
+|turn|19
+|c|☆Javitu|this gen is terrible lmao
+|
+|t:|1704032613
+|switch|p1a: Hoopa|Hoopa-Unbound, L82|265\/265
+|-damage|p1a: Hoopa|232\/265|[from] Stealth Rock
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|20
+|
+|t:|1704032620
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Snorlax
+|-damage|p2a: Snorlax|211\/406
+|-unboost|p1a: Hoopa|def|1
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|21
+|
+|t:|1704032637
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Snorlax
+|-damage|p2a: Snorlax|70\/406
+|-unboost|p1a: Hoopa|def|1
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|273\/406|[from] item: Mago Berry
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1704032642
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Snorlax
+|-crit|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Snorlax
+|
+|upkeep
+|c|☆Javitu|mb
+|c|☆35Q71N|This is the spirit of Rogue cursing me
+|
+|t:|1704032654
+|switch|p2a: Magmortar|Magmortar, L87, F|180\/272
+|turn|23
+|
+|t:|1704032661
+|move|p2a: Magmortar|Fire Blast|p1a: Hoopa
+|-damage|p1a: Hoopa|124\/265
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Magmortar
+|
+|win|Javitu
+|c|☆35Q71N|Gg1
+|c|☆35Q71N|Last mon?
+|c|☆Javitu|xern
+|c|☆35Q71N|Oof
+|c|☆Javitu|yeah, i rolled a nice team
+|c|☆35Q71N|Snorlax might have done cool stuff but maybe not
+|c|☆35Q71N|Time for gen 4
+|c|☆Javitu|sure
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Javitu and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Javitu and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Javitu sent out <strong>Gurdurr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Floatzel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat"><small> JustOut459 joined</small></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>hf</em></div><div class="chat"><small> oaklies joined</small></div><div class="chat chatmessage-oaklies"><strong style="color:#126ade"><small> </small><span class="username" data-name="oaklies">oaklies</span>:</strong> <em>wait javi</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>hm?</em></div><div class="chat chatmessage-oaklies"><strong style="color:#126ade"><small> </small><span class="username" data-name="oaklies">oaklies</span>:</strong> <em><a href="https://www.smogon.com/forums/threads/broken-cup-1v1-tournament-signups.3733243/" rel="noopener" target="_blank">https://www.smogon.com/forums/threads/broken-cup-1v1-tournament-signups.3733243/</a></em></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel, come back!<br></div><div class="battle-history">Go! <strong>Armaldo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Armaldo lost <abbr title="−68/275">24.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Gurdurr knocked off Armaldo's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oaklies '-'</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Gurdurr's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Gurdurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Gurdurr was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Gurdurr's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Gurdurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gurdurr was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo, come back!<br></div><div class="battle-history">Go! <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It doesn't affect Golurk...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gurdurr was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golurk, come back!<br></div><div class="battle-history">Go! <strong>Armaldo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Armaldo lost <abbr title="−129/275">46.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gurdurr was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−21/293">7.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Armaldo lost <abbr title="−78/275">28.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Armaldo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gurdurr was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Necrozma (<strong>Necrozma-Dawn-Wings</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−92/293">31.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Javitu sent out <strong>Watchog</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Watchog!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small>+Tarrembeau joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma, come back!<br></div><div class="battle-history">Go! <strong>Floatzel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−138/286">48.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Watchog knocked off Floatzel's Choice Band!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>is this wcop winner javi</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>hello tarre</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Watchog lost <abbr title="−106/262">40.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−148/286">51.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>gm</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>it is I</em></div><div class="chat"><small> critsomnia joined</small></div><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>nice to meet you</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>nice to meet u too</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>how's holidays going?</em></div><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>fine so far</em></div><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>not doing much</em></div><div class="chat chatmessage-tarrembeau"><strong style="color:#4363e3"><small>+</small><span class="username" data-name="Tarrembeau">Tarrembeau</span>:</strong> <em>wbu</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>same tbh, resting and spending time with friends</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Necrozma (<strong>Necrozma-Dawn-Wings</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Bright light is about to burst out of Necrozma!</small><br></div><div class="battle-history">Necrozma regained its true power through Ultra Burst!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>(The opposing Watchog lost <abbr title="−120/262">45.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Hypnosis</strong>!<br></div><div class="battle-history"><small>Necrozma fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I had orb in the calc nooo</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−183/259">70.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>that can never be orb innit?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−76/259">29.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Maybe</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>But in the calc I can't manually use Ultra Necrozma</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>So I had to change its form :(</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>ah i see</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magmortar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Magmortar lost <abbr title="−92/272">33.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Watchog knocked off Magmortar's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Watchog lost <abbr title="−84/262">32.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Javitu sent out Lycanroc (<strong>Lycanroc-Dusk</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lycanroc!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar, come back!<br></div><div class="battle-history">Go! <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>(Golurk lost <abbr title="−134/300">44.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Javitu withdrew Lycanroc!<br></div><div class="battle-history">Javitu sent out <strong>Druddigon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Druddigon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golurk used <strong>Rock Polish</strong>!<br></div><div class="battle-history"><small>Golurk's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golurk used <strong>Dynamic Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Druddigon lost <abbr title="−113/273">41.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Druddigon became confused!</small><br></div><div class="battle-history">[The opposing Druddigon's Rough Skin]<br><small>Golurk was hurt!</small><br></div><div class="battle-history"><small>Golurk was hurt by the Rocky Helmet!</small><br></div><div class="battle-history"><small>Golurk lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Druddigon is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golurk used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Druddigon lost <abbr title="−94/273">34.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon fainted!<br></div><div class="battle-history"><small>Golurk lost some of its HP!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Only rogue can like this gen</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Javitu sent out Lycanroc (<strong>Lycanroc-Dusk</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lycanroc!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lycanroc used <strong>Accelerock</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Golurk lost <abbr title="−19/300">6.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golurk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Snorlax</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>this gen is terrible lmao</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Javitu withdrew Lycanroc!<br></div><div class="battle-history">Javitu sent out Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Hoopa!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Snorlax used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Snorlax's Speed fell!</small><br></div><div class="battle-history"><small>Snorlax's Attack rose!</small><br></div><div class="battle-history"><small>Snorlax's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>(Snorlax lost <abbr title="−195/406">48.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Snorlax used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Snorlax's Speed fell!</small><br></div><div class="battle-history"><small>Snorlax's Attack rose!</small><br></div><div class="battle-history"><small>Snorlax's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>(Snorlax lost <abbr title="−141/406">34.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hoopa's Defense fell!</small><br></div><div class="battle-history"><small>(Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Snorlax used <strong>Curse</strong>!<br></div><div class="battle-history"><small>Snorlax's Speed fell!</small><br></div><div class="battle-history"><small>Snorlax's Attack rose!</small><br></div><div class="battle-history"><small>Snorlax's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Snorlax lost <abbr title="−273/406">67.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Snorlax fainted!<br></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>mb</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This is the spirit of Rogue cursing me</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magmortar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Hoopa lost <abbr title="−108/265">40.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>(Magmortar lost <abbr title="−180/272">66.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Javitu</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg1</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Last mon?</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>xern</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oof</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>yeah, i rolled a nice team</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Snorlax might have done cool stuff but maybe not</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Time for gen 4</em></div><div class="chat chatmessage-javitu"><strong style="color:#969112"><small>☆</small><span class="username" data-name="Javitu">Javitu</span>:</strong> <em>sure</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

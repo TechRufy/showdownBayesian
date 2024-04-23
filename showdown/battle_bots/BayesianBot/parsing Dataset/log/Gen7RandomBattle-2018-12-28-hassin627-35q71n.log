@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Hassin627 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-841630555" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/hassin627" class="subtle" target="_blank">Hassin627</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Hassin627
+|j|☆35Q71N
+|player|p1|Hassin627|109
+|player|p2|35Q71N|65
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|16267,34096,42517,59189
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Primarina|Primarina, L77, M|250\/250
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L83, F|259\/259
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)
+|inactive|Hassin627 has 120 seconds left.
+|inactive|Hassin627 has 90 seconds left.
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|302\/302
+|move|p2a: Oricorio|Revelation Dance|p1a: Mudsdale
+|-immune|p1a: Mudsdale
+|
+|upkeep
+|turn|2
+|
+|move|p2a: Oricorio|Hurricane|p1a: Mudsdale
+|-damage|p1a: Mudsdale|145\/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-damage|p2a: Oricorio|234\/259|[from] item: Life Orb
+|move|p1a: Mudsdale|Rock Slide|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|4\/259
+|
+|upkeep
+|turn|3
+|
+|move|p2a: Oricorio|Hurricane|p1a: Mudsdale|[miss]
+|-miss|p2a: Oricorio|p1a: Mudsdale
+|move|p1a: Mudsdale|Rock Slide|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|268\/268
+|turn|4
+|
+|switch|p1a: Trevenant|Trevenant, L83, F|277\/277
+|move|p2a: Ludicolo|Giga Drain|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|218\/277
+|
+|-heal|p1a: Trevenant|235\/277|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|switch|p2a: Crobat|Crobat, L77, M|257\/257
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Crobat
+|-status|p2a: Crobat|brn
+|
+|-heal|p1a: Trevenant|252\/277|[from] item: Leftovers
+|-damage|p2a: Crobat|241\/257 brn|[from] brn
+|upkeep
+|turn|6
+|
+|switch|p1a: Dugtrio|Dugtrio-Alola, L83, F|194\/194
+|move|p2a: Crobat|Taunt|p1a: Dugtrio
+|-start|p1a: Dugtrio|move: Taunt
+|
+|-heal|p2a: Crobat|257\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|241\/257 brn|[from] brn
+|upkeep
+|turn|7
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|268\/268
+|move|p1a: Dugtrio|Iron Head|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-crit|p2a: Ludicolo
+|-damage|p2a: Ludicolo|190\/268
+|
+|upkeep
+|turn|8
+|
+|switch|p1a: Umbreon|Umbreon, L79, M|280\/280
+|move|p2a: Ludicolo|Giga Drain|p1a: Umbreon
+|-damage|p1a: Umbreon|196\/280
+|-heal|p2a: Ludicolo|232\/268|[from] drain|[of] p1a: Umbreon
+|
+|-heal|p1a: Umbreon|213\/280|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|switch|p2a: Crobat|Crobat, L77, M|241\/257 brn
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p2a: Crobat|257\/257 brn|[from] item: Black Sludge
+|-heal|p1a: Umbreon|230\/280|[from] item: Leftovers
+|-damage|p2a: Crobat|241\/257 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|Hassin627 has 120 seconds left.
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|145\/302
+|move|p2a: Crobat|Taunt|p1a: Mudsdale
+|-start|p1a: Mudsdale|move: Taunt
+|
+|-heal|p1a: Mudsdale|285\/302|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Crobat|257\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|241\/257 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|232\/268
+|move|p1a: Mudsdale|Rock Slide|p2a: Ludicolo|[miss]
+|-miss|p1a: Mudsdale|p2a: Ludicolo
+|
+|upkeep
+|turn|12
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Umbreon|Umbreon, L79, M|230\/280
+|move|p2a: Ludicolo|Focus Blast|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-crit|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|upkeep
+|inactive|Hassin627 has 120 seconds left.
+|
+|switch|p1a: Primarina|Primarina, L77, M|250\/250
+|turn|13
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Blastoise|Blastoise, L79, M|254\/254
+|move|p1a: Primarina|Hydro Pump|p2a: Blastoise|[miss]
+|-miss|p1a: Primarina|p2a: Blastoise
+|
+|upkeep
+|turn|14
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|232\/268
+|move|p1a: Primarina|Hydro Pump|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|204\/268
+|
+|upkeep
+|turn|15
+|
+|switch|p1a: Trevenant|Trevenant, L83, F|252\/277
+|move|p2a: Ludicolo|Giga Drain|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|193\/277
+|-heal|p2a: Ludicolo|234\/268|[from] drain|[of] p1a: Trevenant
+|
+|-heal|p1a: Trevenant|210\/277|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|switch|p2a: Crobat|Crobat, L77, M|241\/257 brn
+|move|p1a: Trevenant|Leech Seed|p2a: Crobat
+|-start|p2a: Crobat|move: Leech Seed
+|
+|-heal|p2a: Crobat|257\/257 brn|[from] item: Black Sludge
+|-heal|p1a: Trevenant|227\/277|[from] item: Leftovers
+|-damage|p2a: Crobat|225\/257 brn|[from] Leech Seed|[of] p1a: Trevenant
+|-heal|p1a: Trevenant|259\/277|[silent]
+|-damage|p2a: Crobat|209\/257 brn|[from] brn
+|upkeep
+|turn|17
+|
+|move|p2a: Crobat|Roost|p2a: Crobat
+|-heal|p2a: Crobat|257\/257 brn
+|move|p1a: Trevenant|Horn Leech|p2a: Crobat
+|-resisted|p2a: Crobat
+|-damage|p2a: Crobat|208\/257 brn
+|-heal|p1a: Trevenant|277\/277|[from] drain|[of] p2a: Crobat
+|
+|-heal|p2a: Crobat|224\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|192\/257 brn|[from] Leech Seed|[of] p1a: Trevenant
+|-damage|p2a: Crobat|176\/257 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p2a: Crobat|Taunt|p1a: Trevenant
+|-start|p1a: Trevenant|move: Taunt
+|move|p1a: Trevenant|Phantom Force||[still]
+|-prepare|p1a: Trevenant|Phantom Force|p2a: Crobat
+|
+|-heal|p2a: Crobat|192\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|160\/257 brn|[from] Leech Seed|[of] p1a: Trevenant
+|-damage|p2a: Crobat|144\/257 brn|[from] brn
+|upkeep
+|turn|19
+|
+|switch|p2a: Stoutland|Stoutland, L83, M|277\/277
+|move|p1a: Trevenant|Phantom Force|p2a: Stoutland|[from]lockedmove
+|-immune|p2a: Stoutland
+|
+|upkeep
+|turn|20
+|
+|switch|p2a: Crobat|Crobat, L77, M|144\/257 brn
+|move|p1a: Trevenant|Horn Leech|p2a: Crobat
+|-resisted|p2a: Crobat
+|-damage|p2a: Crobat|119\/257 brn
+|
+|-heal|p2a: Crobat|135\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|119\/257 brn|[from] brn
+|-end|p1a: Trevenant|move: Taunt
+|upkeep
+|turn|21
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|285\/302
+|move|p2a: Crobat|Taunt|p1a: Mudsdale
+|-start|p1a: Mudsdale|move: Taunt
+|
+|-heal|p2a: Crobat|135\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|119\/257 brn|[from] brn
+|upkeep
+|turn|22
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|234\/268
+|move|p1a: Mudsdale|Earthquake|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|117\/268
+|
+|upkeep
+|turn|23
+|
+|switch|p1a: Trevenant|Trevenant, L83, F|277\/277
+|move|p2a: Ludicolo|Ice Beam|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|81\/277
+|
+|-heal|p1a: Trevenant|98\/277|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p1a: Primarina|Primarina, L77, M|250\/250
+|move|p2a: Ludicolo|Ice Beam|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|208\/250
+|
+|upkeep
+|turn|25
+|
+|switch|p2a: Crobat|Crobat, L77, M|119\/257 brn
+|move|p1a: Primarina|Moonblast|p2a: Crobat
+|-resisted|p2a: Crobat
+|-damage|p2a: Crobat|56\/257 brn
+|
+|-heal|p2a: Crobat|72\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|56\/257 brn|[from] brn
+|upkeep
+|turn|26
+|
+|switch|p1a: Dugtrio|Dugtrio-Alola, L83, F|194\/194
+|move|p2a: Crobat|Roost|p2a: Crobat
+|-heal|p2a: Crobat|185\/257 brn
+|
+|-heal|p2a: Crobat|201\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|185\/257 brn|[from] brn
+|upkeep
+|turn|27
+|
+|switch|p2a: Blastoise|Blastoise, L79, M|254\/254
+|move|p1a: Dugtrio|Substitute|p1a: Dugtrio
+|-start|p1a: Dugtrio|Substitute
+|-damage|p1a: Dugtrio|146\/194
+|
+|-heal|p1a: Dugtrio|158\/194|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|detailschange|p2a: Blastoise|Blastoise-Mega, L79, M
+|-mega|p2a: Blastoise|Blastoise|Blastoisinite
+|move|p1a: Dugtrio|Earthquake|p2a: Blastoise
+|-damage|p2a: Blastoise|160\/254
+|move|p2a: Blastoise|Scald|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-end|p1a: Dugtrio|Substitute
+|
+|-heal|p1a: Dugtrio|170\/194|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|switch|p1a: Primarina|Primarina, L77, M|208\/250
+|move|p2a: Blastoise|Scald|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|166\/250
+|-status|p1a: Primarina|brn
+|
+|-damage|p1a: Primarina|151\/250 brn|[from] brn
+|upkeep
+|turn|30
+|
+|move|p1a: Primarina|Psychic|p2a: Blastoise
+|-crit|p2a: Blastoise
+|-damage|p2a: Blastoise|77\/254
+|move|p2a: Blastoise|Scald|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|111\/250 brn
+|
+|-damage|p1a: Primarina|96\/250 brn|[from] brn
+|upkeep
+|turn|31
+|
+|move|p1a: Primarina|Psychic|p2a: Blastoise
+|-damage|p2a: Blastoise|19\/254
+|move|p2a: Blastoise|Scald|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|54\/250 brn
+|
+|-damage|p1a: Primarina|39\/250 brn|[from] brn
+|upkeep
+|turn|32
+|
+|move|p1a: Primarina|Psychic|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|-damage|p1a: Primarina|24\/250 brn|[from] brn
+|upkeep
+|
+|switch|p2a: Deoxys|Deoxys, L73|193\/193
+|-ability|p2a: Deoxys|Pressure
+|turn|33
+|
+|switch|p1a: Dugtrio|Dugtrio-Alola, L83, F|170\/194
+|move|p2a: Deoxys|Spikes|p1a: Dugtrio
+|-sidestart|p1: Hassin627|Spikes
+|
+|-heal|p1a: Dugtrio|182\/194|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|move|p1a: Dugtrio|Sucker Punch|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|23\/193
+|move|p2a: Deoxys|Knock Off|p1a: Dugtrio
+|-crit|p1a: Dugtrio
+|-damage|p1a: Dugtrio|32\/194
+|-ability|p1a: Dugtrio|Tangling Hair
+|-unboost|p2a: Deoxys|spe|1
+|-enditem|p1a: Dugtrio|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|
+|-heal|p2a: Deoxys|35\/193|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|move|p1a: Dugtrio|Iron Head|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|switch|p2a: Stoutland|Stoutland, L83, M|277\/277
+|turn|36
+|
+|move|p2a: Stoutland|Ice Fang|p1a: Dugtrio
+|-crit|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|-ability|p1a: Dugtrio|Tangling Hair
+|-unboost|p2a: Stoutland|spe|1
+|faint|p1a: Dugtrio
+|
+|upkeep
+|
+|switch|p1a: Arbok|Arbok, L83, M|235\/235
+|-damage|p1a: Arbok|206\/235|[from] Spikes
+|turn|37
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|inactive|35Q71N has 60 seconds left.
+|
+|switch|p2a: Crobat|Crobat, L77, M|185\/257 brn
+|move|p1a: Arbok|Gunk Shot|p2a: Crobat
+|-resisted|p2a: Crobat
+|-damage|p2a: Crobat|86\/257 brn
+|-damage|p1a: Arbok|183\/235|[from] item: Life Orb
+|
+|-heal|p2a: Crobat|102\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|86\/257 brn|[from] brn
+|upkeep
+|turn|38
+|
+|move|p2a: Crobat|Roost|p2a: Crobat
+|-heal|p2a: Crobat|215\/257 brn
+|move|p1a: Arbok|Aqua Tail|p2a: Crobat
+|-damage|p2a: Crobat|119\/257 brn
+|-damage|p1a: Arbok|160\/235|[from] item: Life Orb
+|
+|-heal|p2a: Crobat|135\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|119\/257 brn|[from] brn
+|upkeep
+|turn|39
+|
+|move|p2a: Crobat|Taunt|p1a: Arbok
+|-start|p1a: Arbok|move: Taunt
+|cant|p1a: Arbok|move: Taunt|Rest
+|
+|-heal|p2a: Crobat|135\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|119\/257 brn|[from] brn
+|upkeep
+|turn|40
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|285\/302
+|-damage|p1a: Mudsdale|248\/302|[from] Spikes
+|move|p2a: Crobat|Roost|p2a: Crobat
+|-heal|p2a: Crobat|248\/257 brn
+|
+|-heal|p2a: Crobat|257\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|241\/257 brn|[from] brn
+|upkeep
+|turn|41
+|
+|move|p2a: Crobat|Taunt|p1a: Mudsdale
+|-start|p1a: Mudsdale|move: Taunt
+|move|p1a: Mudsdale|Heavy Slam|p2a: Crobat
+|-damage|p2a: Crobat|70\/257 brn
+|
+|-heal|p2a: Crobat|86\/257 brn|[from] item: Black Sludge
+|-damage|p2a: Crobat|70\/257 brn|[from] brn
+|upkeep
+|turn|42
+|
+|move|p2a: Crobat|Roost|p2a: Crobat
+|-heal|p2a: Crobat|199\/257 brn
+|move|p1a: Mudsdale|Heavy Slam|p2a: Crobat
+|-crit|p2a: Crobat
+|-damage|p2a: Crobat|0 fnt
+|faint|p2a: Crobat
+|
+|upkeep
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|117\/268
+|turn|43
+|
+|switch|p1a: Primarina|Primarina, L77, M|24\/250 brn
+|-damage|p1a: Primarina|0 fnt|[from] Spikes
+|faint|p1a: Primarina
+|move|p2a: Ludicolo|Giga Drain|p1: Primarina|[notarget]
+|-fail|p2a: Ludicolo
+|
+|upkeep
+|
+|switch|p1a: Trevenant|Trevenant, L83, F|98\/277
+|-damage|p1a: Trevenant|64\/277|[from] Spikes
+|turn|44
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|inactive|35Q71N has 60 seconds left.
+|
+|move|p2a: Ludicolo|Giga Drain|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|3\/277
+|-heal|p2a: Ludicolo|148\/268|[from] drain|[of] p1a: Trevenant
+|move|p1a: Trevenant|Horn Leech|p2a: Ludicolo
+|-damage|p2a: Ludicolo|45\/268
+|-heal|p1a: Trevenant|55\/277|[from] drain|[of] p2a: Ludicolo
+|
+|-heal|p1a: Trevenant|72\/277|[from] item: Leftovers
+|upkeep
+|turn|45
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p2a: Stoutland|Stoutland, L83, M|277\/277
+|move|p1a: Trevenant|Horn Leech|p2a: Stoutland
+|-damage|p2a: Stoutland|186\/277
+|-heal|p1a: Trevenant|118\/277|[from] drain|[of] p2a: Stoutland
+|
+|-heal|p1a: Trevenant|135\/277|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|45\/268
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Ludicolo
+|-status|p2a: Ludicolo|brn
+|
+|-heal|p1a: Trevenant|152\/277|[from] item: Leftovers
+|-damage|p2a: Ludicolo|29\/268 brn|[from] brn
+|upkeep
+|turn|47
+|
+|switch|p1a: Arbok|Arbok, L83, M|160\/235
+|-damage|p1a: Arbok|131\/235|[from] Spikes
+|move|p2a: Ludicolo|Ice Beam|p1a: Arbok
+|-damage|p1a: Arbok|35\/235
+|
+|-damage|p2a: Ludicolo|13\/268 brn|[from] brn
+|upkeep
+|turn|48
+|
+|switch|p2a: Stoutland|Stoutland, L83, M|186\/277
+|move|p1a: Arbok|Gunk Shot|p2a: Stoutland|[miss]
+|-miss|p1a: Arbok|p2a: Stoutland
+|
+|upkeep
+|turn|49
+|
+|switch|p1a: Trevenant|Trevenant, L83, F|152\/277
+|-damage|p1a: Trevenant|118\/277|[from] Spikes
+|move|p2a: Stoutland|Ice Fang|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|upkeep
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|248\/302
+|-damage|p1a: Mudsdale|211\/302|[from] Spikes
+|turn|50
+|
+|move|p2a: Stoutland|Ice Fang|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|125\/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Close Combat|p2a: Stoutland
+|-supereffective|p2a: Stoutland
+|-damage|p2a: Stoutland|0 fnt
+|-unboost|p1a: Mudsdale|def|1
+|-unboost|p1a: Mudsdale|spd|1
+|faint|p2a: Stoutland
+|
+|upkeep
+|
+|switch|p2a: Ludicolo|Ludicolo, L83, M|13\/268 brn
+|turn|51
+|
+|move|p2a: Ludicolo|Giga Drain|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|-heal|p2a: Ludicolo|76\/268 brn|[from] drain|[of] p1a: Mudsdale
+|faint|p1a: Mudsdale
+|
+|-damage|p2a: Ludicolo|60\/268 brn|[from] brn
+|upkeep
+|
+|switch|p1a: Arbok|Arbok, L83, M|35\/235
+|-damage|p1a: Arbok|6\/235|[from] Spikes
+|turn|52
+|
+|move|p1a: Arbok|Gunk Shot|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|-damage|p1a: Arbok|0 fnt|[from] item: Life Orb
+|faint|p2a: Ludicolo
+|faint|p1a: Arbok
+|
+|win|Hassin627
+|l|☆35Q71N
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Hassin627 and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Hassin627 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Oricorio (<strong>Oricorio-Pom-Pom</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)</div><div class="chat message-error">Hassin627 has 120 seconds left.</div><div class="chat message-error">Hassin627 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Primarina!<br></div><div class="battle-history">Hassin627 sent out <strong>Mudsdale</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Revelation Dance</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Mudsdale...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−157/302">52.0%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Mudsdale's Stamina]<br></div><div class="battle-history"><small>The opposing Mudsdale's Defense rose!</small><br></div><div class="battle-history"><small>Oricorio lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−230/259">88.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−4/259">1.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Mudsdale!<br></div><div class="battle-history">Hassin627 sent out <strong>Trevenant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Trevenant lost <abbr title="−59/277">21.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Crobat was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Trevenant!<br></div><div class="battle-history">Hassin627 sent out Dugtrio (<strong>Dugtrio-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Dugtrio fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−78/268">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Dugtrio!<br></div><div class="battle-history">Hassin627 sent out <strong>Umbreon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Umbreon lost <abbr title="−84/280">30%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Umbreon had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Umbreon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Umbreon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Umbreon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">Hassin627 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Umbreon!<br></div><div class="battle-history">Hassin627 sent out <strong>Mudsdale</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Umbreon's wish came true!</small><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>Ludicolo avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Mudsdale!<br></div><div class="battle-history">Hassin627 sent out <strong>Umbreon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Umbreon lost <abbr title="−230/280">82.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Umbreon fainted!<br></div><div class="chat message-error">Hassin627 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Blastoise</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>Blastoise avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−28/268">10.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Primarina!<br></div><div class="battle-history">Hassin627 sent out <strong>Trevenant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Trevenant lost <abbr title="−59/277">21.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Trevenant had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Crobat was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Crobat's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Crobat had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crobat lost <abbr title="−49/257">19.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Crobat had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Trevenant fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Phantom Force</strong>!<br></div><div class="battle-history">The opposing Trevenant vanished instantly!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat, come back!<br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Phantom Force</strong>!<br></div><div class="battle-history"><small>It doesn't affect Stoutland...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crobat lost <abbr title="−25/257">9.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Trevenant shook off the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Trevenant!<br></div><div class="battle-history">Hassin627 sent out <strong>Mudsdale</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−117/268">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Mudsdale!<br></div><div class="battle-history">Hassin627 sent out <strong>Trevenant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Trevenant lost <abbr title="−196/277">70.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Trevenant!<br></div><div class="battle-history">Hassin627 sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−42/250">16.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crobat lost <abbr title="−63/257">24.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Primarina!<br></div><div class="battle-history">Hassin627 sent out Dugtrio (<strong>Dugtrio-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Crobat had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat, come back!<br></div><div class="battle-history">Go! <strong>Blastoise</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Dugtrio put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Dugtrio lost <abbr title="−48/194">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dugtrio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blastoise's Blastoisinite is reacting to the Key Stone!</small><br>Blastoise has Mega Evolved into Mega Blastoise!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Blastoise lost <abbr title="−94/254">37.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Dugtrio's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dugtrio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Dugtrio!<br></div><div class="battle-history">Hassin627 sent out <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−42/250">16.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Primarina was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Primarina was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Blastoise lost <abbr title="−83/254">32.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−40/250">16%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Primarina was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Blastoise lost <abbr title="−58/254">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Primarina lost <abbr title="−42/250">16.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Primarina was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Blastoise lost <abbr title="−19/254">7.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blastoise fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Primarina was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Deoxys</strong>!<br></div><div class="battle-history">[Deoxys's Pressure]<br><small>Deoxys is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Primarina!<br></div><div class="battle-history">Hassin627 sent out Dugtrio (<strong>Dugtrio-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Deoxys used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Dugtrio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Deoxys lost <abbr title="−170/193">88.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Deoxys used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Dugtrio lost <abbr title="−150/194">77.3%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Dugtrio's Tangling Hair]<br></div><div class="battle-history"><small>Deoxys's Speed fell!</small><br></div><div class="battle-history"><small>Deoxys knocked off the opposing Dugtrio's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Deoxys restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Deoxys lost <abbr title="−35/193">18.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Deoxys fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Ice Fang</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Dugtrio lost <abbr title="−32/194">16.5%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Dugtrio's Tangling Hair]<br></div><div class="battle-history"><small>Stoutland's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dugtrio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Arbok</strong>!<br></div><div class="battle-history"><small>The opposing Arbok was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland, come back!<br></div><div class="battle-history">Go! <strong>Crobat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crobat lost <abbr title="−99/257">38.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arbok lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Crobat had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arbok used <strong>Aqua Tail</strong>!<br></div><div class="battle-history"><small>(Crobat lost <abbr title="−96/257">37.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arbok lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Arbok fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arbok can't use Rest after the taunt!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Arbok!<br></div><div class="battle-history">Hassin627 sent out <strong>Mudsdale</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Crobat had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>(Crobat lost <abbr title="−171/257">66.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Crobat was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Crobat had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Crobat lost <abbr title="−199/257">77.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crobat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Mudsdale!<br></div><div class="battle-history">Hassin627 sent out <strong>Primarina</strong>!<br></div><div class="battle-history"><small>The opposing Primarina was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Primarina fainted!<br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Trevenant</strong>!<br></div><div class="battle-history"><small>The opposing Trevenant was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Trevenant lost <abbr title="−61/277">22.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Trevenant had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−103/268">38.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ludicolo had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−91/277">32.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stoutland had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Ludicolo was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Trevenant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Ludicolo was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Trevenant!<br></div><div class="battle-history">Hassin627 sent out <strong>Arbok</strong>!<br></div><div class="battle-history"><small>The opposing Arbok was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Arbok lost <abbr title="−96/235">40.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ludicolo was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo, come back!<br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>Stoutland avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 withdrew Arbok!<br></div><div class="battle-history">Hassin627 sent out <strong>Trevenant</strong>!<br></div><div class="battle-history"><small>The opposing Trevenant was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Ice Fang</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Trevenant lost <abbr title="−118/277">42.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Trevenant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Mudsdale</strong>!<br></div><div class="battle-history"><small>The opposing Mudsdale was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Ice Fang</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−86/302">28.5%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Mudsdale's Stamina]<br></div><div class="battle-history"><small>The opposing Mudsdale's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−186/277">67.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mudsdale's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Mudsdale's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−125/302">41.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mudsdale had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ludicolo was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hassin627 sent out <strong>Arbok</strong>!<br></div><div class="battle-history"><small>The opposing Arbok was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−60/268">22.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arbok lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo fainted!<br></div><div class="battle-history">The opposing Arbok fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Hassin627</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

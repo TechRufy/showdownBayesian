@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. RosaF4N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2056510563" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/rosaf4n" class="subtle" target="_blank">RosaF4N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆RosaF4N
+|t:|1707606806
+|gametype|singles
+|player|p1|35Q71N|#rbtt7teamhoopaf|
+|player|p2|RosaF4N|rosa|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1707606806
+|start
+|switch|p1a: Gligar|Gligar, L83, M|244\/244
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|turn|1
+|c|☆35Q71N|Glhf
+|j| 201700200b
+|c| 201700200b|35Q71N good luck :0
+|c|☆RosaF4N|gl too
+|
+|t:|1707606855
+|switch|p1a: Incineroar|Incineroar, L84, F|297\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Taunt|p1a: Incineroar
+|-start|p1a: Incineroar|move: Taunt
+|
+|upkeep
+|turn|2
+|c| 201700200b|no im already out
+|c|☆35Q71N|Thanks person with many numbers as a nick :o
+|
+|t:|1707606868
+|switch|p2a: Samurott|Samurott, L87, F|307\/307
+|move|p1a: Incineroar|U-turn|p2a: Samurott
+|-damage|p2a: Samurott|256\/307
+|c| 201700200b|in first round against you
+|
+|t:|1707606882
+|switch|p1a: Dragalge|Dragalge, L87, F|255\/255|[from] U-turn
+|
+|upkeep
+|turn|3
+|c|☆35Q71N|I'd say Rosa was replying to my glhf
+|
+|t:|1707606904
+|move|p2a: Samurott|Knock Off|p1a: Dragalge
+|-damage|p1a: Dragalge|152\/255
+|-enditem|p1a: Dragalge|Black Sludge|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Dragalge|Toxic Spikes|p2a: Samurott
+|-sidestart|p2: RosaF4N|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1707606921
+|switch|p2a: Emolga|Emolga, L89, F|243\/243
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277\/277
+|
+|upkeep
+|turn|5
+|
+|t:|1707606928
+|switch|p1a: Gligar|Gligar, L83, M|244\/244
+|move|p2a: Emolga|Acrobatics|p1a: Gligar
+|-damage|p1a: Gligar|186\/244
+|
+|upkeep
+|turn|6
+|
+|t:|1707606956
+|move|p2a: Emolga|U-turn|p1a: Gligar
+|-resisted|p1a: Gligar
+|-damage|p1a: Gligar|171\/244
+|
+|t:|1707606983
+|switch|p2a: Staraptor|Staraptor, L81, F|270\/270|[from] U-turn
+|move|p1a: Gligar|Toxic|p2a: Staraptor
+|-status|p2a: Staraptor|tox
+|
+|-damage|p2a: Staraptor|254\/270 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1707606993
+|move|p2a: Staraptor|Brave Bird|p1a: Gligar
+|-damage|p1a: Gligar|24\/244
+|-damage|p2a: Staraptor|205\/270 tox|[from] Recoil
+|move|p1a: Gligar|Roost|p1a: Gligar
+|-heal|p1a: Gligar|146\/244
+|-singleturn|p1a: Gligar|move: Roost
+|
+|-damage|p2a: Staraptor|173\/270 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1707607005
+|switch|p2a: Emolga|Emolga, L89, F|243\/243
+|switch|p1a: Incineroar|Incineroar, L84, F|297\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Emolga|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1707607013
+|move|p1a: Incineroar|Fake Out|p2a: Emolga
+|-damage|p2a: Emolga|201\/243
+|cant|p2a: Emolga|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1707607020
+|move|p2a: Emolga|Thunderbolt|p1a: Incineroar
+|-damage|p1a: Incineroar|242\/297
+|move|p1a: Incineroar|U-turn|p2a: Emolga
+|-resisted|p2a: Emolga
+|-damage|p2a: Emolga|169\/243
+|
+|t:|1707607035
+|switch|p1a: Gligar|Gligar, L83, M|146\/244|[from] U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1707607041
+|move|p2a: Emolga|U-turn|p1a: Gligar
+|-resisted|p1a: Gligar
+|-damage|p1a: Gligar|137\/244
+|
+|t:|1707607045
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243|[from] U-turn
+|move|p1a: Gligar|Roost|p1a: Gligar
+|-heal|p1a: Gligar|244\/244
+|-singleturn|p1a: Gligar|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1707607051
+|switch|p1a: Incineroar|Incineroar, L84, F|242\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Will-O-Wisp|p1a: Incineroar
+|-immune|p1a: Incineroar
+|
+|upkeep
+|turn|13
+|
+|t:|1707607057
+|switch|p2a: Emolga|Emolga, L89, F|169\/243
+|move|p1a: Incineroar|Darkest Lariat|p2a: Emolga
+|-damage|p2a: Emolga|46\/243
+|
+|upkeep
+|turn|14
+|
+|t:|1707607090
+|move|p2a: Emolga|Roost|p2a: Emolga
+|-heal|p2a: Emolga|168\/243
+|-singleturn|p2a: Emolga|move: Roost
+|move|p1a: Incineroar|U-turn|p2a: Emolga
+|-damage|p2a: Emolga|99\/243
+|
+|t:|1707607097
+|switch|p1a: Gligar|Gligar, L83, M|244\/244|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1707607106
+|move|p2a: Emolga|U-turn|p1a: Gligar
+|-resisted|p1a: Gligar
+|-damage|p1a: Gligar|230\/244
+|
+|t:|1707607108
+|switch|p2a: Staraptor|Staraptor, L81, F|173\/270 tox|[from] U-turn
+|move|p1a: Gligar|Toxic|p2a: Staraptor
+|-fail|p2a: Staraptor|tox
+|
+|-damage|p2a: Staraptor|157\/270 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1707607120
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|move|p1a: Gligar|Roost|p1a: Gligar
+|-heal|p1a: Gligar|244\/244
+|-singleturn|p1a: Gligar|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1707607133
+|switch|p1a: Incineroar|Incineroar, L84, F|242\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Taunt|p1a: Incineroar
+|-start|p1a: Incineroar|move: Taunt
+|
+|upkeep
+|turn|18
+|
+|t:|1707607149
+|switch|p2a: Emolga|Emolga, L89, F|99\/243
+|move|p1a: Incineroar|Darkest Lariat|p2a: Emolga
+|-damage|p2a: Emolga|0 fnt
+|faint|p2a: Emolga
+|
+|upkeep
+|
+|t:|1707607154
+|switch|p2a: Samurott|Samurott, L87, F|256\/307
+|-status|p2a: Samurott|psn
+|turn|19
+|
+|t:|1707607197
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277\/277
+|move|p2a: Samurott|Knock Off|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|210\/277
+|-enditem|p1a: Toxicroak|Life Orb|[from] move: Knock Off|[of] p2a: Samurott
+|
+|-damage|p2a: Samurott|218\/307 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1707607218
+|switch|p2a: Mismagius|Mismagius, L86, F|243\/243
+|move|p1a: Toxicroak|Gunk Shot|p2a: Mismagius
+|-resisted|p2a: Mismagius
+|-damage|p2a: Mismagius|163\/243
+|-status|p2a: Mismagius|psn
+|
+|-heal|p2a: Mismagius|178\/243 psn|[from] item: Leftovers
+|-damage|p2a: Mismagius|148\/243 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1707607225
+|switch|p1a: Incineroar|Incineroar, L84, F|242\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Incineroar
+|-damage|p1a: Incineroar|199\/297
+|
+|-heal|p2a: Mismagius|163\/243 psn|[from] item: Leftovers
+|-damage|p2a: Mismagius|133\/243 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1707607248
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Incineroar
+|-damage|p1a: Incineroar|153\/297
+|move|p1a: Incineroar|U-turn|p2a: Mismagius
+|-resisted|p2a: Mismagius
+|-damage|p2a: Mismagius|96\/243 psn
+|
+|t:|1707607265
+|switch|p1a: Gligar|Gligar, L83, M|244\/244|[from] U-turn
+|
+|-heal|p2a: Mismagius|111\/243 psn|[from] item: Leftovers
+|-damage|p2a: Mismagius|81\/243 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1707607273
+|switch|p1a: Incineroar|Incineroar, L84, F|153\/297
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Will-O-Wisp|p1a: Incineroar
+|-immune|p1a: Incineroar
+|
+|-heal|p2a: Mismagius|96\/243 psn|[from] item: Leftovers
+|-damage|p2a: Mismagius|66\/243 psn|[from] psn
+|upkeep
+|turn|24
+|j| HarryderSchnetzler
+|
+|t:|1707607292
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Incineroar
+|-damage|p1a: Incineroar|108\/297
+|move|p1a: Incineroar|Darkest Lariat|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|
+|upkeep
+|c|☆RosaF4N|You are very good
+|c|☆35Q71N|Nah
+|
+|t:|1707607314
+|switch|p2a: Staraptor|Staraptor, L81, F|157\/270 tox
+|turn|25
+|c|☆35Q71N|I have a better team
+|
+|t:|1707607325
+|move|p2a: Staraptor|Brave Bird|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|-damage|p2a: Staraptor|121\/270 tox|[from] Recoil
+|
+|-damage|p2a: Staraptor|105\/270 tox|[from] psn
+|upkeep
+|l| 201700200b
+|
+|t:|1707607351
+|switch|p1a: Jellicent|Jellicent, L88, M|319\/319
+|turn|26
+|c|☆RosaF4N|Don't want to spoil but I can't deal with t spikes
+|
+|t:|1707607376
+|move|p2a: Staraptor|Brave Bird|p1a: Jellicent
+|-damage|p1a: Jellicent|24\/319
+|-damage|p2a: Staraptor|8\/270 tox|[from] Recoil
+|move|p1a: Jellicent|Recover|p1a: Jellicent
+|-heal|p1a: Jellicent|184\/319
+|
+|-heal|p1a: Jellicent|203\/319|[from] item: Leftovers
+|-damage|p2a: Staraptor|0 fnt|[from] psn
+|faint|p2a: Staraptor
+|upkeep
+|
+|t:|1707607382
+|switch|p2a: Zeraora|Zeraora, L79|269\/269
+|-status|p2a: Zeraora|psn
+|turn|27
+|
+|t:|1707607394
+|switch|p1a: Dragalge|Dragalge, L87, F|152\/255
+|move|p2a: Zeraora|Bulk Up|p2a: Zeraora
+|-boost|p2a: Zeraora|atk|1
+|-boost|p2a: Zeraora|def|1
+|
+|-damage|p2a: Zeraora|236\/269 psn|[from] psn
+|upkeep
+|turn|28
+|c|☆35Q71N|Yeah, those sucked for you :\/
+|
+|t:|1707607411
+|move|p2a: Zeraora|Knock Off|p1a: Dragalge
+|-damage|p1a: Dragalge|70\/255
+|-damage|p2a: Zeraora|210\/269 psn|[from] item: Life Orb
+|move|p1a: Dragalge|Sludge Wave|p2a: Zeraora
+|-damage|p2a: Zeraora|34\/269 psn
+|
+|-damage|p2a: Zeraora|1\/269 psn|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1707607426
+|move|p2a: Zeraora|Knock Off|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|-damage|p2a: Zeraora|0 fnt|[from] item: Life Orb
+|faint|p2a: Zeraora
+|
+|upkeep
+|
+|t:|1707607441
+|switch|p2a: Samurott|Samurott, L87, F|218\/307 psn
+|switch|p1a: Gligar|Gligar, L83, M|244\/244
+|turn|30
+|
+|t:|1707607453
+|move|p1a: Gligar|U-turn|p2a: Samurott
+|-damage|p2a: Samurott|176\/307 psn
+|
+|t:|1707607462
+|switch|p1a: Toxicroak|Toxicroak, L84, M|210\/277|[from] U-turn
+|move|p2a: Samurott|Knock Off|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|167\/277
+|
+|-damage|p2a: Samurott|138\/307 psn|[from] psn
+|upkeep
+|turn|31
+|j| gomdol2
+|
+|t:|1707607470
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|move|p2a: Samurott|Knock Off|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|121\/277
+|
+|-damage|p2a: Samurott|100\/307 psn|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1707607474
+|move|p1a: Toxicroak|Drain Punch|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Toxicroak|171\/277|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|
+|upkeep
+|c|☆RosaF4N|gg 👍
+|c|☆35Q71N|Gg
+|c|☆RosaF4N|my next Poke is a troll one
+|
+|t:|1707607492
+|switch|p2a: Spinda|Spinda, F|282\/282
+|-status|p2a: Spinda|psn
+|turn|33
+|c|☆35Q71N|Oh!
+|c|☆35Q71N|Ok yeah, I definitely had the matchup lol
+|
+|t:|1707607505
+|move|p1a: Toxicroak|Drain Punch|p2a: Spinda
+|-supereffective|p2a: Spinda
+|-damage|p2a: Spinda|0 fnt
+|-heal|p1a: Toxicroak|277\/277|[from] drain|[of] p2a: Spinda
+|faint|p2a: Spinda
+|
+|win|35Q71N
+|n|☆35Q71N|35q71n
+|n|☆RosaF4N|rosaf4n
+|n| HarryderSchnetzler|harryderschnetzler
+|n| gomdol2|gomdol2
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆RosaF4N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and RosaF4N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat"><small> 201700200b joined</small></div><div class="chat chatmessage-201700200b"><strong style="color:#c830aa"><small> </small><span class="username" data-name="201700200b">201700200b</span>:</strong> <em>35Q71N good luck :0</em></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small>☆</small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>gl too</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Incineroar fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-201700200b"><strong style="color:#c830aa"><small> </small><span class="username" data-name="201700200b">201700200b</span>:</strong> <em>no im already out</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Thanks person with many numbers as a nick :o</em></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Mismagius!<br></div><div class="battle-history">RosaF4N sent out <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−51/307">16.6%</abbr> of its health!)</small><br></div><div class="chat chatmessage-201700200b"><strong style="color:#c830aa"><small> </small><span class="username" data-name="201700200b">201700200b</span>:</strong> <em>in first round against you</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Dragalge</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I'd say Rosa was replying to my glhf</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dragalge lost <abbr title="−103/255">40.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Samurott knocked off Dragalge's Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge used <strong>Toxic Spikes</strong>!<br></div><div class="battle-history"><small>Poison spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Samurott!<br></div><div class="battle-history">RosaF4N sent out <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge, come back!<br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak, come back!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(Gligar lost <abbr title="−58/244">23.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Gligar lost <abbr title="−15/244">6.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga went back to RosaF4N!<br></div><div class="battle-history">RosaF4N sent out <strong>Staraptor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Staraptor was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Staraptor was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Staraptor used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Gligar lost <abbr title="−147/244">60.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Staraptor was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Gligar had its HP restored.</small><br></div><div class="battle-history"><small>(Gligar loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Staraptor was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Staraptor!<br></div><div class="battle-history">RosaF4N sent out <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Emolga's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(The opposing Emolga lost <abbr title="−42/243">17.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Incineroar lost <abbr title="−55/297">18.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Emolga lost <abbr title="−32/243">13.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Gligar lost <abbr title="−9/244">3.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga went back to RosaF4N!<br></div><div class="battle-history">RosaF4N sent out <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Gligar had its HP restored.</small><br></div><div class="battle-history"><small>(Gligar loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>It doesn't affect Incineroar...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Mismagius!<br></div><div class="battle-history">RosaF4N sent out <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>Darkest Lariat</strong>!<br></div><div class="battle-history"><small>(The opposing Emolga lost <abbr title="−123/243">50.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Emolga had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Emolga loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Emolga lost <abbr title="−69/243">28.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Gligar lost <abbr title="−14/244">5.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga went back to RosaF4N!<br></div><div class="battle-history">RosaF4N sent out <strong>Staraptor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Staraptor was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Staraptor!<br></div><div class="battle-history">RosaF4N sent out <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Gligar had its HP restored.</small><br></div><div class="battle-history"><small>(Gligar loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Incineroar fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Mismagius!<br></div><div class="battle-history">RosaF4N sent out <strong>Emolga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>Darkest Lariat</strong>!<br></div><div class="battle-history"><small>(The opposing Emolga lost <abbr title="−99/243">40.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Emolga fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Samurott</strong>!<br></div><div class="battle-history"><small>The opposing Samurott was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar, come back!<br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−67/277">24.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Samurott knocked off Toxicroak's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N withdrew Samurott!<br></div><div class="battle-history">RosaF4N sent out <strong>Mismagius</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Mismagius lost <abbr title="−80/243">32.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mismagius was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mismagius restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mismagius was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(Incineroar lost <abbr title="−43/297">14.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mismagius restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mismagius was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(Incineroar lost <abbr title="−46/297">15.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Mismagius lost <abbr title="−37/243">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mismagius restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mismagius was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Incineroar</strong>!<br></div><div class="battle-history">[Incineroar's Intimidate]<br></div><div class="battle-history"><small>The opposing Mismagius's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>It doesn't affect Incineroar...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mismagius restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mismagius was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat"><small> HarryderSchnetzler joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>(Incineroar lost <abbr title="−45/297">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar used <strong>Darkest Lariat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mismagius lost <abbr title="−66/243">27.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mismagius fainted!<br></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small>☆</small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>You are very good</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Nah</em></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Staraptor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I have a better team</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Staraptor used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Incineroar lost <abbr title="−108/297">36.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Incineroar fainted!<br></div><div class="battle-history"><small>The opposing Staraptor was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Staraptor was hurt by poison!</small><br></div><div class="chat"><small> 201700200b left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small>☆</small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>Don't want to spoil but I can't deal with t spikes</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Staraptor used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Jellicent lost <abbr title="−295/319">92.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Staraptor was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Jellicent had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Jellicent restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Staraptor was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Staraptor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Zeraora</strong>!<br></div><div class="battle-history"><small>The opposing Zeraora was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Jellicent, come back!<br></div><div class="battle-history">Go! <strong>Dragalge</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zeraora used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Zeraora's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Zeraora's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zeraora was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Yeah, those sucked for you :/</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zeraora used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dragalge lost <abbr title="−82/255">32.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Zeraora lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(The opposing Zeraora lost <abbr title="−176/269">65.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zeraora was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zeraora used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dragalge lost <abbr title="−70/255">27.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge fainted!<br></div><div class="battle-history"><small>The opposing Zeraora lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zeraora fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−42/307">13.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−43/277">15.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat"><small> gomdol2 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Toxicroak's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−46/277">16.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Samurott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−100/307">32.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Samurott had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott fainted!<br></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small>☆</small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>gg 👍</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-rosaf4n"><strong style="color:#d42727"><small>☆</small><span class="username" data-name="RosaF4N">RosaF4N</span>:</strong> <em>my next Poke is a troll one</em></div><div class="spacer battle-history"><br></div><div class="battle-history">RosaF4N sent out <strong>Spinda</strong>!<br></div><div class="battle-history"><small>The opposing Spinda was poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ok yeah, I definitely had the matchup lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Spinda lost <abbr title="−282/282">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Spinda had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Spinda fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

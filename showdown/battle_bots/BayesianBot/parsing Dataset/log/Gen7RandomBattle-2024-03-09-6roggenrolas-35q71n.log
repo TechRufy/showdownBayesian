@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 6Roggenrolas vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2076760026" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/6roggenrolas" class="subtle" target="_blank">6Roggenrolas</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆6Roggenrolas
+|j|☆35Q71N
+|t:|1709942562
+|gametype|singles
+|player|p1|6Roggenrolas|collector|
+|player|p2|35Q71N|#rbtt7teamhoopaf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1709942562
+|start
+|switch|p1a: Quagsire|Quagsire, L87, M|307\/307
+|switch|p2a: Tsareena|Tsareena, L87, F|267\/267
+|turn|1
+|c|☆35Q71N|Glhf
+|j| gomdol2
+|c|☆35Q71N|For a second it bugged
+|c|☆6Roggenrolas|weird
+|c|☆6Roggenrolas|glhf
+|
+|t:|1709942603
+|switch|p1a: Ribombee|Ribombee, L84, F|238\/238
+|move|p2a: Tsareena|U-turn|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|196\/238
+|
+|t:|1709942651
+|switch|p2a: Carracosta|Carracosta, L88, F|274\/274|[from] U-turn
+|
+|upkeep
+|turn|2
+|j| Hell's Prophet
+|
+|t:|1709942670
+|move|p1a: Ribombee|Moonblast|p2a: Carracosta
+|-damage|p2a: Carracosta|126\/274
+|-damage|p1a: Ribombee|173\/238|[from] item: Life Orb
+|move|p2a: Carracosta|Stone Edge|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|l| Hell's Prophet
+|
+|t:|1709942694
+|switch|p1a: Gengar|Gengar, L78, M|222\/222
+|turn|3
+|
+|t:|1709942705
+|switch|p2a: Kecleon|Kecleon, L88, M|249\/249
+|detailschange|p1a: Gengar|Gengar-Mega, L78, M
+|-mega|p1a: Gengar|Gengar|Gengarite
+|move|p1a: Gengar|Shadow Ball|p2a: Kecleon
+|-immune|p2a: Kecleon
+|
+|upkeep
+|turn|4
+|
+|t:|1709942712
+|switch|p1a: Quagsire|Quagsire, L87, M|307\/307
+|move|p2a: Kecleon|Knock Off|p1a: Quagsire
+|-start|p2a: Kecleon|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Quagsire|178\/307
+|-enditem|p1a: Quagsire|Leftovers|[from] move: Knock Off|[of] p2a: Kecleon
+|-damage|p2a: Kecleon|225\/249|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1709942719
+|switch|p2a: Tsareena|Tsareena, L87, F|267\/267
+|move|p1a: Quagsire|Toxic|p2a: Tsareena
+|-status|p2a: Tsareena|tox
+|
+|-damage|p2a: Tsareena|251\/267 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1709942728
+|switch|p1a: Turtonator|Turtonator, L88, F|249\/249
+|move|p2a: Tsareena|U-turn|p1a: Turtonator
+|-resisted|p1a: Turtonator
+|-damage|p1a: Turtonator|227\/249
+|j| Hats
+|l| Hats
+|j|%pia
+|
+|t:|1709942799
+|switch|p2a: Solrock|Solrock, L89|305\/305|[from] U-turn
+|
+|upkeep
+|turn|7
+|j| True Psycho
+|
+|t:|1709942820
+|switch|p1a: Quagsire|Quagsire, L87, M|178\/307
+|move|p2a: Solrock|Stone Edge|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|118\/307
+|
+|upkeep
+|turn|8
+|
+|t:|1709942825
+|move|p2a: Solrock|Stealth Rock|p1a: Quagsire
+|-sidestart|p1: 6Roggenrolas|move: Stealth Rock
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|272\/307
+|
+|upkeep
+|turn|9
+|
+|t:|1709942834
+|switch|p2a: Tsareena|Tsareena, L87, F|251\/267 tox
+|switch|p1a: Gengar|Gengar-Mega, L78, M|222\/222
+|-damage|p1a: Gengar|195\/222|[from] Stealth Rock
+|
+|-heal|p2a: Tsareena|267\/267 tox|[from] item: Leftovers
+|-damage|p2a: Tsareena|251\/267 tox|[from] psn
+|upkeep
+|turn|10
+|c|☆35Q71N|Fair
+|
+|t:|1709942841
+|move|p1a: Gengar|Sludge Wave|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|17\/267 tox
+|move|p2a: Tsareena|U-turn|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|178\/222
+|
+|t:|1709942851
+|switch|p2a: Kecleon|Kecleon, L88, M|225\/249|[from] U-turn
+|
+|upkeep
+|turn|11
+|c|☆6Roggenrolas|tsareena moment
+|
+|t:|1709942864
+|switch|p1a: Quagsire|Quagsire, L87, M|272\/307
+|-damage|p1a: Quagsire|253\/307|[from] Stealth Rock
+|move|p2a: Kecleon|Drain Punch|p1a: Quagsire
+|-start|p2a: Kecleon|typechange|Fighting|[from] ability: Protean
+|-damage|p1a: Quagsire|148\/307
+|-heal|p2a: Kecleon|249\/249|[from] drain|[of] p1a: Quagsire
+|-damage|p2a: Kecleon|225\/249|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1709942872
+|switch|p2a: Chatot|Chatot, L89, F|261\/261
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|302\/307
+|
+|upkeep
+|turn|13
+|
+|t:|1709942882
+|switch|p1a: Hypno|Hypno, L93, F|309\/309
+|-damage|p1a: Hypno|271\/309|[from] Stealth Rock
+|move|p2a: Chatot|Substitute|p2a: Chatot
+|-start|p2a: Chatot|Substitute
+|-damage|p2a: Chatot|196\/261
+|
+|-heal|p2a: Chatot|212\/261|[from] item: Leftovers
+|-heal|p1a: Hypno|290\/309|[from] item: Leftovers
+|upkeep
+|turn|14
+|j| Nhar
+|
+|t:|1709942920
+|move|p2a: Chatot|Chatter|p1a: Hypno
+|-damage|p1a: Hypno|235\/309
+|-start|p1a: Hypno|confusion
+|-activate|p1a: Hypno|confusion
+|move|p1a: Hypno|Seismic Toss|p2a: Chatot
+|-end|p2a: Chatot|Substitute
+|
+|-heal|p2a: Chatot|228\/261|[from] item: Leftovers
+|-heal|p1a: Hypno|254\/309|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1709942938
+|move|p2a: Chatot|Substitute|p2a: Chatot
+|-start|p2a: Chatot|Substitute
+|-damage|p2a: Chatot|163\/261
+|-activate|p1a: Hypno|confusion
+|move|p1a: Hypno|Wish|p1a: Hypno
+|
+|-heal|p2a: Chatot|179\/261|[from] item: Leftovers
+|-heal|p1a: Hypno|273\/309|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1709942943
+|move|p2a: Chatot|Nasty Plot|p2a: Chatot
+|-boost|p2a: Chatot|spa|2
+|-activate|p1a: Hypno|confusion
+|-damage|p1a: Hypno|251\/309|[from] confusion
+|
+|-heal|p1a: Hypno|309\/309|[from] move: Wish|[wisher] Hypno
+|-heal|p2a: Chatot|195\/261|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1709942946
+|move|p2a: Chatot|Boomburst|p1a: Hypno
+|-damage|p1a: Hypno|86\/309
+|-end|p1a: Hypno|confusion
+|move|p1a: Hypno|Seismic Toss|p2a: Chatot
+|-end|p2a: Chatot|Substitute
+|
+|-heal|p2a: Chatot|211\/261|[from] item: Leftovers
+|-heal|p1a: Hypno|105\/309|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1709942966
+|move|p2a: Chatot|Boomburst|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|faint|p1a: Hypno
+|
+|-heal|p2a: Chatot|227\/261|[from] item: Leftovers
+|upkeep
+|j|+J0rdy004 ♫
+|
+|t:|1709943008
+|switch|p1a: Dunsparce|Dunsparce, L93, F|337\/337
+|-damage|p1a: Dunsparce|295\/337|[from] Stealth Rock
+|turn|19
+|
+|t:|1709943057
+|move|p2a: Chatot|Boomburst|p1a: Dunsparce
+|-damage|p1a: Dunsparce|0 fnt
+|faint|p1a: Dunsparce
+|
+|-heal|p2a: Chatot|243\/261|[from] item: Leftovers
+|upkeep
+|
+|t:|1709943072
+|switch|p1a: Quagsire|Quagsire, L87, M|302\/307
+|-damage|p1a: Quagsire|283\/307|[from] Stealth Rock
+|turn|20
+|
+|t:|1709943091
+|move|p2a: Chatot|Boomburst|p1a: Quagsire
+|-damage|p1a: Quagsire|84\/307
+|move|p1a: Quagsire|Scald|p2a: Chatot
+|-damage|p2a: Chatot|129\/261
+|-status|p2a: Chatot|brn
+|
+|-heal|p2a: Chatot|145\/261 brn|[from] item: Leftovers
+|-damage|p2a: Chatot|129\/261 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1709943108
+|move|p2a: Chatot|Boomburst|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-heal|p2a: Chatot|145\/261 brn|[from] item: Leftovers
+|-damage|p2a: Chatot|129\/261 brn|[from] brn
+|upkeep
+|
+|t:|1709943110
+|switch|p1a: Gengar|Gengar-Mega, L78, M|178\/222
+|-damage|p1a: Gengar|151\/222|[from] Stealth Rock
+|turn|22
+|
+|t:|1709943116
+|move|p1a: Gengar|Sludge Wave|p2a: Chatot
+|-damage|p2a: Chatot|0 fnt
+|faint|p2a: Chatot
+|
+|upkeep
+|
+|t:|1709943195
+|switch|p2a: Ampharos|Ampharos, L84, M|288\/288
+|turn|23
+|
+|t:|1709943235
+|detailschange|p2a: Ampharos|Ampharos-Mega, L84, M
+|-mega|p2a: Ampharos|Ampharos|Ampharosite
+|-ability|p2a: Ampharos|Mold Breaker
+|move|p1a: Gengar|Sludge Wave|p2a: Ampharos
+|-damage|p2a: Ampharos|177\/288
+|move|p2a: Ampharos|Thunderbolt|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1709943238
+|switch|p1a: Turtonator|Turtonator, L88, F|227\/249
+|-damage|p1a: Turtonator|165\/249|[from] Stealth Rock
+|turn|24
+|c|☆6Roggenrolas|gg
+|-message|6Roggenrolas forfeited.
+|
+|win|35Q71N
+|n|☆6Roggenrolas|6roggenrolas
+|n|☆35Q71N|35q71n
+|n| gomdol2|gomdol2
+|n|+pia|pia
+|n| True Psycho|truepsycho
+|n| Nhar|nhar
+|n|+J0rdy004 ♫|j0rdy004
+|l|☆6Roggenrolas
+|player|p1|
+|l|+pia
+|l|+J0rdy004 ♫
+|l| Nhar
+|c|☆35Q71N|Gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆6Roggenrolas and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 6Roggenrolas and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat"><small> gomdol2 joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>For a second it bugged</em></div><div class="chat chatmessage-6roggenrolas"><strong style="color:#da1e10"><small>☆</small><span class="username" data-name="6Roggenrolas">6Roggenrolas</span>:</strong> <em>weird</em></div><div class="chat chatmessage-6roggenrolas"><strong style="color:#da1e10"><small>☆</small><span class="username" data-name="6Roggenrolas">6Roggenrolas</span>:</strong> <em>glhf</em></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Quagsire!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Ribombee</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Ribombee lost <abbr title="−42/238">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Carracosta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat"><small> Hell's Prophet joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ribombee used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Carracosta lost <abbr title="−148/274">54.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ribombee lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Carracosta used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Ribombee lost <abbr title="−173/238">72.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ribombee fainted!<br></div><div class="chat"><small> Hell's Prophet left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out <strong>Gengar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Carracosta, come back!<br></div><div class="battle-history">Go! <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gengar's Gengarite is reacting to the Key Stone!</small><br>The opposing Gengar has Mega Evolved into Mega Gengar!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gengar used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It doesn't affect Kecleon...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Gengar!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Knock Off</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Dark!</small><br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−129/307">42.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kecleon knocked off the opposing Quagsire's Leftovers!</small><br></div><div class="battle-history"><small>Kecleon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon, come back!<br></div><div class="battle-history">Go! <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Tsareena was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tsareena was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Quagsire!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Turtonator</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Turtonator lost <abbr title="−22/249">8.8%</abbr> of its health!)</small><br></div><div class="chat"><small> Hats and %pia joined;  Hats left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Solrock</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat"><small> True Psycho joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Turtonator!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solrock used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−60/307">19.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solrock used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solrock, come back!<br></div><div class="battle-history">Go! <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Quagsire!<br></div><div class="battle-history">6Roggenrolas sent out Gengar (<strong>Gengar-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gengar!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tsareena restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Tsareena was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Fair</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gengar used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tsareena lost <abbr title="−234/267">87.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Gengar lost <abbr title="−17/222">7.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tsareena went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-6roggenrolas"><strong style="color:#da1e10"><small>☆</small><span class="username" data-name="6Roggenrolas">6Roggenrolas</span>:</strong> <em>tsareena moment</em></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Gengar!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Quagsire!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Drain Punch</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Fighting!</small><br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−105/307">34.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Quagsire had its energy drained!</small><br></div><div class="battle-history"><small>Kecleon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon, come back!<br></div><div class="battle-history">Go! <strong>Chatot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Quagsire had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas withdrew Quagsire!<br></div><div class="battle-history">6Roggenrolas sent out <strong>Hypno</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Hypno!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Chatot put in a substitute!</small><br></div><div class="battle-history"><small>(Chatot lost <abbr title="−65/261">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Hypno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat"><small> Nhar joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Chatter</strong>!<br></div><div class="battle-history"><small>(The opposing Hypno lost <abbr title="−55/309">17.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hypno became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Hypno is confused!</small><br></div><div class="battle-history">The opposing Hypno used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>Chatot's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Hypno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Chatot put in a substitute!</small><br></div><div class="battle-history"><small>(Chatot lost <abbr title="−65/261">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Hypno is confused!</small><br></div><div class="battle-history">The opposing Hypno used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Hypno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Chatot's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Hypno is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hypno's wish came true!</small><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Hypno lost <abbr title="−223/309">72.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hypno snapped out of its confusion!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hypno used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>Chatot's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Hypno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Hypno lost <abbr title="−105/309">34.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hypno fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="chat"><small>+J0rdy004 ♫ joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out <strong>Dunsparce</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Dunsparce!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Dunsparce lost <abbr title="−295/337">87.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dunsparce fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out <strong>Quagsire</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Quagsire!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−199/307">64.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Chatot lost <abbr title="−114/261">43.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Chatot was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Chatot was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(The opposing Quagsire lost <abbr title="−84/307">27.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Quagsire fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chatot restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Chatot was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out Gengar (<strong>Gengar-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gengar!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gengar used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Chatot lost <abbr title="−129/261">49.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chatot fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ampharos's Ampharosite is reacting to the Key Stone!</small><br>Ampharos has Mega Evolved into Mega Ampharos!<br></div><div class="battle-history">[Ampharos's Mold Breaker]<br><small>Ampharos breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gengar used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Ampharos lost <abbr title="−111/288">38.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Gengar lost <abbr title="−151/222">68.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gengar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">6Roggenrolas sent out <strong>Turtonator</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Turtonator!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-6roggenrolas"><strong style="color:#da1e10"><small>☆</small><span class="username" data-name="6Roggenrolas">6Roggenrolas</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>6Roggenrolas forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat"><small>☆6Roggenrolas left</small></div><div class="chat"><small>+pia, +J0rdy004 ♫, and  Nhar left</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: LithiumBitch vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-751281083" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/lithiumbitch" class="subtle" target="_blank">LithiumBitch</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆LithiumBitch
+|j|☆35Q71N
+|player|p1|LithiumBitch|70
+|player|p2|35Q71N|65
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|46038,40263,26176,60649
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Volcanion|Volcanion, L77|250\/250
+|switch|p2a: Altaria|Altaria, L77, F|242\/242
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)
+|
+|move|p2a: Altaria|Dragon Dance|p2a: Altaria
+|-boost|p2a: Altaria|atk|1
+|-boost|p2a: Altaria|spe|1
+|move|p1a: Volcanion|Hidden Power|p2a: Altaria
+|-supereffective|p2a: Altaria
+|-crit|p2a: Altaria
+|-damage|p2a: Altaria|2\/242
+|
+|upkeep
+|turn|2
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Mudsdale|Mudsdale, L83, F|302\/302
+|-mega|p2a: Altaria|Altaria|Altarianite
+|detailschange|p2a: Altaria|Altaria-Mega, L77, F
+|move|p2a: Altaria|Earthquake|p1a: Mudsdale
+|-damage|p1a: Mudsdale|211\/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|
+|-heal|p1a: Mudsdale|229\/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|move|p2a: Altaria|Draco Meteor|p1a: Mudsdale
+|-damage|p1a: Mudsdale|96\/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-unboost|p2a: Altaria|spa|2
+|move|p1a: Mudsdale|Heavy Slam|p2a: Altaria
+|-supereffective|p2a: Altaria
+|-damage|p2a: Altaria|0 fnt
+|faint|p2a: Altaria
+|
+|-heal|p1a: Mudsdale|114\/302|[from] item: Leftovers
+|upkeep
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Glalie|Glalie, L83, F|267\/267
+|turn|4
+|
+|move|p2a: Glalie|Ice Beam|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|
+|upkeep
+|
+|switch|p1a: Rotom|Rotom-Heat, L79|209\/209
+|turn|5
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p2a: Cofagrigus|Cofagrigus, L80, F|224\/224
+|move|p1a: Rotom|Volt Switch|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|158\/224
+|inactive|LithiumBitch has 135 seconds left.
+|inactive|LithiumBitch has 120 seconds left.
+|inactive|LithiumBitch has 105 seconds left.
+|inactive|LithiumBitch has 90 seconds left.
+|
+|switch|p1a: Avalugg|Avalugg, L83, F|293\/293|[from]move: Volt Switch
+|
+|-heal|p2a: Cofagrigus|172\/224|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|switch|p2a: Drapion|Drapion, L79, F|240\/240
+|move|p1a: Avalugg|Toxic|p2a: Drapion
+|-immune|p2a: Drapion|[msg]
+|
+|upkeep
+|turn|7
+|inactive|LithiumBitch has 135 seconds left.
+|
+|move|p2a: Drapion|Toxic Spikes|p1a: Avalugg
+|-sidestart|p1: LithiumBitch|move: Toxic Spikes
+|move|p1a: Avalugg|Avalanche|p2a: Drapion
+|-damage|p2a: Drapion|177\/240
+|
+|upkeep
+|turn|8
+|
+|move|p2a: Drapion|Knock Off|p1a: Avalugg
+|-damage|p1a: Avalugg|225\/293
+|-enditem|p1a: Avalugg|Leftovers|[from] move: Knock Off|[of] p2a: Drapion
+|-damage|p2a: Drapion|153\/240|[from] item: Life Orb
+|move|p1a: Avalugg|Avalanche|p2a: Drapion
+|-damage|p2a: Drapion|18\/240
+|
+|upkeep
+|turn|9
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p2a: Drapion|Toxic Spikes|p1a: Avalugg
+|-sidestart|p1: LithiumBitch|move: Toxic Spikes
+|move|p1a: Avalugg|Recover|p1a: Avalugg
+|-heal|p1a: Avalugg|293\/293
+|
+|upkeep
+|turn|10
+|
+|move|p2a: Drapion|Earthquake|p1a: Avalugg
+|-damage|p1a: Avalugg|248\/293
+|-damage|p2a: Drapion|0 fnt|[from] item: Life Orb
+|faint|p2a: Drapion
+|move|p1a: Avalugg|Recover|p1a: Avalugg
+|-heal|p1a: Avalugg|293\/293
+|
+|upkeep
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Cofagrigus|Cofagrigus, L80, F|172\/224
+|turn|11
+|
+|move|p2a: Cofagrigus|Nasty Plot|p2a: Cofagrigus
+|-boost|p2a: Cofagrigus|spa|2
+|move|p1a: Avalugg|Toxic|p2a: Cofagrigus
+|-status|p2a: Cofagrigus|tox
+|
+|-heal|p2a: Cofagrigus|186\/224 tox|[from] item: Leftovers
+|-damage|p2a: Cofagrigus|172\/224 tox|[from] psn
+|upkeep
+|turn|12
+|
+|move|p2a: Cofagrigus|Shadow Ball|p1a: Avalugg
+|-damage|p1a: Avalugg|50\/293
+|move|p1a: Avalugg|Avalanche|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|64\/224 tox
+|-activate|p2a: Cofagrigus|ability: Mummy|Sturdy|[of] p1a: Avalugg
+|
+|-heal|p2a: Cofagrigus|78\/224 tox|[from] item: Leftovers
+|-damage|p2a: Cofagrigus|50\/224 tox|[from] psn
+|upkeep
+|turn|13
+|
+|move|p2a: Cofagrigus|Hidden Power|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|
+|-heal|p2a: Cofagrigus|64\/224 tox|[from] item: Leftovers
+|-damage|p2a: Cofagrigus|22\/224 tox|[from] psn
+|upkeep
+|
+|switch|p1a: Roserade|Roserade, L79, M|224\/224
+|-sideend|p1: LithiumBitch|move: Toxic Spikes|[of] p1a: Roserade
+|turn|14
+|
+|move|p1a: Roserade|Sludge Bomb|p2a: Cofagrigus
+|-resisted|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|0 fnt
+|faint|p2a: Cofagrigus
+|
+|upkeep
+|
+|switch|p2a: Glalie|Glalie, L83, F|267\/267
+|turn|15
+|
+|switch|p1a: Rotom|Rotom-Heat, L79|209\/209
+|switch|p2a: Landorus|Landorus-Therian, L75, M|257\/257
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rotom|atk|1
+|
+|upkeep
+|turn|16
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Rotom|Hidden Power|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|53\/257
+|move|p2a: Landorus|Stone Edge|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|9\/209
+|-damage|p2a: Landorus|28\/257|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|move|p1a: Rotom|Hidden Power|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|switch|p2a: Glalie|Glalie, L83, F|267\/267
+|turn|18
+|inactive|LithiumBitch has 135 seconds left.
+|
+|switch|p1a: Volcanion|Volcanion, L77|250\/250
+|move|p2a: Glalie|Ice Shard|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|243\/250
+|
+|upkeep
+|turn|19
+|inactive|LithiumBitch has 135 seconds left.
+|inactive|LithiumBitch has 120 seconds left.
+|inactive|LithiumBitch has 105 seconds left.
+|inactive|LithiumBitch has 90 seconds left.
+|
+|move|p2a: Glalie|Earthquake|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|137\/250
+|move|p1a: Volcanion|Fire Blast|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|91\/267
+|
+|upkeep
+|turn|20
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p1a: Rotom|Rotom-Heat, L79|9\/209
+|move|p2a: Glalie|Explosion|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p2a: Glalie
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|switch|p1a: Roserade|Roserade, L79, M|224\/224
+|switch|p2a: Torterra|Torterra, L83, F|293\/293
+|turn|21
+|
+|move|p1a: Roserade|Sludge Bomb|p2a: Torterra
+|-damage|p2a: Torterra|193\/293
+|move|p2a: Torterra|Rock Polish|p2a: Torterra
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|22
+|
+|move|p2a: Torterra|Earthquake|p1a: Roserade
+|-damage|p1a: Roserade|10\/224
+|-damage|p2a: Torterra|164\/293|[from] item: Life Orb
+|move|p1a: Roserade|Sludge Bomb|p2a: Torterra
+|-damage|p2a: Torterra|56\/293
+|
+|-heal|p1a: Roserade|24\/224|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|move|p2a: Torterra|Earthquake|p1a: Roserade
+|-damage|p1a: Roserade|0 fnt
+|-damage|p2a: Torterra|27\/293|[from] item: Life Orb
+|faint|p1a: Roserade
+|
+|upkeep
+|
+|switch|p1a: Regigigas|Regigigas, L83|318\/318
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|24
+|
+|move|p2a: Torterra|Wood Hammer|p1a: Regigigas
+|-damage|p1a: Regigigas|102\/318
+|-damage|p2a: Torterra|0 fnt|[from] Recoil
+|faint|p2a: Torterra
+|
+|win|LithiumBitch
+|l|☆35Q71N
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆LithiumBitch and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between LithiumBitch and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch sent out <strong>Volcanion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Altaria</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by 35Q71N)</div><div class="spacer battle-history"><br></div><div class="battle-history">Altaria used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>Altaria's Attack rose!</small><br></div><div class="battle-history"><small>Altaria's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volcanion used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Altaria lost <abbr title="−240/242">99.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch withdrew Volcanion!<br></div><div class="battle-history">LithiumBitch sent out <strong>Mudsdale</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Altaria's Altarianite is reacting to the Key Stone!</small><br>Altaria has Mega Evolved into Mega Altaria!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Altaria used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−91/302">30.1%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Mudsdale's Stamina]<br></div><div class="battle-history"><small>The opposing Mudsdale's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mudsdale restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Altaria used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−133/302">44.0%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Mudsdale's Stamina]<br></div><div class="battle-history"><small>The opposing Mudsdale's Defense rose!</small><br></div><div class="battle-history"><small>Altaria's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale used <strong>Heavy Slam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Altaria lost <abbr title="−2/242">0.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Altaria fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mudsdale restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mudsdale lost <abbr title="−114/302">37.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mudsdale fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch sent out Rotom (<strong>Rotom-Heat</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie, come back!<br></div><div class="battle-history">Go! <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Cofagrigus lost <abbr title="−66/224">29.5%</abbr> of its health!)</small><br></div><div class="chat message-error">LithiumBitch has 135 seconds left.</div><div class="chat message-error">LithiumBitch has 120 seconds left.</div><div class="chat message-error">LithiumBitch has 105 seconds left.</div><div class="chat message-error">LithiumBitch has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom went back to LithiumBitch!<br></div><div class="battle-history">LithiumBitch sent out <strong>Avalugg</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cofagrigus, come back!<br></div><div class="battle-history">Go! <strong>Drapion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect Drapion...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">LithiumBitch has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Drapion used <strong>Toxic Spikes</strong>!<br></div><div class="battle-history"><small>Poison spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Avalanche</strong>!<br></div><div class="battle-history"><small>(Drapion lost <abbr title="−63/240">26.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Drapion used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Avalugg lost <abbr title="−68/293">23.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Drapion knocked off the opposing Avalugg's Leftovers!</small><br></div><div class="battle-history"><small>Drapion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Avalanche</strong>!<br></div><div class="battle-history"><small>(Drapion lost <abbr title="−135/240">56.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Drapion used <strong>Toxic Spikes</strong>!<br></div><div class="battle-history"><small>Poison spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Avalugg had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Drapion used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Avalugg lost <abbr title="−45/293">15.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Drapion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Drapion fainted!<br></div><div class="battle-history">The opposing Avalugg used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Avalugg had its HP restored.</small><br></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cofagrigus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cofagrigus used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Cofagrigus's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Cofagrigus was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Cofagrigus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cofagrigus used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Avalugg lost <abbr title="−243/293">82.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg used <strong>Avalanche</strong>!<br></div><div class="battle-history"><small>(Cofagrigus lost <abbr title="−108/224">48.2%</abbr> of its health!)</small><br></div><div class="battle-history">[Cofagrigus's Mummy]<br>[The opposing Avalugg's Sturdy]<br>[The opposing Avalugg's Mummy]<br><small>The opposing Avalugg's Ability became Mummy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Cofagrigus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cofagrigus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Avalugg lost <abbr title="−50/293">17.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Avalugg fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cofagrigus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Cofagrigus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch sent out <strong>Roserade</strong>!<br></div><div class="battle-history"><small>The poison spikes disappeared from the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Roserade used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Cofagrigus lost <abbr title="−22/224">9.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cofagrigus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch withdrew Roserade!<br></div><div class="battle-history">LithiumBitch sent out Rotom (<strong>Rotom-Heat</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie, come back!<br></div><div class="battle-history">Go! Landorus (<strong>Landorus-Therian</strong>)!<br></div><div class="battle-history">[Landorus's Intimidate]<br></div><div class="battle-history"><small>The opposing Rotom's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Landorus lost <abbr title="−204/257">79.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−200/209">95.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Landorus lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Landorus lost <abbr title="−28/257">10.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Landorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">LithiumBitch has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch withdrew Rotom!<br></div><div class="battle-history">LithiumBitch sent out <strong>Volcanion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Volcanion lost <abbr title="−7/250">2.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">LithiumBitch has 135 seconds left.</div><div class="chat message-error">LithiumBitch has 120 seconds left.</div><div class="chat message-error">LithiumBitch has 105 seconds left.</div><div class="chat message-error">LithiumBitch has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Volcanion lost <abbr title="−106/250">42.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volcanion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Glalie lost <abbr title="−176/267">65.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch withdrew Volcanion!<br></div><div class="battle-history">LithiumBitch sent out Rotom (<strong>Rotom-Heat</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Explosion</strong>!<br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−9/209">4.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie fainted!<br></div><div class="battle-history">The opposing Rotom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch sent out <strong>Roserade</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Roserade used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−100/293">34.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Rock Polish</strong>!<br></div><div class="battle-history"><small>Torterra's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Roserade lost <abbr title="−214/224">95.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Roserade used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−108/293">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Roserade restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Roserade lost <abbr title="−24/224">10.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Roserade fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">LithiumBitch sent out <strong>Regigigas</strong>!<br></div><div class="battle-history">[The opposing Regigigas's Slow Start]<br><small>The opposing Regigigas can't get it going!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Regigigas lost <abbr title="−216/318">67.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>LithiumBitch</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

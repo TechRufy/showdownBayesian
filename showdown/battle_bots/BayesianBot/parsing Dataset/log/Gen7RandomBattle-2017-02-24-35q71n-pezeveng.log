@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. pezeveng</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-538482431" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/pezeveng" class="subtle" target="_blank">pezeveng</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|pezeveng
+|player|p1|35Q71N|169
+|player|p2|pezeveng|293
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|35680,27763,58439,4109
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Mew|Mew, L77|100\/100
+|switch|p2a: Florges|Florges, L79, F|100\/100
+|turn|1
+|choice|move taunt|switch 4
+|
+|switch|p2a: Mightyena|Mightyena, L79, M|100\/100
+|move|p1a: Mew|Taunt|p2a: Mightyena
+|-start|p2a: Mightyena|move: Taunt
+|
+|upkeep
+|turn|2
+|choice|move willowisp|move crunch
+|
+|move|p1a: Mew|Will-O-Wisp|p2a: Mightyena
+|-status|p2a: Mightyena|brn
+|move|p2a: Mightyena|Crunch|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|73\/100
+|
+|-heal|p1a: Mew|79\/100|[from] item: Leftovers
+|-damage|p2a: Mightyena|94\/100 brn|[from] brn
+|upkeep
+|turn|3
+|choice|move stealthrock|move crunch
+|
+|move|p1a: Mew|Stealth Rock|p2a: Mightyena
+|-sidestart|p2: pezeveng|move: Stealth Rock
+|move|p2a: Mightyena|Crunch|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|49\/100
+|
+|-heal|p1a: Mew|55\/100|[from] item: Leftovers
+|-damage|p2a: Mightyena|88\/100 brn|[from] brn
+|-end|p2a: Mightyena|move: Taunt
+|upkeep
+|turn|4
+|choice|switch 3|move crunch
+|
+|switch|p1a: Milotic|Milotic, L79, F|100\/100
+|move|p2a: Mightyena|Crunch|p1a: Milotic
+|-damage|p1a: Milotic|85\/100
+|
+|-heal|p1a: Milotic|91\/100|[from] item: Leftovers
+|-damage|p2a: Mightyena|82\/100 brn|[from] brn
+|upkeep
+|turn|5
+|choice|move dragontail|switch 2
+|
+|switch|p2a: Tropius|Tropius, L79, M|100\/100
+|-damage|p2a: Tropius|75\/100|[from] Stealth Rock
+|move|p1a: Milotic|Dragon Tail|p2a: Tropius
+|-damage|p2a: Tropius|65\/100
+|drag|p2a: Carnivine|Carnivine, L79, M|100\/100
+|-damage|p2a: Carnivine|88\/100|[from] Stealth Rock
+|
+|-heal|p1a: Milotic|97\/100|[from] item: Leftovers
+|-heal|p2a: Carnivine|94\/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|choice|switch 5|move powerwhip
+|
+|switch|p1a: Heracross|Heracross, L79, F|100\/100
+|move|p2a: Carnivine|Power Whip|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|72\/100
+|
+|-heal|p2a: Carnivine|100\/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|choice|move pinmissile|switch 2
+|
+|switch|p2a: Mightyena|Mightyena, L79, M|82\/100 brn
+|-damage|p2a: Mightyena|69\/100 brn|[from] Stealth Rock
+|move|p1a: Heracross|Pin Missile|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|39\/100 brn
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|8\/100 brn
+|-hitcount|p2a: Mightyena|2
+|
+|-damage|p2a: Mightyena|2\/100 brn|[from] brn
+|upkeep
+|turn|8
+|choice|move bulletseed|move suckerpunch
+|
+|move|p2a: Mightyena|Sucker Punch|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|65\/100
+|move|p1a: Heracross|Bullet Seed|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|-hitcount|p2a: Mightyena|1
+|faint|p2a: Mightyena
+|
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Mimikyu|Mimikyu, L75, F|100\/100
+|-damage|p2a: Mimikyu|88\/100|[from] Stealth Rock
+|turn|9
+|choice|switch 3|move swordsdance
+|
+|switch|p1a: Mew|Mew, L77|55\/100
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-heal|p1a: Mew|61\/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|choice|move willowisp|move shadowsneak
+|
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Mew
+|-supereffective|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|-damage|p2a: Mimikyu|79\/100|[from] item: Life Orb
+|faint|p1a: Mew
+|
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Dewgong|Dewgong, L79, M|100\/100
+|turn|11
+|choice|move perishsong|move woodhammer
+|
+|move|p2a: Mimikyu|Wood Hammer|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|-damage|p2a: Mimikyu|35\/100|[from] recoil|[of] p1a: Dewgong
+|-damage|p2a: Mimikyu|26\/100|[from] item: Life Orb
+|faint|p1a: Dewgong
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Gourgeist|Gourgeist, L79, F|100\/100
+|turn|12
+|choice|move leechseed|switch 6
+|
+|switch|p2a: Goodra|Goodra, L79, M|100\/100
+|-damage|p2a: Goodra|88\/100|[from] Stealth Rock
+|move|p1a: Gourgeist|Leech Seed|p2a: Goodra
+|-ability|p2a: Goodra|Sap Sipper|boost
+|-boost|p2a: Goodra|atk|1
+|
+|upkeep
+|turn|13
+|choice|move substitute|move fireblast
+|
+|move|p1a: Gourgeist|Substitute|p1a: Gourgeist
+|-start|p1a: Gourgeist|Substitute
+|-damage|p1a: Gourgeist|75\/100
+|move|p2a: Goodra|Fire Blast|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-end|p1a: Gourgeist|Substitute
+|
+|-heal|p1a: Gourgeist|82\/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|choice|switch 5|move fireblast
+|
+|switch|p1a: Milotic|Milotic, L79, F|97\/100
+|move|p2a: Goodra|Fire Blast|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|87\/100
+|
+|-heal|p1a: Milotic|93\/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|choice|move toxic|move thunderbolt
+|
+|move|p1a: Milotic|Toxic|p2a: Goodra
+|-status|p2a: Goodra|tox
+|move|p2a: Goodra|Thunderbolt|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|59\/100
+|
+|-heal|p1a: Milotic|65\/100|[from] item: Leftovers
+|-damage|p2a: Goodra|82\/100 tox|[from] psn
+|upkeep
+|turn|16
+|choice|move dragontail|move thunderbolt
+|
+|move|p2a: Goodra|Thunderbolt|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|28\/100
+|move|p1a: Milotic|Dragon Tail|p2a: Goodra|[miss]
+|-miss|p1a: Milotic|p2a: Goodra
+|
+|-heal|p1a: Milotic|34\/100|[from] item: Leftovers
+|-damage|p2a: Goodra|69\/100 tox|[from] psn
+|upkeep
+|turn|17
+|choice|switch 5|move thunderbolt
+|
+|switch|p1a: Gourgeist|Gourgeist, L79, F|82\/100
+|move|p2a: Goodra|Thunderbolt|p1a: Gourgeist
+|-resisted|p1a: Gourgeist
+|-damage|p1a: Gourgeist|65\/100
+|-status|p1a: Gourgeist|par
+|
+|-heal|p1a: Gourgeist|71\/100 par|[from] item: Leftovers
+|-damage|p2a: Goodra|50\/100 tox|[from] psn
+|upkeep
+|turn|18
+|choice|move synthesis|move dracometeor
+|
+|move|p2a: Goodra|Draco Meteor|p1a: Gourgeist
+|-damage|p1a: Gourgeist|5\/100 par
+|-unboost|p2a: Goodra|spa|2
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|55\/100 par
+|
+|-heal|p1a: Gourgeist|61\/100 par|[from] item: Leftovers
+|-damage|p2a: Goodra|25\/100 tox|[from] psn
+|upkeep
+|turn|19
+|choice|move synthesis|switch 3
+|
+|switch|p2a: Tropius|Tropius, L79, M|65\/100
+|-damage|p2a: Tropius|40\/100|[from] Stealth Rock
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|65\/100|[from] item: Sitrus Berry
+|cant|p1a: Gourgeist|par
+|
+|-heal|p1a: Gourgeist|67\/100 par|[from] item: Leftovers
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|20
+|choice|switch 4|move substitute
+|
+|switch|p1a: Excadrill|Excadrill, L75, F|100\/100
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Tropius|Substitute|p2a: Tropius
+|-start|p2a: Tropius|Substitute
+|-damage|p2a: Tropius|40\/100
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|65\/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|21
+|choice|move ironhead|move leechseed
+|
+|move|p1a: Excadrill|Iron Head|p2a: Tropius
+|-end|p2a: Tropius|Substitute
+|-damage|p1a: Excadrill|91\/100|[from] item: Life Orb
+|move|p2a: Tropius|Leech Seed|p1a: Excadrill
+|-start|p1a: Excadrill|move: Leech Seed
+|
+|-damage|p1a: Excadrill|78\/100|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|78\/100|[silent]
+|upkeep
+|turn|22
+|choice|move rockslide|move gigadrain
+|
+|move|p1a: Excadrill|Rock Slide|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|24\/100
+|-damage|p1a: Excadrill|69\/100|[from] item: Life Orb
+|move|p2a: Tropius|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|42\/100
+|-heal|p2a: Tropius|37\/100|[from] drain|[of] p1a: Excadrill
+|
+|-damage|p1a: Excadrill|30\/100|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|50\/100|[silent]
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|75\/100|[from] item: Sitrus Berry
+|turn|23
+|choice|move rockslide|move gigadrain
+|
+|move|p1a: Excadrill|Rock Slide|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|16\/100
+|-damage|p1a: Excadrill|20\/100|[from] item: Life Orb
+|move|p2a: Tropius|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-heal|p2a: Tropius|26\/100|[from] drain|[of] p1a: Excadrill
+|faint|p1a: Excadrill
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Milotic|Milotic, L79, F|34\/100
+|turn|24
+|choice|move icebeam|move gigadrain
+|
+|move|p1a: Milotic|Ice Beam|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|-heal|p1a: Milotic|40\/100|[from] item: Leftovers
+|upkeep
+|choice||switch 2
+|
+|switch|p2a: Carnivine|Carnivine, L79, M|100\/100
+|-damage|p2a: Carnivine|88\/100|[from] Stealth Rock
+|turn|25
+|choice|switch 3|move powerwhip
+|
+|switch|p1a: Heracross|Heracross, L79, F|65\/100
+|move|p2a: Carnivine|Power Whip|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|39\/100
+|
+|-heal|p2a: Carnivine|94\/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|choice|move pinmissile mega|move return
+|
+|detailschange|p1a: Heracross|Heracross-Mega, L79, F
+|-mega|p1a: Heracross|Heracross|Heracronite
+|move|p1a: Heracross|Pin Missile|p2a: Carnivine
+|-supereffective|p2a: Carnivine
+|-damage|p2a: Carnivine|50\/100
+|-supereffective|p2a: Carnivine
+|-damage|p2a: Carnivine|9\/100
+|-supereffective|p2a: Carnivine
+|-damage|p2a: Carnivine|0 fnt
+|-hitcount|p2a: Carnivine|3
+|faint|p2a: Carnivine
+|
+|upkeep
+|choice||switch 3
+|
+|switch|p2a: Goodra|Goodra, L79, M|25\/100 tox
+|-damage|p2a: Goodra|13\/100 tox|[from] Stealth Rock
+|turn|27
+|choice|move pinmissile|move dracometeor
+|
+|move|p2a: Goodra|Draco Meteor|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|-unboost|p2a: Goodra|spa|2
+|faint|p1a: Heracross
+|
+|-damage|p2a: Goodra|7\/100 tox|[from] psn
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Gourgeist|Gourgeist, L79, F|67\/100 par
+|turn|28
+|choice|move synthesis|move fireblast
+|
+|move|p2a: Goodra|Fire Blast|p1a: Gourgeist|[miss]
+|-miss|p2a: Goodra|p1a: Gourgeist
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|100\/100 par
+|
+|-damage|p2a: Goodra|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Goodra
+|choice||switch 4
+|
+|switch|p2a: Florges|Florges, L79, F|100\/100
+|-damage|p2a: Florges|88\/100|[from] Stealth Rock
+|turn|29
+|choice|switch 3|move moonblast
+|
+|switch|p1a: Milotic|Milotic, L79, F|40\/100
+|move|p2a: Florges|Moonblast|p1a: Milotic
+|-damage|p1a: Milotic|10\/100
+|
+|-heal|p1a: Milotic|16\/100|[from] item: Leftovers
+|-heal|p2a: Florges|94\/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|choice|move toxic|move moonblast
+|
+|move|p1a: Milotic|Toxic|p2a: Florges
+|-status|p2a: Florges|tox
+|move|p2a: Florges|Moonblast|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|-heal|p2a: Florges|99\/100 tox|[from] item: Leftovers
+|-damage|p2a: Florges|94\/100 tox|[from] psn
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Gourgeist|Gourgeist, L79, F|100\/100 par
+|turn|31
+|choice|move leechseed|move moonblast
+|
+|move|p2a: Florges|Moonblast|p1a: Gourgeist
+|-damage|p1a: Gourgeist|46\/100 par
+|move|p1a: Gourgeist|Leech Seed|p2a: Florges
+|-start|p2a: Florges|move: Leech Seed
+|
+|-heal|p2a: Florges|99\/100 tox|[from] item: Leftovers
+|-heal|p1a: Gourgeist|52\/100 par|[from] item: Leftovers
+|-damage|p2a: Florges|88\/100 tox|[from] Leech Seed|[of] p1a: Gourgeist
+|-heal|p1a: Gourgeist|66\/100 par|[silent]
+|-damage|p2a: Florges|76\/100 tox|[from] psn
+|upkeep
+|turn|32
+|choice|move synthesis|move moonblast
+|
+|move|p2a: Florges|Moonblast|p1a: Gourgeist
+|-damage|p1a: Gourgeist|13\/100 par
+|-unboost|p1a: Gourgeist|spa|1
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|63\/100 par
+|
+|-heal|p2a: Florges|82\/100 tox|[from] item: Leftovers
+|-heal|p1a: Gourgeist|69\/100 par|[from] item: Leftovers
+|-damage|p2a: Florges|70\/100 tox|[from] Leech Seed|[of] p1a: Gourgeist
+|-heal|p1a: Gourgeist|83\/100 par|[silent]
+|-damage|p2a: Florges|52\/100 tox|[from] psn
+|upkeep
+|turn|33
+|choice|move synthesis|move moonblast
+|
+|move|p2a: Florges|Moonblast|p1a: Gourgeist
+|-damage|p1a: Gourgeist|31\/100 par
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|81\/100 par
+|
+|-heal|p2a: Florges|58\/100 tox|[from] item: Leftovers
+|-heal|p1a: Gourgeist|87\/100 par|[from] item: Leftovers
+|-damage|p2a: Florges|46\/100 tox|[from] Leech Seed|[of] p1a: Gourgeist
+|-heal|p1a: Gourgeist|99\/100 par|[silent]
+|-damage|p2a: Florges|22\/100 tox|[from] psn
+|upkeep
+|turn|34
+|choice|move synthesis|move moonblast
+|
+|move|p2a: Florges|Moonblast|p1a: Gourgeist
+|-damage|p1a: Gourgeist|49\/100 par
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|99\/100 par
+|
+|-heal|p2a: Florges|28\/100 tox|[from] item: Leftovers
+|-heal|p1a: Gourgeist|100\/100 par|[from] item: Leftovers
+|-damage|p2a: Florges|16\/100 tox|[from] Leech Seed|[of] p1a: Gourgeist
+|-damage|p2a: Florges|0 fnt|[from] psn
+|upkeep
+|faint|p2a: Florges
+|choice||switch 6
+|
+|switch|p2a: Mimikyu|Mimikyu, L75, F|26\/100
+|-damage|p2a: Mimikyu|14\/100|[from] Stealth Rock
+|turn|35
+|choice|move synthesis|move swordsdance
+|
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|
+|upkeep
+|turn|36
+|choice|move leechseed|move playrough
+|
+|move|p2a: Mimikyu|Play Rough|p1a: Gourgeist
+|-damage|p1a: Gourgeist|32\/100 par
+|-damage|p2a: Mimikyu|4\/100|[from] item: Life Orb
+|move|p1a: Gourgeist|Leech Seed|p2a: Mimikyu
+|-start|p2a: Mimikyu|move: Leech Seed
+|
+|-heal|p1a: Gourgeist|38\/100 par|[from] item: Leftovers
+|-damage|p2a: Mimikyu|0 fnt|[from] Leech Seed|[of] p1a: Gourgeist
+|-heal|p1a: Gourgeist|41\/100 par|[silent]
+|upkeep
+|faint|p2a: Mimikyu
+|
+|win|35Q71N
+|player|p1
+|player|p2
+|raw|35Q71N's rating: 1601 &rarr; <strong>1620<\/strong><br \/>(+19 for winning)
+|raw|pezeveng's rating: 1598 &rarr; <strong>1578<\/strong><br \/>(-20 for losing)
+|l|pezeveng</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and pezeveng joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and pezeveng!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mew</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng withdrew Florges!<br></div><div class="battle-history">pezeveng sent out <strong>Mightyena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Mightyena fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Mightyena was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mightyena used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost 27% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mightyena was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mightyena used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mightyena was hurt by its burn!</small><br></div><div class="battle-history"><small>The opposing Mightyena shook off the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mightyena used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Milotic lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mightyena was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng withdrew Mightyena!<br></div><div class="battle-history">pezeveng sent out <strong>Tropius</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tropius!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>(The opposing Tropius lost 10% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Carnivine</strong> was dragged out!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Carnivine!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Heracross lost 28% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng withdrew Carnivine!<br></div><div class="battle-history">pezeveng sent out <strong>Mightyena</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Mightyena!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heracross used <strong>Pin Missile</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mightyena lost 30% of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mightyena lost 31% of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mightyena was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mightyena used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Heracross lost 7% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heracross used <strong>Bullet Seed</strong>!<br></div><div class="battle-history"><small>(The opposing Mightyena lost 2% of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 1 time!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mightyena fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Mimikyu</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Mimikyu!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heracross, come back!<br></div><div class="battle-history">Go! <strong>Mew</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Mew lost 61% of its health!)</small><br></div><div class="battle-history"><small>The opposing Mimikyu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dewgong lost 100% of its health!)</small><br></div><div class="battle-history"><small>The opposing Mimikyu was damaged by the recoil!</small><br></div><div class="battle-history"><small>The opposing Mimikyu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng withdrew Mimikyu!<br></div><div class="battle-history">pezeveng sent out <strong>Goodra</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Goodra!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Leech Seed</strong>!<br></div><div class="battle-history">[The opposing Goodra's Sap Sipper]<br></div><div class="battle-history"><small>The opposing Goodra's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Gourgeist put in a substitute!</small><br></div><div class="battle-history"><small>(Gourgeist lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Gourgeist's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Milotic lost 10% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Goodra was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Milotic lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Milotic lost 37% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>The opposing Goodra avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Gourgeist lost 17% of its health!)</small><br></div><div class="battle-history"><small>Gourgeist is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 66% of its health!)</small><br></div><div class="battle-history"><small>The opposing Goodra's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng withdrew Goodra!<br></div><div class="battle-history">pezeveng sent out <strong>Tropius</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tropius!</small><br></div><div class="battle-history"><small>(The opposing Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[The opposing Tropius's Harvest]<br><small>The opposing Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Tropius put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 25% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>The opposing Tropius's substitute faded!</small><br></div><div class="battle-history"><small>Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Excadrill was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Excadrill's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 54% of its health!)</small><br></div><div class="battle-history"><small>Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Excadrill lost 27% of its health!)</small><br></div><div class="battle-history"><small>Excadrill had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Excadrill's health is sapped by Leech Seed!</small><br></div><div class="battle-history">[The opposing Tropius's Harvest]<br><small>The opposing Tropius harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The opposing Tropius ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Tropius restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 59% of its health!)</small><br></div><div class="battle-history"><small>Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Excadrill lost 20% of its health!)</small><br></div><div class="battle-history"><small>Excadrill had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tropius lost 26% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tropius fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Carnivine</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Carnivine!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Heracross lost 26% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Carnivine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Heracross's Heracronite is reacting to the Key Stone!</small><br>Heracross has Mega Evolved into Mega Heracross!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heracross used <strong>Pin Missile</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Carnivine lost 44% of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Carnivine lost 41% of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Carnivine lost 9% of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 3 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Carnivine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Goodra</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Goodra!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(Heracross lost 39% of its health!)</small><br></div><div class="battle-history"><small>The opposing Goodra's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heracross fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>Gourgeist avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Goodra was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Goodra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Florges</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Florges!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Milotic lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Florges was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Milotic lost 16% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 54% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Florges was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Florges was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 53% of its health!)</small><br></div><div class="battle-history"><small>Gourgeist's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Florges was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 52% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Florges was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 50% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Florges's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Florges was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">pezeveng sent out <strong>Mimikyu</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Mimikyu!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost 68% of its health!)</small><br></div><div class="battle-history"><small>The opposing Mimikyu lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Mimikyu's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat">35Q71N's rating: 1601 → <strong>1620</strong><br>(+19 for winning)</div><div class="chat">pezeveng's rating: 1598 → <strong>1578</strong><br>(-20 for losing)</div><div class="chat"><small>pezeveng left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

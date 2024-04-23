@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. Fermfx</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-555315630" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/fermfx" class="subtle" target="_blank">Fermfx</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|Fermfx
+|player|p1|35Q71N|101
+|player|p2|Fermfx|101
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|50723,65351,45956,9363,42727,111,36130,57005,4154,21869,39393,47785
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Dewgong|Dewgong, L79, M|100\/100
+|switch|p2a: Magnezone|Magnezone, L75|100\/100
+|-item|p2a: Magnezone|Air Balloon
+|turn|1
+|choice|move protect|move voltswitch
+|
+|move|p1a: Dewgong|Protect|p1a: Dewgong
+|-singleturn|p1a: Dewgong|Protect
+|move|p2a: Magnezone|Volt Switch|p1a: Dewgong
+|-activate|p1a: Dewgong|move: Protect
+|
+|upkeep
+|turn|2
+|choice|switch 2|move voltswitch
+|
+|switch|p1a: Quagsire|Quagsire, L79, M|100\/100
+|move|p2a: Magnezone|Volt Switch|p1a: Quagsire
+|-immune|p1a: Quagsire|[msg]
+|
+|upkeep
+|turn|3
+|choice|switch 5|switch 5
+|
+|switch|p2a: Tsareena|Tsareena, L77, F|100\/100
+|switch|p1a: Hitmonchan|Hitmonchan, L79, M|100\/100
+|
+|upkeep
+|turn|4
+|choice|move firepunch|switch 6
+|
+|switch|p2a: Azumarill|Azumarill, L76, F|100\/100
+|move|p1a: Hitmonchan|Fire Punch|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|83\/100
+|-damage|p1a: Hitmonchan|91\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|choice|switch 5|move playrough
+|
+|switch|p1a: Quagsire|Quagsire, L79, M|100\/100
+|move|p2a: Azumarill|Play Rough|p1a: Quagsire
+|-damage|p1a: Quagsire|64\/100
+|
+|upkeep
+|turn|6
+|choice|move recover|switch 6
+|
+|switch|p2a: Tsareena|Tsareena, L77, F|100\/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|100\/100
+|
+|upkeep
+|turn|7
+|choice|switch 5|move tropkick
+|
+|switch|p1a: Hitmonchan|Hitmonchan, L79, M|91\/100
+|move|p2a: Tsareena|Trop Kick|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|47\/100
+|-unboost|p1a: Hitmonchan|atk|1
+|
+|upkeep
+|turn|8
+|choice|move drainpunch|move tropkick
+|
+|move|p2a: Tsareena|Trop Kick|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|9\/100
+|-unboost|p1a: Hitmonchan|atk|1
+|move|p1a: Hitmonchan|Drain Punch|p2a: Tsareena
+|-damage|p2a: Tsareena|75\/100
+|-heal|p1a: Hitmonchan|23\/100|[from] drain|[of] p2a: Tsareena
+|-damage|p1a: Hitmonchan|13\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|choice|switch 6|move tropkick
+|
+|switch|p1a: Victini|Victini, L76|100\/100
+|move|p2a: Tsareena|Trop Kick|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|89\/100
+|-unboost|p1a: Victini|atk|1
+|
+|upkeep
+|turn|10
+|choice|move boltstrike|switch 3
+|
+|switch|p2a: Manectric|Manectric, L75, M|100\/100
+|move|p1a: Victini|Bolt Strike|p2a: Manectric
+|-ability|p2a: Manectric|Lightning Rod|boost
+|-boost|p2a: Manectric|spa|1
+|
+|upkeep
+|turn|11
+|choice|switch 5|move hiddenpower mega
+|
+|switch|p1a: Quagsire|Quagsire, L79, M|100\/100
+|detailschange|p2a: Manectric|Manectric-Mega, L75, M
+|-mega|p2a: Manectric|Manectric|Manectite
+|-ability|p2a: Manectric|Intimidate|boost
+|-unboost|p1a: Quagsire|atk|1
+|move|p2a: Manectric|Hidden Power|p1a: Quagsire
+|-supereffective|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Hitmonchan|Hitmonchan, L79, M|13\/100
+|turn|12
+|choice|move machpunch|move thunderbolt
+|
+|move|p1a: Hitmonchan|Mach Punch|p2a: Manectric
+|-crit|p2a: Manectric
+|-damage|p2a: Manectric|51\/100
+|-damage|p1a: Hitmonchan|4\/100|[from] item: Life Orb
+|move|p2a: Manectric|Thunderbolt|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Victini|Victini, L76|89\/100
+|turn|13
+|choice|move blueflare|move voltswitch
+|
+|move|p2a: Manectric|Volt Switch|p1a: Victini
+|-damage|p1a: Victini|59\/100
+|choice||switch 6
+|
+|switch|p2a: Azumarill|Azumarill, L76, F|83\/100
+|move|p1a: Victini|Blue Flare|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|58\/100
+|
+|upkeep
+|turn|14
+|choice|switch 4|switch 6
+|
+|switch|p1a: Bruxish|Bruxish, L79, M|100\/100
+|switch|p2a: Manectric|Manectric-Mega, L75, M|51\/100
+|-ability|p2a: Manectric|Intimidate|boost
+|-unboost|p1a: Bruxish|atk|1
+|
+|upkeep
+|turn|15
+|choice|switch 2|move thunderbolt
+|
+|switch|p1a: Dewgong|Dewgong, L79, M|100\/100
+|move|p2a: Manectric|Thunderbolt|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|24\/100
+|
+|-heal|p1a: Dewgong|30\/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|choice|move protect|move thunderbolt
+|
+|move|p1a: Dewgong|Protect|p1a: Dewgong
+|-singleturn|p1a: Dewgong|Protect
+|move|p2a: Manectric|Thunderbolt|p1a: Dewgong
+|-activate|p1a: Dewgong|move: Protect
+|
+|-heal|p1a: Dewgong|36\/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|choice|move surf|move thunderbolt
+|
+|move|p2a: Manectric|Thunderbolt|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|faint|p1a: Dewgong
+|
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Tapu Koko|Tapu Koko, L75|100\/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|18
+|choice|move uturn|move voltswitch
+|
+|move|p2a: Manectric|Volt Switch|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|66\/100
+|choice||switch 3
+|
+|switch|p2a: Tsareena|Tsareena, L77, F|75\/100
+|move|p1a: Tapu Koko|U-turn|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|25\/100
+|choice|switch 4|
+|
+|switch|p1a: Victini|Victini, L76|59\/100
+|
+|upkeep
+|turn|19
+|choice|switch 2|move uturn
+|
+|switch|p1a: Bruxish|Bruxish, L79, M|100\/100
+|move|p2a: Tsareena|U-turn|p1a: Bruxish
+|-supereffective|p1a: Bruxish
+|-damage|p1a: Bruxish|46\/100
+|choice||switch 3
+|
+|switch|p2a: Manectric|Manectric-Mega, L75, M|51\/100
+|-ability|p2a: Manectric|Intimidate|boost
+|-unboost|p1a: Bruxish|atk|1
+|
+|upkeep
+|turn|20
+|choice|move aquajet|move thunderbolt
+|
+|move|p1a: Bruxish|Aqua Jet|p2a: Manectric
+|-damage|p2a: Manectric|32\/100
+|move|p2a: Manectric|Thunderbolt|p1a: Bruxish
+|-supereffective|p1a: Bruxish
+|-damage|p1a: Bruxish|0 fnt
+|faint|p1a: Bruxish
+|
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Tapu Koko|Tapu Koko, L75|66\/100
+|turn|21
+|choice|move dazzlinggleam|move voltswitch
+|
+|move|p2a: Manectric|Volt Switch|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|36\/100
+|choice||switch 2
+|
+|switch|p2a: Torkoal|Torkoal, L79, F|100\/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|81\/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Torkoal|87\/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|choice|move uturn|move earthpower
+|
+|move|p1a: Tapu Koko|U-turn|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|80\/100
+|choice|switch 2|
+|
+|switch|p1a: Victini|Victini, L76|59\/100
+|move|p2a: Torkoal|Earth Power|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|34\/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Torkoal|85\/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|23
+|choice|move blueflare|move earthpower
+|
+|move|p1a: Victini|Blue Flare|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|40\/100
+|move|p2a: Torkoal|Earth Power|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|11\/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Torkoal|46\/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|choice|move blueflare|switch 6
+|
+|switch|p2a: Azumarill|Azumarill, L76, F|58\/100
+|move|p1a: Victini|Blue Flare|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|23\/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|choice|move blueflare|move aquajet
+|
+|move|p2a: Azumarill|Aqua Jet|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|-weather|none
+|upkeep
+|choice|switch 2|
+|
+|switch|p1a: Tapu Koko|Tapu Koko, L75|36\/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|26
+|choice|move dazzlinggleam|switch 5
+|
+|switch|p2a: Magnezone|Magnezone, L75|100\/100
+|-item|p2a: Magnezone|Air Balloon
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|84\/100
+|-enditem|p2a: Magnezone|Air Balloon
+|
+|upkeep
+|turn|27
+|c|☆35Q71N|gg
+|choice|move wildcharge|move flashcannon
+|
+|move|p1a: Tapu Koko|Wild Charge|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|57\/100
+|-damage|p1a: Tapu Koko|29\/100|[from] recoil|[of] p2a: Magnezone
+|move|p2a: Magnezone|Flash Cannon|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|win|Fermfx
+|raw|35Q71N's rating: 1776 &rarr; <strong>1752<\/strong><br \/>(-24 for losing)
+|raw|Fermfx's rating: 1713 &rarr; <strong>1736<\/strong><br \/>(+23 for winning)
+|c|☆Fermfx|Gg
+|l|35Q71N</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and Fermfx joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and Fermfx!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx sent out <strong>Magnezone</strong>!<br></div><div class="battle-history"><small>The opposing Magnezone floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It doesn't affect Quagsire...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Magnezone!<br></div><div class="battle-history">Fermfx sent out <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Quagsire, come back!<br></div><div class="battle-history">Go! <strong>Hitmonchan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Tsareena!<br></div><div class="battle-history">Fermfx sent out <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Fire Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Azumarill lost 17% of its health!)</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan, come back!<br></div><div class="battle-history">Go! <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azumarill used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>(Quagsire lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Azumarill!<br></div><div class="battle-history">Fermfx sent out <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Quagsire used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Quagsire had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Quagsire, come back!<br></div><div class="battle-history">Go! <strong>Hitmonchan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Trop Kick</strong>!<br></div><div class="battle-history"><small>(Hitmonchan lost 44% of its health!)</small><br></div><div class="battle-history"><small>Hitmonchan's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Trop Kick</strong>!<br></div><div class="battle-history"><small>(Hitmonchan lost 38% of its health!)</small><br></div><div class="battle-history"><small>Hitmonchan's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Tsareena lost 25% of its health!)</small><br></div><div class="battle-history"><small>The opposing Tsareena had its energy drained!</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan, come back!<br></div><div class="battle-history">Go! <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>Trop Kick</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Victini lost 11% of its health!)</small><br></div><div class="battle-history"><small>Victini's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Tsareena!<br></div><div class="battle-history">Fermfx sent out <strong>Manectric</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victini used <strong>Bolt Strike</strong>!<br></div><div class="battle-history">[The opposing Manectric's Lightning Rod]<br></div><div class="battle-history"><small>The opposing Manectric's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victini, come back!<br></div><div class="battle-history">Go! <strong>Quagsire</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Manectric's Manectite is reacting to the Key Stone!</small><br>The opposing Manectric has Mega Evolved into Mega Manectric!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Quagsire's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Quagsire lost 100% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Quagsire fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmonchan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Mach Punch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Manectric lost 49% of its health!)</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Hitmonchan lost 4% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Victini lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Manectric!<br></div><div class="battle-history">Fermfx sent out <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victini used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Azumarill lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victini, come back!<br></div><div class="battle-history">Go! <strong>Bruxish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Azumarill!<br></div><div class="battle-history">Fermfx sent out Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Bruxish's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bruxish, come back!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dewgong lost 76% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dewgong lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Tapu Koko lost 34% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Manectric!<br></div><div class="battle-history">Fermfx sent out <strong>Tsareena</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tsareena lost 50% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko, come back!<br></div><div class="battle-history">Go! <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victini, come back!<br></div><div class="battle-history">Go! <strong>Bruxish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tsareena used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Bruxish lost 54% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Tsareena!<br></div><div class="battle-history">Fermfx sent out Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Bruxish's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Bruxish used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>(The opposing Manectric lost 19% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Bruxish lost 46% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bruxish fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Tapu Koko lost 30% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Manectric!<br></div><div class="battle-history">Fermfx sent out <strong>Torkoal</strong>!<br></div><div class="battle-history">[The opposing Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Torkoal lost 19% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Torkoal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Torkoal lost 7% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko, come back!<br></div><div class="battle-history">Go! <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torkoal used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Victini lost 25% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Torkoal restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The electricity disappeared from the battlefield.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Victini used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Torkoal lost 45% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torkoal used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Victini lost 23% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Torkoal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Torkoal!<br></div><div class="battle-history">Fermfx sent out <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victini used <strong>Blue Flare</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Azumarill lost 35% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Azumarill used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Victini lost 11% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Victini fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tapu Koko</strong>!<br></div><div class="battle-history">[Tapu Koko's Electric Surge]<br><small>An electric current ran across the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fermfx withdrew Azumarill!<br></div><div class="battle-history">Fermfx sent out <strong>Magnezone</strong>!<br></div><div class="battle-history"><small>The opposing Magnezone floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magnezone lost 16% of its health!)</small><br></div><div class="battle-history"><small>The opposing Magnezone's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Magnezone lost 27% of its health!)</small><br></div><div class="battle-history"><small>Tapu Koko was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Tapu Koko lost 29% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tapu Koko fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Fermfx</strong> won the battle!<br></div><div class="chat">35Q71N's rating: 1776 → <strong>1752</strong><br>(-24 for losing)</div><div class="chat">Fermfx's rating: 1713 → <strong>1736</strong><br>(+23 for winning)</div><div class="chat chatmessage-fermfx"><strong style="color:#8b54d3"><small>☆</small><span class="username" data-name="Fermfx">Fermfx</span>:</strong> <em>Gg</em></div><div class="chat"><small>35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

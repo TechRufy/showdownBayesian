@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: paysa vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2099020022" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/paysa" class="subtle" target="_blank">paysa</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆paysa
+|j|☆35Q71N
+|t:|1712612444
+|gametype|singles
+|player|p1|paysa|caitlin|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712612444
+|start
+|switch|p1a: Oranguru|Oranguru, L93, M|318\/318
+|switch|p2a: Exeggutor|Exeggutor, L89, M|312\/312
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by paysa)
+|c|☆35Q71N|Glhf
+|j| Referrals
+|j| bodi 69
+|c|☆paysa|glhf2
+|j|+Chains of Markov
+|j| hammy358
+|j|+Failsal
+|j| critsomnia
+|j| gomdol2
+|j| Latias999999999
+|j| John Dozo
+|j| ghostilex
+|j| icypenguin604
+|inactive|paysa has 270 seconds left.
+|inactive|35Q71N has 270 seconds left.
+|j| SOMEB0DY SCREAM
+|j| srvoltmike
+|j|@livid washed
+|j| Trefleuh
+|j| WorstplayerinRBEL
+|l| SOMEB0DY SCREAM
+|c| WorstplayerinRBEL|go fran
+|c| WorstplayerinRBEL|take us to 3q
+|
+|t:|1712612502
+|switch|p2a: Spiritomb|Spiritomb, L92, F|241\/241
+|move|p1a: Oranguru|Nature Power|p2a: Spiritomb
+|move|p1a: Oranguru|Tri Attack|p2a: Spiritomb|[from]move: Nature Power
+|-immune|p2a: Spiritomb
+|
+|upkeep
+|turn|2
+|c| WorstplayerinRBEL|3
+|j| meamdefinitely4
+|inactive|35Q71N has 270 seconds left.
+|
+|t:|1712612539
+|switch|p1a: Florges|Florges-White, L85, F|271\/271
+|move|p2a: Spiritomb|Dark Pulse|p1a: Florges
+|-resisted|p1a: Florges
+|-damage|p1a: Florges|238\/271
+|
+|-heal|p1a: Florges|254\/271|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|35Q71N has 270 seconds left.
+|j| MDILL97
+|l|+Failsal
+|c| MDILL97|who won g1?
+|c| icypenguin604|Paysa
+|j| Corn.exe
+|c| Latias999999999|goooo nilqse
+|c| Corn.exe|go fran!:D
+|
+|t:|1712612573
+|switch|p1a: Heatmor|Heatmor, L90, F|299\/299
+|switch|p2a: Exeggutor|Exeggutor, L89, M|312\/312
+|
+|upkeep
+|turn|4
+|c| MDILL97|cmon fran you got this!
+|c| Corn.exe|pls win
+|inactive|35Q71N has 240 seconds left.
+|
+|t:|1712612590
+|switch|p2a: Spiritomb|Spiritomb, L92, F|241\/241
+|move|p1a: Heatmor|Fire Blast|p2a: Spiritomb
+|-damage|p2a: Spiritomb|99\/241
+|-status|p2a: Spiritomb|brn
+|-damage|p1a: Heatmor|270\/299|[from] item: Life Orb
+|
+|-heal|p2a: Spiritomb|114\/241 brn|[from] item: Leftovers
+|-damage|p2a: Spiritomb|99\/241 brn|[from] brn
+|upkeep
+|turn|5
+|l| MDILL97
+|inactive|35Q71N has 240 seconds left.
+|l| Corn.exe
+|l| ghostilex
+|
+|t:|1712612625
+|move|p1a: Heatmor|Fire Blast|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|-damage|p1a: Heatmor|241\/299|[from] item: Life Orb
+|
+|upkeep
+|l|@livid washed
+|inactive|35Q71N has 210 seconds left.
+|inactive|35Q71N has 180 seconds left.
+|j| Casual dot exe
+|inactive|35Q71N has 150 seconds left.
+|
+|t:|1712612717
+|switch|p2a: Stoutland|Stoutland, L87, M|290\/290
+|turn|6
+|j| ghostilex
+|inactive|paysa has 270 seconds left.
+|l| icypenguin604
+|inactive|paysa has 240 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1712612791
+|move|p2a: Stoutland|Return|p1a: Heatmor
+|-damage|p1a: Heatmor|102\/299
+|move|p1a: Heatmor|Superpower|p2a: Stoutland
+|-supereffective|p2a: Stoutland
+|-damage|p2a: Stoutland|61\/290
+|-unboost|p1a: Heatmor|atk|1
+|-unboost|p1a: Heatmor|def|1
+|-damage|p1a: Heatmor|73\/299|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|35Q71N has 120 seconds left.
+|j| MDILL97
+|j| icypenguin604
+|inactive|paysa has 210 seconds left.
+|
+|t:|1712612823
+|switch|p1a: Oranguru|Oranguru, L93, M|318\/318
+|move|p2a: Stoutland|Return|p1a: Oranguru
+|-damage|p1a: Oranguru|197\/318
+|
+|upkeep
+|turn|8
+|l| MDILL97
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612843
+|switch|p2a: Exeggutor|Exeggutor, L89, M|312\/312
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-damage|p2a: Exeggutor|179\/312
+|-damage|p1a: Oranguru|166\/318|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1712612852
+|move|p1a: Oranguru|Nasty Plot|p1a: Oranguru
+|-boost|p1a: Oranguru|spa|2
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|101\/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|179\/312|[from] item: Sitrus Berry
+|
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|10
+|l| icypenguin604
+|
+|t:|1712612867
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Oranguru|135\/318|[from] item: Life Orb
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|101\/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|179\/312|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|11
+|inactive|paysa has 240 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612885
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Oranguru|104\/318|[from] item: Life Orb
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|101\/312
+|
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|179\/312|[from] item: Sitrus Berry
+|turn|12
+|j| icypenguin604
+|
+|t:|1712612894
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Oranguru|73\/318|[from] item: Life Orb
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|101\/312
+|
+|upkeep
+|turn|13
+|c|☆paysa|now to use the hyper voice in my back pocket
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612916
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Oranguru|42\/318|[from] item: Life Orb
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|23\/312
+|
+|upkeep
+|turn|14
+|
+|t:|1712612921
+|move|p1a: Oranguru|Nature Power|p2a: Exeggutor
+|move|p1a: Oranguru|Tri Attack|p2a: Exeggutor|[from]move: Nature Power
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Oranguru|11\/318|[from] item: Life Orb
+|move|p2a: Exeggutor|Psychic|p1a: Oranguru
+|-resisted|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|faint|p1a: Oranguru
+|
+|upkeep
+|
+|t:|1712612931
+|switch|p1a: Florges|Florges-White, L85, F|254\/271
+|turn|15
+|j|+Tarrembeau
+|
+|t:|1712612939
+|switch|p2a: Vileplume|Vileplume, L87, F|272\/272
+|move|p1a: Florges|Moonblast|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|213\/272
+|-unboost|p2a: Vileplume|spa|1
+|
+|-heal|p1a: Florges|270\/271|[from] item: Leftovers
+|-heal|p2a: Vileplume|230\/272|[from] item: Black Sludge
+|upkeep
+|turn|16
+|inactive|paysa has 270 seconds left.
+|
+|t:|1712612960
+|switch|p1a: Ursaring|Ursaring, L85, F|292\/292
+|move|p2a: Vileplume|Sludge Bomb|p1a: Ursaring
+|-crit|p1a: Ursaring
+|-damage|p1a: Ursaring|99\/292
+|
+|-heal|p2a: Vileplume|247\/272|[from] item: Black Sludge
+|-status|p1a: Ursaring|brn|[from] item: Flame Orb
+|upkeep
+|turn|17
+|inactive|paysa has 270 seconds left.
+|l| hammy358
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612987
+|switch|p2a: Exeggutor|Exeggutor, L89, M|23\/312
+|move|p1a: Ursaring|Facade|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|-damage|p1a: Ursaring|81\/292 brn|[from] brn
+|upkeep
+|
+|t:|1712612991
+|switch|p2a: Stoutland|Stoutland, L87, M|61\/290
+|turn|18
+|inactive|paysa has 270 seconds left.
+|
+|t:|1712613013
+|move|p1a: Ursaring|Protect|p1a: Ursaring
+|-singleturn|p1a: Ursaring|Protect
+|move|p2a: Stoutland|Return|p1a: Ursaring
+|-activate|p1a: Ursaring|move: Protect
+|
+|-damage|p1a: Ursaring|63\/292 brn|[from] brn
+|upkeep
+|turn|19
+|j| haxlolo
+|inactive|paysa has 270 seconds left.
+|j| hammy358
+|
+|t:|1712613026
+|move|p2a: Stoutland|Return|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1712613050
+|switch|p1a: Golurk|Golurk, L88|300\/300
+|turn|20
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712613083
+|move|p2a: Stoutland|Return|p1a: Golurk
+|-damage|p1a: Golurk|173\/300
+|move|p1a: Golurk|Earthquake|p2a: Stoutland
+|-damage|p2a: Stoutland|0 fnt
+|faint|p2a: Stoutland
+|-damage|p1a: Golurk|143\/300|[from] item: Life Orb
+|
+|upkeep
+|j| MDILL97
+|inactive|35Q71N has 60 seconds left.
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|c|☆paysa|would you like timer off?
+|
+|t:|1712613160
+|switch|p2a: Reuniclus|Reuniclus, L87, F|333\/333
+|turn|21
+|inactive|35Q71N has 25 seconds left this turn.
+|c|☆35Q71N|Nah, dw
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1712613168
+|move|p1a: Golurk|Shadow Punch|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|42\/333
+|-damage|p1a: Golurk|113\/300|[from] item: Life Orb
+|move|p2a: Reuniclus|Shadow Ball|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|upkeep
+|inactive|35Q71N has 25 seconds left this turn.
+|
+|t:|1712613184
+|switch|p1a: Heatmor|Heatmor, L90, F|73\/299
+|turn|22
+|
+|t:|1712613191
+|move|p1a: Heatmor|Giga Drain|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|-heal|p1a: Heatmor|94\/299|[from] drain|[of] p2a: Reuniclus
+|faint|p2a: Reuniclus
+|-damage|p1a: Heatmor|65\/299|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1712613194
+|switch|p2a: Magnezone|Magnezone, L83|252\/252
+|turn|23
+|inactive|paysa has 270 seconds left.
+|l| ghostilex
+|
+|t:|1712613218
+|move|p2a: Magnezone|Volt Switch|p1a: Heatmor
+|-damage|p1a: Heatmor|0 fnt
+|faint|p1a: Heatmor
+|j| ghostilex
+|
+|t:|1712613222
+|switch|p2a: Vileplume|Vileplume, L87, F|247\/272|[from] Volt Switch
+|
+|-heal|p2a: Vileplume|264\/272|[from] item: Black Sludge
+|upkeep
+|
+|t:|1712613242
+|switch|p1a: Xerneas|Xerneas, L66|276\/276
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|24
+|c|☆paysa|praying for no poison
+|inactive|35Q71N has 60 seconds left.
+|
+|t:|1712613254
+|move|p1a: Xerneas|Geomancy||[still]
+|-prepare|p1a: Xerneas|Geomancy
+|-enditem|p1a: Xerneas|Power Herb
+|-anim|p1a: Xerneas|Geomancy|p1a: Xerneas
+|-boost|p1a: Xerneas|spa|2
+|-boost|p1a: Xerneas|spd|2
+|-boost|p1a: Xerneas|spe|2
+|move|p2a: Vileplume|Sludge Bomb|p1a: Xerneas
+|-supereffective|p1a: Xerneas
+|-damage|p1a: Xerneas|148\/276
+|
+|-heal|p2a: Vileplume|272\/272|[from] item: Black Sludge
+|upkeep
+|turn|25
+|c|☆paysa|(or sleep)
+|
+|t:|1712613259
+|move|p1a: Xerneas|Psyshock|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|86\/272
+|move|p2a: Vileplume|Sludge Bomb|p1a: Xerneas
+|-supereffective|p1a: Xerneas
+|-damage|p1a: Xerneas|20\/276
+|
+|-heal|p2a: Vileplume|103\/272|[from] item: Black Sludge
+|upkeep
+|turn|26
+|
+|t:|1712613266
+|move|p1a: Xerneas|Psyshock|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|upkeep
+|c| bodi 69|damn
+|c| MDILL97|brutal
+|
+|t:|1712613270
+|switch|p2a: Magnezone|Magnezone, L83|252\/252
+|turn|27
+|c| bodi 69|miss
+|l| icypenguin604
+|inactive|paysa has 270 seconds left.
+|c| John Dozo|tera here
+|
+|t:|1712613287
+|move|p1a: Xerneas|Moonblast|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|145\/252
+|move|p2a: Magnezone|Flash Cannon|p1a: Xerneas
+|-supereffective|p1a: Xerneas
+|-damage|p1a: Xerneas|0 fnt
+|faint|p1a: Xerneas
+|
+|upkeep
+|
+|t:|1712613289
+|switch|p1a: Florges|Florges-White, L85, F|270\/271
+|turn|28
+|c|☆35Q71N|Hp ground?
+|
+|t:|1712613295
+|move|p2a: Magnezone|Flash Cannon|p1a: Florges
+|-supereffective|p1a: Florges
+|-damage|p1a: Florges|144\/271
+|move|p1a: Florges|Hidden Power|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|win|paysa
+|c|☆paysa|yeah
+|c|☆35Q71N|Gg
+|c|☆paysa|gg sorry for bad mus
+|c|☆35Q71N|Wp
+|c| MDILL97|:(
+|j| icypenguin604
+|c| bodi 69|:(
+|c|☆35Q71N|No worries, you played well :)
+|l| hammy358
+|c|☆paysa|tyty
+|l| icypenguin604
+|l| Latias999999999
+|l| Trefleuh
+|l| bodi 69
+|c| MDILL97|aint gonna lie frans team is so bad
+|c| MDILL97|too slow
+|l|☆35Q71N
+|player|p2|
+|l| critsomnia
+|l| ghostilex
+|l| haxlolo
+|j|+Pulse_kS
+|l| Referrals
+|l|+Chains of Markov
+|l|+Pulse_kS
+|l| MDILL97
+|l| John Dozo
+|j| sasha thumper
+|l| sasha thumper
+|l| meamdefinitely4
+|j|☆35Q71N
+|player|p2|35Q71N|byron|
+|l|+Tarrembeau
+|l| WorstplayerinRBEL
+|l|☆paysa
+|player|p1|
+|j| betathunder
+|l| srvoltmike
+|c|☆35Q71N|!showteam
+|c| 35Q71N|\/raw <div class="infobox"><details><summary>View team<\/summary>Exeggutor @ Sitrus Berry  <br \/>Ability: Harvest  <br \/>Level: 89  <br \/>EVs: 77 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Leech Seed  <br \/>- Sleep Powder  <br \/>- Substitute  <br \/>- Psychic  <br \/><br \/>Stoutland @ Choice Scarf  <br \/>Ability: Scrappy  <br \/>Level: 87  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Superpower  <br \/>- Return  <br \/>- Crunch  <br \/>- Wild Charge  <br \/><br \/>Spiritomb @ Leftovers  <br \/>Ability: Infiltrator  <br \/>Level: 92  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Rest  <br \/>- Calm Mind  <br \/>- Dark Pulse  <br \/>- Sleep Talk  <br \/><br \/>Vileplume @ Black Sludge  <br \/>Ability: Effect Spore  <br \/>Level: 87  <br \/>Hidden Power: Ground  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk &#x2f; 30 SpA &#x2f; 30 SpD  <br \/>- Hidden Power [Ground]  <br \/>- Sludge Bomb  <br \/>- Aromatherapy  <br \/>- Strength Sap  <br \/><br \/>Magnezone @ Choice Scarf  <br \/>Ability: Magnet Pull  <br \/>Level: 83  <br \/>Hidden Power: Ice  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk &#x2f; 30 Def  <br \/>- Flash Cannon  <br \/>- Thunderbolt  <br \/>- Volt Switch  <br \/>- Hidden Power [Ice]  <br \/><br \/>Reuniclus @ Life Orb  <br \/>Ability: Magic Guard  <br \/>Level: 87  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Recover  <br \/>- Shadow Ball  <br \/>- Focus Blast  <br \/>- Psychic  <br \/><br \/><\/details><\/div>
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆paysa and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between paysa and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by paysa)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat"><small> Referrals and  bodi 69 joined</small></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>glhf2</em></div><div class="chat"><small>+Chains of Markov,  hammy358, +Failsal,  critsomnia,  gomdol2, and 4 others joined</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="chat"><small> SOMEB0DY SCREAM,  srvoltmike, @livid washed,  Trefleuh, and  WorstplayerinRBEL joined;  SOMEB0DY SCREAM left</small></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>go fran</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>take us to 3q</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>It doesn't affect Spiritomb...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>3</em></div><div class="chat"><small> meamdefinitely4 joined</small></div><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Oranguru!<br></div><div class="battle-history">paysa sent out Florges (<strong>Florges-White</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spiritomb used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−33/271">12.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="chat"><small> MDILL97 joined; +Failsal left</small></div><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>who won g1?</em></div><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small> </small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>Paysa</em></div><div class="chat"><small> Corn.exe joined</small></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="Latias999999999">Latias999999999</span>:</strong> <em>goooo nilqse</em></div><div class="chat chatmessage-cornexe"><strong style="color:#cf1b7e"><small> </small><span class="username" data-name="Corn.exe">Corn.exe</span>:</strong> <em>go fran!:D</em></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Florges!<br></div><div class="battle-history">paysa sent out <strong>Heatmor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spiritomb, come back!<br></div><div class="battle-history">Go! <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>cmon fran you got this!</em></div><div class="chat chatmessage-cornexe"><strong style="color:#cf1b7e"><small> </small><span class="username" data-name="Corn.exe">Corn.exe</span>:</strong> <em>pls win</em></div><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Spiritomb</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(Spiritomb lost <abbr title="−142/241">58.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Spiritomb was burned!</small><br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spiritomb restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spiritomb was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat"><small> MDILL97 left</small></div><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="chat"><small> Corn.exe and  ghostilex left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(Spiritomb lost <abbr title="−99/241">41.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spiritomb fainted!<br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="chat"><small>@livid washed left</small></div><div class="chat message-error">35Q71N has 210 seconds left.</div><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="chat"><small> Casual dot exe joined</small></div><div class="chat message-error">35Q71N has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat"><small> ghostilex joined</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat"><small> icypenguin604 left</small></div><div class="chat message-error">paysa has 240 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Heatmor lost <abbr title="−139/299">46.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−229/290">79.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heatmor's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Heatmor's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat"><small> MDILL97 and  icypenguin604 joined</small></div><div class="chat message-error">paysa has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Heatmor!<br></div><div class="battle-history">paysa sent out <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−121/318">38.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small> MDILL97 left</small></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland, come back!<br></div><div class="battle-history">Go! <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−133/312">42.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Oranguru's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−78/312">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat"><small> icypenguin604 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>Exeggutor's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−78/312">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">paysa has 240 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>Exeggutor's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−78/312">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Exeggutor's Harvest]<br><small>Exeggutor harvested one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Exeggutor ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Exeggutor restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat"><small> icypenguin604 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>Exeggutor's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−78/312">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>now to use the hyper voice in my back pocket</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>Exeggutor's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Exeggutor put in a substitute!</small><br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−78/312">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>Exeggutor's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Oranguru lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−11/318">3.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out Florges (<strong>Florges-White</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat"><small>+Tarrembeau joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor, come back!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−59/272">21.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Vileplume's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">paysa has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Florges!<br></div><div class="battle-history">paysa sent out <strong>Ursaring</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Ursaring lost <abbr title="−193/292">66.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Ursaring was burned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat"><small> hammy358 left</small></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume, come back!<br></div><div class="battle-history">Go! <strong>Exeggutor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring used <strong>Facade</strong>!<br></div><div class="battle-history"><small>(Exeggutor lost <abbr title="−23/312">7.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exeggutor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Stoutland</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">paysa has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Ursaring protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Return</strong>!<br></div><div class="battle-history"><small>The opposing Ursaring protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ursaring was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat"><small> haxlolo joined</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat"><small> hammy358 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Ursaring lost <abbr title="−63/292">21.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Golurk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Golurk lost <abbr title="−127/300">42.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Stoutland lost <abbr title="−61/290">21.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stoutland fainted!<br></div><div class="battle-history"><small>The opposing Golurk lost some of its HP!</small><br></div><div class="chat"><small> MDILL97 joined</small></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>would you like timer off?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Reuniclus</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Nah, dw</em></div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk used <strong>Shadow Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Reuniclus lost <abbr title="−291/333">87.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Golurk lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Reuniclus used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Golurk lost <abbr title="−113/300">37.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Golurk fainted!<br></div><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Heatmor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Reuniclus lost <abbr title="−42/333">12.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Reuniclus had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Reuniclus fainted!<br></div><div class="battle-history"><small>The opposing Heatmor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat"><small> ghostilex left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Heatmor lost <abbr title="−65/299">21.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heatmor fainted!<br></div><div class="chat"><small> ghostilex joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Xerneas</strong>!<br></div><div class="battle-history">[The opposing Xerneas's Fairy Aura]<br><small>The opposing Xerneas is radiating a fairy aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>praying for no poison</em></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas used <strong>Geomancy</strong>!<br></div><div class="battle-history">The opposing Xerneas is absorbing power!<br></div><div class="battle-history"><small>The opposing Xerneas became fully charged due to its Power Herb!</small><br></div><div class="battle-history"><small>The opposing Xerneas's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>The opposing Xerneas's Sp. Def rose sharply!</small><br></div><div class="battle-history"><small>The opposing Xerneas's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Xerneas lost <abbr title="−128/276">46.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>(or sleep)</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−186/272">68.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Xerneas lost <abbr title="−128/276">46.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vileplume lost <abbr title="−103/272">37.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vileplume fainted!<br></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>damn</em></div><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>brutal</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>miss</em></div><div class="chat"><small> icypenguin604 left</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat chatmessage-johndozo"><strong style="color:#9d9b2d"><small> </small><span class="username" data-name="John Dozo">John Dozo</span>:</strong> <em>tera here</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−107/252">42.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Xerneas lost <abbr title="−20/276">7.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out Florges (<strong>Florges-White</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Hp ground?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−126/271">46.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−145/252">57.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>paysa</strong> won the battle!<br></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>yeah</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>gg sorry for bad mus</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Wp</em></div><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>:(</em></div><div class="chat"><small> icypenguin604 joined</small></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>:(</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No worries, you played well :)</em></div><div class="chat"><small> hammy358 left</small></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>tyty</em></div><div class="chat"><small> icypenguin604,  Latias999999999,  Trefleuh, and  bodi 69 left</small></div><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>aint gonna lie frans team is so bad</em></div><div class="chat chatmessage-mdill97"><strong style="color:#33a749"><small> </small><span class="username" data-name="MDILL97">MDILL97</span>:</strong> <em>too slow</em></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat"><small>+Pulse_kS,  sasha thumper, and ☆35Q71N joined;  critsomnia,  ghostilex,  haxlolo,  Referrals, +Chains of Markov, and 5 others left</small></div><div class="chat"><small>+Tarrembeau,  WorstplayerinRBEL, and ☆paysa left</small></div><div class="chat"><small> betathunder joined;  srvoltmike left</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>!showteam</em></div><div class="chat"><div class="infobox"><details><summary>View team</summary>Exeggutor @ Sitrus Berry  <br>Ability: Harvest  <br>Level: 89  <br>EVs: 77 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Leech Seed  <br>- Sleep Powder  <br>- Substitute  <br>- Psychic  <br><br>Stoutland @ Choice Scarf  <br>Ability: Scrappy  <br>Level: 87  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Superpower  <br>- Return  <br>- Crunch  <br>- Wild Charge  <br><br>Spiritomb @ Leftovers  <br>Ability: Infiltrator  <br>Level: 92  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Rest  <br>- Calm Mind  <br>- Dark Pulse  <br>- Sleep Talk  <br><br>Vileplume @ Black Sludge  <br>Ability: Effect Spore  <br>Level: 87  <br>Hidden Power: Ground  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk / 30 SpA / 30 SpD  <br>- Hidden Power [Ground]  <br>- Sludge Bomb  <br>- Aromatherapy  <br>- Strength Sap  <br><br>Magnezone @ Choice Scarf  <br>Ability: Magnet Pull  <br>Level: 83  <br>Hidden Power: Ice  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk / 30 Def  <br>- Flash Cannon  <br>- Thunderbolt  <br>- Volt Switch  <br>- Hidden Power [Ice]  <br><br>Reuniclus @ Life Orb  <br>Ability: Magic Guard  <br>Level: 87  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Recover  <br>- Shadow Ball  <br>- Focus Blast  <br>- Psychic  <br><br></details></div></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. karnisbroken</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2084283238" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/karnisbroken" class="subtle" target="_blank">karnisbroken</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆karnisbroken
+|t:|1710844994
+|gametype|singles
+|player|p1|35Q71N|#rbtt7teamhoopaf|
+|player|p2|karnisbroken|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1710844994
+|start
+|switch|p1a: Crustle|Crustle, L82, F|249\/249
+|switch|p2a: Banette|Banette, L92, F|267\/267
+|turn|1
+|j|+Sauzels
+|c|☆35Q71N|Glhf
+|c|☆karnisbroken|u2
+|
+|t:|1710845019
+|switch|p1a: Chansey|Chansey, L86, F|570\/570
+|move|p2a: Banette|Will-O-Wisp|p1a: Chansey
+|-status|p1a: Chansey|brn
+|
+|-damage|p1a: Chansey|535\/570 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1710845035
+|move|p2a: Banette|Knock Off|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|119\/570 brn
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Banette
+|-damage|p2a: Banette|241\/267|[from] item: Life Orb
+|move|p1a: Chansey|Toxic|p2a: Banette
+|-status|p2a: Banette|tox
+|
+|-damage|p2a: Banette|225\/267 tox|[from] psn
+|-damage|p1a: Chansey|84\/570 brn|[from] brn
+|upkeep
+|turn|3
+|c|+Sauzels|:0
+|c|☆35Q71N|Ouch
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by karnisbroken)
+|inactive|35Q71N has 120 seconds left.
+|
+|t:|1710845093
+|-curestatus|p1a: Chansey|brn|[from] ability: Natural Cure
+|switch|p1a: Azumarill|Azumarill, L81, F|295\/295
+|move|p2a: Banette|Knock Off|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|224\/295
+|-enditem|p1a: Azumarill|Choice Band|[from] move: Knock Off|[of] p2a: Banette
+|-damage|p2a: Banette|199\/267 tox|[from] item: Life Orb
+|
+|-damage|p2a: Banette|167\/267 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1710845105
+|switch|p1a: Chansey|Chansey, L86, F|84\/570
+|move|p2a: Banette|Gunk Shot|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|-damage|p2a: Banette|141\/267 tox|[from] item: Life Orb
+|
+|-damage|p2a: Banette|93\/267 tox|[from] psn
+|upkeep
+|
+|t:|1710845113
+|switch|p1a: Excadrill|Excadrill, L81, F|311\/311
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|5
+|
+|t:|1710845118
+|move|p1a: Excadrill|Earthquake|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|-start|p1a: Excadrill|Disable|Earthquake|[from] ability: Cursed Body|[of] p2a: Banette
+|faint|p2a: Banette
+|
+|upkeep
+|
+|t:|1710845134
+|switch|p2a: Garchomp|Garchomp, L77, F|293\/293
+|turn|6
+|
+|t:|1710845150
+|switch|p1a: Walrein|Walrein, L88, M|337\/337
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1710845159
+|detailschange|p2a: Garchomp|Garchomp-Mega, L77, F
+|-mega|p2a: Garchomp|Garchomp|Garchompite
+|move|p2a: Garchomp|Stone Edge|p1a: Walrein
+|-supereffective|p1a: Walrein
+|-damage|p1a: Walrein|9\/337
+|move|p1a: Walrein|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Walrein|30\/337|[from] item: Leftovers
+|upkeep
+|c|☆35Q71N|Walrein goat
+|c|+Sauzels|:0
+|c|☆karnisbroken|bro what
+|c|+Sauzels|Fat thang
+|c|☆karnisbroken|that had to be  a roll im guessing
+|c|☆35Q71N|11 levels helps a lot lol
+|c|☆karnisbroken|damn
+|c|☆karnisbroken|yeah
+|c|☆karnisbroken|i guess so
+|c|☆35Q71N|I guess so
+|c|☆35Q71N|Oh
+|inactive|karnisbroken has 120 seconds left.
+|c|☆35Q71N|Same comment x)
+|c|☆karnisbroken|mega tho
+|c|☆karnisbroken|lol
+|
+|t:|1710845207
+|switch|p2a: Chatot|Chatot, L89, F|279\/279
+|turn|8
+|c|☆35Q71N|+2 Lvl 77 84 Atk Garchomp-Mega Stone Edge vs. Lvl 88 84 HP \/ 84 Def Walrein: 320-378 (94.9 - 112.1%) -- 68.8% chance to OHKO
+|c|+Sauzels|+2 Lvl 77 84 Atk Garchomp-Mega Stone Edge vs. Lvl 88 84 HP \/ 84 Def Walrein: 320-378 (94.9 - 112.1%) -- 68.8% chance to OHKO
+|c|☆35Q71N|Yes, I got lucky
+|c|+Sauzels|Hi
+|c|☆35Q71N|Hi
+|
+|t:|1710845226
+|move|p2a: Chatot|Boomburst|p1a: Walrein
+|-damage|p1a: Walrein|0 fnt
+|faint|p1a: Walrein
+|
+|upkeep
+|
+|t:|1710845229
+|switch|p1a: Excadrill|Excadrill, L81, F|311\/311
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|9
+|inactive|karnisbroken has 120 seconds left.
+|c|☆karnisbroken|double same posts crazy
+|
+|t:|1710845249
+|switch|p2a: Slowbro|Slowbro, L84, M|297\/297
+|move|p1a: Excadrill|Rock Slide|p2a: Slowbro
+|-damage|p2a: Slowbro|240\/297
+|
+|upkeep
+|turn|10
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|c|☆karnisbroken|kinda goes along with mega garchom sucking anyway
+|
+|t:|1710845318
+|switch|p1a: Azumarill|Azumarill, L81, F|224\/295
+|move|p2a: Slowbro|Future Sight|p1a: Azumarill
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|11
+|c|☆35Q71N|Poor Chomper
+|inactive|karnisbroken has 120 seconds left.
+|
+|t:|1710845343
+|move|p1a: Azumarill|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|106\/297
+|-enditem|p2a: Slowbro|Assault Vest|[from] move: Knock Off|[of] p1a: Azumarill
+|move|p2a: Slowbro|Psyshock|p1a: Azumarill
+|-damage|p1a: Azumarill|133\/295
+|
+|upkeep
+|turn|12
+|c|+Sauzels|Love that it's settled on a higher level than regular chomp
+|
+|t:|1710845360
+|switch|p2a: Slaking|Slaking, L84, M|389\/389
+|move|p1a: Azumarill|Play Rough|p2a: Slaking
+|-damage|p2a: Slaking|292\/389
+|
+|-end|p1a: Azumarill|move: Future Sight
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|upkeep
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1710845382
+|switch|p1a: Crustle|Crustle, L82, F|249\/249
+|turn|13
+|c|☆35Q71N|Aka the Mega Audino experience
+|
+|t:|1710845402
+|move|p2a: Slaking|Earthquake|p1a: Crustle
+|-damage|p1a: Crustle|168\/249
+|move|p1a: Crustle|Shell Smash|p1a: Crustle
+|-unboost|p1a: Crustle|def|1
+|-unboost|p1a: Crustle|spd|1
+|-boost|p1a: Crustle|atk|2
+|-boost|p1a: Crustle|spa|2
+|-boost|p1a: Crustle|spe|2
+|-enditem|p1a: Crustle|White Herb
+|-clearnegativeboost|p1a: Crustle|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1710845407
+|cant|p2a: Slaking|ability: Truant
+|move|p1a: Crustle|Shell Smash|p1a: Crustle
+|-unboost|p1a: Crustle|def|1
+|-unboost|p1a: Crustle|spd|1
+|-boost|p1a: Crustle|atk|2
+|-boost|p1a: Crustle|spa|2
+|-boost|p1a: Crustle|spe|2
+|
+|upkeep
+|turn|15
+|c|+Sauzels|Those are the same level at least
+|
+|t:|1710845425
+|move|p1a: Crustle|Stone Edge|p2a: Slaking
+|-damage|p2a: Slaking|0 fnt
+|faint|p2a: Slaking
+|
+|upkeep
+|c|+Sauzels|For better or for worse
+|c|☆35Q71N|Ah
+|c|☆karnisbroken|its a handicap to mega evolve
+|inactive|karnisbroken has 120 seconds left.
+|c|☆karnisbroken|they gotta give buff
+|c|☆35Q71N|I thought Mega Audino was still higher
+|
+|t:|1710845444
+|switch|p2a: Crustle|Crustle, L82, M|249\/249
+|turn|16
+|c|☆karnisbroken|my own crab
+|c|☆35Q71N|D:
+|c|☆35Q71N|Oh crab
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1710845473
+|move|p1a: Crustle|Earthquake|p2a: Crustle
+|-damage|p2a: Crustle|88\/249
+|move|p2a: Crustle|Stone Edge|p1a: Crustle
+|-supereffective|p1a: Crustle
+|-damage|p1a: Crustle|0 fnt
+|faint|p1a: Crustle
+|
+|upkeep
+|
+|t:|1710845484
+|switch|p1a: Excadrill|Excadrill, L81, F|311\/311
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|17
+|
+|t:|1710845489
+|move|p1a: Excadrill|Iron Head|p2a: Crustle
+|-supereffective|p2a: Crustle
+|-damage|p2a: Crustle|0 fnt
+|faint|p2a: Crustle
+|
+|upkeep
+|
+|t:|1710845493
+|switch|p2a: Slowbro|Slowbro, L84, M|205\/297
+|turn|18
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1710845506
+|move|p1a: Excadrill|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|105\/297
+|move|p2a: Slowbro|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|167\/311
+|
+|upkeep
+|turn|19
+|
+|t:|1710845516
+|move|p1a: Excadrill|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|61\/297
+|move|p2a: Slowbro|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|27\/311
+|-status|p1a: Excadrill|brn
+|
+|-damage|p1a: Excadrill|8\/311 brn|[from] brn
+|upkeep
+|turn|20
+|c|☆35Q71N|Ooof
+|
+|t:|1710845530
+|switch|p2a: Chatot|Chatot, L89, F|279\/279
+|move|p1a: Excadrill|Rock Slide|p2a: Chatot
+|-supereffective|p2a: Chatot
+|-damage|p2a: Chatot|179\/279
+|
+|-damage|p1a: Excadrill|0 fnt|[from] brn
+|faint|p1a: Excadrill
+|upkeep
+|
+|t:|1710845532
+|switch|p1a: Rayquaza|Rayquaza, L67|252\/252
+|-ability|p1a: Rayquaza|Air Lock
+|turn|21
+|c|☆karnisbroken|still worth the switch probs
+|inactive|35Q71N has 90 seconds left.
+|c|☆karnisbroken|how much can the bird do
+|inactive|35Q71N has 60 seconds left.
+|j| Trefleuh
+|c|☆35Q71N|Too much
+|c|☆karnisbroken|i hope it one shots
+|c|☆karnisbroken|im scared
+|inactive|35Q71N has 30 seconds left.
+|c|☆35Q71N|It one shots, yeah
+|c|☆karnisbroken|yay
+|c| Trefleuh|22levels tho
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1710845625
+|detailschange|p1a: Rayquaza|Rayquaza-Mega, L67
+|-mega|p1a: Rayquaza|Rayquaza|
+|-weather|DeltaStream|[from] ability: Delta Stream|[of] p1a: Rayquaza
+|move|p1a: Rayquaza|Extreme Speed|p2a: Chatot
+|-damage|p2a: Chatot|54\/279
+|-damage|p1a: Rayquaza|227\/252|[from] item: Life Orb
+|move|p2a: Chatot|Boomburst|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|-weather|none
+|
+|win|karnisbroken
+|inactive|35Q71N has 25 seconds left this turn.
+|n|☆35Q71N|35q71n
+|n|☆karnisbroken|karnisbroken
+|n| Sauzels|sauzels
+|n| Trefleuh|trefleuh
+|c|☆35Q71N|Gg
+|c|☆karnisbroken|gg
+|c| Sauzels|Yow
+|c|☆karnisbroken|specs
+|c|☆35Q71N|Man, I wish I clicked EQ with Exca
+|c|☆35Q71N|Gg though
+|c|☆karnisbroken|gg
+|l| Sauzels
+|l|☆35Q71N
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆karnisbroken joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and karnisbroken!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken sent out <strong>Banette</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small>+Sauzels joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>u2</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Chansey was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Chansey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Chansey lost <abbr title="−416/570">73.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Banette knocked off Chansey's Eviolite!</small><br></div><div class="battle-history"><small>The opposing Banette lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Banette was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Banette was hurt by poison!</small><br></div><div class="battle-history"><small>Chansey was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>:0</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ouch</em></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by karnisbroken)</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Chansey is cured by its Natural Cure!)</small><br></div><div class="battle-history">Chansey, come back!<br></div><div class="battle-history">Go! <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−71/295">24.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Banette knocked off Azumarill's Choice Band!</small><br></div><div class="battle-history"><small>The opposing Banette lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Banette was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill, come back!<br></div><div class="battle-history">Go! <strong>Chansey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Chansey lost <abbr title="−84/570">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Chansey fainted!<br></div><div class="battle-history"><small>The opposing Banette lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Banette was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Banette lost <abbr title="−93/267">34.8%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Banette's Cursed Body]<br><small>Excadrill's Earthquake was disabled!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken sent out <strong>Garchomp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill, come back!<br></div><div class="battle-history">Go! <strong>Walrein</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Garchomp used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Garchomp's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Garchomp's Garchompite is reacting to the Key Stone!</small><br>The opposing Garchomp has Mega Evolved into Mega Garchomp!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Garchomp used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Walrein lost <abbr title="−328/337">97.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Garchomp lost <abbr title="−293/293">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Garchomp fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Walrein restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Walrein goat</em></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>:0</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>bro what</em></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>Fat thang</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>that had to be  a roll im guessing</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>11 levels helps a lot lol</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>damn</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>yeah</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>i guess so</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I guess so</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh</em></div><div class="chat message-error">karnisbroken has 120 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Same comment x)</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>mega tho</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken sent out <strong>Chatot</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>+2 Lvl 77 84 Atk Garchomp-Mega Stone Edge vs. Lvl 88 84 HP / 84 Def Walrein: 320-378 (94.9 - 112.1%) -- 68.8% chance to OHKO</em></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>+2 Lvl 77 84 Atk Garchomp-Mega Stone Edge vs. Lvl 88 84 HP / 84 Def Walrein: 320-378 (94.9 - 112.1%) -- 68.8% chance to OHKO</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Yes, I got lucky</em></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>Hi</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Hi</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Walrein lost <abbr title="−30/337">8.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Walrein fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">karnisbroken has 120 seconds left.</div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>double same posts crazy</em></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken withdrew Chatot!<br></div><div class="battle-history">karnisbroken sent out <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−57/297">19.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>kinda goes along with mega garchom sucking anyway</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill, come back!<br></div><div class="battle-history">Go! <strong>Azumarill</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Future Sight</strong>!<br></div><div class="battle-history"><small>The opposing Slowbro foresaw an attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Poor Chomper</em></div><div class="chat message-error">karnisbroken has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−134/297">45.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Azumarill knocked off the opposing Slowbro's Assault Vest!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−91/295">30.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>Love that it's settled on a higher level than regular chomp</em></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken withdrew Slowbro!<br></div><div class="battle-history">karnisbroken sent out <strong>Slaking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>(The opposing Slaking lost <abbr title="−97/389">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Azumarill took the Future Sight attack!</small><br></div><div class="battle-history"><small>(Azumarill lost <abbr title="−133/295">45.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Azumarill fainted!<br></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Aka the Mega Audino experience</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slaking used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Crustle lost <abbr title="−81/249">32.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Crustle's Defense fell!</small><br></div><div class="battle-history"><small>Crustle's Sp. Def fell!</small><br></div><div class="battle-history"><small>Crustle's Attack rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Speed rose sharply!</small><br></div><div class="battle-history"><small>Crustle returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Slaking's Truant]<br>The opposing Slaking is loafing around!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Crustle's Defense fell!</small><br></div><div class="battle-history"><small>Crustle's Sp. Def fell!</small><br></div><div class="battle-history"><small>Crustle's Attack rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>Those are the same level at least</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Slaking lost <abbr title="−292/389">75.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slaking fainted!<br></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small>+</small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>For better or for worse</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>its a handicap to mega evolve</em></div><div class="chat message-error">karnisbroken has 120 seconds left.</div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>they gotta give buff</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I thought Mega Audino was still higher</em></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken sent out <strong>Crustle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>my own crab</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>D:</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh crab</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Crustle lost <abbr title="−161/249">64.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crustle used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−168/249">67.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Excadrill</strong>!<br></div><div class="battle-history">[Excadrill's Mold Breaker]<br><small>Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Crustle lost <abbr title="−88/249">35.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crustle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken sent out <strong>Slowbro</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−100/297">33.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−144/311">46.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Slowbro lost <abbr title="−44/297">14.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Slowbro used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Excadrill lost <abbr title="−140/311">45.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Excadrill was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Excadrill was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ooof</em></div><div class="spacer battle-history"><br></div><div class="battle-history">karnisbroken withdrew Slowbro!<br></div><div class="battle-history">karnisbroken sent out <strong>Chatot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Chatot lost <abbr title="−100/279">35.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Excadrill was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Rayquaza</strong>!<br></div><div class="battle-history">[Rayquaza's Air Lock]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>still worth the switch probs</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>how much can the bird do</em></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat"><small> Trefleuh joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Too much</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>i hope it one shots</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>im scared</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It one shots, yeah</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>yay</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small> </small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>22levels tho</em></div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>35Q71N's fervent wish has reached Rayquaza!</small><br>Rayquaza has Mega Evolved into Mega Rayquaza!<br></div><div class="battle-history">[Rayquaza's Delta Stream]<br><small>Mysterious strong winds are protecting Flying-type Pokémon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rayquaza used <strong>Extreme Speed</strong>!<br></div><div class="battle-history"><small>(The opposing Chatot lost <abbr title="−125/279">44.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Rayquaza lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chatot used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Rayquaza lost <abbr title="−227/252">90.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rayquaza fainted!<br></div><div class="battle-history"><small>The mysterious strong winds have dissipated!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>karnisbroken</strong> won the battle!<br></div><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>gg</em></div><div class="chat chatmessage-sauzels"><strong style="color:#bf443b"><small> </small><span class="username" data-name="Sauzels">Sauzels</span>:</strong> <em>Yow</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>specs</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Man, I wish I clicked EQ with Exca</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg though</em></div><div class="chat chatmessage-karnisbroken"><strong style="color:#e01e1a"><small>☆</small><span class="username" data-name="karnisbroken">karnisbroken</span>:</strong> <em>gg</em></div><div class="chat"><small> Sauzels and ☆35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. hammy358</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2008980381" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/hammy358" class="subtle" target="_blank">hammy358</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆hammy358
+|t:|1702253380
+|gametype|singles
+|player|p1|35Q71N|byron|
+|player|p2|hammy358|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1702253380
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound, L82|265\/265
+|switch|p2a: Abomasnow|Abomasnow, L87, F|298\/298
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hammy358)
+|c|☆35Q71N|Glhf!
+|c|☆hammy358|glhf
+|j| Lupin_TheAlphaYT
+|c|☆35Q71N|This time it's not ac
+|inactive|35Q71N has 120 seconds left.
+|c| Lupin_TheAlphaYT|Give it your all!
+|
+|t:|1702253428
+|switch|p1a: Salazzle|Salazzle, L84, F|251\/251
+|move|p2a: Abomasnow|Wood Hammer|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-damage|p1a: Salazzle|212\/251
+|-damage|p2a: Abomasnow|285\/298|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Salazzle|197\/251|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1702253444
+|switch|p1a: Tangrowth|Tangrowth, L88, M|319\/319
+|switch|p2a: Komala|Komala, L88, F|258\/258
+|-ability|p2a: Komala|Comatose
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Komala|242\/258|[from] Hail
+|-damage|p1a: Tangrowth|300\/319|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1702253466
+|move|p2a: Komala|U-turn|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|206\/319
+|
+|t:|1702253479
+|switch|p2a: Abomasnow|Abomasnow, L87, F|285\/298|[from] U-turn
+|move|p1a: Tangrowth|Rock Slide|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|159\/298
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tangrowth|187\/319|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1702253487
+|switch|p1a: Audino|Audino, L92, M|339\/339
+|move|p2a: Abomasnow|Blizzard|p1a: Audino
+|-damage|p1a: Audino|227\/339
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Audino|206\/339|[from] Hail
+|upkeep
+|turn|5
+|c|☆hammy358|audinos moveste list is so long
+|
+|t:|1702253512
+|switch|p2a: Vileplume|Vileplume, L87, M|272\/272
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-weather|none
+|upkeep
+|turn|6
+|c|☆35Q71N|Oh shoot you are right
+|inactive|35Q71N has 120 seconds left.
+|c| Lupin_TheAlphaYT|Wish stalkers kinda suck :\/
+|c|☆35Q71N|Idk why it's like that
+|c| Lupin_TheAlphaYT|Stallers*
+|
+|t:|1702253538
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|move|p2a: Vileplume|Sleep Powder|p1a: Magnezone
+|-status|p1a: Magnezone|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|7
+|c| Lupin_TheAlphaYT|Autocorrect
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1702253569
+|switch|p1a: Arbok|Arbok, L88, M|249\/249
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Vileplume|atk|1
+|move|p2a: Vileplume|Hidden Power|p1a: Arbok
+|-damage|p1a: Arbok|200\/249
+|
+|upkeep
+|turn|8
+|
+|t:|1702253598
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|move|p2a: Vileplume|Strength Sap|p1a: Arbok
+|-unboost|p1a: Arbok|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1702253605
+|switch|p2a: Gyarados|Gyarados, L76, F|269\/269
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Arbok|atk|1
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|upkeep
+|turn|10
+|
+|t:|1702253624
+|move|p1a: Arbok|Gunk Shot|p2a: Gyarados
+|-damage|p2a: Gyarados|43\/269
+|-damage|p1a: Arbok|176\/249|[from] item: Life Orb
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1702253637
+|switch|p1a: Tangrowth|Tangrowth, L88, M|293\/319
+|detailschange|p2a: Gyarados|Gyarados-Mega, L76, F
+|-mega|p2a: Gyarados|Gyarados|Gyaradosite
+|-ability|p2a: Gyarados|Mold Breaker
+|move|p2a: Gyarados|Earthquake|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-damage|p1a: Tangrowth|246\/319
+|
+|upkeep
+|turn|12
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1702253655
+|move|p2a: Gyarados|Crunch|p1a: Tangrowth
+|-damage|p1a: Tangrowth|129\/319
+|move|p1a: Tangrowth|Earthquake|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|upkeep
+|j| MasterJ007
+|l| MasterJ007
+|
+|t:|1702253669
+|switch|p2a: Butterfree|Butterfree, L88, F|249\/249
+|turn|13
+|j| betathunder
+|c| betathunder|hammy my goat
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1702253697
+|switch|p1a: Salazzle|Salazzle, L84, F|197\/251
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1702253705
+|move|p2a: Butterfree|Air Slash|p1a: Salazzle|[miss]
+|-miss|p2a: Butterfree|p1a: Salazzle
+|-zpower|p1a: Salazzle
+|move|p1a: Salazzle|Inferno Overdrive|p2a: Butterfree|[zeffect]
+|-supereffective|p2a: Butterfree
+|-damage|p2a: Butterfree|0 fnt
+|faint|p2a: Butterfree
+|
+|upkeep
+|c|☆35Q71N|My bad...
+|
+|t:|1702253711
+|switch|p2a: Komala|Komala, L88, F|242\/258
+|-ability|p2a: Komala|Comatose
+|turn|15
+|c|☆hammy358|all good
+|
+|t:|1702253722
+|switch|p1a: Tangrowth|Tangrowth, L88, M|235\/319
+|move|p2a: Komala|Return|p1a: Tangrowth
+|-damage|p1a: Tangrowth|144\/319
+|
+|upkeep
+|turn|16
+|j| mikeswerv
+|
+|t:|1702253736
+|switch|p1a: Audino|Audino, L92, M|319\/339
+|move|p2a: Komala|Knock Off|p1a: Audino
+|-damage|p1a: Audino|266\/339
+|
+|upkeep
+|turn|17
+|
+|t:|1702253744
+|move|p2a: Komala|U-turn|p1a: Audino
+|-damage|p1a: Audino|205\/339
+|c| mikeswerv|lfg hammy
+|c| Lupin_TheAlphaYT|Found his mega
+|inactive|hammy358 has 120 seconds left.
+|j|+Lrogue ❀
+|c| Lupin_TheAlphaYT|Audino is your mega, since nothing was knocked off and he’s shown a z move
+|
+|t:|1702253781
+|switch|p2a: Mimikyu|Mimikyu, L75, F|206\/206|[from] U-turn
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|18
+|inactive|hammy358 has 120 seconds left.
+|j| PKV Pokevin
+|inactive|35Q71N has 120 seconds left.
+|c| Lupin_TheAlphaYT|(Plus nothing else can mega evolve)
+|c| mikeswerv|who asked
+|c| betathunder|no ghosting
+|c| Lupin_TheAlphaYT|No one, just making a statement
+|inactive|35Q71N has 90 seconds left.
+|c| mikeswerv|:3
+|
+|t:|1702253826
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Audino|Dazzling Gleam|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|206\/206
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L75, F
+|
+|-heal|p1a: Audino|339\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|19
+|inactive|35Q71N has 90 seconds left.
+|c|☆hammy358|i mean mild ghosting tbh
+|inactive|hammy358 has 120 seconds left.
+|inactive|35Q71N has 60 seconds left.
+|c| betathunder|ik im saying not to do it
+|c|☆hammy358|yeah that's true
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|
+|t:|1702253906
+|switch|p1a: Arbok|Arbok, L88, M|176\/249
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Mimikyu|atk|1
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|upkeep
+|turn|20
+|inactive|35Q71N has 25 seconds left this turn.
+|inactive|hammy358 has 120 seconds left.
+|c|☆35Q71N|Ok, that's what I was fearing
+|inactive|hammy358 has 90 seconds left.
+|c| Lupin_TheAlphaYT|Sweepin’ Time
+|c| mikeswerv|180 bp shadow sneak RAAAAAAH
+|c| Lupin_TheAlphaYT|Life orb too most likely
+|inactive|hammy358 has 60 seconds left.
+|c| PKV Pokevin|not most likely
+|inactive|hammy358 has 30 seconds left.
+|l| betathunder
+|c| PKV Pokevin|I can say the exact % if you want
+|inactive|hammy358 has 20 seconds left.
+|
+|t:|1702254013
+|move|p1a: Arbok|Gunk Shot|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|-damage|p1a: Arbok|152\/249|[from] item: Life Orb
+|
+|upkeep
+|inactive|35Q71N has 30 seconds left this turn.
+|inactive|hammy358 has 25 seconds left this turn.
+|c| Lupin_TheAlphaYT|100?
+|c| PKV Pokevin|15
+|inactive|hammy358 has 20 seconds left.
+|c|☆hammy358|damn
+|c|☆35Q71N|Why is Arbok so strong?
+|inactive|hammy358 has 15 seconds left.
+|c|☆35Q71N|Betathunder, explain
+|inactive|hammy358 has 10 seconds left.
+|
+|t:|1702254031
+|switch|p2a: Vileplume|Vileplume, L87, M|272\/272
+|turn|21
+|inactive|hammy358 has 20 seconds left this turn.
+|c|☆35Q71N|What happened?
+|c| Lupin_TheAlphaYT|…
+|
+|t:|1702254036
+|switch|p1a: Magnezone|Magnezone, L83|252\/252 slp
+|move|p2a: Vileplume|Sludge Bomb|p1a: Magnezone
+|-immune|p1a: Magnezone
+|
+|upkeep
+|turn|22
+|inactive|hammy358 has 30 seconds left this turn.
+|
+|t:|1702254040
+|cant|p1a: Magnezone|slp
+|move|p2a: Vileplume|Hidden Power|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|146\/252 slp
+|
+|upkeep
+|turn|23
+|
+|t:|1702254047
+|-curestatus|p1a: Magnezone|slp|[msg]
+|move|p1a: Magnezone|Flash Cannon|p2a: Vileplume
+|-damage|p2a: Vileplume|119\/272
+|move|p2a: Vileplume|Hidden Power|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|48\/252
+|
+|-heal|p2a: Vileplume|136\/272|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1702254053
+|switch|p2a: Komala|Komala, L88, F|242\/258
+|-ability|p2a: Komala|Comatose
+|move|p1a: Magnezone|Flash Cannon|p2a: Komala
+|-damage|p2a: Komala|143\/258
+|
+|upkeep
+|turn|25
+|
+|t:|1702254062
+|switch|p1a: Tangrowth|Tangrowth, L88, M|250\/319
+|move|p2a: Komala|Return|p1a: Tangrowth
+|-damage|p1a: Tangrowth|154\/319
+|
+|upkeep
+|turn|26
+|c|☆hammy358|well that is gg
+|l| Lupin_TheAlphaYT
+|
+|t:|1702254071
+|switch|p1a: Audino|Audino, L92, M|339\/339
+|move|p2a: Komala|Return|p1a: Audino
+|-damage|p1a: Audino|215\/339
+|
+|upkeep
+|turn|27
+|c| mikeswerv|:(
+|
+|t:|1702254075
+|move|p2a: Komala|Return|p1a: Audino
+|-damage|p1a: Audino|82\/339
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|28
+|
+|t:|1702254088
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Komala|Return|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|251\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|29
+|inactive|hammy358 has 60 seconds left.
+|
+|t:|1702254118
+|move|p2a: Komala|Return|p1a: Audino
+|-damage|p1a: Audino|130\/339
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|upkeep
+|turn|30
+|
+|t:|1702254129
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Komala|Return|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|299\/339|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|31
+|inactive|35Q71N has 90 seconds left.
+|c|☆hammy358|Lvl 88 84 Atk Life Orb Arbok Gunk Shot vs. Lvl 75 84 HP \/ 84 Def Mimikyu: 196-231 (95.1 - 112.1%) -- 68.8% chance to OHKO
+|c|☆35Q71N|Wow
+|c|☆hammy358|honestly that is too strong
+|
+|t:|1702254167
+|switch|p2a: Vileplume|Vileplume, L87, M|136\/272
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-heal|p2a: Vileplume|153\/272|[from] item: Black Sludge
+|upkeep
+|turn|32
+|inactive|hammy358 has 60 seconds left.
+|
+|t:|1702254176
+|switch|p1a: Magnezone|Magnezone, L83|48\/252
+|move|p2a: Vileplume|Sleep Powder|p1a: Magnezone
+|-status|p1a: Magnezone|slp|[from] move: Sleep Powder
+|
+|-heal|p1a: Magnezone|217\/252 slp|[from] move: Wish|[wisher] Audino
+|-heal|p2a: Vileplume|170\/272|[from] item: Black Sludge
+|upkeep
+|turn|33
+|
+|t:|1702254183
+|cant|p1a: Magnezone|slp
+|move|p2a: Vileplume|Hidden Power|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|115\/252 slp
+|
+|-heal|p2a: Vileplume|187\/272|[from] item: Black Sludge
+|upkeep
+|turn|34
+|
+|t:|1702254186
+|-curestatus|p1a: Magnezone|slp|[msg]
+|move|p1a: Magnezone|Flash Cannon|p2a: Vileplume
+|-damage|p2a: Vileplume|31\/272
+|move|p2a: Vileplume|Hidden Power|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|15\/252
+|
+|-heal|p2a: Vileplume|48\/272|[from] item: Black Sludge
+|upkeep
+|turn|35
+|
+|t:|1702254191
+|switch|p2a: Komala|Komala, L88, F|143\/258
+|-ability|p2a: Komala|Comatose
+|move|p1a: Magnezone|Flash Cannon|p2a: Komala
+|-damage|p2a: Komala|46\/258
+|
+|upkeep
+|turn|36
+|inactive|hammy358 has 90 seconds left.
+|
+|t:|1702254197
+|move|p2a: Komala|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|inactive|hammy358 has 90 seconds left.
+|
+|t:|1702254203
+|switch|p2a: Abomasnow|Abomasnow, L87, F|159\/298|[from] U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|c| PKV Pokevin|I think this is gg
+|c|☆hammy358|yeah
+|
+|t:|1702254233
+|switch|p1a: Hoopa|Hoopa-Unbound, L82|265\/265
+|turn|37
+|j| MasterJ007
+|l| MasterJ007
+|
+|t:|1702254237
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hoopa|249\/265|[from] Hail
+|upkeep
+|c|☆35Q71N|Now it is, yeah
+|
+|t:|1702254245
+|switch|p2a: Komala|Komala, L88, F|46\/258
+|-ability|p2a: Komala|Comatose
+|turn|38
+|c|☆35Q71N|Hoopa Unbound Banded
+|
+|t:|1702254253
+|switch|p1a: Tangrowth|Tangrowth, L88, M|260\/319
+|move|p2a: Komala|Knock Off|p1a: Tangrowth
+|-damage|p1a: Tangrowth|191\/319
+|-enditem|p1a: Tangrowth|Assault Vest|[from] move: Knock Off|[of] p2a: Komala
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Komala|30\/258|[from] Hail
+|-damage|p1a: Tangrowth|172\/319|[from] Hail
+|upkeep
+|turn|39
+|c| PKV Pokevin|fran it was not surviving flamethorwer even with av
+|
+|t:|1702254257
+|move|p2a: Komala|Return|p1a: Tangrowth
+|-damage|p1a: Tangrowth|73\/319
+|move|p1a: Tangrowth|Earthquake|p2a: Komala
+|-damage|p2a: Komala|0 fnt
+|faint|p2a: Komala
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tangrowth|54\/319|[from] Hail
+|upkeep
+|c|☆35Q71N|I see
+|inactive|hammy358 has 120 seconds left.
+|
+|t:|1702254270
+|switch|p2a: Vileplume|Vileplume, L87, M|48\/272
+|turn|40
+|inactive|hammy358 has 120 seconds left.
+|c|☆35Q71N|I didn't want to take risks, knowing my great ability at choking
+|c|☆hammy358|oh is that why you switched to tangrowth at the start?
+|c| PKV Pokevin|haha
+|c| PKV Pokevin|sure
+|
+|t:|1702254295
+|move|p1a: Tangrowth|Earthquake|p2a: Vileplume
+|-crit|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|win|35Q71N
+|n|☆35Q71N|35q71n
+|n|☆hammy358|hammy358
+|n| mikeswerv|mikeswerv
+|n| Lrogue ❀|lrogue
+|n| PKV Pokevin|pkvpokevin
+|c|☆hammy358|gg
+|c|☆35Q71N|Wait, which turn?
+|c|☆35Q71N|Gg btw
+|l| mikeswerv
+|l|☆hammy358
+|l|☆35Q71N
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆hammy358 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and hammy358!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Abomasnow</strong>!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by hammy358)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>glhf</em></div><div class="chat"><small> Lupin_TheAlphaYT joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This time it's not ac</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Give it your all!</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Salazzle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Salazzle lost <abbr title="−39/251">15.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Salazzle is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Salazzle, come back!<br></div><div class="battle-history">Go! <strong>Tangrowth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Abomasnow!<br></div><div class="battle-history">hammy358 sent out <strong>Komala</strong>!<br></div><div class="battle-history">[The opposing Komala's Comatose]<br><small>The opposing Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Komala is buffeted by the hail!</small><br></div><div class="battle-history"><small>Tangrowth is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−94/319">29.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala went back to hammy358!<br></div><div class="battle-history">hammy358 sent out <strong>Abomasnow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth used <strong>Rock Slide</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−126/298">42.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Tangrowth is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−112/339">33.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Audino is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>audinos moveste list is so long</em></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Abomasnow!<br></div><div class="battle-history">hammy358 sent out <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh shoot you are right</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Wish stalkers kinda suck :/</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Idk why it's like that</em></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Stallers*</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Magnezone fell asleep!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Autocorrect</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history">[Arbok's Intimidate]<br></div><div class="battle-history"><small>The opposing Vileplume's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Arbok lost <abbr title="−49/249">19.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Coil</strong>!<br></div><div class="battle-history"><small>Arbok's Attack rose!</small><br></div><div class="battle-history"><small>Arbok's Defense rose!</small><br></div><div class="battle-history"><small>Arbok's accuracy rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Strength Sap</strong>!<br></div><div class="battle-history"><small>Arbok's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Vileplume!<br></div><div class="battle-history">hammy358 sent out <strong>Gyarados</strong>!<br></div><div class="battle-history">[The opposing Gyarados's Intimidate]<br></div><div class="battle-history"><small>Arbok's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Coil</strong>!<br></div><div class="battle-history"><small>Arbok's Attack rose!</small><br></div><div class="battle-history"><small>Arbok's Defense rose!</small><br></div><div class="battle-history"><small>Arbok's accuracy rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Gyarados lost <abbr title="−226/269">84.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Arbok lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gyarados used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Gyarados's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Gyarados's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arbok, come back!<br></div><div class="battle-history">Go! <strong>Tangrowth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gyarados's Gyaradosite is reacting to the Key Stone!</small><br>The opposing Gyarados has Mega Evolved into Mega Gyarados!<br></div><div class="battle-history">[The opposing Gyarados's Mold Breaker]<br><small>The opposing Gyarados breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gyarados used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−47/319">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gyarados used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−117/319">36.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Gyarados lost <abbr title="−43/269">16.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gyarados fainted!<br></div><div class="chat"><small> MasterJ007 joined;  MasterJ007 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Butterfree</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat"><small> betathunder joined</small></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small> </small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>hammy my goat</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth, come back!<br></div><div class="battle-history">Go! <strong>Salazzle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Butterfree's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>Salazzle avoided the attack!</small><br></div><div class="battle-history"><small>Salazzle surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Salazzle unleashes its full-force Z-Move!</small><br>Salazzle used <strong>Inferno Overdrive</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Butterfree lost <abbr title="−249/249">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Butterfree fainted!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>My bad...</em></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Komala</strong>!<br></div><div class="battle-history">[The opposing Komala's Comatose]<br><small>The opposing Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>all good</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Salazzle, come back!<br></div><div class="battle-history">Go! <strong>Tangrowth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−91/319">28.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat"><small> mikeswerv joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−53/339">15.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−61/339">18.0%</abbr> of its health!)</small><br></div><div class="chat chatmessage-mikeswerv"><strong style="color:#188128"><small> </small><span class="username" data-name="mikeswerv">mikeswerv</span>:</strong> <em>lfg hammy</em></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Found his mega</em></div><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="chat"><small>+Lrogue ❀ joined</small></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Audino is your mega, since nothing was knocked off and he’s shown a z move</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala went back to hammy358!<br></div><div class="battle-history">hammy358 sent out <strong>Mimikyu</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="chat"><small> PKV Pokevin joined</small></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>(Plus nothing else can mega evolve)</em></div><div class="chat chatmessage-mikeswerv"><strong style="color:#188128"><small> </small><span class="username" data-name="mikeswerv">mikeswerv</span>:</strong> <em>who asked</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small> </small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>no ghosting</em></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>No one, just making a statement</em></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-mikeswerv"><strong style="color:#188128"><small> </small><span class="username" data-name="mikeswerv">mikeswerv</span>:</strong> <em>:3</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history">[The opposing Mimikyu's Disguise]<br><small>Its disguise served it as a decoy!</small><br></div><div class="battle-history"><small>(The opposing Mimikyu lost <abbr title="0/206">0%</abbr> of its health!)</small><br></div><div class="battle-history">The opposing Mimikyu's disguise was busted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>i mean mild ghosting tbh</em></div><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small> </small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>ik im saying not to do it</em></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>yeah that's true</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Arbok</strong>!<br></div><div class="battle-history">[Arbok's Intimidate]<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ok, that's what I was fearing</em></div><div class="chat message-error">hammy358 has 90 seconds left.</div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Sweepin’ Time</em></div><div class="chat chatmessage-mikeswerv"><strong style="color:#188128"><small> </small><span class="username" data-name="mikeswerv">mikeswerv</span>:</strong> <em>180 bp shadow sneak RAAAAAAH</em></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>Life orb too most likely</em></div><div class="chat message-error">hammy358 has 60 seconds left.</div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>not most likely</em></div><div class="chat message-error">hammy358 has 30 seconds left.</div><div class="chat"><small> betathunder left</small></div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>I can say the exact % if you want</em></div><div class="chat message-error">hammy358 has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Mimikyu lost <abbr title="−206/206">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu fainted!<br></div><div class="battle-history"><small>Arbok lost some of its HP!</small><br></div><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat message-error">hammy358 has 25 seconds left this turn.</div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>100?</em></div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>15</em></div><div class="chat message-error">hammy358 has 20 seconds left.</div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>damn</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Why is Arbok so strong?</em></div><div class="chat message-error">hammy358 has 15 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Betathunder, explain</em></div><div class="chat message-error">hammy358 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">hammy358 has 20 seconds left this turn.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>What happened?</em></div><div class="chat chatmessage-lupinthealphayt"><strong style="color:#36a67d"><small> </small><span class="username" data-name="Lupin_TheAlphaYT">Lupin_TheAlphaYT</span>:</strong> <em>…</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Arbok, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It doesn't affect Magnezone...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">hammy358 has 30 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−106/252">42.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Magnezone woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Vileplume lost <abbr title="−153/272">56.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−98/252">38.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Vileplume!<br></div><div class="battle-history">hammy358 sent out <strong>Komala</strong>!<br></div><div class="battle-history">[The opposing Komala's Comatose]<br><small>The opposing Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Komala lost <abbr title="−99/258">38.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Tangrowth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−96/319">30.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>well that is gg</em></div><div class="chat"><small> Lupin_TheAlphaYT left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth, come back!<br></div><div class="battle-history">Go! <strong>Audino</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−124/339">36.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat chatmessage-mikeswerv"><strong style="color:#188128"><small> </small><span class="username" data-name="mikeswerv">mikeswerv</span>:</strong> <em>:(</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−133/339">39.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">hammy358 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Audino lost <abbr title="−121/339">35.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>Audino protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>Lvl 88 84 Atk Life Orb Arbok Gunk Shot vs. Lvl 75 84 HP / 84 Def Mimikyu: 196-231 (95.1 - 112.1%) -- 68.8% chance to OHKO</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Wow</em></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>honestly that is too strong</em></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Komala!<br></div><div class="battle-history">hammy358 sent out <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Audino used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="chat message-error">hammy358 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Audino, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Magnezone fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Audino's wish came true!</small><br></div><div class="battle-history"><small>The opposing Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−102/252">40.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Magnezone woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Vileplume lost <abbr title="−156/272">57.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−100/252">39.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vileplume restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 withdrew Vileplume!<br></div><div class="battle-history">hammy358 sent out <strong>Komala</strong>!<br></div><div class="battle-history">[The opposing Komala's Comatose]<br><small>The opposing Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Komala lost <abbr title="−97/258">37.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat message-error">hammy358 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−15/252">6.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone fainted!<br></div><div class="chat message-error">hammy358 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala went back to hammy358!<br></div><div class="battle-history">hammy358 sent out <strong>Abomasnow</strong>!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>I think this is gg</em></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>yeah</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat"><small> MasterJ007 joined;  MasterJ007 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−159/298">53.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Hoopa is buffeted by the hail!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Now it is, yeah</em></div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Komala</strong>!<br></div><div class="battle-history">[The opposing Komala's Comatose]<br><small>The opposing Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Hoopa Unbound Banded</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Tangrowth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−69/319">21.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Komala knocked off Tangrowth's Assault Vest!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Komala is buffeted by the hail!</small><br></div><div class="battle-history"><small>Tangrowth is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>fran it was not surviving flamethorwer even with av</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Tangrowth lost <abbr title="−99/319">31.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Komala lost <abbr title="−30/258">11.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Komala fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Tangrowth is buffeted by the hail!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I see</em></div><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">hammy358 sent out <strong>Vileplume</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="chat message-error">hammy358 has 120 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I didn't want to take risks, knowing my great ability at choking</em></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>oh is that why you switched to tangrowth at the start?</em></div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>haha</em></div><div class="chat chatmessage-pkvpokevin"><strong style="color:#45a610"><small> </small><span class="username" data-name="PKV Pokevin">PKV Pokevin</span>:</strong> <em>sure</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Tangrowth used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Vileplume lost <abbr title="−48/272">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vileplume fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small>☆</small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Wait, which turn?</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg btw</em></div><div class="chat"><small> mikeswerv, ☆hammy358, and ☆35Q71N left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

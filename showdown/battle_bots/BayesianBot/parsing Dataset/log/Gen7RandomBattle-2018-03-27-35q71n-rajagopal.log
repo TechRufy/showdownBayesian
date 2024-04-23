@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. Rajagopal</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-724224808" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/rajagopal" class="subtle" target="_blank">Rajagopal</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆Rajagopal
+|player|p1|35Q71N|101
+|player|p2|Rajagopal|153
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|55419,10495,39649,27077
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Gogoat|Gogoat, L83, F|340\/340
+|switch|p2a: Aurorus|Aurorus, L83, F|339\/339
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|turn|1
+|c|☆Rajagopal|gl hf!
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rajagopal)
+|c|☆35Q71N|u2!
+|inactive|35Q71N has 135 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|
+|switch|p1a: Moltres|Moltres, L79|271\/271
+|switch|p2a: Heracross|Heracross, L76, F|247\/247
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Moltres|255\/271|[from] hail
+|-damage|p2a: Heracross|232\/247|[from] hail
+|-heal|p1a: Moltres|271\/271|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|35Q71N has 135 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|
+|switch|p2a: Magmortar|Magmortar, L83, M|259\/259
+|move|p1a: Moltres|Fire Blast|p2a: Magmortar|[miss]
+|-miss|p1a: Moltres|p2a: Magmortar
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Moltres|255\/271|[from] hail
+|-damage|p2a: Magmortar|243\/259|[from] hail
+|-heal|p1a: Moltres|271\/271|[from] item: Leftovers
+|-heal|p2a: Magmortar|259\/259|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|35Q71N has 135 seconds left.
+|
+|switch|p1a: Clefable|Clefable, L75, F|266\/266
+|move|p2a: Magmortar|Substitute|p2a: Magmortar
+|-start|p2a: Magmortar|Substitute
+|-damage|p2a: Magmortar|195\/259
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Magmortar|179\/259|[from] hail
+|-heal|p2a: Magmortar|195\/259|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|move|p2a: Magmortar|Fire Blast|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|38\/266
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Magmortar|179\/259|[from] hail
+|-heal|p2a: Magmortar|195\/259|[from] item: Leftovers
+|-heal|p1a: Clefable|54\/266|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 105 seconds left.
+|
+|switch|p1a: Lugia|Lugia, L73|275\/275
+|move|p2a: Magmortar|Fire Blast|p1a: Lugia
+|-damage|p1a: Lugia|221\/275
+|
+|-weather|none
+|-heal|p1a: Lugia|238\/275|[from] item: Leftovers
+|-heal|p2a: Magmortar|211\/259|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|275\/275
+|move|p2a: Magmortar|Thunderbolt|p1a: Lugia
+|-damage|p1a: Lugia|247\/275
+|
+|-heal|p1a: Lugia|264\/275|[from] item: Leftovers
+|-heal|p2a: Magmortar|227\/259|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|35Q71N has 135 seconds left.
+|
+|move|p1a: Lugia|Aeroblast|p2a: Magmortar
+|-end|p2a: Magmortar|Substitute
+|move|p2a: Magmortar|Thunderbolt|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|140\/275
+|
+|-heal|p1a: Lugia|157\/275|[from] item: Leftovers
+|-heal|p2a: Magmortar|243\/259|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|35Q71N has 135 seconds left.
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Aurorus|Aurorus, L83, F|339\/339
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|move|p1a: Lugia|Thunder Wave|p2a: Aurorus
+|-status|p2a: Aurorus|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lugia|140\/275|[from] hail
+|-heal|p1a: Lugia|157\/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|275\/275
+|move|p2a: Aurorus|Thunder Wave|p1a: Lugia
+|-status|p1a: Lugia|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lugia|258\/275 par|[from] hail
+|-heal|p1a: Lugia|275\/275 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p2a: Aurorus|Stealth Rock|p1a: Lugia
+|-sidestart|p1: 35Q71N|move: Stealth Rock
+|move|p1a: Lugia|Dragon Tail|p2a: Aurorus
+|-damage|p2a: Aurorus|305\/339 par
+|drag|p2a: Stakataka|Stakataka, L77|220\/220
+|-item|p2a: Stakataka|Air Balloon
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lugia|258\/275 par|[from] hail
+|-damage|p2a: Stakataka|207\/220|[from] hail
+|-heal|p1a: Lugia|275\/275 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|35Q71N has 105 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|inactive|Rajagopal has 120 seconds left.
+|inactive|35Q71N has 75 seconds left.
+|inactive|35Q71N has 60 seconds left.
+|
+|switch|p1a: Gogoat|Gogoat, L83, F|340\/340
+|-damage|p1a: Gogoat|298\/340|[from] Stealth Rock
+|move|p2a: Stakataka|Gyro Ball|p1a: Gogoat
+|-damage|p1a: Gogoat|88\/340
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gogoat|67\/340|[from] hail
+|-damage|p2a: Stakataka|194\/220|[from] hail
+|upkeep
+|turn|12
+|inactive|35Q71N has 60 seconds left.
+|inactive|35Q71N has 45 seconds left.
+|
+|switch|p2a: Heracross|Heracross, L76, F|232\/247
+|move|p1a: Gogoat|Leech Seed|p2a: Heracross
+|-start|p2a: Heracross|move: Leech Seed
+|
+|-weather|none
+|-damage|p2a: Heracross|202\/247|[from] Leech Seed|[of] p1a: Gogoat
+|-heal|p1a: Gogoat|97\/340|[silent]
+|upkeep
+|turn|13
+|inactive|35Q71N has 30 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|Rajagopal has 120 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|inactive|Rajagopal has 105 seconds left.
+|
+|switch|p2a: Magmortar|Magmortar, L83, M|243\/259
+|switch|p1a: Lugia|Lugia, L73|275\/275 par
+|-damage|p1a: Lugia|207\/275 par|[from] Stealth Rock
+|
+|-heal|p2a: Magmortar|259\/259|[from] item: Leftovers
+|-heal|p1a: Lugia|224\/275 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|
+|move|p2a: Magmortar|Substitute|p2a: Magmortar
+|-start|p2a: Magmortar|Substitute
+|-damage|p2a: Magmortar|195\/259
+|move|p1a: Lugia|Roost|p1a: Lugia
+|-heal|p1a: Lugia|275\/275 par
+|
+|-heal|p2a: Magmortar|211\/259|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|35Q71N has 15 seconds left.
+|
+|move|p2a: Magmortar|Fire Blast|p1a: Lugia
+|-damage|p1a: Lugia|222\/275 par
+|move|p1a: Lugia|Aeroblast|p2a: Magmortar
+|-end|p2a: Magmortar|Substitute
+|
+|-heal|p2a: Magmortar|227\/259|[from] item: Leftovers
+|-heal|p1a: Lugia|239\/275 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|
+|move|p2a: Magmortar|Substitute|p2a: Magmortar
+|-start|p2a: Magmortar|Substitute
+|-damage|p2a: Magmortar|163\/259
+|move|p1a: Lugia|Aeroblast|p2a: Magmortar
+|-end|p2a: Magmortar|Substitute
+|
+|-heal|p2a: Magmortar|179\/259|[from] item: Leftovers
+|-heal|p1a: Lugia|256\/275 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|switch|p2a: Aurorus|Aurorus, L83, F|305\/339 par
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|cant|p1a: Lugia|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lugia|239\/275 par|[from] hail
+|-heal|p1a: Lugia|256\/275 par|[from] item: Leftovers
+|-heal|p2a: Aurorus|326\/339 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|
+|cant|p1a: Lugia|par
+|move|p2a: Aurorus|Ancient Power|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|158\/275 par
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lugia|141\/275 par|[from] hail
+|-heal|p1a: Lugia|158\/275 par|[from] item: Leftovers
+|-heal|p2a: Aurorus|339\/339 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|35Q71N has 20 seconds left.
+|
+|switch|p1a: Clefable|Clefable, L75, F|54\/266
+|cant|p2a: Aurorus|par
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Clefable|70\/266|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|35Q71N has 20 seconds left.
+|
+|move|p1a: Clefable|Stealth Rock|p2a: Aurorus
+|-sidestart|p2: Rajagopal|move: Stealth Rock
+|move|p2a: Aurorus|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Clefable|86\/266 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|cant|p2a: Aurorus|par
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|219\/266 par
+|
+|-weather|none
+|-heal|p1a: Clefable|235\/266 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|35Q71N has 30 seconds left.
+|
+|switch|p2a: Salazzle|Salazzle, L79, F|237\/237
+|-damage|p2a: Salazzle|178\/237|[from] Stealth Rock
+|-item|p2a: Salazzle|Air Balloon
+|move|p1a: Clefable|Moonblast|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|150\/237
+|-enditem|p2a: Salazzle|Air Balloon
+|
+|-heal|p1a: Clefable|251\/266 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|35Q71N has 30 seconds left.
+|
+|switch|p1a: Gogoat|Gogoat, L83, F|97\/340
+|-damage|p1a: Gogoat|55\/340|[from] Stealth Rock
+|move|p2a: Salazzle|Nasty Plot|p2a: Salazzle
+|-boost|p2a: Salazzle|spa|2
+|
+|upkeep
+|turn|24
+|inactive|35Q71N has 30 seconds left.
+|
+|move|p2a: Salazzle|Sludge Wave|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|upkeep
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|
+|switch|p1a: Minun|Minun, L83, F|235\/235
+|-damage|p1a: Minun|206\/235|[from] Stealth Rock
+|turn|25
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|
+|move|p2a: Salazzle|Sludge Wave|p1a: Minun
+|-damage|p1a: Minun|0 fnt
+|faint|p1a: Minun
+|
+|upkeep
+|inactive|35Q71N has 15 seconds left.
+|
+|switch|p1a: Dhelmise|Dhelmise, L79|240\/240
+|-damage|p1a: Dhelmise|210\/240|[from] Stealth Rock
+|turn|26
+|
+|move|p2a: Salazzle|Sludge Wave|p1a: Dhelmise
+|-damage|p1a: Dhelmise|18\/240
+|move|p1a: Dhelmise|Phantom Force|p2a: Salazzle|[still]
+|-prepare|p1a: Dhelmise|Phantom Force|p2a: Salazzle
+|
+|upkeep
+|turn|27
+|inactive|35Q71N has 30 seconds left.
+|
+|move|p2a: Salazzle|Nasty Plot|p2a: Salazzle
+|-boost|p2a: Salazzle|spa|2
+|move|p1a: Dhelmise|Phantom Force|p2a: Salazzle|[from]lockedmove
+|-damage|p2a: Salazzle|0 fnt
+|-damage|p1a: Dhelmise|0 fnt|[from] item: Life Orb
+|faint|p2a: Salazzle
+|faint|p1a: Dhelmise
+|
+|upkeep
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|
+|switch|p2a: Aurorus|Aurorus, L83, F|339\/339 par
+|switch|p1a: Lugia|Lugia, L73|158\/275 par
+|-damage|p1a: Lugia|90\/275 par|[from] Stealth Rock
+|-damage|p2a: Aurorus|255\/339 par|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|turn|28
+|
+|cant|p1a: Lugia|par
+|move|p2a: Aurorus|Blizzard|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|faint|p1a: Lugia
+|
+|-weather|Hail|[upkeep]
+|-heal|p2a: Aurorus|276\/339 par|[from] item: Leftovers
+|upkeep
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|
+|switch|p1a: Clefable|Clefable, L75, F|251\/266 par
+|turn|29
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|
+|move|p2a: Aurorus|Ancient Power|p1a: Clefable
+|-damage|p1a: Clefable|176\/266 par
+|move|p1a: Clefable|Moonblast|p2a: Aurorus
+|-damage|p2a: Aurorus|201\/339 par
+|
+|-weather|Hail|[upkeep]
+|-heal|p2a: Aurorus|222\/339 par|[from] item: Leftovers
+|-heal|p1a: Clefable|192\/266 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|move|p2a: Aurorus|Blizzard|p1a: Clefable
+|-damage|p1a: Clefable|60\/266 par
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-weather|Hail|[upkeep]
+|-heal|p2a: Aurorus|243\/339 par|[from] item: Leftovers
+|-heal|p1a: Clefable|76\/266 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|cant|p2a: Aurorus|par
+|cant|p1a: Clefable|par
+|
+|-weather|Hail|[upkeep]
+|-heal|p2a: Aurorus|264\/339 par|[from] item: Leftovers
+|-heal|p1a: Clefable|92\/266 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|move|p2a: Aurorus|Blizzard|p1a: Clefable
+|-damage|p1a: Clefable|5\/266 par
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|138\/266 par
+|
+|-weather|none
+|-heal|p2a: Aurorus|285\/339 par|[from] item: Leftovers
+|-heal|p1a: Clefable|154\/266 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|c|☆Rajagopal|So close
+|inactive|35Q71N has 30 seconds left.
+|inactive|Rajagopal has 135 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|
+|switch|p2a: Stakataka|Stakataka, L77|194\/220
+|-damage|p2a: Stakataka|181\/220|[from] Stealth Rock
+|-item|p2a: Stakataka|Air Balloon
+|move|p1a: Clefable|Moonblast|p2a: Stakataka
+|-resisted|p2a: Stakataka
+|-damage|p2a: Stakataka|121\/220
+|-enditem|p2a: Stakataka|Air Balloon
+|
+|-heal|p1a: Clefable|170\/266 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|inactive|35Q71N has 5 seconds left.
+|
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|266\/266 par
+|move|p2a: Stakataka|Trick Room|p2a: Stakataka
+|-fieldstart|move: Trick Room|[of] p2a: Stakataka
+|
+|upkeep
+|turn|35
+|inactive|35Q71N has 10 seconds left.
+|
+|move|p2a: Stakataka|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|86\/266 par
+|cant|p1a: Clefable|par
+|
+|-heal|p1a: Clefable|102\/266 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|35Q71N has 15 seconds left.
+|
+|move|p2a: Stakataka|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-ability|p2a: Stakataka|Beast Boost|boost
+|-boost|p2a: Stakataka|def|1
+|
+|upkeep
+|
+|switch|p1a: Moltres|Moltres, L79|271\/271
+|-damage|p1a: Moltres|136\/271|[from] Stealth Rock
+|turn|37
+|inactive|35Q71N has 30 seconds left.
+|
+|move|p2a: Stakataka|Stone Edge|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|win|Rajagopal
+|c|☆Rajagopal|gg
+|c|☆35Q71N|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆Rajagopal joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and Rajagopal!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gogoat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-rajagopal"><strong style="color:#7974db"><small>☆</small><span class="username" data-name="Rajagopal">Rajagopal</span>:</strong> <em>gl hf!</em></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rajagopal)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>u2!</em></div><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gogoat, come back!<br></div><div class="battle-history">Go! <strong>Moltres</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Aurorus!<br></div><div class="battle-history">Rajagopal sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Moltres is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Heracross is buffeted by the hail!</small><br></div><div class="battle-history"><small>Moltres restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Heracross!<br></div><div class="battle-history">Rajagopal sent out <strong>Magmortar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Moltres used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Moltres is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Magmortar is buffeted by the hail!</small><br></div><div class="battle-history"><small>Moltres restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Moltres, come back!<br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Magmortar lost <abbr title="−64/259">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Magmortar is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Clefable lost <abbr title="−228/266">85.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Magmortar is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−54/275">19.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−28/275">10.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−124/275">45.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">35Q71N has 135 seconds left.</div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Magmortar!<br></div><div class="battle-history">Rajagopal sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Aurorus is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Lugia is buffeted by the hail!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Lugia is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Lugia is buffeted by the hail!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Dragon Tail</strong>!<br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−34/339">10.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Stakataka</strong> was dragged out!<br></div><div class="battle-history"><small>The opposing Stakataka floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Lugia is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Stakataka is buffeted by the hail!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">35Q71N has 105 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">Rajagopal has 120 seconds left.</div><div class="chat message-error">35Q71N has 75 seconds left.</div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Gogoat</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Gogoat!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stakataka used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(Gogoat lost <abbr title="−210/340">61.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Gogoat is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Stakataka is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat message-error">35Q71N has 45 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Stakataka!<br></div><div class="battle-history">Rajagopal sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gogoat used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Heracross was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>The opposing Heracross's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">Rajagopal has 120 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat message-error">Rajagopal has 105 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Heracross!<br></div><div class="battle-history">Rajagopal sent out <strong>Magmortar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gogoat, come back!<br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Lugia!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Magmortar lost <abbr title="−64/259">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Lugia had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(Lugia lost <abbr title="−53/275">19.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magmortar used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Magmortar lost <abbr title="−64/259">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia used <strong>Aeroblast</strong>!<br></div><div class="battle-history"><small>The opposing Magmortar's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magmortar restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Magmortar!<br></div><div class="battle-history">Rajagopal sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Lugia is buffeted by the hail!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Ancient Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−98/275">35.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Lugia is buffeted by the hail!</small><br></div><div class="battle-history"><small>Lugia restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia, come back!<br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Clefable is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Aurorus!<br></div><div class="battle-history">Rajagopal sent out <strong>Salazzle</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Salazzle!</small><br></div><div class="battle-history"><small>The opposing Salazzle floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Salazzle lost <abbr title="−28/237">11.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Salazzle's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable, come back!<br></div><div class="battle-history">Go! <strong>Gogoat</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Gogoat!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Salazzle's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gogoat lost <abbr title="−55/340">16.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gogoat fainted!<br></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Minun!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Minun lost <abbr title="−206/235">87.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun fainted!<br></div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dhelmise</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Dhelmise!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Dhelmise lost <abbr title="−192/240">80%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dhelmise used <strong>Phantom Force</strong>!<br></div><div class="battle-history">Dhelmise vanished instantly!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Salazzle's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dhelmise used <strong>Phantom Force</strong>!<br></div><div class="battle-history"><small>(The opposing Salazzle lost <abbr title="−150/237">63.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dhelmise lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Salazzle fainted!<br></div><div class="battle-history">Dhelmise fainted!<br></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal sent out <strong>Aurorus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lugia</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Lugia!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Aurorus!</small><br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lugia is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Lugia lost <abbr title="−90/275">32.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lugia fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Ancient Power</strong>!<br></div><div class="battle-history"><small>(Clefable lost <abbr title="−75/266">28.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−75/339">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>(Clefable lost <abbr title="−132/266">49.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>(Clefable lost <abbr title="−87/266">32.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat chatmessage-rajagopal"><strong style="color:#7974db"><small>☆</small><span class="username" data-name="Rajagopal">Rajagopal</span>:</strong> <em>So close</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">Rajagopal has 135 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Rajagopal withdrew Aurorus!<br></div><div class="battle-history">Rajagopal sent out <strong>Stakataka</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Stakataka!</small><br></div><div class="battle-history"><small>The opposing Stakataka floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Stakataka lost <abbr title="−60/220">27.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Stakataka's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat message-error">35Q71N has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stakataka used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Stakataka twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stakataka used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Clefable lost <abbr title="−180/266">67.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stakataka used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Clefable lost <abbr title="−102/266">38.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Clefable fainted!<br></div><div class="battle-history">[The opposing Stakataka's Beast Boost]<br></div><div class="battle-history"><small>The opposing Stakataka's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Moltres</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Moltres!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stakataka used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Moltres lost <abbr title="−136/271">50.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Moltres fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Rajagopal</strong> won the battle!<br></div><div class="chat chatmessage-rajagopal"><strong style="color:#7974db"><small>☆</small><span class="username" data-name="Rajagopal">Rajagopal</span>:</strong> <em>gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: meamdefinitely4 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2073472445" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/meamdefinitely4" class="subtle" target="_blank">meamdefinitely4</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|j|☆meamdefinitely4
+|j|☆35Q71N
+|t:|1709587207
+|gametype|singles
+|player|p1|meamdefinitely4|iono|
+|player|p2|35Q71N|#rbtt7teamhoopaf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Blitz: Super-fast timer
+|
+|t:|1709587207
+|start
+|switch|p1a: Oricorio|Oricorio-Pa'u, L90, F|281\/281
+|switch|p2a: Gothitelle|Gothitelle, L89, F|269\/269
+|turn|1
+|j| Jhonnatan345
+|c|☆35Q71N|Glhf!
+|j|+DerpySuX
+|c|☆meamdefinitely4|6-0 here we come
+|c|☆meamdefinitely4|gl nf
+|inactive|meamdefinitely4 has 30 seconds left.
+|inactive|35Q71N has 30 seconds left.
+|c|☆meamdefinitely4|Hf*
+|c|☆35Q71N|Impossible
+|c|☆35Q71N|Derpy :O
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|c|☆meamdefinitely4|Lol
+|c|☆meamdefinitely4|Possivle
+|inactive|35Q71N has 10 seconds left.
+|c|☆meamdefinitely4|Finna happen
+|c|☆meamdefinitely4|Bet
+|
+|t:|1709587240
+|move|p1a: Oricorio|Calm Mind|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|move|p2a: Gothitelle|Thunderbolt|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|131\/281
+|
+|-heal|p1a: Oricorio|148\/281|[from] item: Leftovers
+|upkeep
+|turn|2
+|c|+DerpySuX|Im queueing for a bss game but high ladder dead so watching game
+|
+|t:|1709587244
+|switch|p2a: Guzzlord|Guzzlord, L87|530\/530
+|move|p1a: Oricorio|Calm Mind|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|
+|-heal|p1a: Oricorio|165\/281|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587254
+|switch|p1a: Camerupt|Camerupt, L88, F|266\/266
+|move|p2a: Guzzlord|Knock Off|p1a: Camerupt
+|-damage|p1a: Camerupt|185\/266
+|
+|upkeep
+|turn|4
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587262
+|detailschange|p1a: Camerupt|Camerupt-Mega, L88, F
+|-mega|p1a: Camerupt|Camerupt|Cameruptite
+|move|p2a: Guzzlord|Draco Meteor|p1a: Camerupt
+|-damage|p1a: Camerupt|55\/266
+|-unboost|p2a: Guzzlord|spa|2
+|move|p1a: Camerupt|Will-O-Wisp|p2a: Guzzlord
+|-status|p2a: Guzzlord|brn
+|
+|-damage|p2a: Guzzlord|497\/530 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|meamdefinitely4 has 10 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587271
+|move|p2a: Guzzlord|Draco Meteor|p1a: Camerupt
+|-damage|p1a: Camerupt|0 fnt
+|-unboost|p2a: Guzzlord|spa|2
+|faint|p1a: Camerupt
+|-ability|p2a: Guzzlord|Beast Boost|boost
+|-boost|p2a: Guzzlord|atk|1
+|
+|-damage|p2a: Guzzlord|464\/530 brn|[from] brn
+|upkeep
+|
+|t:|1709587276
+|switch|p1a: Beedrill|Beedrill, L92, F|269\/269
+|turn|6
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587284
+|switch|p2a: Vivillon|Vivillon-Monsoon, L86, M|260\/260
+|move|p1a: Beedrill|U-turn|p2a: Vivillon
+|-resisted|p2a: Vivillon
+|-damage|p2a: Vivillon|202\/260
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587291
+|switch|p1a: Relicanth|Relicanth, L87, M|316\/316|[from] U-turn
+|
+|-heal|p2a: Vivillon|218\/260|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆35Q71N|Ah it's regular bee
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587296
+|move|p2a: Vivillon|Sleep Powder|p1a: Relicanth
+|-status|p1a: Relicanth|slp|[from] move: Sleep Powder
+|cant|p1a: Relicanth|slp
+|
+|-heal|p2a: Vivillon|234\/260|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1709587300
+|switch|p2a: Gothitelle|Gothitelle, L89, F|269\/269
+|switch|p1a: Rotom|Rotom-Frost, L87|229\/229
+|
+|upkeep
+|turn|9
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587306
+|-zpower|p1a: Rotom
+|move|p1a: Rotom|Subzero Slammer|p2a: Gothitelle|[zeffect]
+|-damage|p2a: Gothitelle|97\/269
+|move|p2a: Gothitelle|Psychic|p1a: Rotom
+|-damage|p1a: Rotom|100\/229
+|
+|upkeep
+|turn|10
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587312
+|move|p1a: Rotom|Thunderbolt|p2a: Gothitelle
+|-damage|p2a: Gothitelle|7\/269
+|move|p2a: Gothitelle|Psychic|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|c|☆meamdefinitely4|Oof
+|inactive|meamdefinitely4 has 10 seconds left.
+|j| des121
+|inactive|meamdefinitely4 has 5 seconds left.
+|
+|t:|1709587322
+|switch|p1a: Oricorio|Oricorio-Pa'u, L90, F|165\/281
+|turn|11
+|inactive|meamdefinitely4 has 10 seconds left this turn.
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587328
+|switch|p2a: Galvantula|Galvantula, L82, F|249\/249
+|move|p1a: Oricorio|Revelation Dance|p2a: Galvantula
+|-damage|p2a: Galvantula|96\/249
+|
+|-heal|p1a: Oricorio|182\/281|[from] item: Leftovers
+|upkeep
+|turn|12
+|c|☆meamdefinitely4|I suck at this gen lol
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587337
+|switch|p1a: Guzzlord|Guzzlord, L87|530\/530
+|move|p2a: Galvantula|Volt Switch|p1a: Guzzlord
+|-resisted|p1a: Guzzlord
+|-damage|p1a: Guzzlord|490\/530
+|-damage|p2a: Galvantula|72\/249|[from] item: Life Orb
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587343
+|switch|p2a: Gothitelle|Gothitelle, L89, F|7\/269|[from] Volt Switch
+|
+|upkeep
+|turn|13
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587350
+|move|p2a: Gothitelle|Signal Beam|p1a: Guzzlord
+|-supereffective|p1a: Guzzlord
+|-damage|p1a: Guzzlord|322\/530
+|move|p1a: Guzzlord|Knock Off|p2a: Gothitelle
+|-supereffective|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|-enditem|p2a: Gothitelle|Choice Specs|[from] move: Knock Off|[of] p1a: Guzzlord
+|faint|p2a: Gothitelle
+|-ability|p1a: Guzzlord|Beast Boost|boost
+|-boost|p1a: Guzzlord|atk|1
+|
+|upkeep
+|c|☆35Q71N|I suck too
+|inactive|35Q71N has 10 seconds left.
+|c|☆meamdefinitely4|No
+|
+|t:|1709587358
+|switch|p2a: Galvantula|Galvantula, L82, F|72\/249
+|turn|14
+|c| Jhonnatan345|no 6-0 at least Meam
+|c|+DerpySuX|I suck three
+|c|☆meamdefinitely4|Gen 1 allegatoons
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587366
+|move|p2a: Galvantula|Bug Buzz|p1a: Guzzlord
+|-supereffective|p1a: Guzzlord
+|-damage|p1a: Guzzlord|88\/530
+|-damage|p2a: Galvantula|48\/249|[from] item: Life Orb
+|move|p1a: Guzzlord|Knock Off|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|-enditem|p2a: Galvantula|Life Orb|[from] move: Knock Off|[of] p1a: Guzzlord
+|faint|p2a: Galvantula
+|-ability|p1a: Guzzlord|Beast Boost|boost
+|-boost|p1a: Guzzlord|atk|1
+|
+|upkeep
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587372
+|switch|p2a: Floatzel|Floatzel, L86, M|268\/268
+|turn|15
+|c|☆meamdefinitely4|Bringing them back
+|inactive|meamdefinitely4 has 10 seconds left.
+|inactive|meamdefinitely4 has 5 seconds left.
+|c|☆meamdefinitely4|In ffull force
+|
+|t:|1709587387
+|move|p2a: Floatzel|Ice Punch|p1a: Guzzlord
+|-supereffective|p1a: Guzzlord
+|-damage|p1a: Guzzlord|0 fnt
+|faint|p1a: Guzzlord
+|
+|upkeep
+|inactive|meamdefinitely4 has 10 seconds left this turn.
+|
+|t:|1709587390
+|switch|p1a: Relicanth|Relicanth, L87, M|316\/316 slp
+|turn|16
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587396
+|move|p2a: Floatzel|Substitute|p2a: Floatzel
+|-start|p2a: Floatzel|Substitute
+|-damage|p2a: Floatzel|201\/268
+|cant|p1a: Relicanth|slp
+|
+|-heal|p2a: Floatzel|217\/268|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1709587399
+|move|p2a: Floatzel|Bulk Up|p2a: Floatzel
+|-boost|p2a: Floatzel|atk|1
+|-boost|p2a: Floatzel|def|1
+|-curestatus|p1a: Relicanth|slp|[msg]
+|move|p1a: Relicanth|Earthquake|p2a: Floatzel
+|-end|p2a: Floatzel|Substitute
+|
+|-heal|p2a: Floatzel|233\/268|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1709587403
+|move|p2a: Floatzel|Bulk Up|p2a: Floatzel
+|-boost|p2a: Floatzel|atk|1
+|-boost|p2a: Floatzel|def|1
+|move|p1a: Relicanth|Earthquake|p2a: Floatzel
+|-damage|p2a: Floatzel|162\/268
+|
+|-heal|p2a: Floatzel|178\/268|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1709587406
+|switch|p1a: Oricorio|Oricorio-Pa'u, L90, F|182\/281
+|move|p2a: Floatzel|Substitute|p2a: Floatzel
+|-start|p2a: Floatzel|Substitute
+|-damage|p2a: Floatzel|111\/268
+|
+|-heal|p2a: Floatzel|127\/268|[from] item: Leftovers
+|-heal|p1a: Oricorio|199\/281|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1709587408
+|move|p2a: Floatzel|Ice Punch|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|-heal|p2a: Floatzel|143\/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1709587411
+|switch|p1a: Beedrill|Beedrill, L92, F|269\/269
+|turn|21
+|inactive|35Q71N has 10 seconds left.
+|
+|t:|1709587416
+|move|p2a: Floatzel|Liquidation|p1a: Beedrill
+|-damage|p1a: Beedrill|0 fnt
+|faint|p1a: Beedrill
+|
+|-heal|p2a: Floatzel|159\/268|[from] item: Leftovers
+|upkeep
+|c|☆meamdefinitely4|gg
+|c|☆35Q71N|Gosh
+|c|☆35Q71N|Gg
+|inactive|meamdefinitely4 has 10 seconds left.
+|
+|t:|1709587423
+|switch|p1a: Relicanth|Relicanth, L87, M|316\/316
+|turn|22
+|inactive|meamdefinitely4 has 10 seconds left.
+|c|☆meamdefinitely4|Notice i can blitz banter
+|
+|t:|1709587429
+|move|p2a: Floatzel|Liquidation|p1a: Relicanth
+|-damage|p1a: Relicanth|175\/316
+|move|p1a: Relicanth|Head Smash|p2a: Floatzel
+|-end|p2a: Floatzel|Substitute
+|
+|-heal|p2a: Floatzel|175\/268|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1709587431
+|move|p2a: Floatzel|Liquidation|p1a: Relicanth
+|-damage|p1a: Relicanth|28\/316
+|move|p1a: Relicanth|Head Smash|p2a: Floatzel
+|-damage|p2a: Floatzel|4\/268
+|
+|-heal|p2a: Floatzel|20\/268|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆35Q71N|x)
+|c|☆meamdefinitely4|Its ez
+|
+|t:|1709587436
+|move|p2a: Floatzel|Liquidation|p1a: Relicanth
+|-damage|p1a: Relicanth|0 fnt
+|faint|p1a: Relicanth
+|
+|win|35Q71N
+|n|☆meamdefinitely4|meamdefinitely4
+|n|☆35Q71N|35q71n
+|n| Jhonnatan345|jhonnatan345
+|n|+DerpySuX|derpysux
+|n| des121|des121
+|c|☆35Q71N|Minior last
+|c|☆meamdefinitely4|gg
+|c|☆meamdefinitely4|Oof
+|l|☆35Q71N
+|player|p2|
+|c|☆meamdefinitely4|Yeah im not getting 30 pts again... -_-
+|l| des121
+|c|☆meamdefinitely4|Hehehehehahahahahahaheheheheegahahagahah ok im done
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class="chat"><small>☆meamdefinitely4 and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class=""><small><em>Blitz:</em> Super-fast timer</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between meamdefinitely4 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out Oricorio (<strong>Oricorio-Pa'u</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gothitelle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small> Jhonnatan345 joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat"><small>+DerpySuX joined</small></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>6-0 here we come</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>gl nf</em></div><div class="chat message-error">meamdefinitely4 has 30 seconds left.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Hf*</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Impossible</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Derpy :O</em></div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Lol</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Possivle</em></div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Finna happen</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Bet</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Oricorio's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Oricorio's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Oricorio lost <abbr title="−150/281">53.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-derpysux"><strong style="color:#8f5fbc"><small>+</small><span class="username" data-name="DerpySuX">DerpySuX</span>:</strong> <em>Im queueing for a bss game but high ladder dead so watching game</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle, come back!<br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Oricorio's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Oricorio's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 withdrew Oricorio!<br></div><div class="battle-history">meamdefinitely4 sent out <strong>Camerupt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−81/266">30.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Camerupt's Cameruptite is reacting to the Key Stone!</small><br>The opposing Camerupt has Mega Evolved into Mega Camerupt!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−130/266">48.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Camerupt used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Guzzlord was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Guzzlord was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−55/266">20.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Camerupt fainted!<br></div><div class="battle-history">[Guzzlord's Beast Boost]<br></div><div class="battle-history"><small>Guzzlord's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Guzzlord was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out <strong>Beedrill</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord, come back!<br></div><div class="battle-history">Go! Vivillon (<strong>Vivillon-Monsoon</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beedrill used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Vivillon lost <abbr title="−58/260">22.3%</abbr> of its health!)</small><br></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beedrill went back to meamdefinitely4!<br></div><div class="battle-history">meamdefinitely4 sent out <strong>Relicanth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vivillon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah it's regular bee</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Vivillon used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Relicanth fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vivillon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vivillon, come back!<br></div><div class="battle-history">Go! <strong>Gothitelle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 withdrew Relicanth!<br></div><div class="battle-history">meamdefinitely4 sent out Rotom (<strong>Rotom-Frost</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Rotom surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Rotom unleashes its full-force Z-Move!</small><br>The opposing Rotom used <strong>Subzero Slammer</strong>!<br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−172/269">63.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−129/229">56.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−90/269">33.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Rotom lost <abbr title="−100/229">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rotom fainted!<br></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Oof</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="chat"><small> des121 joined</small></div><div class="chat message-error">meamdefinitely4 has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out Oricorio (<strong>Oricorio-Pa'u</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left this turn.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle, come back!<br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio used <strong>Revelation Dance</strong>!<br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−153/249">61.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>I suck at this gen lol</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 withdrew Oricorio!<br></div><div class="battle-history">meamdefinitely4 sent out <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Guzzlord lost <abbr title="−40/530">7.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula went back to 35Q71N!<br></div><div class="battle-history">Go! <strong>Gothitelle</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Guzzlord lost <abbr title="−168/530">31.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Guzzlord used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−7/269">2.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Guzzlord knocked off Gothitelle's Choice Specs!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle fainted!<br></div><div class="battle-history">[The opposing Guzzlord's Beast Boost]<br></div><div class="battle-history"><small>The opposing Guzzlord's Attack rose!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I suck too</em></div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>No</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat chatmessage-jhonnatan345"><strong style="color:#908427"><small> </small><span class="username" data-name="Jhonnatan345">Jhonnatan345</span>:</strong> <em>no 6-0 at least Meam</em></div><div class="chat chatmessage-derpysux"><strong style="color:#8f5fbc"><small>+</small><span class="username" data-name="DerpySuX">DerpySuX</span>:</strong> <em>I suck three</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Gen 1 allegatoons</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Guzzlord lost <abbr title="−234/530">44.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Guzzlord used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−48/249">19.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Guzzlord knocked off Galvantula's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula fainted!<br></div><div class="battle-history">[The opposing Guzzlord's Beast Boost]<br></div><div class="battle-history"><small>The opposing Guzzlord's Attack rose!</small><br></div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Floatzel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Bringing them back</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="chat message-error">meamdefinitely4 has 5 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>In ffull force</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Guzzlord lost <abbr title="−88/530">16.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Guzzlord fainted!<br></div><div class="chat message-error">meamdefinitely4 has 10 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out <strong>Relicanth</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Floatzel put in a substitute!</small><br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−67/268">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Floatzel's Attack rose!</small><br></div><div class="battle-history"><small>Floatzel's Defense rose!</small><br></div><div class="battle-history"><small>The opposing Relicanth woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>Floatzel's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Floatzel's Attack rose!</small><br></div><div class="battle-history"><small>Floatzel's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−71/268">26.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 withdrew Relicanth!<br></div><div class="battle-history">meamdefinitely4 sent out Oricorio (<strong>Oricorio-Pa'u</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Floatzel put in a substitute!</small><br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−67/268">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Oricorio restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Oricorio lost <abbr title="−199/281">70.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oricorio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out <strong>Beedrill</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Beedrill lost <abbr title="−269/269">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beedrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gosh</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">meamdefinitely4 sent out <strong>Relicanth</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">meamdefinitely4 has 10 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Notice i can blitz banter</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Relicanth lost <abbr title="−141/316">44.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>Floatzel's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Relicanth lost <abbr title="−147/316">46.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>(Floatzel lost <abbr title="−171/268">63.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floatzel restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>x)</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Its ez</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Floatzel used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Relicanth lost <abbr title="−28/316">8.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Relicanth fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Minior last</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>gg</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Oof</em></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Yeah im not getting 30 pts again... -_-</em></div><div class="chat"><small> des121 left</small></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small>☆</small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Hehehehehahahahahahaheheheheegahahagahah ok im done</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

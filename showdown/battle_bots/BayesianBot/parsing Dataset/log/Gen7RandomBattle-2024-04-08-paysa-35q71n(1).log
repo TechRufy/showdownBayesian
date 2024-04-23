@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: paysa vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2099010222" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/paysa" class="subtle" target="_blank">paysa</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆paysa
+|j|☆35Q71N
+|t:|1712611494
+|gametype|singles
+|player|p1|paysa|caitlin|
+|player|p2|35Q71N|byron|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712611494
+|start
+|switch|p1a: Lilligant|Lilligant, L87, F|264\/264
+|switch|p2a: Hoopa|Hoopa-Unbound, L81|262\/262
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by paysa)
+|c|☆35Q71N|Glhf
+|c|☆paysa|glhf
+|j| Latias999999999
+|j|+Chains of Markov
+|j| hammy358
+|j| gomdol2
+|inactive|paysa has 270 seconds left.
+|inactive|35Q71N has 270 seconds left.
+|j|+Failsal
+|j| srvoltmike
+|j| WorstplayerinRBEL
+|j| bodi 69
+|c| WorstplayerinRBEL|BOOOO
+|c| WorstplayerinRBEL|GO FRAN
+|c| bodi 69|:O
+|c| WorstplayerinRBEL|(real)
+|c| Latias999999999|wait, go fran?
+|c| bodi 69|\/\/modchat player ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠\/⁠¯
+|j| ghostilex
+|
+|t:|1712611554
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|322\/322
+|move|p2a: Hoopa|Trick|p1a: Mandibuzz
+|-activate|p2a: Hoopa|move: Trick|[of] p1a: Mandibuzz
+|-item|p1a: Mandibuzz|Choice Scarf|[from] move: Trick
+|-item|p2a: Hoopa|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|2
+|c| WorstplayerinRBEL|paysa bullied me
+|c| WorstplayerinRBEL|:(
+|c|+Chains of Markov|go paysa :D
+|c| bodi 69|:D
+|c| Latias999999999|lol
+|
+|t:|1712611566
+|switch|p2a: Primarina|Primarina, L82, F|265\/265
+|move|p1a: Mandibuzz|Knock Off|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|223\/265
+|-enditem|p2a: Primarina|Choice Scarf|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|3
+|c| ghostilex|go both
+|c|+Chains of Markov|scarf mandibuzz coming to kill your mons
+|c| bodi 69|no only one can win
+|c| ghostilex|gotta leave for work in a few mins
+|c| bodi 69|D:
+|c| ghostilex|will catcg replays
+|
+|t:|1712611590
+|switch|p1a: Bronzong|Bronzong, L86|255\/255
+|switch|p2a: Glalie|Glalie, L84, F|271\/271
+|
+|upkeep
+|turn|4
+|inactive|35Q71N has 270 seconds left.
+|c| bodi 69|make your prediction
+|
+|t:|1712611615
+|switch|p2a: Hoopa|Hoopa-Unbound, L81|262\/262
+|move|p1a: Bronzong|Stealth Rock|p2a: Hoopa
+|-sidestart|p2: 35Q71N|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|inactive|35Q71N has 270 seconds left.
+|j| John Dozo
+|
+|t:|1712611636
+|switch|p2a: Primarina|Primarina, L82, F|223\/265
+|-damage|p2a: Primarina|190\/265|[from] Stealth Rock
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|322\/322
+|
+|upkeep
+|turn|6
+|c| John Dozo|what is this
+|c| ghostilex|i predict 3 quality games
+|c| John Dozo|gl
+|
+|t:|1712611658
+|switch|p1a: Lilligant|Lilligant, L87, F|264\/264
+|move|p2a: Primarina|Scald|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-damage|p1a: Lilligant|210\/264
+|-status|p1a: Lilligant|brn
+|
+|-damage|p1a: Lilligant|194\/264 brn|[from] brn
+|upkeep
+|turn|7
+|c| ghostilex|gen7 open john
+|j|+Pulse_kS
+|j| Teres bahji
+|inactive|35Q71N has 240 seconds left.
+|
+|t:|1712611698
+|switch|p2a: Pinsir|Pinsir, L85, M|249\/249
+|-damage|p2a: Pinsir|187\/249|[from] Stealth Rock
+|move|p1a: Lilligant|Sleep Powder|p2a: Pinsir
+|-status|p2a: Pinsir|slp|[from] move: Sleep Powder
+|
+|-damage|p1a: Lilligant|178\/264 brn|[from] brn
+|upkeep
+|turn|8
+|j| critsomnia
+|inactive|35Q71N has 210 seconds left.
+|j| meamdefinitely4
+|c| meamdefinitely4|What game is this?
+|
+|t:|1712611744
+|switch|p2a: Braviary|Braviary, L84, M|305\/305
+|-damage|p2a: Braviary|229\/305|[from] Stealth Rock
+|move|p1a: Lilligant|Hidden Power|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|76\/305
+|-damage|p1a: Lilligant|152\/264 brn|[from] item: Life Orb
+|
+|-heal|p2a: Braviary|95\/305|[from] item: Leftovers
+|-damage|p1a: Lilligant|136\/264 brn|[from] brn
+|upkeep
+|turn|9
+|c| ghostilex|1
+|c| meamdefinitely4|O:
+|l| Teres bahji
+|inactive|35Q71N has 180 seconds left.
+|inactive|35Q71N has 150 seconds left.
+|l| ghostilex
+|
+|t:|1712611794
+|switch|p2a: Hoopa|Hoopa-Unbound, L81|262\/262
+|-damage|p2a: Hoopa|230\/262|[from] Stealth Rock
+|move|p1a: Lilligant|Hidden Power|p2a: Hoopa
+|-damage|p2a: Hoopa|177\/262
+|-damage|p1a: Lilligant|110\/264 brn|[from] item: Life Orb
+|
+|-heal|p2a: Hoopa|193\/262|[from] item: Leftovers
+|-damage|p1a: Lilligant|94\/264 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|35Q71N has 150 seconds left.
+|j| icypenguin604
+|
+|t:|1712611819
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|322\/322
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|263\/322
+|-unboost|p2a: Hoopa|def|1
+|
+|-heal|p2a: Hoopa|209\/262|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| SighofEnd
+|
+|t:|1712611838
+|switch|p2a: Primarina|Primarina, L82, F|190\/265
+|-damage|p2a: Primarina|157\/265|[from] Stealth Rock
+|move|p1a: Mandibuzz|Brave Bird|p2a: Primarina
+|-crit|p2a: Primarina
+|-damage|p2a: Primarina|4\/265
+|-damage|p1a: Mandibuzz|213\/322|[from] Recoil
+|
+|upkeep
+|turn|12
+|c|☆paysa|im ngl this scarf might be more helpful than i thought
+|
+|t:|1712611846
+|move|p1a: Mandibuzz|Brave Bird|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Mandibuzz|212\/322|[from] Recoil
+|
+|upkeep
+|c| WorstplayerinRBEL|e
+|c| WorstplayerinRBEL|nice scarf
+|inactive|35Q71N has 120 seconds left.
+|l| SighofEnd
+|j| haxlolo
+|
+|t:|1712611887
+|switch|p2a: Milotic|Milotic, L84, M|297\/297
+|-damage|p2a: Milotic|260\/297|[from] Stealth Rock
+|turn|13
+|c| icypenguin604|We gotta make this a set now lol
+|c| haxlolo|wheres the empoleon
+|c| haxlolo|@fran
+|j| ghostilex
+|c|☆35Q71N|G2
+|inactive|paysa has 270 seconds left.
+|c| haxlolo|i will be very sad if its not there
+|c|+Pulse_kS|paysas holding it the back as a secret weapon - they know fran will forfeit if he sees one
+|
+|t:|1712611923
+|switch|p1a: Lilligant|Lilligant, L87, F|94\/264 brn
+|move|p2a: Milotic|Ice Beam|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-crit|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|
+|-heal|p2a: Milotic|278\/297|[from] item: Leftovers
+|upkeep
+|c| meamdefinitely4|Lol
+|inactive|paysa has 240 seconds left.
+|l| haxlolo
+|
+|t:|1712611962
+|switch|p1a: Bronzong|Bronzong, L86|255\/255
+|turn|14
+|inactive|paysa has 240 seconds left.
+|
+|t:|1712611976
+|switch|p2a: Hoopa|Hoopa-Unbound, L81|209\/262
+|-damage|p2a: Hoopa|177\/262|[from] Stealth Rock
+|move|p1a: Bronzong|Iron Head|p2a: Hoopa
+|-damage|p2a: Hoopa|62\/262
+|
+|-heal|p2a: Hoopa|78\/262|[from] item: Leftovers
+|upkeep
+|turn|15
+|l|+Failsal
+|
+|t:|1712611996
+|switch|p2a: Milotic|Milotic, L84, M|278\/297
+|-damage|p2a: Milotic|241\/297|[from] Stealth Rock
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|212\/322
+|
+|-heal|p2a: Milotic|259\/297|[from] item: Leftovers
+|upkeep
+|turn|16
+|j| haxlolo
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612020
+|move|p1a: Mandibuzz|Knock Off|p2a: Milotic
+|-damage|p2a: Milotic|172\/297
+|-enditem|p2a: Milotic|Leftovers|[from] move: Knock Off|[of] p1a: Mandibuzz
+|move|p2a: Milotic|Scald|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|136\/322
+|-status|p1a: Mandibuzz|brn
+|
+|-damage|p1a: Mandibuzz|116\/322 brn|[from] brn
+|upkeep
+|turn|17
+|j| Referrals
+|inactive|35Q71N has 90 seconds left.
+|j| Teres bahji
+|
+|t:|1712612054
+|switch|p1a: Bronzong|Bronzong, L86|255\/255
+|move|p2a: Milotic|Scald|p1a: Bronzong
+|-damage|p1a: Bronzong|191\/255
+|-status|p1a: Bronzong|brn
+|
+|-heal|p1a: Bronzong|206\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|191\/255 brn|[from] brn
+|upkeep
+|turn|18
+|c| John Dozo|pls stop holding us hostage, there are ppl that wanna go sleep
+|inactive|35Q71N has 60 seconds left.
+|
+|t:|1712612070
+|switch|p2a: Pinsir|Pinsir, L85, M|187\/249 slp
+|-damage|p2a: Pinsir|125\/249 slp|[from] Stealth Rock
+|move|p1a: Bronzong|Toxic||[still]
+|-fail|p1a: Bronzong
+|
+|-heal|p1a: Bronzong|206\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|191\/255 brn|[from] brn
+|upkeep
+|turn|19
+|inactive|paysa has 270 seconds left.
+|l| haxlolo
+|
+|t:|1712612082
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|116\/322 brn
+|cant|p2a: Pinsir|slp
+|
+|-damage|p1a: Mandibuzz|96\/322 brn|[from] brn
+|upkeep
+|turn|20
+|l| Referrals
+|
+|t:|1712612101
+|switch|p2a: Milotic|Milotic, L84, M|172\/297
+|-damage|p2a: Milotic|135\/297|[from] Stealth Rock
+|move|p1a: Mandibuzz|Brave Bird|p2a: Milotic
+|-damage|p2a: Milotic|84\/297
+|-damage|p1a: Mandibuzz|79\/322 brn|[from] Recoil
+|
+|-damage|p1a: Mandibuzz|59\/322 brn|[from] brn
+|upkeep
+|turn|21
+|j| Referrals
+|
+|t:|1712612108
+|switch|p1a: Bronzong|Bronzong, L86|191\/255 brn
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|233\/297
+|
+|-heal|p1a: Bronzong|206\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|191\/255 brn|[from] brn
+|upkeep
+|turn|22
+|l| Teres bahji
+|l| Referrals
+|
+|t:|1712612120
+|switch|p2a: Pinsir|Pinsir, L85, M|125\/249 slp
+|-damage|p2a: Pinsir|63\/249 slp|[from] Stealth Rock
+|move|p1a: Bronzong|Toxic||[still]
+|-fail|p1a: Bronzong
+|
+|-heal|p1a: Bronzong|206\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|191\/255 brn|[from] brn
+|upkeep
+|turn|23
+|j| Referrals
+|
+|t:|1712612128
+|switch|p1a: Mandibuzz|Mandibuzz, L84, F|59\/322 brn
+|cant|p2a: Pinsir|slp
+|
+|-damage|p1a: Mandibuzz|39\/322 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1712612158
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|200\/322 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|-curestatus|p2a: Pinsir|slp|[msg]
+|move|p2a: Pinsir|X-Scissor|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-ability|p2a: Pinsir|Moxie|boost
+|-boost|p2a: Pinsir|atk|1
+|-damage|p2a: Pinsir|39\/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1712612169
+|switch|p1a: Metagross|Metagross, L76|247\/247
+|turn|25
+|
+|t:|1712612176
+|detailschange|p1a: Metagross|Metagross-Mega, L76
+|-mega|p1a: Metagross|Metagross|Metagrossite
+|move|p1a: Metagross|Meteor Mash|p2a: Pinsir|[miss]
+|-miss|p1a: Metagross|p2a: Pinsir
+|move|p2a: Pinsir|Earthquake|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|3\/247
+|-damage|p2a: Pinsir|15\/249|[from] item: Life Orb
+|
+|upkeep
+|turn|26
+|c|☆35Q71N|Sorry
+|c|☆paysa|oof
+|c|☆paysa|i was looking at the moves like damn, why are all of you 90% lol
+|
+|t:|1712612193
+|move|p1a: Metagross|Meteor Mash|p2a: Pinsir
+|-damage|p2a: Pinsir|0 fnt
+|faint|p2a: Pinsir
+|
+|upkeep
+|l| ghostilex
+|inactive|35Q71N has 60 seconds left.
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712612255
+|switch|p2a: Glalie|Glalie, L84, F|271\/271
+|-damage|p2a: Glalie|204\/271|[from] Stealth Rock
+|turn|27
+|
+|t:|1712612259
+|switch|p1a: Bronzong|Bronzong, L86|191\/255 brn
+|detailschange|p2a: Glalie|Glalie-Mega, L84, F
+|-mega|p2a: Glalie|Glalie|Glalitite
+|move|p2a: Glalie|Ice Shard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|170\/255 brn
+|
+|-heal|p1a: Bronzong|185\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|170\/255 brn|[from] brn
+|upkeep
+|turn|28
+|j| Trefleuh
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|j| ghostilex
+|inactive|35Q71N has 15 seconds left.
+|
+|t:|1712612297
+|switch|p2a: Braviary|Braviary, L84, M|95\/305
+|-damage|p2a: Braviary|19\/305|[from] Stealth Rock
+|move|p1a: Bronzong|Iron Head|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|faint|p2a: Braviary
+|
+|-heal|p1a: Bronzong|185\/255 brn|[from] item: Leftovers
+|-damage|p1a: Bronzong|170\/255 brn|[from] brn
+|upkeep
+|inactive|35Q71N has 20 seconds left this turn.
+|
+|t:|1712612298
+|switch|p2a: Hoopa|Hoopa-Unbound, L81|78\/262
+|-damage|p2a: Hoopa|46\/262|[from] Stealth Rock
+|turn|29
+|inactive|35Q71N has 30 seconds left this turn.
+|c| WorstplayerinRBEL|oh hi pulse
+|
+|t:|1712612318
+|switch|p1a: Metagross|Metagross-Mega, L76|3\/247
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|-unboost|p2a: Hoopa|def|1
+|faint|p1a: Metagross
+|
+|-heal|p2a: Hoopa|62\/262|[from] item: Leftovers
+|upkeep
+|c| WorstplayerinRBEL|i won
+|c| WorstplayerinRBEL|:D
+|l|+Pulse_kS
+|inactive|paysa has 270 seconds left.
+|
+|t:|1712612337
+|switch|p1a: Lopunny|Lopunny, L87, M|255\/255
+|turn|30
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1712612356
+|move|p1a: Lopunny|Return|p2a: Hoopa
+|-crit|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|
+|t:|1712612379
+|switch|p2a: Milotic|Milotic, L84, M|233\/297
+|-damage|p2a: Milotic|196\/297|[from] Stealth Rock
+|turn|31
+|inactive|35Q71N has 25 seconds left this turn.
+|
+|t:|1712612383
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|52\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|201\/297
+|
+|upkeep
+|turn|32
+|
+|t:|1712612386
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|44\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|193\/297
+|
+|upkeep
+|turn|33
+|
+|t:|1712612389
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|51\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|200\/297
+|
+|upkeep
+|turn|34
+|
+|t:|1712612393
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|43\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|192\/297
+|
+|upkeep
+|turn|35
+|
+|t:|1712612394
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|48\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|197\/297
+|
+|upkeep
+|turn|36
+|
+|t:|1712612399
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|35\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|184\/297
+|
+|upkeep
+|turn|37
+|c| bodi 69|crit incoming
+|
+|t:|1712612403
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|28\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|177\/297
+|
+|upkeep
+|turn|38
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1712612414
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|33\/297
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|182\/297
+|
+|upkeep
+|turn|39
+|
+|t:|1712612417
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|34\/297
+|move|p2a: Milotic|Scald|p1a: Lopunny
+|-damage|p1a: Lopunny|174\/255
+|
+|upkeep
+|turn|40
+|c|☆35Q71N|Gg
+|c|☆paysa|gg
+|
+|t:|1712612420
+|move|p1a: Lopunny|Return|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|
+|upkeep
+|
+|t:|1712612422
+|switch|p2a: Glalie|Glalie-Mega, L84, F|204\/271
+|-damage|p2a: Glalie|137\/271|[from] Stealth Rock
+|turn|41
+|
+|t:|1712612424
+|move|p1a: Lopunny|Return|p2a: Glalie
+|-crit|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|faint|p2a: Glalie
+|
+|win|paysa
+|l| icypenguin604
+|l| bodi 69
+|l| Referrals
+|c|+Chains of Markov|https:\/\/play.pokemonshowdown.com\/battle-gen7randombattle-2099020022
+|l|+Chains of Markov
+|l| hammy358
+|l| John Dozo
+|j|@livid washed
+|l| srvoltmike
+|l| meamdefinitely4
+|l| ghostilex
+|l|@livid washed
+|l| critsomnia
+|j| Casual dot exe
+|l| Casual dot exe
+|j| meamdefinitely4
+|l| meamdefinitely4
+|j|+Tarrembeau
+|j| MDILL97
+|j| icypenguin604
+|l| icypenguin604
+|l| Latias999999999
+|l| Trefleuh
+|l|☆35Q71N
+|player|p2|
+|l| MDILL97
+|l|+Tarrembeau
+|j|☆35Q71N
+|player|p2|35Q71N|byron|
+|l|☆35Q71N
+|player|p2|
+|l| WorstplayerinRBEL
+|l|☆paysa
+|player|p1|
+|j|☆35Q71N
+|player|p2|35Q71N|byron|
+|c|☆35Q71N|!showteam
+|c| 35Q71N|\/raw <div class="infobox"><details><summary>View team<\/summary>Hoopa (Hoopa-Unbound) @ Choice Scarf  <br \/>Ability: Magician  <br \/>Level: 81  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Trick  <br \/>- Psychic  <br \/>- Drain Punch  <br \/>- Hyperspace Fury  <br \/><br \/>Pinsir @ Life Orb  <br \/>Ability: Moxie  <br \/>Level: 85  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Knock Off  <br \/>- Swords Dance  <br \/>- X-Scissor  <br \/>- Earthquake  <br \/><br \/>Braviary (M) @ Leftovers  <br \/>Ability: Defiant  <br \/>Level: 84  <br \/>EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Superpower  <br \/>- Roost  <br \/>- Bulk Up  <br \/>- Brave Bird  <br \/><br \/>Glalie @ Glalitite  <br \/>Ability: Inner Focus  <br \/>Level: 84  <br \/>EVs: 81 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>- Return  <br \/>- Earthquake  <br \/>- Freeze-Dry  <br \/>- Ice Shard  <br \/><br \/>Primarina @ Choice Scarf  <br \/>Ability: Torrent  <br \/>Level: 82  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Hydro Pump  <br \/>- Moonblast  <br \/>- Scald  <br \/>- Psychic  <br \/><br \/>Milotic @ Leftovers  <br \/>Ability: Marvel Scale  <br \/>Level: 84  <br \/>EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br \/>IVs: 0 Atk  <br \/>- Ice Beam  <br \/>- Recover  <br \/>- Toxic  <br \/>- Scald  <br \/><br \/><\/details><\/div>
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆paysa and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between paysa and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by paysa)</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>glhf</em></div><div class="chat"><small> Latias999999999, +Chains of Markov,  hammy358, and  gomdol2 joined</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="chat"><small>+Failsal,  srvoltmike,  WorstplayerinRBEL, and  bodi 69 joined</small></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>BOOOO</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>GO FRAN</em></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>:O</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>(real)</em></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="Latias999999999">Latias999999999</span>:</strong> <em>wait, go fran?</em></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>/modchat player ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯</em></div><div class="chat"><small> ghostilex joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Lilligant!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa used <strong>Trick</strong>!<br></div><div class="battle-history"><small>Hoopa switched items with its target!</small><br></div><div class="battle-history"><small>The opposing Mandibuzz obtained one Choice Scarf.</small><br></div><div class="battle-history"><small>Hoopa obtained one Leftovers.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>paysa bullied me</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>:(</em></div><div class="chat chatmessage-chainsofmarkov"><strong style="color:#9d9812"><small>+</small><span class="username" data-name="Chains of Markov">Chains of Markov</span>:</strong> <em>go paysa :D</em></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>:D</em></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="Latias999999999">Latias999999999</span>:</strong> <em>lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Primarina lost <abbr title="−42/265">15.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz knocked off Primarina's Choice Scarf!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>go both</em></div><div class="chat chatmessage-chainsofmarkov"><strong style="color:#9d9812"><small>+</small><span class="username" data-name="Chains of Markov">Chains of Markov</span>:</strong> <em>scarf mandibuzz coming to kill your mons</em></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>no only one can win</em></div><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>gotta leave for work in a few mins</em></div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>D:</em></div><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>will catcg replays</em></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Mandibuzz!<br></div><div class="battle-history">paysa sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina, come back!<br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>make your prediction</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie, come back!<br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">35Q71N has 270 seconds left.</div><div class="chat"><small> John Dozo joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Primarina</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Primarina!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Bronzong!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat chatmessage-johndozo"><strong style="color:#9d9b2d"><small> </small><span class="username" data-name="John Dozo">John Dozo</span>:</strong> <em>what is this</em></div><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>i predict 3 quality games</em></div><div class="chat chatmessage-johndozo"><strong style="color:#9d9b2d"><small> </small><span class="username" data-name="John Dozo">John Dozo</span>:</strong> <em>gl</em></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Mandibuzz!<br></div><div class="battle-history">paysa sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−54/264">20.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lilligant was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>gen7 open john</em></div><div class="chat"><small>+Pulse_kS and  Teres bahji joined</small></div><div class="chat message-error">35Q71N has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina, come back!<br></div><div class="battle-history">Go! <strong>Pinsir</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Pinsir!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Pinsir fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small> critsomnia joined</small></div><div class="chat message-error">35Q71N has 210 seconds left.</div><div class="chat"><small> meamdefinitely4 joined</small></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small> </small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>What game is this?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir, come back!<br></div><div class="battle-history">Go! <strong>Braviary</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Braviary!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Braviary lost <abbr title="−153/305">50.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Braviary restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat chatmessage-ghostilex"><strong style="color:#12a035"><small> </small><span class="username" data-name="ghostilex">ghostilex</span>:</strong> <em>1</em></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small> </small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>O:</em></div><div class="chat"><small> Teres bahji left</small></div><div class="chat message-error">35Q71N has 180 seconds left.</div><div class="chat message-error">35Q71N has 150 seconds left.</div><div class="chat"><small> ghostilex left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Braviary, come back!<br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Hoopa!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Hoopa lost <abbr title="−53/262">20.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hoopa restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lilligant was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">35Q71N has 150 seconds left.</div><div class="chat"><small> icypenguin604 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Lilligant!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Mandibuzz lost <abbr title="−59/322">18.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hoopa restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat"><small> SighofEnd joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Primarina</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Primarina!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Primarina lost <abbr title="−153/265">57.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>im ngl this scarf might be more helpful than i thought</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Primarina lost <abbr title="−4/265">1.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina fainted!<br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>e</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>nice scarf</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat"><small> haxlolo joined;  SighofEnd left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Milotic!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small> </small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>We gotta make this a set now lol</em></div><div class="chat chatmessage-haxlolo"><strong style="color:#3e9295"><small> </small><span class="username" data-name="haxlolo">haxlolo</span>:</strong> <em>wheres the empoleon</em></div><div class="chat chatmessage-haxlolo"><strong style="color:#3e9295"><small> </small><span class="username" data-name="haxlolo">haxlolo</span>:</strong> <em>@fran</em></div><div class="chat"><small> ghostilex joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>G2</em></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat chatmessage-haxlolo"><strong style="color:#3e9295"><small> </small><span class="username" data-name="haxlolo">haxlolo</span>:</strong> <em>i will be very sad if its not there</em></div><div class="chat chatmessage-pulseks"><strong style="color:#0eaec0"><small>+</small><span class="username" data-name="Pulse_kS">Pulse_kS</span>:</strong> <em>paysas holding it the back as a secret weapon - they know fran will forfeit if he sees one</em></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Mandibuzz!<br></div><div class="battle-history">paysa sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−94/264">35.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small> </small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Lol</em></div><div class="chat message-error">paysa has 240 seconds left.</div><div class="chat"><small> haxlolo left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">paysa has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Hoopa!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Hoopa lost <abbr title="−115/262">43.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hoopa restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat"><small>+Failsal left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Milotic!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Bronzong!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat"><small> haxlolo joined</small></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−87/297">29.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz knocked off Milotic's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Mandibuzz lost <abbr title="−76/322">23.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat"><small> Referrals joined</small></div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat"><small> Teres bahji joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Mandibuzz!<br></div><div class="battle-history">paysa sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−64/255">25.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bronzong was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat chatmessage-johndozo"><strong style="color:#9d9b2d"><small> </small><span class="username" data-name="John Dozo">John Dozo</span>:</strong> <em>pls stop holding us hostage, there are ppl that wanna go sleep</em></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Pinsir</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Pinsir!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">paysa has 270 seconds left.</div><div class="chat"><small> haxlolo left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Bronzong!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat"><small> Referrals left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Milotic!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−51/297">17.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mandibuzz was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat"><small> Referrals joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Mandibuzz!<br></div><div class="battle-history">paysa sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat"><small> Teres bahji and  Referrals left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Pinsir</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Pinsir!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat"><small> Referrals joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Bronzong!<br></div><div class="battle-history">paysa sent out <strong>Mandibuzz</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mandibuzz was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Mandibuzz had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Mandibuzz loses Flying type this turn.)</small><br></div><div class="battle-history"><small>Pinsir woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir used <strong>X-Scissor</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mandibuzz lost <abbr title="−200/322">62.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mandibuzz fainted!<br></div><div class="battle-history">[Pinsir's Moxie]<br></div><div class="battle-history"><small>Pinsir's Attack rose!</small><br></div><div class="battle-history"><small>Pinsir lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Metagross</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Metagross's Metagrossite is reacting to the Key Stone!</small><br>The opposing Metagross has Mega Evolved into Mega Metagross!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Metagross used <strong>Meteor Mash</strong>!<br></div><div class="battle-history"><small>Pinsir avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Metagross lost <abbr title="−244/247">98.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Pinsir lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Sorry</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>oof</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>i was looking at the moves like damn, why are all of you 90% lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Metagross used <strong>Meteor Mash</strong>!<br></div><div class="battle-history"><small>(Pinsir lost <abbr title="−15/249">6.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Pinsir fainted!<br></div><div class="chat"><small> ghostilex left</small></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Glalie</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Glalie!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Metagross!<br></div><div class="battle-history">paysa sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Glalie's Glalitite is reacting to the Key Stone!</small><br>Glalie has Mega Evolved into Mega Glalie!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie used <strong>Ice Shard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−21/255">8.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat"><small> Trefleuh joined</small></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat"><small> ghostilex joined</small></div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie, come back!<br></div><div class="battle-history">Go! <strong>Braviary</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Braviary!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Braviary lost <abbr title="−19/305">6.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Braviary fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong was hurt by its burn!</small><br></div><div class="chat message-error">35Q71N has 20 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Hoopa (<strong>Hoopa-Unbound</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Hoopa!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>oh hi pulse</em></div><div class="spacer battle-history"><br></div><div class="battle-history">paysa withdrew Bronzong!<br></div><div class="battle-history">paysa sent out Metagross (<strong>Metagross-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa used <strong>Hyperspace Fury</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Metagross lost <abbr title="−3/247">1.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hoopa's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Metagross fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hoopa restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>i won</em></div><div class="chat chatmessage-worstplayerinrbel"><strong style="color:#9540d2"><small> </small><span class="username" data-name="WorstplayerinRBEL">WorstplayerinRBEL</span>:</strong> <em>:D</em></div><div class="chat"><small>+Pulse_kS left</small></div><div class="chat message-error">paysa has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">paysa sent out <strong>Lopunny</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Hoopa lost <abbr title="−62/262">23.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hoopa fainted!<br></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Milotic!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−144/297">48.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−157/297">52.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−142/297">47.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−157/297">52.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−144/297">48.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−162/297">54.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="chat chatmessage-bodi69"><strong style="color:#ab6f3b"><small> </small><span class="username" data-name="bodi 69">bodi 69</span>:</strong> <em>crit incoming</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−156/297">52.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−144/297">48.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Milotic had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−148/297">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Lopunny lost <abbr title="−81/255">31.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat chatmessage-paysa"><strong style="color:#dc18c2"><small>☆</small><span class="username" data-name="paysa">paysa</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−34/297">11.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Glalie (<strong>Glalie-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Glalie!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Return</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Glalie lost <abbr title="−137/271">50.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Glalie fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>paysa</strong> won the battle!<br></div><div class="chat"><small> icypenguin604,  bodi 69, and  Referrals left</small></div><div class="chat chatmessage-chainsofmarkov"><strong style="color:#9d9812"><small>+</small><span class="username" data-name="Chains of Markov">Chains of Markov</span>:</strong> <em><a href="https://play.pokemonshowdown.com/battle-gen7randombattle-2099020022" rel="noopener" target="_blank">https://play.pokemonshowdown.com/battle-gen7randombattle-2099020022</a></em></div><div class="chat"><small>@livid washed,  Casual dot exe, +Tarrembeau,  MDILL97, and  icypenguin604 joined; +Chains of Markov,  hammy358,  John Dozo,  srvoltmike,  ghostilex, and 8 others left</small></div><div class="chat"><small>☆35Q71N joined;  MDILL97 and +Tarrembeau left</small></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat"><small> WorstplayerinRBEL and ☆paysa left</small></div><div class="chat"><small>☆35Q71N joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>!showteam</em></div><div class="chat"><div class="infobox"><details><summary>View team</summary>Hoopa (Hoopa-Unbound) @ Choice Scarf  <br>Ability: Magician  <br>Level: 81  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Trick  <br>- Psychic  <br>- Drain Punch  <br>- Hyperspace Fury  <br><br>Pinsir @ Life Orb  <br>Ability: Moxie  <br>Level: 85  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Knock Off  <br>- Swords Dance  <br>- X-Scissor  <br>- Earthquake  <br><br>Braviary (M) @ Leftovers  <br>Ability: Defiant  <br>Level: 84  <br>EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Superpower  <br>- Roost  <br>- Bulk Up  <br>- Brave Bird  <br><br>Glalie @ Glalitite  <br>Ability: Inner Focus  <br>Level: 84  <br>EVs: 81 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>- Return  <br>- Earthquake  <br>- Freeze-Dry  <br>- Ice Shard  <br><br>Primarina @ Choice Scarf  <br>Ability: Torrent  <br>Level: 82  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Hydro Pump  <br>- Moonblast  <br>- Scald  <br>- Psychic  <br><br>Milotic @ Leftovers  <br>Ability: Marvel Scale  <br>Level: 84  <br>EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  <br>IVs: 0 Atk  <br>- Ice Beam  <br>- Recover  <br>- Toxic  <br>- Scald  <br><br></details></div></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

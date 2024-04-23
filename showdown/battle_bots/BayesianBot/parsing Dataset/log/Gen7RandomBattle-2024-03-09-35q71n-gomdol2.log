@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. gomdol2</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2076752441" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/gomdol2" class="subtle" target="_blank">gomdol2</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆35Q71N
+|j|☆gomdol2
+|t:|1709941715
+|gametype|singles
+|player|p1|35Q71N|#rbtt7teamhoopaf|
+|player|p2|gomdol2|jasmine|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1709941715
+|start
+|switch|p1a: Dialga|Dialga, L74|270\/270
+|switch|p2a: Gourgeist|Gourgeist-Super, L88, M|293\/293
+|-ability|p1a: Dialga|Pressure
+|-item|p1a: Dialga|Leftovers|[from] ability: Frisk|[of] p2a: Gourgeist|[identify]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gomdol2)
+|c|☆gomdol2|SORRY was on discord
+|c|☆gomdol2|glhf
+|c|☆35Q71N|No worries!
+|c|☆35Q71N|Glhf!
+|j| meamdefinitely4
+|c| meamdefinitely4|Go....
+|inactive|35Q71N has 120 seconds left.
+|inactive|gomdol2 has 120 seconds left.
+|c| meamdefinitely4|Gom
+|
+|t:|1709941772
+|switch|p2a: Alakazam|Alakazam, L79, M|216\/216
+|move|p1a: Dialga|Stealth Rock|p2a: Alakazam
+|-sidestart|p2: gomdol2|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|t:|1709941846
+|switch|p1a: Ludicolo|Ludicolo, L89, M|287\/287
+|detailschange|p2a: Alakazam|Alakazam-Mega, L79, M
+|-mega|p2a: Alakazam|Alakazam|Alakazite
+|-ability|p2a: Alakazam|Own Tempo|[from] ability: Trace|[of] p1a: Ludicolo
+|move|p2a: Alakazam|Calm Mind|p2a: Alakazam
+|-boost|p2a: Alakazam|spa|1
+|-boost|p2a: Alakazam|spd|1
+|
+|upkeep
+|turn|3
+|inactive|gomdol2 has 120 seconds left.
+|
+|t:|1709941885
+|move|p2a: Alakazam|Psychic|p1a: Ludicolo
+|-damage|p1a: Ludicolo|107\/287
+|move|p1a: Ludicolo|Hydro Pump|p2a: Alakazam
+|-damage|p2a: Alakazam|99\/216
+|
+|upkeep
+|turn|4
+|inactive|35Q71N has 90 seconds left.
+|inactive|gomdol2 has 120 seconds left.
+|j| exploraxALT
+|
+|t:|1709941911
+|move|p2a: Alakazam|Psychic|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|upkeep
+|l|☆gomdol2
+|inactive|gomdol2 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|35Q71N has 60 seconds left.
+|j|☆gomdol2
+|inactive|gomdol2 reconnected.
+|player|p2|gomdol2|jasmine
+|c|☆35Q71N|Oh
+|inactive|35Q71N has 30 seconds left.
+|
+|t:|1709941961
+|switch|p1a: Oricorio|Oricorio-Pa'u, L90, M|281\/281
+|turn|5
+|inactive|gomdol2 has 120 seconds left.
+|c|☆gomdol2|um 1 more time for some reason there is lag
+|l|☆gomdol2
+|inactive|gomdol2 disconnected and has a minute to reconnect!
+|player|p2|
+|c|☆35Q71N|D:
+|j|☆gomdol2
+|inactive|gomdol2 reconnected and has 105 seconds left.
+|player|p2|gomdol2|jasmine
+|c|☆35Q71N|You can stop the timer if you want
+|inactive|gomdol2 has 90 seconds left.
+|c|☆gomdol2|no no its fine
+|l| meamdefinitely4
+|
+|t:|1709942028
+|move|p2a: Alakazam|Shadow Ball|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1709942033
+|switch|p1a: Seviper|Seviper, L91, F|281\/281
+|turn|6
+|
+|t:|1709942039
+|switch|p2a: Magcargo|Magcargo, L93, F|262\/262
+|-damage|p2a: Magcargo|197\/262|[from] Stealth Rock
+|move|p1a: Seviper|Sucker Punch||[still]
+|-fail|p1a: Seviper
+|
+|-heal|p2a: Magcargo|213\/262|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1709942044
+|move|p1a: Seviper|Earthquake|p2a: Magcargo
+|-supereffective|p2a: Magcargo
+|-damage|p2a: Magcargo|0 fnt
+|faint|p2a: Magcargo
+|-damage|p1a: Seviper|253\/281|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1709942056
+|switch|p2a: Gourgeist|Gourgeist-Super, L88, M|293\/293
+|-damage|p2a: Gourgeist|257\/293|[from] Stealth Rock
+|-item|p1a: Seviper|Life Orb|[from] ability: Frisk|[of] p2a: Gourgeist|[identify]
+|turn|8
+|
+|t:|1709942069
+|switch|p1a: Blaziken|Blaziken, L74, M|239\/239
+|move|p2a: Gourgeist|Will-O-Wisp|p1a: Blaziken
+|-immune|p1a: Blaziken
+|
+|-heal|p2a: Gourgeist|275\/293|[from] item: Leftovers
+|upkeep
+|turn|9
+|l| exploraxALT
+|inactive|gomdol2 has 90 seconds left.
+|c|☆gomdol2|uhoh
+|j| MasterJ007
+|l| MasterJ007
+|
+|t:|1709942090
+|switch|p2a: Ledian|Ledian, F|272\/272
+|-damage|p2a: Ledian|136\/272|[from] Stealth Rock
+|detailschange|p1a: Blaziken|Blaziken-Mega, L74, M
+|-mega|p1a: Blaziken|Blaziken|Blazikenite
+|move|p1a: Blaziken|Flare Blitz|p2a: Ledian
+|-supereffective|p2a: Ledian
+|-damage|p2a: Ledian|0 fnt
+|faint|p2a: Ledian
+|-damage|p1a: Blaziken|194\/239|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|c|☆35Q71N|Ah
+|c|☆35Q71N|Ledian
+|
+|t:|1709942110
+|switch|p2a: Fearow|Fearow, L88, M|258\/258
+|-damage|p2a: Fearow|194\/258|[from] Stealth Rock
+|turn|10
+|c|☆35Q71N|That made a very brief appearance
+|
+|t:|1709942121
+|switch|p1a: Dialga|Dialga, L74|270\/270
+|-ability|p1a: Dialga|Pressure
+|move|p2a: Fearow|Drill Run|p1a: Dialga
+|-supereffective|p1a: Dialga
+|-crit|p1a: Dialga
+|-damage|p1a: Dialga|0 fnt
+|faint|p1a: Dialga
+|
+|upkeep
+|c|☆35Q71N|This was a stupid move by me
+|c|☆gomdol2|mb crit
+|
+|t:|1709942139
+|switch|p1a: Bibarel|Bibarel, L89, F|285\/285
+|turn|11
+|c|☆35Q71N|It's ok, dw
+|inactive|gomdol2 has 90 seconds left.
+|c|☆35Q71N|I should have switched into this
+|inactive|35Q71N has 60 seconds left.
+|j| PsyKid800
+|
+|t:|1709942168
+|switch|p2a: Exploud|Exploud, L86, F|319\/319
+|-damage|p2a: Exploud|280\/319|[from] Stealth Rock
+|switch|p1a: Blaziken|Blaziken-Mega, L74, M|194\/239
+|
+|upkeep
+|turn|12
+|inactive|gomdol2 has 60 seconds left.
+|
+|t:|1709942213
+|switch|p2a: Gourgeist|Gourgeist-Super, L88, M|275\/293
+|-damage|p2a: Gourgeist|239\/293|[from] Stealth Rock
+|-item|p1a: Blaziken|Blazikenite|[from] ability: Frisk|[of] p2a: Gourgeist|[identify]
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-heal|p2a: Gourgeist|257\/293|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1709942223
+|move|p2a: Gourgeist|Shadow Sneak|p1a: Blaziken
+|-damage|p1a: Blaziken|130\/239
+|move|p1a: Blaziken|Flare Blitz|p2a: Gourgeist
+|-supereffective|p2a: Gourgeist
+|-damage|p2a: Gourgeist|47\/293
+|-damage|p1a: Blaziken|61\/239|[from] Recoil
+|
+|-heal|p2a: Gourgeist|65\/293|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|14
+|j| ghostilex
+|c|☆35Q71N|Blaziken you suck
+|inactive|35Q71N has 60 seconds left.
+|l| ghostilex
+|inactive|gomdol2 has 30 seconds left.
+|c|☆gomdol2|i got the super gourgeist thats why
+|inactive|gomdol2 has 20 seconds left.
+|c|☆35Q71N|:(
+|inactive|gomdol2 has 15 seconds left.
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1709942283
+|switch|p1a: Seviper|Seviper, L91, F|253\/281
+|switch|p2a: Exploud|Exploud, L86, F|280\/319
+|-damage|p2a: Exploud|241\/319|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|inactive|35Q71N has 30 seconds left this turn.
+|inactive|gomdol2 has 25 seconds left this turn.
+|inactive|35Q71N has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|inactive|35Q71N has 5 seconds left.
+|
+|t:|1709942309
+|switch|p1a: Bibarel|Bibarel, L89, F|285\/285
+|move|p2a: Exploud|Boomburst|p1a: Bibarel
+|-damage|p1a: Bibarel|0 fnt
+|faint|p1a: Bibarel
+|
+|upkeep
+|inactive|35Q71N has 10 seconds left this turn.
+|inactive|gomdol2 has 30 seconds left this turn.
+|
+|t:|1709942311
+|switch|p1a: Blaziken|Blaziken-Mega, L74, M|61\/239
+|turn|16
+|inactive|35Q71N has 20 seconds left this turn.
+|inactive|gomdol2 has 30 seconds left.
+|inactive|gomdol2 has 20 seconds left.
+|
+|t:|1709942335
+|move|p1a: Blaziken|High Jump Kick|p2a: Exploud
+|-supereffective|p2a: Exploud
+|-damage|p2a: Exploud|0 fnt
+|faint|p2a: Exploud
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|inactive|35Q71N has 25 seconds left this turn.
+|inactive|gomdol2 has 25 seconds left this turn.
+|inactive|gomdol2 has 20 seconds left.
+|
+|t:|1709942340
+|switch|p2a: Gourgeist|Gourgeist-Super, L88, M|65\/293
+|-damage|p2a: Gourgeist|29\/293|[from] Stealth Rock
+|-item|p1a: Blaziken|Blazikenite|[from] ability: Frisk|[of] p2a: Gourgeist|[identify]
+|turn|17
+|inactive|gomdol2 has 30 seconds left this turn.
+|inactive|35Q71N has 30 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|inactive|gomdol2 has 20 seconds left.
+|inactive|35Q71N has 15 seconds left.
+|inactive|35Q71N has 10 seconds left.
+|inactive|35Q71N has 5 seconds left.
+|
+|t:|1709942371
+|switch|p1a: Seviper|Seviper, L91, F|253\/281
+|move|p2a: Gourgeist|Synthesis|p2a: Gourgeist
+|-heal|p2a: Gourgeist|175\/293
+|
+|-heal|p2a: Gourgeist|193\/293|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|35Q71N has 15 seconds left this turn.
+|inactive|gomdol2 has 30 seconds left this turn.
+|inactive|gomdol2 has 20 seconds left.
+|inactive|gomdol2 has 15 seconds left.
+|
+|t:|1709942391
+|move|p1a: Seviper|Flamethrower|p2a: Gourgeist
+|-supereffective|p2a: Gourgeist
+|-damage|p2a: Gourgeist|0 fnt
+|faint|p2a: Gourgeist
+|-damage|p1a: Seviper|225\/281|[from] item: Life Orb
+|
+|upkeep
+|inactive|35Q71N has 20 seconds left this turn.
+|inactive|gomdol2 has 20 seconds left this turn.
+|inactive|gomdol2 has 15 seconds left.
+|inactive|gomdol2 has 10 seconds left.
+|
+|t:|1709942406
+|switch|p2a: Alakazam|Alakazam-Mega, L79, M|99\/216
+|-damage|p2a: Alakazam|72\/216|[from] Stealth Rock
+|-ability|p2a: Alakazam|Infiltrator|[from] ability: Trace|[of] p1a: Seviper
+|turn|19
+|inactive|35Q71N has 30 seconds left this turn.
+|inactive|gomdol2 has 20 seconds left this turn.
+|inactive|gomdol2 has 15 seconds left.
+|inactive|35Q71N has 20 seconds left.
+|
+|t:|1709942416
+|move|p1a: Seviper|Sucker Punch|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|-damage|p1a: Seviper|197\/281|[from] item: Life Orb
+|
+|upkeep
+|inactive|35Q71N has 25 seconds left this turn.
+|inactive|gomdol2 has 20 seconds left this turn.
+|
+|t:|1709942421
+|switch|p2a: Fearow|Fearow, L88, M|194\/258
+|-damage|p2a: Fearow|130\/258|[from] Stealth Rock
+|turn|20
+|inactive|gomdol2 has 30 seconds left this turn.
+|inactive|35Q71N has 30 seconds left.
+|inactive|gomdol2 has 20 seconds left.
+|c|☆gomdol2|gg for some reason I thought flame would do less
+|
+|t:|1709942435
+|move|p1a: Seviper|Sucker Punch|p2a: Fearow
+|-damage|p2a: Fearow|43\/258
+|-damage|p1a: Seviper|169\/281|[from] item: Life Orb
+|move|p2a: Fearow|Drill Run|p1a: Seviper
+|-supereffective|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|
+|upkeep
+|inactive|gomdol2 has 25 seconds left this turn.
+|c|☆35Q71N|Gg
+|inactive|35Q71N has 30 seconds left.
+|c|☆35Q71N|Very closegame
+|
+|t:|1709942444
+|switch|p1a: Blaziken|Blaziken-Mega, L74, M|61\/239
+|turn|21
+|
+|t:|1709942447
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Fearow|Drill Run|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|22
+|
+|t:|1709942450
+|move|p1a: Blaziken|Flare Blitz|p2a: Fearow
+|-damage|p2a: Fearow|0 fnt
+|faint|p2a: Fearow
+|-damage|p1a: Blaziken|47\/239|[from] Recoil
+|
+|win|35Q71N
+|n|☆35Q71N|35q71n
+|n|☆gomdol2|gomdol2
+|n| PsyKid800|psykid800
+|c|☆gomdol2|Ggwp win finals!
+|c|☆35Q71N|I hope so lol
+|l|☆gomdol2
+|player|p2|
+|l|☆35Q71N
+|player|p1|
+|l| PsyKid800
+|j| latias999999999
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆35Q71N and ☆gomdol2 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and gomdol2!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out Gourgeist (<strong>Gourgeist-Super</strong>)!<br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="battle-history">[The opposing Gourgeist's Frisk]<br><small>The opposing Gourgeist frisked Dialga and found its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by gomdol2)</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>SORRY was on discord</em></div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>glhf</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No worries!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf!</em></div><div class="chat"><small> meamdefinitely4 joined</small></div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small> </small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Go....</em></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">gomdol2 has 120 seconds left.</div><div class="chat chatmessage-meamdefinitely4"><strong style="color:#2fa878"><small> </small><span class="username" data-name="meamdefinitely4">meamdefinitely4</span>:</strong> <em>Gom</em></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Gourgeist!<br></div><div class="battle-history">gomdol2 sent out <strong>Alakazam</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Alakazam's Alakazite is reacting to the Key Stone!</small><br>The opposing Alakazam has Mega Evolved into Mega Alakazam!<br></div><div class="battle-history">[The opposing Alakazam's Trace]<br>[The opposing Alakazam's Own Tempo]<br><small>The opposing Alakazam traced Ludicolo's Own Tempo!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Alakazam used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Alakazam's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Alakazam's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">gomdol2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−180/287">62.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(The opposing Alakazam lost <abbr title="−117/216">54.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="chat message-error">gomdol2 has 120 seconds left.</div><div class="chat"><small> exploraxALT joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Alakazam used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−107/287">37.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo fainted!<br></div><div class="chat"><small>☆gomdol2 left</small></div><div class="chat message-error">gomdol2 disconnected and has a minute to reconnect!</div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat"><small>☆gomdol2 joined</small></div><div class="chat message-error">gomdol2 reconnected.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Oricorio (<strong>Oricorio-Pa'u</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">gomdol2 has 120 seconds left.</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>um 1 more time for some reason there is lag</em></div><div class="chat"><small>☆gomdol2 left</small></div><div class="chat message-error">gomdol2 disconnected and has a minute to reconnect!</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>D:</em></div><div class="chat"><small>☆gomdol2 joined</small></div><div class="chat message-error">gomdol2 reconnected and has 105 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>You can stop the timer if you want</em></div><div class="chat message-error">gomdol2 has 90 seconds left.</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>no no its fine</em></div><div class="chat"><small> meamdefinitely4 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Alakazam used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Oricorio lost <abbr title="−281/281">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oricorio fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Seviper</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Alakazam!<br></div><div class="battle-history">gomdol2 sent out <strong>Magcargo</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Magcargo!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Magcargo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Seviper used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Magcargo lost <abbr title="−213/262">81.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Magcargo fainted!<br></div><div class="battle-history"><small>Seviper lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out Gourgeist (<strong>Gourgeist-Super</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gourgeist!</small><br></div><div class="battle-history">[The opposing Gourgeist's Frisk]<br><small>The opposing Gourgeist frisked Seviper and found its Life Orb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Seviper, come back!<br></div><div class="battle-history">Go! <strong>Blaziken</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>It doesn't affect Blaziken...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat"><small> exploraxALT left</small></div><div class="chat message-error">gomdol2 has 90 seconds left.</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>uhoh</em></div><div class="chat"><small> MasterJ007 joined;  MasterJ007 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Gourgeist!<br></div><div class="battle-history">gomdol2 sent out <strong>Ledian</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Ledian!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Blaziken's Blazikenite is reacting to the Key Stone!</small><br>Blaziken has Mega Evolved into Mega Blaziken!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Ledian lost <abbr title="−136/272">50%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ledian fainted!<br></div><div class="battle-history"><small>Blaziken was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Blaziken's Speed Boost]<br></div><div class="battle-history"><small>Blaziken's Speed rose!</small><br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ledian</em></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Fearow</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Fearow!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>That made a very brief appearance</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken, come back!<br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Dialga lost <abbr title="−270/270">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga fainted!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This was a stupid move by me</em></div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>mb crit</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Bibarel</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>It's ok, dw</em></div><div class="chat message-error">gomdol2 has 90 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I should have switched into this</em></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat"><small> PsyKid800 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Fearow!<br></div><div class="battle-history">gomdol2 sent out <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Exploud!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bibarel, come back!<br></div><div class="battle-history">Go! Blaziken (<strong>Blaziken-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">gomdol2 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Exploud!<br></div><div class="battle-history">gomdol2 sent out Gourgeist (<strong>Gourgeist-Super</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gourgeist!</small><br></div><div class="battle-history">[The opposing Gourgeist's Frisk]<br><small>The opposing Gourgeist frisked Blaziken and found its Blazikenite!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Blaziken's Speed Boost]<br></div><div class="battle-history"><small>Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gourgeist used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>(Blaziken lost <abbr title="−64/239">26.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Gourgeist lost <abbr title="−210/293">71.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Blaziken was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Blaziken's Speed Boost]<br></div><div class="battle-history"><small>Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat"><small> ghostilex joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Blaziken you suck</em></div><div class="chat message-error">35Q71N has 60 seconds left.</div><div class="chat"><small> ghostilex left</small></div><div class="chat message-error">gomdol2 has 30 seconds left.</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>i got the super gourgeist thats why</em></div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>:(</em></div><div class="chat message-error">gomdol2 has 15 seconds left.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken, come back!<br></div><div class="battle-history">Go! <strong>Seviper</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 withdrew Gourgeist!<br></div><div class="battle-history">gomdol2 sent out <strong>Exploud</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Exploud!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat message-error">gomdol2 has 25 seconds left this turn.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat message-error">35Q71N has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper, come back!<br></div><div class="battle-history">Go! <strong>Bibarel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>(Bibarel lost <abbr title="−285/285">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bibarel fainted!<br></div><div class="chat message-error">35Q71N has 10 seconds left this turn.</div><div class="chat message-error">gomdol2 has 30 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Blaziken (<strong>Blaziken-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">35Q71N has 20 seconds left this turn.</div><div class="chat message-error">gomdol2 has 30 seconds left.</div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Exploud lost <abbr title="−241/319">75.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Blaziken's Speed Boost]<br></div><div class="battle-history"><small>Blaziken's Speed rose!</small><br></div><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="chat message-error">gomdol2 has 25 seconds left this turn.</div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out Gourgeist (<strong>Gourgeist-Super</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Gourgeist!</small><br></div><div class="battle-history">[The opposing Gourgeist's Frisk]<br><small>The opposing Gourgeist frisked Blaziken and found its Blazikenite!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat message-error">gomdol2 has 30 seconds left this turn.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="chat message-error">35Q71N has 15 seconds left.</div><div class="chat message-error">35Q71N has 10 seconds left.</div><div class="chat message-error">35Q71N has 5 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken, come back!<br></div><div class="battle-history">Go! <strong>Seviper</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">35Q71N has 15 seconds left this turn.</div><div class="chat message-error">gomdol2 has 30 seconds left this turn.</div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="chat message-error">gomdol2 has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper used <strong>Flamethrower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Gourgeist lost <abbr title="−193/293">65.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gourgeist fainted!<br></div><div class="battle-history"><small>Seviper lost some of its HP!</small><br></div><div class="chat message-error">35Q71N has 20 seconds left this turn.</div><div class="chat message-error">gomdol2 has 20 seconds left this turn.</div><div class="chat message-error">gomdol2 has 15 seconds left.</div><div class="chat message-error">gomdol2 has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out Alakazam (<strong>Alakazam-Mega</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Alakazam!</small><br></div><div class="battle-history">[The opposing Alakazam's Trace]<br>[The opposing Alakazam's Infiltrator]<br><small>The opposing Alakazam traced Seviper's Infiltrator!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">35Q71N has 30 seconds left this turn.</div><div class="chat message-error">gomdol2 has 20 seconds left this turn.</div><div class="chat message-error">gomdol2 has 15 seconds left.</div><div class="chat message-error">35Q71N has 20 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Alakazam lost <abbr title="−72/216">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Alakazam fainted!<br></div><div class="battle-history"><small>Seviper lost some of its HP!</small><br></div><div class="chat message-error">35Q71N has 25 seconds left this turn.</div><div class="chat message-error">gomdol2 has 20 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">gomdol2 sent out <strong>Fearow</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Fearow!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">gomdol2 has 30 seconds left this turn.</div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat message-error">gomdol2 has 20 seconds left.</div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>gg for some reason I thought flame would do less</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Fearow lost <abbr title="−87/258">33.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Seviper lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Seviper lost <abbr title="−169/281">60.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Seviper fainted!<br></div><div class="chat message-error">gomdol2 has 25 seconds left this turn.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg</em></div><div class="chat message-error">35Q71N has 30 seconds left.</div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Very closegame</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Blaziken (<strong>Blaziken-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Blaziken protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>Blaziken protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Blaziken's Speed Boost]<br></div><div class="battle-history"><small>Blaziken's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blaziken used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>(The opposing Fearow lost <abbr title="−43/258">16.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow fainted!<br></div><div class="battle-history"><small>Blaziken was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small>☆</small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>Ggwp win finals!</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I hope so lol</em></div><div class="chat"><small>☆gomdol2 left</small></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat"><small> latias999999999 joined;  PsyKid800 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

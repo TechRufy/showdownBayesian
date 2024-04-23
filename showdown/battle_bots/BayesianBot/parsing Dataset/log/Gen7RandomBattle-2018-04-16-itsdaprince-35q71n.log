@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: itsdaprince vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-733713572" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/itsdaprince" class="subtle" target="_blank">itsdaprince</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆itsdaprince
+|j|☆35Q71N
+|player|p1|itsdaprince|80
+|player|p2|35Q71N|169
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|seed|6956,54465,98,9461
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Porygon2|Porygon2, L79|264\/264
+|switch|p2a: Guzzlord|Guzzlord, L81|494\/494
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|1
+|
+|switch|p2a: Milotic|Milotic, L79, F|280\/280
+|move|p1a: Porygon2|Ice Beam|p2a: Milotic
+|-resisted|p2a: Milotic
+|-damage|p2a: Milotic|247\/280
+|
+|-heal|p2a: Milotic|264\/280|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|move|p2a: Milotic|Toxic|p1a: Porygon2
+|-status|p1a: Porygon2|tox
+|move|p1a: Porygon2|Thunderbolt|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|118\/280
+|-status|p2a: Milotic|par
+|
+|-heal|p2a: Milotic|135\/280 par|[from] item: Leftovers
+|-damage|p1a: Porygon2|248\/264 tox|[from] psn
+|upkeep
+|turn|3
+|
+|switch|p2a: Ampharos|Ampharos, L79, F|272\/272
+|move|p1a: Porygon2|Tri Attack|p2a: Ampharos
+|-damage|p2a: Ampharos|149\/272
+|
+|-damage|p1a: Porygon2|216\/264 tox|[from] psn
+|upkeep
+|turn|4
+|
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Milotic|Milotic, L79, F|135\/280 par
+|move|p1a: Marowak|Shadow Bone|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|
+|upkeep
+|
+|switch|p2a: Guzzlord|Guzzlord, L81|494\/494
+|turn|6
+|
+|switch|p1a: Shiinotic|Shiinotic, L83, M|235\/235
+|move|p2a: Guzzlord|Crunch|p1a: Shiinotic
+|-resisted|p1a: Shiinotic
+|-damage|p1a: Shiinotic|173\/235
+|-damage|p2a: Guzzlord|445\/494|[from] item: Life Orb
+|
+|-heal|p1a: Shiinotic|187\/235|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|switch|p2a: Magnezone|Magnezone, L75|229\/229
+|move|p1a: Shiinotic|Leech Seed|p2a: Magnezone
+|-start|p2a: Magnezone|move: Leech Seed
+|
+|-heal|p1a: Shiinotic|201\/235|[from] item: Leftovers
+|-damage|p2a: Magnezone|201\/229|[from] Leech Seed|[of] p1a: Shiinotic
+|-heal|p1a: Shiinotic|229\/235|[silent]
+|upkeep
+|turn|8
+|
+|switch|p2a: Mantine|Mantine, L77, F|257\/257
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|
+|upkeep
+|turn|9
+|
+|switch|p1a: Jellicent|Jellicent, L81, F|295\/295
+|move|p2a: Mantine|Scald|p1a: Jellicent
+|-immune|p1a: Jellicent|[msg]|[from] ability: Water Absorb
+|
+|upkeep
+|turn|10
+|
+|switch|p2a: Magnezone|Magnezone, L75|201\/229
+|move|p1a: Jellicent|Toxic|p2a: Magnezone
+|-immune|p2a: Magnezone|[msg]
+|
+|upkeep
+|turn|11
+|
+|switch|p2a: Guzzlord|Guzzlord, L81|445\/494
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|
+|upkeep
+|turn|12
+|
+|switch|p1a: Shiinotic|Shiinotic, L83, M|229\/235
+|move|p2a: Guzzlord|Crunch|p1a: Shiinotic
+|-resisted|p1a: Shiinotic
+|-damage|p1a: Shiinotic|173\/235
+|-damage|p2a: Guzzlord|396\/494|[from] item: Life Orb
+|
+|-heal|p1a: Shiinotic|187\/235|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: Guzzlord|Fire Blast|p1a: Shiinotic
+|-supereffective|p1a: Shiinotic
+|-damage|p1a: Shiinotic|21\/235
+|-damage|p2a: Guzzlord|347\/494|[from] item: Life Orb
+|move|p1a: Shiinotic|Leech Seed|p2a: Guzzlord
+|-start|p2a: Guzzlord|move: Leech Seed
+|
+|-heal|p1a: Shiinotic|35\/235|[from] item: Leftovers
+|-damage|p2a: Guzzlord|286\/494|[from] Leech Seed|[of] p1a: Shiinotic
+|-heal|p1a: Shiinotic|96\/235|[silent]
+|upkeep
+|turn|14
+|
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|move|p2a: Guzzlord|Fire Blast|p1a: Marowak
+|-resisted|p1a: Marowak
+|-damage|p1a: Marowak|167\/219
+|-damage|p2a: Guzzlord|237\/494|[from] item: Life Orb
+|
+|-damage|p2a: Guzzlord|176\/494|[from] Leech Seed|[of] p1a: Marowak
+|-heal|p1a: Marowak|219\/219|[silent]
+|upkeep
+|turn|15
+|
+|switch|p2a: Mantine|Mantine, L77, F|257\/257
+|switch|p1a: Shiinotic|Shiinotic, L83, M|96\/235
+|
+|-heal|p1a: Shiinotic|110\/235|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|switch|p1a: Jellicent|Jellicent, L81, F|295\/295
+|move|p2a: Mantine|Air Slash|p1a: Jellicent
+|-damage|p1a: Jellicent|241\/295
+|
+|-heal|p1a: Jellicent|259\/295|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|switch|p2a: Magnezone|Magnezone, L75|201\/229
+|move|p1a: Jellicent|Shadow Ball|p2a: Magnezone
+|-damage|p2a: Magnezone|128\/229
+|
+|-heal|p1a: Jellicent|277\/295|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|switch|p1a: Shiinotic|Shiinotic, L83, M|110\/235
+|move|p2a: Magnezone|Flash Cannon|p1a: Shiinotic
+|-supereffective|p1a: Shiinotic
+|-damage|p1a: Shiinotic|0 fnt
+|faint|p1a: Shiinotic
+|
+|upkeep
+|
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|turn|19
+|
+|switch|p2a: Guzzlord|Guzzlord, L81|176\/494
+|move|p1a: Marowak|Shadow Bone|p2a: Guzzlord
+|-resisted|p2a: Guzzlord
+|-damage|p2a: Guzzlord|87\/494
+|
+|upkeep
+|turn|20
+|
+|switch|p1a: Lilligant|Lilligant, L83, F|252\/252
+|move|p2a: Guzzlord|Draco Meteor|p1a: Lilligant
+|-damage|p1a: Lilligant|69\/252
+|-unboost|p2a: Guzzlord|spa|2
+|-damage|p2a: Guzzlord|38\/494|[from] item: Life Orb
+|
+|-heal|p1a: Lilligant|84\/252|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p2a: Mantine|Mantine, L77, F|257\/257
+|move|p1a: Lilligant|Hidden Power|p2a: Mantine
+|-supereffective|p2a: Mantine
+|-damage|p2a: Mantine|181\/257
+|
+|-heal|p1a: Lilligant|99\/252|[from] item: Leftovers
+|-heal|p2a: Mantine|197\/257|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|move|p1a: Lilligant|Sleep Powder|p2a: Mantine
+|-status|p2a: Mantine|slp
+|cant|p2a: Mantine|slp
+|
+|-heal|p1a: Lilligant|114\/252|[from] item: Leftovers
+|-heal|p2a: Mantine|213\/257 slp|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|switch|p2a: Oranguru|Oranguru, L83, M|285\/285
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|-heal|p1a: Lilligant|129\/252|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p1a: Lilligant|Petal Dance|p2a: Oranguru
+|-damage|p2a: Oranguru|105\/285
+|move|p2a: Oranguru|Trick Room|p2a: Oranguru
+|-fieldstart|move: Trick Room|[of] p2a: Oranguru
+|
+|-heal|p2a: Oranguru|122\/285|[from] item: Leftovers
+|-heal|p1a: Lilligant|144\/252|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p2a: Oranguru|Psyshock|p1a: Lilligant
+|-damage|p1a: Lilligant|48\/252
+|move|p1a: Lilligant|Petal Dance|p2a: Oranguru|[from]lockedmove
+|-damage|p2a: Oranguru|0 fnt
+|faint|p2a: Oranguru
+|
+|-heal|p1a: Lilligant|63\/252|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Guzzlord|Guzzlord, L81|38\/494
+|turn|26
+|
+|move|p2a: Guzzlord|Crunch|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|-damage|p2a: Guzzlord|0 fnt|[from] item: Life Orb
+|faint|p1a: Lilligant
+|faint|p2a: Guzzlord
+|
+|upkeep
+|
+|switch|p2a: Ampharos|Ampharos, L79, F|149\/272
+|switch|p1a: Marowak|Marowak-Alola, L77, M|219\/219
+|turn|27
+|
+|switch|p2a: Mantine|Mantine, L77, F|213\/257 slp
+|move|p1a: Marowak|Bonemerang|p2a: Mantine
+|-immune|p2a: Mantine|[msg]
+|
+|-heal|p2a: Mantine|229\/257 slp|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|move|p1a: Marowak|Shadow Bone|p2a: Mantine
+|-damage|p2a: Mantine|67\/257 slp
+|cant|p2a: Mantine|slp
+|
+|-heal|p2a: Mantine|83\/257 slp|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|29
+|
+|switch|p1a: Oranguru|Oranguru, L83, M|285\/285
+|-curestatus|p2a: Mantine|slp|[msg]
+|move|p2a: Mantine|Scald|p1a: Oranguru
+|-damage|p1a: Oranguru|236\/285
+|
+|-heal|p2a: Mantine|99\/257|[from] item: Leftovers
+|-heal|p1a: Oranguru|253\/285|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p2a: Magnezone|Magnezone, L75|128\/229
+|move|p1a: Oranguru|Trick Room|p1a: Oranguru
+|-fieldstart|move: Trick Room|[of] p1a: Oranguru
+|
+|-heal|p1a: Oranguru|270\/285|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|move|p1a: Oranguru|Focus Blast|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-heal|p1a: Oranguru|285\/285|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Mantine|Mantine, L77, F|99\/257
+|turn|32
+|
+|move|p1a: Oranguru|Psyshock|p2a: Mantine
+|-damage|p2a: Mantine|0 fnt
+|faint|p2a: Mantine
+|
+|upkeep
+|
+|switch|p2a: Ampharos|Ampharos, L79, F|149\/272
+|turn|33
+|
+|move|p1a: Oranguru|Psyshock|p2a: Ampharos
+|-damage|p2a: Ampharos|62\/272
+|move|p2a: Ampharos|Thunderbolt|p1a: Oranguru
+|-damage|p1a: Oranguru|198\/285
+|
+|-heal|p1a: Oranguru|215\/285|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|-mega|p2a: Ampharos|Ampharos|Ampharosite
+|detailschange|p2a: Ampharos|Ampharos-Mega, L79, F
+|-ability|p2a: Ampharos|Mold Breaker
+|move|p1a: Oranguru|Psyshock|p2a: Ampharos
+|-damage|p2a: Ampharos|0 fnt
+|faint|p2a: Ampharos
+|
+|win|itsdaprince
+|l|☆35Q71N
+|raw|itsdaprince's rating: 1876 &rarr; <strong>1897<\/strong><br \/>(+21 for winning)
+|raw|35Q71N's rating: 1893 &rarr; <strong>1872<\/strong><br \/>(-21 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆itsdaprince and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between itsdaprince and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince sent out <strong>Porygon2</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="battle-history">[The opposing Porygon2's Download]<br></div><div class="battle-history"><small>The opposing Porygon2's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Porygon2 used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Milotic lost <abbr title="−33/280">11.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Porygon2 was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Porygon2 used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Milotic lost <abbr title="−146/280">52.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Milotic is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Milotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Porygon2 was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Milotic, come back!<br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Porygon2 used <strong>Tri Attack</strong>!<br></div><div class="battle-history"><small>(Ampharos lost <abbr title="−123/272">45.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Porygon2 was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Porygon2!<br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Milotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marowak used <strong>Shadow Bone</strong>!<br></div><div class="battle-history"><small>(Milotic lost <abbr title="−135/280">48.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Milotic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−62/235">26.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shiinotic used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Magnezone was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Magnezone's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Shiinotic!<br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Scald</strong>!<br></div><div class="battle-history">[The opposing Jellicent's Water Absorb]<br><small>It doesn't affect the opposing Jellicent...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mantine, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect Magnezone...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Jellicent!<br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−56/235">23.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−166/235">70.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shiinotic used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Guzzlord was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Guzzlord's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Shiinotic!<br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Marowak lost <abbr title="−52/219">23.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Guzzlord's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Shiinotic!<br></div><div class="battle-history">itsdaprince sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−54/295">18.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mantine, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−73/229">31.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Jellicent!<br></div><div class="battle-history">itsdaprince sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−110/235">46.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shiinotic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marowak used <strong>Shadow Bone</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Guzzlord lost <abbr title="−89/494">18.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Lilligant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−183/252">72.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mantine lost <abbr title="−76/257">29.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Mantine fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mantine, come back!<br></div><div class="battle-history">Go! <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Oranguru lost <abbr title="−180/285">63.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>Oranguru twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Oranguru restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−96/252">38.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Petal Dance</strong>!<br></div><div class="battle-history"><small>(Oranguru lost <abbr title="−122/285">42.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Oranguru fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lilligant restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Guzzlord</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Guzzlord used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−63/252">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Guzzlord lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant fainted!<br></div><div class="battle-history">Guzzlord fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince sent out Marowak (<strong>Marowak-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos, come back!<br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marowak used <strong>Bonemerang</strong>!<br></div><div class="battle-history"><small>It doesn't affect Mantine...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marowak used <strong>Shadow Bone</strong>!<br></div><div class="battle-history"><small>(Mantine lost <abbr title="−162/257">63.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The twisted dimensions returned to normal!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">itsdaprince withdrew Marowak!<br></div><div class="battle-history">itsdaprince sent out <strong>Oranguru</strong>!<br></div><div class="battle-history"><small>Mantine woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−49/285">17.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mantine restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Oranguru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mantine, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Oranguru twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oranguru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−128/229">55.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oranguru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Mantine lost <abbr title="−99/257">38.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mantine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Ampharos lost <abbr title="−87/272">32.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−87/285">30.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Oranguru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Ampharos's Ampharosite is reacting to the Key Stone!</small><br>Ampharos has Mega Evolved into Mega Ampharos!<br></div><div class="battle-history">[Ampharos's Mold Breaker]<br><small>Ampharos breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Ampharos lost <abbr title="−62/272">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ampharos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>itsdaprince</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">itsdaprince's rating: 1876 → <strong>1897</strong><br>(+21 for winning)</div><div class="chat">35Q71N's rating: 1893 → <strong>1872</strong><br>(-21 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

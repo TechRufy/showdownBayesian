@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: 35Q71N vs. zfrails</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-541919649" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a> vs. <a href="http://pokemonshowdown.com/users/zfrails" class="subtle" target="_blank">zfrails</a></h1>
+<script type="text/plain" class="battle-log-data">|j|35Q71N
+|j|zfrails
+|player|p1|35Q71N|170
+|player|p2|zfrails|274
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|1802,39718,11189,29343,53242,61567,38921,947,27846,38894,23562,44842
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Manaphy|Manaphy, L75|100\/100
+|switch|p2a: Kyurem|Kyurem-Black, L76|100\/100
+|-ability|p2a: Kyurem|Teravolt
+|turn|1
+|choice|switch 6|move substitute
+|
+|switch|p1a: Arceus|Arceus-Steel, L73|100\/100
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|76\/100
+|
+|-heal|p2a: Kyurem|82\/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|choice|move ironhead|move icebeam
+|
+|move|p1a: Arceus|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|move|p2a: Kyurem|Ice Beam|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|87\/100
+|
+|-heal|p2a: Kyurem|88\/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|move earthquake|switch 6
+|
+|switch|p2a: Cobalion|Cobalion, L77|100\/100
+|-item|p2a: Cobalion|Air Balloon
+|move|p1a: Arceus|Earthquake|p2a: Cobalion
+|-immune|p2a: Cobalion|[msg]
+|
+|upkeep
+|turn|4
+|choice|switch 5|move closecombat
+|
+|switch|p1a: Shaymin|Shaymin, L79|100\/100
+|move|p2a: Cobalion|Close Combat|p1a: Shaymin
+|-damage|p1a: Shaymin|69\/100
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|
+|-heal|p1a: Shaymin|75\/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|move leechseed|switch 2
+|
+|switch|p2a: Fearow|Fearow, L79, F|100\/100
+|move|p1a: Shaymin|Leech Seed|p2a: Fearow
+|-start|p2a: Fearow|move: Leech Seed
+|
+|-heal|p1a: Shaymin|82\/100|[from] item: Leftovers
+|-damage|p2a: Fearow|88\/100|[from] Leech Seed|[of] p1a: Shaymin
+|-heal|p1a: Shaymin|91\/100|[silent]
+|upkeep
+|turn|6
+|choice|switch 5|move uturn
+|
+|switch|p1a: Arceus|Arceus-Steel, L73|87\/100
+|move|p2a: Fearow|U-turn|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|80\/100
+|choice||switch 2
+|
+|switch|p2a: Cobalion|Cobalion, L77|100\/100
+|-item|p2a: Cobalion|Air Balloon
+|
+|upkeep
+|turn|7
+|choice|switch 5|move closecombat
+|
+|switch|p1a: Shaymin|Shaymin, L79|91\/100
+|move|p2a: Cobalion|Close Combat|p1a: Shaymin
+|-damage|p1a: Shaymin|60\/100
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|
+|-heal|p1a: Shaymin|66\/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|choice|move psychic|switch 2
+|
+|switch|p2a: Fearow|Fearow, L79, F|88\/100
+|move|p1a: Shaymin|Psychic|p2a: Fearow
+|-damage|p2a: Fearow|57\/100
+|
+|-heal|p1a: Shaymin|73\/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|choice|move psychic|move drillrun
+|
+|move|p2a: Fearow|Drill Run|p1a: Shaymin
+|-resisted|p1a: Shaymin
+|-damage|p1a: Shaymin|65\/100
+|move|p1a: Shaymin|Psychic|p2a: Fearow
+|-damage|p2a: Fearow|21\/100
+|
+|-heal|p1a: Shaymin|71\/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|choice|move leechseed|move drillrun
+|
+|move|p2a: Fearow|Drill Run|p1a: Shaymin
+|-resisted|p1a: Shaymin
+|-damage|p1a: Shaymin|64\/100
+|move|p1a: Shaymin|Leech Seed|p2a: Fearow
+|-start|p2a: Fearow|move: Leech Seed
+|
+|-heal|p1a: Shaymin|70\/100|[from] item: Leftovers
+|-damage|p2a: Fearow|9\/100|[from] Leech Seed|[of] p1a: Shaymin
+|-heal|p1a: Shaymin|80\/100|[silent]
+|upkeep
+|turn|11
+|choice|move psychic|move drillrun
+|
+|move|p2a: Fearow|Drill Run|p1a: Shaymin
+|-resisted|p1a: Shaymin
+|-damage|p1a: Shaymin|71\/100
+|move|p1a: Shaymin|Psychic|p2a: Fearow
+|-damage|p2a: Fearow|0 fnt
+|faint|p2a: Fearow
+|
+|-heal|p1a: Shaymin|78\/100|[from] item: Leftovers
+|upkeep
+|choice||switch 6
+|
+|switch|p2a: Kyurem|Kyurem-Black, L76|88\/100
+|-ability|p2a: Kyurem|Teravolt
+|turn|12
+|choice|switch 5|move icebeam
+|
+|switch|p1a: Arceus|Arceus-Steel, L73|80\/100
+|move|p2a: Kyurem|Ice Beam|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|66\/100
+|
+|-heal|p2a: Kyurem|94\/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|choice|move ironhead|switch 2
+|
+|switch|p2a: Cobalion|Cobalion, L77|100\/100
+|-item|p2a: Cobalion|Air Balloon
+|move|p1a: Arceus|Iron Head|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|88\/100
+|-enditem|p2a: Cobalion|Air Balloon
+|
+|upkeep
+|turn|14
+|choice|switch 5|move closecombat
+|
+|switch|p1a: Shaymin|Shaymin, L79|78\/100
+|move|p2a: Cobalion|Close Combat|p1a: Shaymin
+|-damage|p1a: Shaymin|46\/100
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|
+|-heal|p1a: Shaymin|53\/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|choice|move leechseed|switch 4
+|
+|switch|p2a: Altaria|Altaria, L75, F|100\/100
+|-ability|p2a: Altaria|Cloud Nine
+|move|p1a: Shaymin|Leech Seed|p2a: Altaria
+|-start|p2a: Altaria|move: Leech Seed
+|
+|-heal|p1a: Shaymin|59\/100|[from] item: Leftovers
+|-damage|p2a: Altaria|88\/100|[from] Leech Seed|[of] p1a: Shaymin
+|-heal|p1a: Shaymin|69\/100|[silent]
+|upkeep
+|turn|16
+|choice|switch 6|move fireblast mega
+|
+|switch|p1a: Manaphy|Manaphy, L75|100\/100
+|detailschange|p2a: Altaria|Altaria-Mega, L75, F
+|-mega|p2a: Altaria|Altaria|Altarianite
+|move|p2a: Altaria|Fire Blast|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|87\/100
+|
+|-heal|p1a: Manaphy|94\/100|[from] item: Leftovers
+|-damage|p2a: Altaria|76\/100|[from] Leech Seed|[of] p1a: Manaphy
+|-heal|p1a: Manaphy|100\/100|[silent]
+|upkeep
+|turn|17
+|choice|move icebeam|switch 5
+|
+|switch|p2a: Simisage|Simisage, L79, M|100\/100
+|move|p1a: Manaphy|Ice Beam|p2a: Simisage
+|-supereffective|p2a: Simisage
+|-damage|p2a: Simisage|46\/100
+|
+|upkeep
+|turn|18
+|choice|switch 3|move gigadrain
+|
+|switch|p1a: Venomoth|Venomoth, L79, M|100\/100
+|move|p2a: Simisage|Giga Drain|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|88\/100
+|-heal|p2a: Simisage|53\/100|[from] drain|[of] p1a: Venomoth
+|-damage|p2a: Simisage|43\/100|[from] item: Life Orb
+|
+|-heal|p1a: Venomoth|94\/100|[from] item: Black Sludge
+|upkeep
+|turn|19
+|choice|move quiverdance|switch 4
+|
+|switch|p2a: Cobalion|Cobalion, L77|88\/100
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|-heal|p1a: Venomoth|99\/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|choice|move sleeppowder|move ironhead
+|
+|move|p1a: Venomoth|Sleep Powder|p2a: Cobalion|[miss]
+|-miss|p1a: Venomoth|p2a: Cobalion
+|move|p2a: Cobalion|Iron Head|p1a: Venomoth
+|-damage|p1a: Venomoth|59\/100
+|
+|-heal|p1a: Venomoth|65\/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|choice|move sleeppowder|move taunt
+|
+|move|p1a: Venomoth|Sleep Powder|p2a: Cobalion
+|-status|p2a: Cobalion|slp
+|cant|p2a: Cobalion|slp
+|
+|-heal|p1a: Venomoth|71\/100|[from] item: Black Sludge
+|upkeep
+|turn|22
+|-message|zfrails forfeited.
+|
+|win|35Q71N
+|player|p1
+|player|p2
+|l|zfrails</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>35Q71N and zfrails joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between 35Q71N and zfrails!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Manaphy</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">zfrails sent out Kyurem (<strong>Kyurem-Black</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Teravolt]<br><small>The opposing Kyurem is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Manaphy, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Steel</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Kyurem put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Kyurem lost 24% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Kyurem's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Arceus lost 13% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Kyurem!<br></div><div class="battle-history">zfrails sent out <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Cobalion...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Shaymin</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(Shaymin lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Cobalion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Cobalion!<br></div><div class="battle-history">zfrails sent out <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Fearow was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Fearow's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Steel</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Arceus lost 7% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Fearow!<br></div><div class="battle-history">zfrails sent out <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Shaymin</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(Shaymin lost 31% of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Cobalion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Cobalion!<br></div><div class="battle-history">zfrails sent out <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Fearow lost 31% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shaymin lost 8% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Fearow lost 36% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shaymin lost 7% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Fearow was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Fearow's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shaymin lost 9% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Fearow lost 9% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Fearow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">zfrails sent out Kyurem (<strong>Kyurem-Black</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Teravolt]<br><small>The opposing Kyurem is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin, come back!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Steel</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Arceus lost 14% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Kyurem!<br></div><div class="battle-history">zfrails sent out <strong>Cobalion</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost 12% of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus, come back!<br></div><div class="battle-history">Go! <strong>Shaymin</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(Shaymin lost 32% of its health!)</small><br></div><div class="battle-history"><small>The opposing Cobalion's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Cobalion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Cobalion!<br></div><div class="battle-history">zfrails sent out <strong>Altaria</strong>!<br></div><div class="battle-history">[The opposing Altaria's Cloud Nine]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>The opposing Altaria was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shaymin restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Altaria's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shaymin, come back!<br></div><div class="battle-history">Go! <strong>Manaphy</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Altaria's Altarianite is reacting to the Key Stone!</small><br>The opposing Altaria has Mega Evolved into Mega Altaria!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Altaria used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Manaphy lost 13% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Manaphy restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Altaria's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Altaria!<br></div><div class="battle-history">zfrails sent out <strong>Simisage</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Manaphy used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Simisage lost 54% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Manaphy, come back!<br></div><div class="battle-history">Go! <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simisage used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Venomoth lost 12% of its health!)</small><br></div><div class="battle-history"><small>Venomoth had its energy drained!</small><br></div><div class="battle-history"><small>The opposing Simisage lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">zfrails withdrew Simisage!<br></div><div class="battle-history">zfrails sent out <strong>Cobalion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Venomoth used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Venomoth's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Venomoth's Sp. Def rose!</small><br></div><div class="battle-history"><small>Venomoth's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Venomoth used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Venomoth lost 40% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Venomoth used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Venomoth restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>zfrails forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat"><small>zfrails left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

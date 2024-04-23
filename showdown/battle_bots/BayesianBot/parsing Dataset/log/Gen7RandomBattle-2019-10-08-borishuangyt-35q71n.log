@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Boris Huang - YT vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-989209348" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/borishuangyt" class="subtle" target="_blank">Boris Huang - YT</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Boris Huang - YT
+|j|☆35Q71N
+|player|p1|Boris Huang - YT|lusamine-nihilego|2383
+|player|p2|35Q71N|byron|2171
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Heracross|Heracross, L81, F|262\/262
+|switch|p2a: Garbodor|Garbodor, L86, M|278\/278
+|turn|1
+|
+|detailschange|p1a: Heracross|Heracross-Mega, L81, F
+|-mega|p1a: Heracross|Heracross|Heracronite
+|move|p2a: Garbodor|Gunk Shot|p1a: Heracross
+|-damage|p1a: Heracross|160\/262
+|-status|p1a: Heracross|psn
+|move|p1a: Heracross|Rock Blast|p2a: Garbodor
+|-damage|p2a: Garbodor|250\/278
+|-damage|p2a: Garbodor|221\/278
+|-damage|p2a: Garbodor|190\/278
+|-damage|p2a: Garbodor|159\/278
+|-damage|p2a: Garbodor|130\/278
+|-hitcount|p2a: Garbodor|5
+|
+|-damage|p1a: Heracross|128\/262 psn|[from] psn
+|upkeep
+|turn|2
+|
+|move|p2a: Garbodor|Gunk Shot|p1a: Heracross
+|-damage|p1a: Heracross|8\/262 psn
+|move|p1a: Heracross|Rock Blast|p2a: Garbodor
+|-damage|p2a: Garbodor|100\/278
+|-damage|p2a: Garbodor|73\/278
+|-damage|p2a: Garbodor|43\/278
+|-damage|p2a: Garbodor|16\/278
+|-damage|p2a: Garbodor|0 fnt
+|-hitcount|p2a: Garbodor|5
+|faint|p2a: Garbodor
+|
+|-damage|p1a: Heracross|0 fnt|[from] psn
+|faint|p1a: Heracross
+|upkeep
+|
+|switch|p2a: Fearow|Fearow, L89, F|259\/259
+|switch|p1a: Kyurem|Kyurem-White, L78|323\/323
+|-ability|p1a: Kyurem|Turboblaze
+|turn|3
+|
+|move|p2a: Fearow|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|246\/323
+|
+|switch|p2a: Florges|Florges, L84, F|268\/268
+|move|p1a: Kyurem|Ice Beam|p2a: Florges
+|-damage|p2a: Florges|187\/268
+|
+|-heal|p1a: Kyurem|266\/323|[from] item: Leftovers
+|-heal|p2a: Florges|203\/268|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|switch|p1a: Feraligatr|Feraligatr, L82, F|274\/274
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|219\/268|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|switch|p2a: Fearow|Fearow, L89, F|259\/259
+|move|p1a: Feraligatr|Swords Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|2
+|
+|upkeep
+|turn|6
+|
+|move|p2a: Fearow|Double-Edge|p1a: Feraligatr
+|-damage|p1a: Feraligatr|90\/274
+|-damage|p2a: Fearow|198\/259|[from] Recoil
+|move|p1a: Feraligatr|Liquidation|p2a: Fearow
+|-damage|p2a: Fearow|0 fnt
+|faint|p2a: Fearow
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Boris Huang - YT)
+|
+|switch|p2a: Hitmonchan|Hitmonchan, L88, M|231\/231
+|turn|7
+|inactive|Boris Huang - YT has 120 seconds left.
+|
+|switch|p1a: Cacturne|Cacturne, L89, F|269\/269
+|move|p2a: Hitmonchan|Drain Punch|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|-damage|p2a: Hitmonchan|208\/231|[from] item: Life Orb
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|switch|p1a: Hawlucha|Hawlucha, L80, F|256\/256
+|turn|8
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Hitmonchan|Bulk Up|p2a: Hitmonchan
+|-boost|p2a: Hitmonchan|atk|1
+|-boost|p2a: Hitmonchan|def|1
+|
+|upkeep
+|turn|9
+|
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|192\/256
+|move|p2a: Hitmonchan|Ice Punch|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|-damage|p2a: Hitmonchan|185\/231|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|128\/256
+|-enditem|p1a: Hawlucha|Sitrus Berry|[eat]
+|-heal|p1a: Hawlucha|192\/256|[from] item: Sitrus Berry
+|move|p2a: Hitmonchan|Ice Punch|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|-damage|p2a: Hitmonchan|162\/231|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|move|p1a: Hawlucha|Acrobatics|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|switch|p2a: Yveltal|Yveltal, L78|325\/325
+|-ability|p2a: Yveltal|Dark Aura
+|turn|12
+|
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|128\/256
+|move|p2a: Yveltal|Oblivion Wing|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|
+|upkeep
+|turn|13
+|
+|move|p1a: Hawlucha|High Jump Kick|p2a: Yveltal|[miss]
+|-miss|p1a: Hawlucha|p2a: Yveltal
+|-damage|p1a: Hawlucha|0 fnt|[from] highjumpkick
+|faint|p1a: Hawlucha
+|move|p2a: Yveltal|Oblivion Wing|p1: Hawlucha|[notarget]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|
+|switch|p1a: Heliolisk|Heliolisk, L86, M|247\/247
+|turn|14
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Volcarona|Volcarona, L80, F|267\/267
+|move|p1a: Heliolisk|Thunderbolt|p2a: Volcarona
+|-damage|p2a: Volcarona|122\/267
+|
+|upkeep
+|turn|15
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Volcarona
+|-crit|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|inactive|35Q71N has 120 seconds left.
+|inactive|35Q71N has 90 seconds left.
+|
+|switch|p2a: Florges|Florges, L84, F|219\/268
+|turn|16
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|111\/268
+|-status|p2a: Florges|par
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|245\/268 par
+|
+|-heal|p2a: Florges|261\/268 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|162\/268 par
+|move|p2a: Florges|Aromatherapy|p2a: Florges
+|-activate|p2a: Florges|move: Aromatherapy
+|-curestatus|p2a: Florges|par|[msg]
+|
+|-heal|p2a: Florges|178\/268|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|82\/268
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|216\/268
+|
+|-heal|p2a: Florges|232\/268|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|133\/268
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|149\/268|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|53\/268
+|move|p2a: Florges|Moonblast|p1a: Heliolisk
+|-damage|p1a: Heliolisk|135\/247
+|
+|-heal|p2a: Florges|187\/268|[from] move: Wish|[wisher] Florges
+|-heal|p2a: Florges|203\/268|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|94\/268
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|228\/268
+|
+|-heal|p2a: Florges|244\/268|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|141\/268
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|157\/268|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|51\/268
+|move|p2a: Florges|Moonblast|p1a: Heliolisk
+|-damage|p1a: Heliolisk|23\/247
+|-unboost|p1a: Heliolisk|spa|1
+|
+|-heal|p2a: Florges|185\/268|[from] move: Wish|[wisher] Florges
+|-heal|p2a: Florges|201\/268|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|128\/268
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|144\/268|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|66\/268
+|move|p2a: Florges|Aromatherapy||[still]
+|-activate|p2a: Florges|move: Aromatherapy
+|-fail|p2a: Florges
+|
+|-heal|p2a: Florges|200\/268|[from] move: Wish|[wisher] Florges
+|-heal|p2a: Florges|216\/268|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|35Q71N has 120 seconds left.
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|140\/268
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|268\/268
+|
+|upkeep
+|turn|27
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|193\/268
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|209\/268|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|35Q71N has 120 seconds left.
+|
+|switch|p2a: Yveltal|Yveltal, L78|325\/325
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Heliolisk|Thunderbolt|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|169\/325
+|
+|-heal|p2a: Yveltal|303\/325|[from] move: Wish|[wisher] Florges
+|upkeep
+|turn|29
+|
+|switch|p1a: Kyurem|Kyurem-White, L78|266\/323
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|-heal|p1a: Kyurem|286\/323|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p2a: Florges|Florges, L84, F|209\/268
+|switch|p1a: Feraligatr|Feraligatr, L82, F|90\/274
+|
+|-heal|p2a: Florges|225\/268|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|switch|p2a: Yveltal|Yveltal, L78|303\/325
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Feraligatr|Liquidation|p2a: Yveltal
+|-damage|p2a: Yveltal|139\/325
+|
+|upkeep
+|turn|32
+|
+|switch|p1a: Kyurem|Kyurem-White, L78|286\/323
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Yveltal|Oblivion Wing|p1a: Kyurem
+|-damage|p1a: Kyurem|202\/323
+|-heal|p2a: Yveltal|202\/325|[from] drain|[of] p1a: Kyurem
+|
+|-heal|p1a: Kyurem|222\/323|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p2a: Florges|Florges, L84, F|225\/268
+|switch|p1a: Feraligatr|Feraligatr, L82, F|90\/274
+|
+|-heal|p2a: Florges|241\/268|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|switch|p2a: Yveltal|Yveltal, L78|202\/325
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Feraligatr|Liquidation|p2a: Yveltal
+|-damage|p2a: Yveltal|54\/325
+|
+|upkeep
+|turn|35
+|
+|switch|p1a: Kyurem|Kyurem-White, L78|222\/323
+|-ability|p1a: Kyurem|Turboblaze
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|-heal|p1a: Kyurem|242\/323|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|switch|p2a: Florges|Florges, L84, F|241\/268
+|move|p1a: Kyurem|Ice Beam|p2a: Florges
+|-damage|p2a: Florges|153\/268
+|
+|-heal|p1a: Kyurem|262\/323|[from] item: Leftovers
+|-heal|p2a: Florges|169\/268|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|switch|p1a: Heliolisk|Heliolisk, L86, M|23\/247
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|185\/268|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|move|p1a: Heliolisk|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|83\/268
+|move|p2a: Florges|Moonblast|p1a: Heliolisk
+|-damage|p1a: Heliolisk|0 fnt
+|faint|p1a: Heliolisk
+|
+|-heal|p2a: Florges|217\/268|[from] move: Wish|[wisher] Florges
+|-heal|p2a: Florges|233\/268|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Feraligatr|Feraligatr, L82, F|90\/274
+|turn|39
+|
+|move|p1a: Feraligatr|Liquidation|p2a: Florges
+|-damage|p2a: Florges|58\/268
+|move|p2a: Florges|Moonblast|p1a: Feraligatr
+|-damage|p1a: Feraligatr|0 fnt
+|faint|p1a: Feraligatr
+|
+|-heal|p2a: Florges|74\/268|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Kyurem|Kyurem-White, L78|262\/323
+|-ability|p1a: Kyurem|Turboblaze
+|turn|40
+|
+|move|p1a: Kyurem|Ice Beam|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|
+|-heal|p1a: Kyurem|282\/323|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Yveltal|Yveltal, L78|54\/325
+|-ability|p2a: Yveltal|Dark Aura
+|turn|41
+|
+|move|p2a: Yveltal|Focus Blast|p1a: Kyurem|[miss]
+|-miss|p2a: Yveltal|p1a: Kyurem
+|move|p1a: Kyurem|Ice Beam|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|win|Boris Huang - YT
+|l|☆35Q71N
+||Ladder (probably) updated, but score could not be retrieved (Response not received).
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Boris Huang - YT and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Boris Huang - YT and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Heracross's Heracronite is reacting to the Key Stone!</small><br>The opposing Heracross has Mega Evolved into Mega Heracross!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−102/262">38.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−28/278">10.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−29/278">10.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−31/278">11.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−31/278">11.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−29/278">10.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Heracross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−120/262">45.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−30/278">10.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−27/278">9.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−30/278">10.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−27/278">9.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−16/278">5.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Heracross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−77/323">23.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow, come back!<br></div><div class="battle-history">Go! <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−81/268">30.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Kyurem!<br></div><div class="battle-history">Boris Huang - YT sent out <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Florges, come back!<br></div><div class="battle-history">Go! <strong>Fearow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Feraligatr's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Fearow used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Feraligatr lost <abbr title="−184/274">67.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Fearow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Fearow lost <abbr title="−198/259">76.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Fearow fainted!<br></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Boris Huang - YT)</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmonchan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">Boris Huang - YT has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Feraligatr!<br></div><div class="battle-history">Boris Huang - YT sent out <strong>Cacturne</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Cacturne lost <abbr title="−269/269">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cacturne fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out <strong>Hawlucha</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Hitmonchan's Attack rose!</small><br></div><div class="battle-history"><small>Hitmonchan's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Hawlucha ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Hawlucha restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="battle-history"><small>Hitmonchan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hitmonchan lost <abbr title="−162/231">70.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Yveltal</strong>!<br></div><div class="battle-history">[Yveltal's Dark Aura]<br><small>Yveltal is radiating a dark aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−64/256">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal used <strong>Oblivion Wing</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>Yveltal avoided the attack!</small><br></div><div class="battle-history"><small>The opposing Hawlucha kept going and crashed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha fainted!<br></div><div class="battle-history">Yveltal used <strong>Oblivion Wing</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out <strong>Heliolisk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal, come back!<br></div><div class="battle-history">Go! <strong>Volcarona</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Volcarona lost <abbr title="−145/267">54.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Volcarona lost <abbr title="−122/267">45.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Volcarona fainted!<br></div><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="chat message-error">35Q71N has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−108/268">40.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Florges is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−99/268">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>Florges was cured of paralysis!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−96/268">35.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−99/268">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−96/268">35.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Heliolisk lost <abbr title="−112/247">45.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges's wish came true!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−109/268">40.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−103/268">38.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−106/268">39.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Heliolisk lost <abbr title="−112/247">45.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heliolisk's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges's wish came true!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−73/268">27.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−78/268">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges's wish came true!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−76/268">28.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−75/268">28.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="chat message-error">35Q71N has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Florges, come back!<br></div><div class="battle-history">Go! <strong>Yveltal</strong>!<br></div><div class="battle-history">[Yveltal's Dark Aura]<br><small>Yveltal is radiating a dark aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Yveltal lost <abbr title="−156/325">48%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Heliolisk!<br></div><div class="battle-history">Boris Huang - YT sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal, come back!<br></div><div class="battle-history">Go! <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Kyurem!<br></div><div class="battle-history">Boris Huang - YT sent out <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Florges, come back!<br></div><div class="battle-history">Go! <strong>Yveltal</strong>!<br></div><div class="battle-history">[Yveltal's Dark Aura]<br><small>Yveltal is radiating a dark aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Yveltal lost <abbr title="−164/325">50.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Feraligatr!<br></div><div class="battle-history">Boris Huang - YT sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal used <strong>Oblivion Wing</strong>!<br></div><div class="battle-history"><small>(The opposing Kyurem lost <abbr title="−84/323">26.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kyurem had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal, come back!<br></div><div class="battle-history">Go! <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Kyurem!<br></div><div class="battle-history">Boris Huang - YT sent out <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Florges, come back!<br></div><div class="battle-history">Go! <strong>Yveltal</strong>!<br></div><div class="battle-history">[Yveltal's Dark Aura]<br><small>Yveltal is radiating a dark aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Yveltal lost <abbr title="−148/325">45.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Feraligatr!<br></div><div class="battle-history">Boris Huang - YT sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal, come back!<br></div><div class="battle-history">Go! <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−88/268">32.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT withdrew Kyurem!<br></div><div class="battle-history">Boris Huang - YT sent out <strong>Heliolisk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−102/268">38.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Heliolisk lost <abbr title="−23/247">9.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges's wish came true!</small><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−175/268">65.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Feraligatr lost <abbr title="−90/274">32.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Boris Huang - YT sent out Kyurem (<strong>Kyurem-White</strong>)!<br></div><div class="battle-history">[The opposing Kyurem's Turboblaze]<br><small>The opposing Kyurem is radiating a blazing aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Florges lost <abbr title="−74/268">27.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Florges fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kyurem restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Yveltal</strong>!<br></div><div class="battle-history">[Yveltal's Dark Aura]<br><small>Yveltal is radiating a dark aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>The opposing Kyurem avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyurem used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Yveltal lost <abbr title="−54/325">16.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yveltal fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Boris Huang - YT</strong> won the battle!<br></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat">Ladder (probably) updated, but score could not be retrieved (Response not received).</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

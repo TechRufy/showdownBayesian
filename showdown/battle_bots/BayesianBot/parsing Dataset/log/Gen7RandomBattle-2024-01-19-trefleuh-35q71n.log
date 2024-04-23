@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Trefleuh vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2039319242" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/trefleuh" class="subtle" target="_blank">Trefleuh</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Trefleuh
+|j|☆35Q71N
+|t:|1705702724
+|gametype|singles
+|player|p1|Trefleuh|#rbtt6teampalkia|
+|player|p2|35Q71N|#rbtt7teamhoopaf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1705702724
+|start
+|switch|p1a: Parasect|Parasect, L95, F|268\/268
+|switch|p2a: Virizion|Virizion, L83|287\/287
+|turn|1
+|c|☆35Q71N|Good luck
+|c|☆35Q71N|Have fun
+|j| latias999999999
+|c|☆35Q71N|(Please be more balanced than g1)
+|c|☆Trefleuh|glhf c:
+|j| decimo tercer
+|c| latias999999999|35 have you played bravely default :0
+|c|☆35Q71N|No but I wanted to a long time ago
+|c| latias999999999|aw
+|c| latias999999999|it's a good game yeah
+|c|☆35Q71N|Oh no
+|c|☆35Q71N|I have the mon I don't like in rands
+|
+|t:|1705702821
+|switch|p2a: Dustox|Dustox, L92, F|260\/260
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|206\/260
+|
+|-heal|p2a: Dustox|222\/260|[from] item: Black Sludge
+|upkeep
+|turn|2
+|c|☆35Q71N|Which is not Virizion but someone else
+|
+|t:|1705702874
+|switch|p2a: Gourgeist|Gourgeist, L89, M|260\/260
+|switch|p1a: Celesteela|Celesteela, L80|286\/286
+|
+|upkeep
+|turn|3
+|
+|t:|1705702892
+|move|p2a: Gourgeist|Will-O-Wisp|p1a: Celesteela
+|-status|p1a: Celesteela|brn
+|move|p1a: Celesteela|Air Slash|p2a: Gourgeist
+|-supereffective|p2a: Gourgeist
+|-damage|p2a: Gourgeist|86\/260
+|
+|-heal|p2a: Gourgeist|102\/260|[from] item: Leftovers
+|-damage|p1a: Celesteela|269\/286 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1705702914
+|switch|p2a: Starmie|Starmie, L84|238\/238
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-damage|p1a: Celesteela|252\/286 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1705702975
+|switch|p1a: Parasect|Parasect, L95, F|268\/268
+|move|p2a: Starmie|Hydro Pump|p1a: Parasect
+|-immune|p1a: Parasect|[from] ability: Dry Skin
+|
+|upkeep
+|turn|6
+|
+|t:|1705702989
+|switch|p2a: Dustox|Dustox, L92, F|222\/260
+|move|p1a: Parasect|Aromatherapy|p1a: Parasect
+|-activate|p1a: Parasect|move: Aromatherapy
+|-curestatus|p1: Celesteela|brn|[msg]
+|
+|-heal|p2a: Dustox|238\/260|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1705703011
+|switch|p2a: Dewgong|Dewgong, L90, M|308\/308
+|switch|p1a: Celesteela|Celesteela, L80|252\/286
+|
+|upkeep
+|turn|8
+|c|☆35Q71N|This guy
+|
+|t:|1705703060
+|switch|p1a: Scrafty|Scrafty, L85, M|249\/249
+|move|p2a: Dewgong|Ice Beam|p1a: Scrafty
+|-damage|p1a: Scrafty|176\/249
+|
+|-heal|p1a: Scrafty|191\/249|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1705703100
+|switch|p2a: Sigilyph|Sigilyph, L86, M|263\/263
+|move|p1a: Scrafty|Knock Off|p2a: Sigilyph
+|-supereffective|p2a: Sigilyph
+|-damage|p2a: Sigilyph|45\/263
+|-enditem|p2a: Sigilyph|Choice Specs|[from] move: Knock Off|[of] p1a: Scrafty
+|
+|-heal|p1a: Scrafty|206\/249|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆35Q71N|I wanted too much
+|
+|t:|1705703120
+|switch|p1a: Comfey|Comfey, L88, F|233\/233
+|move|p2a: Sigilyph|Air Slash|p1a: Comfey
+|-damage|p1a: Comfey|166\/233
+|
+|-heal|p1a: Comfey|180\/233|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆35Q71N|Especially since Dustox was there
+|
+|t:|1705703141
+|switch|p2a: Dustox|Dustox, L92, F|238\/260
+|move|p1a: Comfey|Draining Kiss|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|213\/260
+|-heal|p1a: Comfey|199\/233|[from] drain|[of] p2a: Dustox
+|
+|-heal|p1a: Comfey|213\/233|[from] item: Leftovers
+|-heal|p2a: Dustox|229\/260|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1705703168
+|switch|p1a: Celesteela|Celesteela, L80|252\/286
+|switch|p2a: Dewgong|Dewgong, L90, M|308\/308
+|
+|upkeep
+|turn|13
+|
+|t:|1705703186
+|switch|p1a: Scrafty|Scrafty, L85, M|206\/249
+|move|p2a: Dewgong|Ice Beam|p1a: Scrafty
+|-damage|p1a: Scrafty|137\/249
+|
+|-heal|p1a: Scrafty|152\/249|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1705703191
+|switch|p2a: Dustox|Dustox, L92, F|229\/260
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|114\/260
+|-enditem|p2a: Dustox|Black Sludge|[from] move: Knock Off|[of] p1a: Scrafty
+|
+|-heal|p1a: Scrafty|167\/249|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1705703200
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|244\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|-heal|p1a: Scrafty|182\/249|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1705703225
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-damage|p1a: Scrafty|125\/249
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|136\/260
+|
+|-heal|p1a: Scrafty|140\/249|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1705703244
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-damage|p1a: Scrafty|83\/249
+|-status|p1a: Scrafty|psn
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|24\/260
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|psn|[msg]
+|-heal|p1a: Scrafty|98\/249|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1705703248
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|154\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|249\/249 slp|[silent]
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|slp|[msg]
+|upkeep
+|turn|19
+|
+|t:|1705703266
+|switch|p2a: Virizion|Virizion, L83|287\/287
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|20
+|
+|t:|1705703276
+|switch|p1a: Parasect|Parasect, L95, F|268\/268
+|move|p2a: Virizion|Close Combat|p1a: Parasect
+|-resisted|p1a: Parasect
+|-damage|p1a: Parasect|199\/268
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|-damage|p2a: Virizion|259\/287|[from] item: Life Orb
+|
+|-heal|p1a: Parasect|215\/268|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1705703283
+|switch|p2a: Dustox|Dustox, L92, F|154\/260
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|97\/260
+|-heal|p1a: Parasect|244\/268|[from] drain|[of] p2a: Dustox
+|
+|-heal|p1a: Parasect|260\/268|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1705703294
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|227\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Parasect|Spore|p2a: Dustox
+|-status|p2a: Dustox|slp|[from] move: Spore
+|
+|-heal|p1a: Parasect|268\/268|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1705703301
+|cant|p2a: Dustox|slp
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|166\/260 slp
+|
+|upkeep
+|turn|24
+|
+|t:|1705703304
+|switch|p1a: Scrafty|Scrafty, L85, M|249\/249
+|cant|p2a: Dustox|slp
+|
+|upkeep
+|turn|25
+|
+|t:|1705703314
+|switch|p2a: Virizion|Virizion, L83|259\/287
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|26
+|
+|t:|1705703355
+|switch|p1a: Parasect|Parasect, L95, F|268\/268
+|move|p2a: Virizion|Close Combat|p1a: Parasect
+|-resisted|p1a: Parasect
+|-damage|p1a: Parasect|195\/268
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|-damage|p2a: Virizion|231\/287|[from] item: Life Orb
+|
+|-heal|p1a: Parasect|211\/268|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1705703359
+|switch|p2a: Dustox|Dustox, L92, F|166\/260 slp
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|108\/260 slp
+|-heal|p1a: Parasect|240\/268|[from] drain|[of] p2a: Dustox
+|
+|-heal|p1a: Parasect|256\/268|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1705703368
+|-curestatus|p2a: Dustox|slp|[msg]
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|238\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Parasect|Spore|p2a: Dustox
+|-status|p2a: Dustox|slp|[from] move: Spore
+|
+|-heal|p1a: Parasect|268\/268|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1705703372
+|cant|p2a: Dustox|slp
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|184\/260 slp
+|
+|upkeep
+|turn|30
+|
+|t:|1705703374
+|cant|p2a: Dustox|slp
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|122\/260 slp
+|
+|upkeep
+|turn|31
+|
+|t:|1705703378
+|-curestatus|p2a: Dustox|slp|[msg]
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|252\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|198\/260
+|
+|upkeep
+|turn|32
+|
+|t:|1705703381
+|move|p2a: Dustox|Sludge Bomb|p1a: Parasect
+|-supereffective|p1a: Parasect
+|-crit|p1a: Parasect
+|-damage|p1a: Parasect|64\/268
+|-status|p1a: Parasect|psn
+|move|p1a: Parasect|Spore|p2a: Dustox
+|-status|p2a: Dustox|slp|[from] move: Spore
+|
+|-heal|p1a: Parasect|80\/268 psn|[from] item: Leftovers
+|-damage|p1a: Parasect|47\/268 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1705703390
+|cant|p2a: Dustox|slp
+|move|p1a: Parasect|Aromatherapy|p1a: Parasect
+|-activate|p1a: Parasect|move: Aromatherapy
+|-curestatus|p1a: Parasect|psn|[msg]
+|
+|-heal|p1a: Parasect|63\/268|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1705703395
+|cant|p2a: Dustox|slp
+|move|p1a: Parasect|Leech Life|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|138\/260 slp
+|-heal|p1a: Parasect|93\/268|[from] drain|[of] p2a: Dustox
+|
+|-heal|p1a: Parasect|109\/268|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1705703399
+|switch|p1a: Celesteela|Celesteela, L80|252\/286
+|-curestatus|p2a: Dustox|slp|[msg]
+|move|p2a: Dustox|Bug Buzz|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|234\/286
+|
+|upkeep
+|turn|36
+|
+|t:|1705703411
+|switch|p2a: Dewgong|Dewgong, L90, M|308\/308
+|move|p1a: Celesteela|Flash Cannon|p2a: Dewgong
+|-damage|p2a: Dewgong|230\/308
+|
+|-heal|p2a: Dewgong|249\/308|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1705703421
+|switch|p1a: Comfey|Comfey, L88, F|213\/233
+|move|p2a: Dewgong|Ice Beam|p1a: Comfey
+|-damage|p1a: Comfey|141\/233
+|
+|-heal|p1a: Comfey|155\/233|[from] item: Leftovers
+|-heal|p2a: Dewgong|268\/308|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1705703427
+|switch|p2a: Dustox|Dustox, L92, F|138\/260
+|move|p1a: Comfey|Draining Kiss|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|112\/260
+|-heal|p1a: Comfey|175\/233|[from] drain|[of] p2a: Dustox
+|
+|-heal|p1a: Comfey|189\/233|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1705703431
+|move|p1a: Comfey|U-turn|p2a: Dustox
+|-resisted|p2a: Dustox
+|-damage|p2a: Dustox|94\/260
+|
+|t:|1705703433
+|switch|p1a: Scrafty|Scrafty, L85, M|249\/249|[from] U-turn
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|224\/260
+|-singleturn|p2a: Dustox|move: Roost
+|
+|upkeep
+|turn|40
+|
+|t:|1705703439
+|move|p2a: Dustox|Quiver Dance|p2a: Dustox
+|-boost|p2a: Dustox|spa|1
+|-boost|p2a: Dustox|spd|1
+|-boost|p2a: Dustox|spe|1
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|41
+|
+|t:|1705703447
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-damage|p1a: Scrafty|162\/249
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|-heal|p1a: Scrafty|177\/249|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1705703451
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-damage|p1a: Scrafty|95\/249
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|76\/260
+|
+|-heal|p1a: Scrafty|110\/249|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1705703465
+|switch|p2a: Virizion|Virizion, L83|231\/287
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|249\/249 slp|[silent]
+|
+|upkeep
+|turn|44
+|j| oaklies
+|
+|t:|1705703525
+|switch|p2a: Dustox|Dustox, L92, F|76\/260
+|switch|p1a: Parasect|Parasect, L95, F|109\/268
+|
+|-heal|p1a: Parasect|125\/268|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1705703529
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|206\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Parasect|Spore|p2a: Dustox
+|-status|p2a: Dustox|slp|[from] move: Spore
+|
+|-heal|p1a: Parasect|141\/268|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1705703535
+|switch|p1a: Scrafty|Scrafty, L85, M|249\/249 slp
+|cant|p2a: Dustox|slp
+|
+|upkeep
+|turn|47
+|
+|t:|1705703567
+|cant|p2a: Dustox|slp
+|cant|p1a: Scrafty|slp
+|
+|upkeep
+|turn|48
+|
+|t:|1705703573
+|cant|p2a: Dustox|slp
+|cant|p1a: Scrafty|slp
+|
+|upkeep
+|turn|49
+|
+|t:|1705703585
+|-curestatus|p2a: Dustox|slp|[msg]
+|move|p2a: Dustox|Quiver Dance|p2a: Dustox
+|-boost|p2a: Dustox|spa|1
+|-boost|p2a: Dustox|spd|1
+|-boost|p2a: Dustox|spe|1
+|-curestatus|p1a: Scrafty|slp|[msg]
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|50
+|
+|t:|1705703590
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-damage|p1a: Scrafty|162\/249
+|-status|p1a: Scrafty|psn
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|92\/260
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|psn|[msg]
+|-heal|p1a: Scrafty|177\/249|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1705703599
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|222\/260
+|-singleturn|p2a: Dustox|move: Roost
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|-heal|p1a: Scrafty|192\/249|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1705703603
+|move|p2a: Dustox|Sludge Bomb|p1a: Scrafty
+|-crit|p1a: Scrafty
+|-damage|p1a: Scrafty|60\/249
+|move|p1a: Scrafty|Knock Off|p2a: Dustox
+|-damage|p2a: Dustox|63\/260
+|
+|-heal|p1a: Scrafty|75\/249|[from] item: Leftovers
+|upkeep
+|turn|53
+|c|☆Trefleuh|:ccc
+|c|☆35Q71N|Welp
+|
+|t:|1705703622
+|switch|p1a: Celesteela|Celesteela, L80|234\/286
+|move|p2a: Dustox|Roost|p2a: Dustox
+|-heal|p2a: Dustox|193\/260
+|-singleturn|p2a: Dustox|move: Roost
+|
+|upkeep
+|turn|54
+|
+|t:|1705703625
+|switch|p2a: Dewgong|Dewgong, L90, M|268\/308
+|move|p1a: Celesteela|Air Slash|p2a: Dewgong
+|-damage|p2a: Dewgong|196\/308
+|
+|-heal|p2a: Dewgong|215\/308|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1705703635
+|switch|p1a: Comfey|Comfey, L88, F|189\/233
+|move|p2a: Dewgong|Ice Beam|p1a: Comfey
+|-damage|p1a: Comfey|119\/233
+|
+|-heal|p1a: Comfey|133\/233|[from] item: Leftovers
+|-heal|p2a: Dewgong|234\/308|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1705703645
+|move|p1a: Comfey|Draining Kiss|p2a: Dewgong
+|-damage|p2a: Dewgong|186\/308
+|-heal|p1a: Comfey|169\/233|[from] drain|[of] p2a: Dewgong
+|move|p2a: Dewgong|Ice Beam|p1a: Comfey
+|-damage|p1a: Comfey|93\/233
+|-status|p1a: Comfey|frz
+|
+|-heal|p1a: Comfey|107\/233 frz|[from] item: Leftovers
+|-heal|p2a: Dewgong|205\/308|[from] item: Leftovers
+|upkeep
+|turn|57
+|c|☆35Q71N|.....
+|c|☆Trefleuh|:((((((((((((((((((((((((((((((
+|
+|t:|1705703667
+|cant|p1a: Comfey|frz
+|move|p2a: Dewgong|Ice Beam|p1a: Comfey
+|-damage|p1a: Comfey|43\/233 frz
+|
+|-heal|p1a: Comfey|57\/233 frz|[from] item: Leftovers
+|-heal|p2a: Dewgong|224\/308|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1705703692
+|switch|p1a: Celesteela|Celesteela, L80|234\/286
+|move|p2a: Dewgong|Ice Beam|p1a: Celesteela
+|-damage|p1a: Celesteela|158\/286
+|
+|-heal|p2a: Dewgong|243\/308|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1705703699
+|move|p2a: Dewgong|Protect|p2a: Dewgong
+|-singleturn|p2a: Dewgong|Protect
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-heal|p2a: Dewgong|262\/308|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1705703702
+|move|p1a: Celesteela|Air Slash|p2a: Dewgong
+|-damage|p2a: Dewgong|187\/308
+|move|p2a: Dewgong|Ice Beam|p1a: Celesteela
+|-damage|p1a: Celesteela|76\/286
+|
+|-heal|p2a: Dewgong|206\/308|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1705703707
+|move|p2a: Dewgong|Protect|p2a: Dewgong
+|-singleturn|p2a: Dewgong|Protect
+|move|p1a: Celesteela|Air Slash|p2a: Dewgong
+|-activate|p2a: Dewgong|move: Protect
+|
+|-heal|p2a: Dewgong|225\/308|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1705703710
+|move|p1a: Celesteela|Air Slash|p2a: Dewgong
+|-damage|p2a: Dewgong|159\/308
+|move|p2a: Dewgong|Ice Beam|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|-heal|p2a: Dewgong|178\/308|[from] item: Leftovers
+|upkeep
+|j| Vitoran
+|
+|t:|1705703726
+|switch|p1a: Scrafty|Scrafty, L85, M|75\/249
+|turn|63
+|j|@livid washed
+|c|☆35Q71N|Vitor do you remember when I trash talked Dewgong?
+|
+|t:|1705703762
+|switch|p2a: Virizion|Virizion, L83|231\/287
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|249\/249 slp|[silent]
+|
+|upkeep
+|turn|64
+|l| decimo tercer
+|
+|t:|1705703781
+|switch|p1a: Parasect|Parasect, L95, F|141\/268
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|
+|-heal|p1a: Parasect|157\/268|[from] item: Leftovers
+|upkeep
+|turn|65
+|c|☆Trefleuh|i needed
+|c|☆Trefleuh|rocks
+|c|☆Trefleuh|or 1 spike
+|
+|t:|1705703821
+|move|p2a: Virizion|Stone Edge|p1a: Parasect
+|-supereffective|p1a: Parasect
+|-damage|p1a: Parasect|0 fnt
+|faint|p1a: Parasect
+|-damage|p2a: Virizion|203\/287|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1705703828
+|switch|p1a: Hawlucha|Hawlucha, L79, F|252\/252
+|turn|66
+|
+|t:|1705703844
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|189\/252
+|move|p2a: Virizion|Stone Edge|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|-damage|p2a: Virizion|175\/287|[from] item: Life Orb
+|
+|upkeep
+|turn|67
+|
+|t:|1705703869
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|126\/252
+|-enditem|p1a: Hawlucha|Sitrus Berry|[eat]
+|-heal|p1a: Hawlucha|189\/252|[from] item: Sitrus Berry
+|move|p2a: Virizion|Close Combat|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|-damage|p2a: Virizion|147\/287|[from] item: Life Orb
+|
+|upkeep
+|turn|68
+|
+|t:|1705703874
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|126\/252
+|move|p2a: Virizion|Close Combat|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|-damage|p2a: Virizion|119\/287|[from] item: Life Orb
+|
+|upkeep
+|turn|69
+|
+|t:|1705703881
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Virizion|Close Combat|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Hawlucha
+|-damage|p2a: Virizion|91\/287|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1705703886
+|switch|p1a: Comfey|Comfey, L88, F|57\/233 frz
+|turn|70
+|
+|t:|1705703888
+|cant|p1a: Comfey|frz
+|move|p2a: Virizion|Leaf Blade|p1a: Comfey
+|-crit|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|-damage|p2a: Virizion|63\/287|[from] item: Life Orb
+|
+|upkeep
+|c|☆Trefleuh|was to lazy to calc
+|
+|t:|1705703895
+|switch|p1a: Scrafty|Scrafty, L85, M|249\/249 slp
+|turn|71
+|c|☆35Q71N|+2 Lvl 83 84 Atk Life Orb Virizion Close Combat vs. Lvl 79 84 HP \/ 84 Def Hawlucha: 168-198 (66.4 - 78.2%) -- guaranteed 2HKO
+|c|☆35Q71N|Respectable damage
+|c|☆Trefleuh|hmm
+|c|☆35Q71N|The first edge was a mistake
+|
+|t:|1705703919
+|move|p2a: Virizion|Close Combat|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Scrafty
+|-damage|p2a: Virizion|35\/287|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1705703922
+|switch|p1a: Huntail|Huntail, L84, M|230\/230
+|turn|72
+|c|☆35Q71N|Well no
+|c|☆35Q71N|Depending on what you were going to do, I guess
+|
+|t:|1705703938
+|move|p1a: Huntail|Sucker Punch|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|upkeep
+|j| critsomnia
+|n| latias9 9s|latias999999999
+|
+|t:|1705703999
+|switch|p2a: Starmie|Starmie, L84|238\/238
+|turn|73
+|
+|t:|1705704006
+|move|p2a: Starmie|Thunderbolt|p1a: Huntail
+|-supereffective|p1a: Huntail
+|-damage|p1a: Huntail|35\/230
+|-damage|p2a: Starmie|215\/238|[from] item: Life Orb
+|move|p1a: Huntail|Shell Smash|p1a: Huntail
+|-unboost|p1a: Huntail|def|1
+|-unboost|p1a: Huntail|spd|1
+|-boost|p1a: Huntail|atk|2
+|-boost|p1a: Huntail|spa|2
+|-boost|p1a: Huntail|spe|2
+|-enditem|p1a: Huntail|White Herb
+|-clearnegativeboost|p1a: Huntail|[silent]
+|
+|upkeep
+|turn|74
+|
+|t:|1705704013
+|move|p1a: Huntail|Sucker Punch||[still]
+|-fail|p1a: Huntail
+|move|p2a: Starmie|Recover|p2a: Starmie
+|-heal|p2a: Starmie|238\/238
+|
+|upkeep
+|turn|75
+|
+|t:|1705704029
+|move|p1a: Huntail|Waterfall|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|151\/238
+|move|p2a: Starmie|Thunderbolt|p1a: Huntail
+|-supereffective|p1a: Huntail
+|-damage|p1a: Huntail|0 fnt
+|faint|p1a: Huntail
+|-damage|p2a: Starmie|128\/238|[from] item: Life Orb
+|
+|win|35Q71N
+|c|☆Trefleuh|gg
+|c|☆35Q71N|"Gg"2
+|c|☆Trefleuh|:
+|c|☆Trefleuh|:c
+|l| Vitoran
+|l| critsomnia
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Trefleuh and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Trefleuh and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Virizion</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Good luck</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Have fun</em></div><div class="chat"><small> latias999999999 joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>(Please be more balanced than g1)</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>glhf c:</em></div><div class="chat"><small> decimo tercer joined</small></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="latias999999999">latias999999999</span>:</strong> <em>35 have you played bravely default :0</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>No but I wanted to a long time ago</em></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="latias999999999">latias999999999</span>:</strong> <em>aw</em></div><div class="chat chatmessage-latias999999999"><strong style="color:#949e36"><small> </small><span class="username" data-name="latias999999999">latias999999999</span>:</strong> <em>it's a good game yeah</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh no</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I have the mon I don't like in rands</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−54/260">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dustox restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Which is not Virizion but someone else</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Parasect!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Celesteela was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−174/260">66.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Celesteela was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Starmie</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Autotomize</strong>!<br></div><div class="battle-history"><small>The opposing Celesteela's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Celesteela became nimble!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Celesteela was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Celesteela!<br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Starmie used <strong>Hydro Pump</strong>!<br></div><div class="battle-history">[The opposing Parasect's Dry Skin]<br><small>It doesn't affect the opposing Parasect...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Starmie, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>The opposing Celesteela's burn was healed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dustox restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Parasect!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>This guy</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Celesteela!<br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−73/249">29.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Sigilyph</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Sigilyph lost <abbr title="−218/263">82.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scrafty knocked off Sigilyph's Choice Specs!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>I wanted too much</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sigilyph used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−67/233">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Especially since Dustox was there</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Sigilyph, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Draining Kiss</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−25/260">9.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dustox had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dustox restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Comfey!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Celesteela!<br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−69/249">27.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−115/260">44.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scrafty knocked off Dustox's Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−57/249">22.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−108/260">41.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−57/249">22.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scrafty was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−112/260">43.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Scrafty's Shed Skin]<br></div><div class="battle-history"><small>The opposing Scrafty was cured of its poisoning!</small><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Scrafty's Shed Skin]<br></div><div class="battle-history"><small>The opposing Scrafty woke up!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Virizion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Parasect lost <abbr title="−69/268">25.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Virizion, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−57/260">21.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dustox had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Dustox fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−61/260">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Parasect!<br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Virizion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Parasect lost <abbr title="−73/268">27.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Virizion, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−58/260">22.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dustox had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dustox woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Dustox fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−54/260">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−62/260">23.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dustox woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−54/260">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Parasect lost <abbr title="−204/268">76.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Parasect was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Dustox fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Parasect was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>The opposing Parasect was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−60/260">23.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dustox had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Parasect!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="battle-history"><small>Dustox woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−18/286">6.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−78/308">25.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Celesteela!<br></div><div class="battle-history">Trefleuh sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−72/233">30.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Draining Kiss</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−26/260">10%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dustox had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dustox lost <abbr title="−18/260">6.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey went back to Trefleuh!<br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Dustox's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Dustox's Sp. Def rose!</small><br></div><div class="battle-history"><small>Dustox's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−87/249">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−82/249">32.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−148/260">56.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Virizion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="chat"><small> oaklies joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion, come back!<br></div><div class="battle-history">Go! <strong>Dustox</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Dustox fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Parasect!<br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty is fast asleep.<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dustox woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Dustox's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Dustox's Sp. Def rose!</small><br></div><div class="battle-history"><small>Dustox's Speed rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−87/249">34.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Scrafty was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−114/260">43.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[The opposing Scrafty's Shed Skin]<br></div><div class="battle-history"><small>The opposing Scrafty was cured of its poisoning!</small><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Scrafty's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−132/249">53.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Dustox lost <abbr title="−159/260">61.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Scrafty restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>:ccc</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Welp</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dustox used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Dustox had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dustox, come back!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−72/308">23.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Celesteela!<br></div><div class="battle-history">Trefleuh sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−70/233">30.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Draining Kiss</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−48/308">15.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dewgong had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−76/233">32.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Comfey was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 57</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>.....</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>:((((((((((((((((((((((((((((((</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−64/233">27.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 58</h2><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Comfey!<br></div><div class="battle-history">Trefleuh sent out <strong>Celesteela</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−76/286">26.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 59</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Autotomize</strong>!<br></div><div class="battle-history"><small>The opposing Celesteela's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Celesteela became nimble!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 60</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−75/308">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−82/286">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 61</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>Dewgong protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 62</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela used <strong>Air Slash</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−66/308">21.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Celesteela lost <abbr title="−76/286">26.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Celesteela fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="chat"><small> Vitoran joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 63</h2><div class="chat"><small>@livid washed joined</small></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Vitor do you remember when I trash talked Dewgong?</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Virizion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty used <strong>Rest</strong>!<br></div><div class="battle-history"><small>The opposing Scrafty slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 64</h2><div class="chat"><small> decimo tercer left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh withdrew Scrafty!<br></div><div class="battle-history">Trefleuh sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Virizion's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Parasect restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 65</h2><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>i needed</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>rocks</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>or 1 spike</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Parasect lost <abbr title="−157/268">58.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect fainted!<br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Hawlucha</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 66</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−63/252">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 67</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−63/252">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Hawlucha ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>The opposing Hawlucha restored HP using its Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 68</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−63/252">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>The opposing Hawlucha's substitute faded!</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 69</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Hawlucha's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Hawlucha lost <abbr title="−126/252">50%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hawlucha fainted!<br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 70</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey is frozen solid!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−57/233">24.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey fainted!<br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>was to lazy to calc</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Scrafty</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 71</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>+2 Lvl 83 84 Atk Life Orb Virizion Close Combat vs. Lvl 79 84 HP / 84 Def Hawlucha: 168-198 (66.4 - 78.2%) -- guaranteed 2HKO</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Respectable damage</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>hmm</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>The first edge was a mistake</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Scrafty lost <abbr title="−249/249">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Virizion's Defense fell!</small><br></div><div class="battle-history"><small>Virizion's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Scrafty fainted!<br></div><div class="battle-history"><small>Virizion lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Trefleuh sent out <strong>Huntail</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 72</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Well no</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Depending on what you were going to do, I guess</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Virizion lost <abbr title="−35/287">12.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Virizion fainted!<br></div><div class="chat"><small> critsomnia joined</small></div><div class="chat"><small> latias9 9s renamed from latias999999999.</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Starmie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 73</h2><div class="spacer battle-history"><br></div><div class="battle-history">Starmie used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Huntail lost <abbr title="−195/230">84.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Starmie lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>The opposing Huntail's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Huntail's Sp. Def fell!</small><br></div><div class="battle-history"><small>The opposing Huntail's Attack rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 74</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Starmie used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Starmie had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 75</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Starmie lost <abbr title="−87/238">36.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Starmie used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Huntail lost <abbr title="−35/230">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail fainted!<br></div><div class="battle-history"><small>Starmie lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>gg</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>"Gg"2</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>:</em></div><div class="chat chatmessage-trefleuh"><strong style="color:#d1297d"><small>☆</small><span class="username" data-name="Trefleuh">Trefleuh</span>:</strong> <em>:c</em></div><div class="chat"><small> Vitoran and  critsomnia left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

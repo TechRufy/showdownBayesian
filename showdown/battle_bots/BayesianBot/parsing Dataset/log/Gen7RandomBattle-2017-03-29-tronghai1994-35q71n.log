@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: tronghai1994 vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-554293585" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/tronghai1994" class="subtle" target="_blank">tronghai1994</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|tronghai1994
+|j|35Q71N
+|player|p1|tronghai1994|240
+|player|p2|35Q71N|170
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated
+|seed|24635,7326,17450,63204,23719,5173,46285,60506,42320,42254,31652,14095
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Zygarde|Zygarde, L73|100\/100
+|switch|p2a: Meloetta|Meloetta, L79|100\/100
+|turn|1
+|choice|move dragondance|move uturn
+|
+|move|p2a: Meloetta|U-turn|p1a: Zygarde
+|-damage|p1a: Zygarde|88\/100
+|choice||switch 3
+|
+|switch|p2a: Shuckle|Shuckle, L79, M|100\/100
+|move|p1a: Zygarde|Dragon Dance|p1a: Zygarde
+|-boost|p1a: Zygarde|atk|1
+|-boost|p1a: Zygarde|spe|1
+|
+|upkeep
+|turn|2
+|choice|move irontail|move infestation
+|
+|move|p1a: Zygarde|Iron Tail|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|52\/100
+|move|p2a: Shuckle|Infestation|p1a: Zygarde
+|-damage|p1a: Zygarde|85\/100
+|-activate|p1a: Zygarde|move: Infestation|[of] p2a: Shuckle
+|
+|-heal|p2a: Shuckle|58\/100|[from] item: Leftovers
+|-damage|p1a: Zygarde|73\/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|3
+|choice|move dragondance|move knockoff
+|
+|move|p1a: Zygarde|Dragon Dance|p1a: Zygarde
+|-boost|p1a: Zygarde|atk|1
+|-boost|p1a: Zygarde|spe|1
+|move|p2a: Shuckle|Knock Off|p1a: Zygarde
+|-damage|p1a: Zygarde|67\/100
+|-enditem|p1a: Zygarde|Lum Berry|[from] move: Knock Off|[of] p2a: Shuckle
+|
+|-heal|p2a: Shuckle|64\/100|[from] item: Leftovers
+|-damage|p1a: Zygarde|55\/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|choice|move irontail|move infestation
+|
+|move|p1a: Zygarde|Iron Tail|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-crit|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|
+|upkeep
+|choice||switch 4
+|
+|switch|p2a: Rotom|Rotom, L79|100\/100
+|turn|5
+|choice|move thousandarrows|move hiddenpower
+|
+|move|p1a: Zygarde|Thousand Arrows|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|choice||switch 5
+|
+|switch|p2a: Durant|Durant, L79, M|100\/100
+|turn|6
+|choice|move thousandarrows|move ironhead
+|
+|move|p1a: Zygarde|Thousand Arrows|p2a: Durant
+|-damage|p2a: Durant|37\/100
+|move|p2a: Durant|Iron Head|p1a: Zygarde
+|-crit|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|faint|p1a: Zygarde
+|
+|upkeep
+|choice|switch 6|
+|
+|switch|p1a: Kecleon|Kecleon, L79, M|100\/100
+|turn|7
+|choice|move drainpunch|move ironhead
+|
+|move|p2a: Durant|Iron Head|p1a: Kecleon
+|-damage|p1a: Kecleon|0 fnt
+|faint|p1a: Kecleon
+|
+|upkeep
+|choice|switch 5|
+|
+|switch|p1a: Swanna|Swanna, L79, F|100\/100
+|turn|8
+|choice|move surf|switch 2
+|
+|switch|p2a: Raichu|Raichu-Alola, L79, F|100\/100
+|move|p1a: Swanna|Surf|p2a: Raichu
+|-damage|p2a: Raichu|55\/100
+|-damage|p1a: Swanna|91\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|choice|switch 2|move thunderbolt
+|
+|switch|p1a: Parasect|Parasect, L79, M|100\/100
+|move|p2a: Raichu|Thunderbolt|p1a: Parasect
+|-resisted|p1a: Parasect
+|-damage|p1a: Parasect|79\/100
+|
+|upkeep
+|turn|10
+|choice|move spore|move psyshock
+|
+|move|p2a: Raichu|Psyshock|p1a: Parasect
+|-crit|p1a: Parasect
+|-damage|p1a: Parasect|22\/100
+|move|p1a: Parasect|Spore|p2a: Raichu
+|-status|p2a: Raichu|slp
+|
+|upkeep
+|turn|11
+|choice|move knockoff|switch 3
+|
+|switch|p2a: Meloetta|Meloetta, L79|100\/100
+|move|p1a: Parasect|Knock Off|p2a: Meloetta
+|-supereffective|p2a: Meloetta
+|-damage|p2a: Meloetta|41\/100
+|-enditem|p2a: Meloetta|Choice Scarf|[from] move: Knock Off|[of] p1a: Parasect
+|-damage|p1a: Parasect|12\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|choice|move leechlife|move uturn
+|
+|move|p2a: Meloetta|U-turn|p1a: Parasect
+|-supereffective|p1a: Parasect
+|-damage|p1a: Parasect|0 fnt
+|faint|p1a: Parasect
+|choice||switch 3
+|
+|switch|p2a: Raichu|Raichu-Alola, L79, F|55\/100 slp
+|
+|upkeep
+|choice|switch 4|
+|
+|switch|p1a: Beheeyem|Beheeyem, L79, M|100\/100
+|turn|13
+|choice|move trickroom|move thunderbolt zmove
+|
+|cant|p2a: Raichu|slp
+|move|p1a: Beheeyem|Trick Room|p1a: Beheeyem
+|-fieldstart|move: Trick Room|[of] p1a: Beheeyem
+|
+|upkeep
+|turn|14
+|choice|move signalbeam|move thunderbolt zmove
+|
+|move|p1a: Beheeyem|Signal Beam|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|-damage|p1a: Beheeyem|91\/100|[from] item: Life Orb
+|faint|p2a: Raichu
+|
+|upkeep
+|choice||switch 3
+|
+|switch|p2a: Meloetta|Meloetta, L79|41\/100
+|turn|15
+|choice|move signalbeam|move shadowball
+|
+|move|p1a: Beheeyem|Signal Beam|p2a: Meloetta
+|-supereffective|p2a: Meloetta
+|-damage|p2a: Meloetta|1\/100
+|-damage|p1a: Beheeyem|81\/100|[from] item: Life Orb
+|move|p2a: Meloetta|Shadow Ball|p1a: Beheeyem
+|-supereffective|p1a: Beheeyem
+|-damage|p1a: Beheeyem|30\/100
+|-unboost|p1a: Beheeyem|spd|1
+|
+|upkeep
+|turn|16
+|choice|move thunderbolt|move uturn
+|
+|move|p1a: Beheeyem|Thunderbolt|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|-damage|p1a: Beheeyem|20\/100|[from] item: Life Orb
+|faint|p2a: Meloetta
+|
+|upkeep
+|choice||switch 6
+|
+|switch|p2a: Crawdaunt|Crawdaunt, L78, F|100\/100
+|turn|17
+|choice|move thunderbolt|move aquajet
+|
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Beheeyem
+|-damage|p1a: Beheeyem|0 fnt
+|-damage|p2a: Crawdaunt|91\/100|[from] item: Life Orb
+|faint|p1a: Beheeyem
+|
+|-fieldend|move: Trick Room
+|upkeep
+|choice|switch 3|
+|
+|switch|p1a: Sandslash|Sandslash-Alola, L79, F|100\/100
+|turn|18
+|choice|move ironhead|switch 2
+|
+|switch|p2a: Durant|Durant, L79, M|37\/100
+|move|p1a: Sandslash|Iron Head|p2a: Durant
+|-resisted|p2a: Durant
+|-damage|p2a: Durant|22\/100
+|
+|upkeep
+|turn|19
+|choice|switch 2|move superpower
+|
+|switch|p1a: Swanna|Swanna, L79, F|91\/100
+|move|p2a: Durant|Superpower|p1a: Swanna
+|-resisted|p1a: Swanna
+|-damage|p1a: Swanna|41\/100
+|-unboost|p2a: Durant|atk|1
+|-unboost|p2a: Durant|def|1
+|
+|upkeep
+|turn|20
+|choice|move hurricane|move superpower
+|
+|move|p2a: Durant|Superpower|p1a: Swanna
+|-resisted|p1a: Swanna
+|-damage|p1a: Swanna|6\/100
+|-unboost|p2a: Durant|atk|1
+|-unboost|p2a: Durant|def|1
+|move|p1a: Swanna|Hurricane|p2a: Durant
+|-damage|p2a: Durant|0 fnt
+|-damage|p1a: Swanna|0 fnt|[from] item: Life Orb
+|faint|p2a: Durant
+|faint|p1a: Swanna
+|
+|upkeep
+|choice|switch 2|switch 2
+|
+|switch|p1a: Sandslash|Sandslash-Alola, L79, F|100\/100
+|switch|p2a: Crawdaunt|Crawdaunt, L78, F|91\/100
+|turn|21
+|choice|move ironhead|move superpower
+|
+|move|p1a: Sandslash|Iron Head|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|71\/100
+|cant|p2a: Crawdaunt|flinch
+|
+|upkeep
+|turn|22
+|choice|move swordsdance|move superpower
+|
+|move|p1a: Sandslash|Swords Dance|p1a: Sandslash
+|-boost|p1a: Sandslash|atk|2
+|move|p2a: Crawdaunt|Superpower|p1a: Sandslash
+|-supereffective|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|-unboost|p2a: Crawdaunt|atk|1
+|-unboost|p2a: Crawdaunt|def|1
+|-damage|p2a: Crawdaunt|61\/100|[from] item: Life Orb
+|faint|p1a: Sandslash
+|
+|win|35Q71N
+|raw|tronghai1994's rating: 1665 &rarr; <strong>1650<\/strong><br \/>(-15 for losing)
+|raw|35Q71N's rating: 1744 &rarr; <strong>1759<\/strong><br \/>(+15 for winning)
+|l|tronghai1994</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>tronghai1994 and 35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between tronghai1994 and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out <strong>Zygarde</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Zygarde lost 12% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta, come back!<br></div><div class="battle-history">Go! <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Zygarde's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Zygarde's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Iron Tail</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Shuckle lost 48% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shuckle used <strong>Infestation</strong>!<br></div><div class="battle-history"><small>(The opposing Zygarde lost 3% of its health!)</small><br></div><div class="battle-history"><small>The opposing Zygarde has been afflicted with an infestation by Shuckle!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shuckle restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Zygarde is hurt by Infestation!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Zygarde's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Zygarde's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shuckle used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Zygarde lost 6% of its health!)</small><br></div><div class="battle-history"><small>Shuckle knocked off the opposing Zygarde's Lum Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shuckle restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Zygarde is hurt by Infestation!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Iron Tail</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Shuckle lost 64% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shuckle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Rotom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Thousand Arrows</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Rotom lost 100% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Rotom fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Durant</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde used <strong>Thousand Arrows</strong>!<br></div><div class="battle-history"><small>(Durant lost 63% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Zygarde lost 55% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zygarde fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(The opposing Kecleon lost 100% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kecleon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out <strong>Swanna</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Durant, come back!<br></div><div class="battle-history">Go! Raichu (<strong>Raichu-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(Raichu lost 45% of its health!)</small><br></div><div class="battle-history"><small>The opposing Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 withdrew Swanna!<br></div><div class="battle-history">tronghai1994 sent out <strong>Parasect</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Parasect lost 21% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Parasect lost 57% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Spore</strong>!<br></div><div class="battle-history"><small>Raichu fell asleep!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu, come back!<br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Meloetta lost 59% of its health!)</small><br></div><div class="battle-history"><small>The opposing Parasect knocked off Meloetta's Choice Scarf!</small><br></div><div class="battle-history"><small>The opposing Parasect lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Parasect lost 12% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Parasect fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta, come back!<br></div><div class="battle-history">Go! Raichu (<strong>Raichu-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out <strong>Beheeyem</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raichu is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Beheeyem twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Raichu lost 55% of its health!)</small><br></div><div class="battle-history"><small>The opposing Beheeyem lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Raichu fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Meloetta lost 40% of its health!)</small><br></div><div class="battle-history"><small>The opposing Beheeyem lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Beheeyem lost 51% of its health!)</small><br></div><div class="battle-history"><small>The opposing Beheeyem's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Meloetta lost 1% of its health!)</small><br></div><div class="battle-history"><small>The opposing Beheeyem lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Aqua Jet</strong>!<br></div><div class="battle-history"><small>(The opposing Beheeyem lost 20% of its health!)</small><br></div><div class="battle-history"><small>Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The twisted dimensions returned to normal!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out Sandslash (<strong>Sandslash-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt, come back!<br></div><div class="battle-history">Go! <strong>Durant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Durant lost 15% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 withdrew Sandslash!<br></div><div class="battle-history">tronghai1994 sent out <strong>Swanna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Swanna lost 50% of its health!)</small><br></div><div class="battle-history"><small>Durant's Attack fell!</small><br></div><div class="battle-history"><small>Durant's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Durant used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Swanna lost 35% of its health!)</small><br></div><div class="battle-history"><small>Durant's Attack fell!</small><br></div><div class="battle-history"><small>Durant's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swanna used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Durant lost 22% of its health!)</small><br></div><div class="battle-history"><small>The opposing Swanna lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Durant fainted!<br></div><div class="battle-history">The opposing Swanna fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tronghai1994 sent out Sandslash (<strong>Sandslash-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Crawdaunt lost 20% of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Sandslash's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crawdaunt used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Sandslash lost 100% of its health!)</small><br></div><div class="battle-history"><small>Crawdaunt's Attack fell!</small><br></div><div class="battle-history"><small>Crawdaunt's Defense fell!</small><br></div><div class="battle-history"><small>Crawdaunt lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat">tronghai1994's rating: 1665 → <strong>1650</strong><br>(-15 for losing)</div><div class="chat">35Q71N's rating: 1744 → <strong>1759</strong><br>(+15 for winning)</div><div class="chat"><small>tronghai1994 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

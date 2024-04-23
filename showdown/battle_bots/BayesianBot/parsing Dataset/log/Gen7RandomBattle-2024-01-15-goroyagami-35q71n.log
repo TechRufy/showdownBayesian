@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Goro Yagami vs. 35Q71N</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2035854767" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/goroyagami" class="subtle" target="_blank">Goro Yagami</a> vs. <a href="http://pokemonshowdown.com/users/35q71n" class="subtle" target="_blank">35Q71N</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Goro Yagami
+|j|☆35Q71N
+|t:|1705350095
+|gametype|singles
+|player|p1|Goro Yagami|170|
+|player|p2|35Q71N|#rbtt7teamhoopaf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1705350095
+|start
+|switch|p1a: Nidoking|Nidoking, L82, M|267\/267
+|switch|p2a: Cradily|Cradily, L88, F|295\/295
+|turn|1
+|c|☆35Q71N|Glhf2!
+|c|☆Goro Yagami|hf
+|j| Vitoran
+|
+|t:|1705350155
+|switch|p1a: Wormadam|Wormadam-Trash, L87, F|246\/246
+|switch|p2a: Araquanid|Araquanid, L82, M|246\/246
+|
+|upkeep
+|turn|2
+|
+|t:|1705350169
+|move|p2a: Araquanid|Sticky Web|p1a: Wormadam
+|-sidestart|p1: Goro Yagami|move: Sticky Web
+|move|p1a: Wormadam|Stealth Rock|p2a: Araquanid
+|-sidestart|p2: 35Q71N|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1705350195
+|switch|p2a: Dialga|Dialga, L75|274\/274
+|-damage|p2a: Dialga|257\/274|[from] Stealth Rock
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Wormadam|Toxic|p2a: Dialga
+|-immune|p2a: Dialga
+|
+|-heal|p2a: Dialga|274\/274|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1705350211
+|switch|p1a: Murkrow|Murkrow, L92, F|259\/259
+|move|p2a: Dialga|Flash Cannon|p1a: Murkrow
+|-damage|p1a: Murkrow|160\/259
+|
+|upkeep
+|turn|5
+|c|☆35Q71N|Ah, there she is
+|j| Referrals
+|
+|t:|1705350246
+|move|p1a: Murkrow|Thunder Wave|p2a: Dialga
+|-status|p2a: Dialga|par
+|move|p2a: Dialga|Toxic|p1a: Murkrow
+|-status|p1a: Murkrow|tox
+|
+|-damage|p1a: Murkrow|144\/259 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1705350252
+|move|p1a: Murkrow|Roost|p1a: Murkrow
+|-heal|p1a: Murkrow|259\/259 tox
+|-singleturn|p1a: Murkrow|move: Roost
+|cant|p2a: Dialga|par
+|
+|-damage|p1a: Murkrow|227\/259 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1705350266
+|switch|p1a: Nidoking|Nidoking, L82, M|267\/267
+|-activate|p1a: Nidoking|move: Sticky Web
+|-unboost|p1a: Nidoking|spe|1
+|switch|p2a: Cradily|Cradily, L88, F|295\/295
+|-damage|p2a: Cradily|259\/295|[from] Stealth Rock
+|
+|-heal|p2a: Cradily|277\/295|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1705350281
+|switch|p2a: Araquanid|Araquanid, L82, M|246\/246
+|-damage|p2a: Araquanid|185\/246|[from] Stealth Rock
+|move|p1a: Nidoking|Ice Beam|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|151\/246
+|
+|-heal|p2a: Araquanid|166\/246|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1705350292
+|switch|p1a: Wormadam|Wormadam-Trash, L87, F|246\/246
+|-activate|p1a: Wormadam|move: Sticky Web
+|-unboost|p1a: Wormadam|spe|1
+|move|p2a: Araquanid|Liquidation|p1a: Wormadam
+|-crit|p1a: Wormadam
+|-damage|p1a: Wormadam|56\/246
+|
+|-heal|p2a: Araquanid|181\/246|[from] item: Leftovers
+|-heal|p1a: Wormadam|71\/246|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆35Q71N|Mb
+|
+|t:|1705350308
+|move|p2a: Araquanid|Liquidation|p1a: Wormadam
+|-damage|p1a: Wormadam|0 fnt
+|faint|p1a: Wormadam
+|
+|-heal|p2a: Araquanid|196\/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1705350311
+|switch|p1a: Murkrow|Murkrow, L92, F|227\/259 tox
+|turn|11
+|
+|t:|1705350327
+|switch|p2a: Cradily|Cradily, L88, F|277\/295
+|-damage|p2a: Cradily|241\/295|[from] Stealth Rock
+|move|p1a: Murkrow|Defog|p2a: Cradily
+|-unboost|p2a: Cradily|evasion|1
+|-sideend|p2: 35Q71N|Stealth Rock|[from] move: Defog|[of] p1a: Murkrow
+|-sideend|p1: Goro Yagami|Sticky Web|[from] move: Defog|[of] p1a: Murkrow
+|
+|-heal|p2a: Cradily|259\/295|[from] item: Leftovers
+|-damage|p1a: Murkrow|211\/259 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1705350348
+|switch|p1a: Nidoking|Nidoking, L82, M|267\/267
+|move|p2a: Cradily|Seed Bomb|p1a: Nidoking
+|-damage|p1a: Nidoking|165\/267
+|
+|-heal|p2a: Cradily|277\/295|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1705350361
+|switch|p2a: Escavalier|Escavalier, L85, F|258\/258
+|move|p1a: Nidoking|Sludge Wave|p2a: Escavalier
+|-immune|p2a: Escavalier
+|
+|upkeep
+|turn|14
+|
+|t:|1705350403
+|switch|p2a: Araquanid|Araquanid, L82, M|196\/246
+|move|p1a: Nidoking|Fire Blast|p2a: Araquanid
+|-damage|p2a: Araquanid|151\/246
+|
+|-heal|p2a: Araquanid|166\/246|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1705350415
+|move|p1a: Nidoking|Sludge Wave|p2a: Araquanid
+|-damage|p2a: Araquanid|67\/246
+|move|p2a: Araquanid|Sticky Web|p1a: Nidoking
+|-sidestart|p1: Goro Yagami|move: Sticky Web
+|
+|-heal|p2a: Araquanid|82\/246|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1705350438
+|switch|p2a: Komala|Komala, L88, M|258\/258
+|-ability|p2a: Komala|Comatose
+|move|p1a: Nidoking|Sludge Wave|p2a: Komala
+|-damage|p2a: Komala|125\/258
+|
+|upkeep
+|turn|17
+|c|☆35Q71N|Oh
+|c|☆35Q71N|That's more than I expected
+|
+|t:|1705350480
+|switch|p1a: Murkrow|Murkrow, L92, F|211\/259 tox
+|move|p2a: Komala|Earthquake|p1a: Murkrow
+|-immune|p1a: Murkrow
+|
+|-damage|p1a: Murkrow|195\/259 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1705350487
+|switch|p2a: Cradily|Cradily, L88, F|277\/295
+|move|p1a: Murkrow|Defog|p2a: Cradily
+|-unboost|p2a: Cradily|evasion|1
+|-sideend|p1: Goro Yagami|Sticky Web|[from] move: Defog|[of] p1a: Murkrow
+|
+|-heal|p2a: Cradily|295\/295|[from] item: Leftovers
+|-damage|p1a: Murkrow|163\/259 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1705350495
+|switch|p1a: Heracross|Heracross, L84, M|272\/272
+|move|p2a: Cradily|Swords Dance|p2a: Cradily
+|-boost|p2a: Cradily|atk|2
+|
+|upkeep
+|turn|20
+|c| Vitoran|the king always delivers more
+|
+|t:|1705350540
+|move|p1a: Heracross|Megahorn|p2a: Cradily
+|-supereffective|p2a: Cradily
+|-damage|p2a: Cradily|7\/295
+|move|p2a: Cradily|Stone Edge|p1a: Heracross
+|-damage|p1a: Heracross|61\/272
+|
+|-heal|p2a: Cradily|25\/295|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1705350567
+|switch|p2a: Dialga|Dialga, L75|274\/274 par
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Heracross|Megahorn|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|208\/274 par
+|
+|-heal|p2a: Dialga|225\/274 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|j| critsomnia
+|
+|t:|1705350586
+|switch|p1a: Manectric|Manectric, L80, M|242\/242
+|cant|p2a: Dialga|par
+|
+|-heal|p2a: Dialga|242\/274 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1705350615
+|detailschange|p1a: Manectric|Manectric-Mega, L80, M
+|-mega|p1a: Manectric|Manectric|Manectite
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Dialga|atk|1
+|move|p1a: Manectric|Volt Switch|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|193\/274 par
+|
+|t:|1705350619
+|switch|p1a: Nidoking|Nidoking, L82, M|165\/267|[from] Volt Switch
+|move|p2a: Dialga|Draco Meteor|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|-unboost|p2a: Dialga|spa|2
+|faint|p1a: Nidoking
+|
+|-heal|p2a: Dialga|210\/274 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1705350624
+|switch|p1a: Heracross|Heracross, L84, M|61\/272
+|turn|24
+|c|☆35Q71N|King's dead Vitor
+|l| critsomnia
+|
+|t:|1705350637
+|switch|p2a: Cradily|Cradily, L88, F|25\/295
+|move|p1a: Heracross|Close Combat|p2a: Cradily
+|-supereffective|p2a: Cradily
+|-damage|p2a: Cradily|0 fnt
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|faint|p2a: Cradily
+|-ability|p1a: Heracross|Moxie|boost
+|-boost|p1a: Heracross|atk|1
+|
+|upkeep
+|
+|t:|1705350639
+|switch|p2a: Escavalier|Escavalier, L85, F|258\/258
+|turn|25
+|j| critsomnia
+|
+|t:|1705350662
+|switch|p1a: Manectric|Manectric-Mega, L80, M|242\/242
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Escavalier|atk|1
+|switch|p2a: Dialga|Dialga, L75|210\/274 par
+|-ability|p2a: Dialga|Pressure
+|
+|-heal|p2a: Dialga|227\/274 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|c| Vitoran|long live the king
+|
+|t:|1705350686
+|move|p1a: Manectric|Volt Switch|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|182\/274 par
+|
+|t:|1705350687
+|switch|p1a: Murkrow|Murkrow, L92, F|163\/259 tox|[from] Volt Switch
+|move|p2a: Dialga|Draco Meteor|p1a: Murkrow
+|-damage|p1a: Murkrow|6\/259 tox
+|-unboost|p2a: Dialga|spa|2
+|
+|-heal|p2a: Dialga|199\/274 par|[from] item: Leftovers
+|-damage|p1a: Murkrow|0 fnt|[from] psn
+|faint|p1a: Murkrow
+|upkeep
+|l| critsomnia
+|
+|t:|1705350691
+|switch|p1a: Heracross|Heracross, L84, M|61\/272
+|turn|27
+|
+|t:|1705350706
+|switch|p2a: Araquanid|Araquanid, L82, M|82\/246
+|move|p1a: Heracross|Close Combat|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|4\/246
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|
+|-heal|p2a: Araquanid|19\/246|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1705350710
+|move|p1a: Heracross|Close Combat|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|faint|p2a: Araquanid
+|-ability|p1a: Heracross|Moxie|boost
+|-boost|p1a: Heracross|atk|1
+|
+|upkeep
+|
+|t:|1705350712
+|switch|p2a: Escavalier|Escavalier, L85, F|258\/258
+|turn|29
+|
+|t:|1705350724
+|move|p1a: Heracross|Close Combat|p2a: Escavalier
+|-damage|p2a: Escavalier|69\/258
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|move|p2a: Escavalier|Knock Off|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|-enditem|p1a: Heracross|Choice Scarf|[from] move: Knock Off|[of] p2a: Escavalier
+|faint|p1a: Heracross
+|
+|-heal|p2a: Escavalier|85\/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1705350728
+|switch|p1a: Manectric|Manectric-Mega, L80, M|242\/242
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Escavalier|atk|1
+|turn|30
+|
+|t:|1705350741
+|move|p1a: Manectric|Thunderbolt|p2a: Escavalier
+|-damage|p2a: Escavalier|0 fnt
+|faint|p2a: Escavalier
+|
+|upkeep
+|
+|t:|1705350746
+|switch|p2a: Dialga|Dialga, L75|199\/274 par
+|-ability|p2a: Dialga|Pressure
+|turn|31
+|
+|t:|1705350751
+|move|p1a: Manectric|Overheat|p2a: Dialga
+|-damage|p2a: Dialga|95\/274 par
+|-unboost|p1a: Manectric|spa|2
+|move|p2a: Dialga|Toxic|p1a: Manectric
+|-status|p1a: Manectric|tox
+|
+|-heal|p2a: Dialga|112\/274 par|[from] item: Leftovers
+|-damage|p1a: Manectric|227\/242 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1705350762
+|move|p1a: Manectric|Overheat|p2a: Dialga
+|-damage|p2a: Dialga|53\/274 par
+|-unboost|p1a: Manectric|spa|2
+|move|p2a: Dialga|Toxic|p1a: Manectric
+|-fail|p1a: Manectric|tox
+|
+|-heal|p2a: Dialga|70\/274 par|[from] item: Leftovers
+|-damage|p1a: Manectric|197\/242 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1705350779
+|switch|p2a: Ludicolo|Ludicolo, L89, F|287\/287
+|move|p1a: Manectric|Overheat|p2a: Ludicolo
+|-damage|p2a: Ludicolo|257\/287
+|-unboost|p1a: Manectric|spa|2
+|
+|-damage|p1a: Manectric|152\/242 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1705350787
+|move|p1a: Manectric|Thunderbolt|p2a: Ludicolo
+|-damage|p2a: Ludicolo|232\/287
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Manectric|92\/242 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1705350790
+|move|p2a: Ludicolo|Giga Drain|p1a: Manectric
+|-damage|p1a: Manectric|0 fnt
+|-heal|p2a: Ludicolo|278\/287|[from] drain|[of] p1a: Manectric
+|faint|p1a: Manectric
+|-damage|p2a: Ludicolo|250\/287|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1705350794
+|switch|p1a: Clefable|Clefable, L82, M|290\/290
+|turn|36
+|c|☆Goro Yagami|gg
+|
+|t:|1705350801
+|move|p2a: Ludicolo|Hydro Pump|p1a: Clefable
+|-damage|p1a: Clefable|37\/290
+|-damage|p2a: Ludicolo|222\/287|[from] item: Life Orb
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|37
+|
+|t:|1705350804
+|move|p2a: Ludicolo|Giga Drain|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|-heal|p2a: Ludicolo|241\/287|[from] drain|[of] p1a: Clefable
+|faint|p1a: Clefable
+|-damage|p2a: Ludicolo|213\/287|[from] item: Life Orb
+|
+|win|35Q71N
+|c|☆35Q71N|Gg2
+|l|☆Goro Yagami
+|player|p1|
+|j|☆Goro Yagami
+|player|p1|Goro Yagami|170
+|l|☆35Q71N
+|player|p2|
+|l| Vitoran
+|j| critsomnia
+|l| Referrals
+|l| critsomnia
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Goro Yagami and ☆35Q71N joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Goro Yagami and 35Q71N!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Glhf2!</em></div><div class="chat chatmessage-goroyagami"><strong style="color:#ad4397"><small>☆</small><span class="username" data-name="Goro Yagami">Goro Yagami</span>:</strong> <em>hf</em></div><div class="chat"><small> Vitoran joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Nidoking!<br></div><div class="battle-history">Goro Yagami sent out Wormadam (<strong>Wormadam-Trash</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily, come back!<br></div><div class="battle-history">Go! <strong>Araquanid</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wormadam used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid, come back!<br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Dialga!</small><br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wormadam used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect Dialga...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Wormadam!<br></div><div class="battle-history">Goro Yagami sent out <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Murkrow lost <abbr title="−99/259">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Ah, there she is</em></div><div class="chat"><small> Referrals joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Murkrow used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Dialga is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Murkrow was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Murkrow used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Murkrow had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Murkrow loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Murkrow!<br></div><div class="battle-history">Goro Yagami sent out <strong>Nidoking</strong>!<br></div><div class="battle-history"><small>The opposing Nidoking was caught in a sticky web!</small><br></div><div class="battle-history"><small>The opposing Nidoking's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga, come back!<br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Cradily!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cradily, come back!<br></div><div class="battle-history">Go! <strong>Araquanid</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Araquanid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Araquanid lost <abbr title="−34/246">13.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Nidoking!<br></div><div class="battle-history">Goro Yagami sent out Wormadam (<strong>Wormadam-Trash</strong>)!<br></div><div class="battle-history"><small>The opposing Wormadam was caught in a sticky web!</small><br></div><div class="battle-history"><small>The opposing Wormadam's Speed fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Wormadam lost <abbr title="−190/246">77.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Wormadam restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Mb</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(The opposing Wormadam lost <abbr title="−71/246">28.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Wormadam fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid, come back!<br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Cradily!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Murkrow used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Cradily's evasiveness fell!</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around your team!</small><br></div><div class="battle-history"><small>The sticky web has disappeared from the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Murkrow!<br></div><div class="battle-history">Goro Yagami sent out <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Seed Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Nidoking lost <abbr title="−102/267">38.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cradily, come back!<br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It doesn't affect Escavalier...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier, come back!<br></div><div class="battle-history">Go! <strong>Araquanid</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(Araquanid lost <abbr title="−45/246">18.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Araquanid lost <abbr title="−99/246">40.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid used <strong>Sticky Web</strong>!<br></div><div class="battle-history"><small>A sticky web has been laid out on the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid, come back!<br></div><div class="battle-history">Go! <strong>Komala</strong>!<br></div><div class="battle-history">[Komala's Comatose]<br><small>Komala is drowsing!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Komala lost <abbr title="−133/258">51.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Oh</em></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>That's more than I expected</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Nidoking!<br></div><div class="battle-history">Goro Yagami sent out <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Komala used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Murkrow...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Komala, come back!<br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Murkrow used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Cradily's evasiveness fell!</small><br></div><div class="battle-history"><small>The sticky web has disappeared from the ground around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Murkrow!<br></div><div class="battle-history">Goro Yagami sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Cradily's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat chatmessage-vitoran"><strong style="color:#66a441"><small> </small><span class="username" data-name="Vitoran">Vitoran</span>:</strong> <em>the king always delivers more</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Megahorn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cradily lost <abbr title="−288/295">97.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−211/272">77.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Cradily restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cradily, come back!<br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Megahorn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dialga lost <abbr title="−66/274">24.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat"><small> critsomnia joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Heracross!<br></div><div class="battle-history">Goro Yagami sent out <strong>Manectric</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Manectric's Manectite is reacting to the Key Stone!</small><br>The opposing Manectric has Mega Evolved into Mega Manectric!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Dialga's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dialga lost <abbr title="−49/274">17.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric went back to Goro Yagami!<br></div><div class="battle-history">Goro Yagami sent out <strong>Nidoking</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Nidoking lost <abbr title="−165/267">61.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dialga's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nidoking fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>King's dead Vitor</em></div><div class="chat"><small> critsomnia left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga, come back!<br></div><div class="battle-history">Go! <strong>Cradily</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Cradily lost <abbr title="−25/295">8.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heracross's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cradily fainted!<br></div><div class="battle-history">[The opposing Heracross's Moxie]<br></div><div class="battle-history"><small>The opposing Heracross's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat"><small> critsomnia joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami withdrew Heracross!<br></div><div class="battle-history">Goro Yagami sent out Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Escavalier's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier, come back!<br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="chat chatmessage-vitoran"><strong style="color:#66a441"><small> </small><span class="username" data-name="Vitoran">Vitoran</span>:</strong> <em>long live the king</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dialga lost <abbr title="−45/274">16.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric went back to Goro Yagami!<br></div><div class="battle-history">Goro Yagami sent out <strong>Murkrow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Murkrow lost <abbr title="−157/259">60.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dialga's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Murkrow was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Murkrow fainted!<br></div><div class="chat"><small> critsomnia left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dialga, come back!<br></div><div class="battle-history">Go! <strong>Araquanid</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Araquanid lost <abbr title="−78/246">31.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heracross's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Araquanid restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Araquanid lost <abbr title="−19/246">7.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heracross's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Araquanid fainted!<br></div><div class="battle-history">[The opposing Heracross's Moxie]<br></div><div class="battle-history"><small>The opposing Heracross's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(Escavalier lost <abbr title="−189/258">73.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heracross's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−61/272">22.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Escavalier knocked off the opposing Heracross's Choice Scarf!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Escavalier restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out Manectric (<strong>Manectric-Mega</strong>)!<br></div><div class="battle-history">[The opposing Manectric's Intimidate]<br></div><div class="battle-history"><small>Escavalier's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Escavalier lost <abbr title="−85/258">32.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Escavalier fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dialga</strong>!<br></div><div class="battle-history">[Dialga's Pressure]<br><small>Dialga is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Overheat</strong>!<br></div><div class="battle-history"><small>(Dialga lost <abbr title="−104/274">38.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Manectric's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Manectric was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Manectric was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Overheat</strong>!<br></div><div class="battle-history"><small>(Dialga lost <abbr title="−59/274">21.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Manectric's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dialga used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dialga restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Manectric was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dialga, come back!<br></div><div class="battle-history">Go! <strong>Ludicolo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Overheat</strong>!<br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−30/287">10.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Manectric's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Manectric was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Ludicolo lost <abbr title="−25/287">8.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Rain Dance</strong>!<br></div><div class="battle-history"><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Manectric was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Manectric lost <abbr title="−92/242">38.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Manectric had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Manectric fainted!<br></div><div class="battle-history"><small>Ludicolo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Goro Yagami sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="chat chatmessage-goroyagami"><strong style="color:#ad4397"><small>☆</small><span class="username" data-name="Goro Yagami">Goro Yagami</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−253/290">87.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ludicolo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ludicolo used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−37/290">12.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Clefable had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable fainted!<br></div><div class="battle-history"><small>Ludicolo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>35Q71N</strong> won the battle!<br></div><div class="chat chatmessage-35q71n"><strong style="color:#ba134b"><small>☆</small><span class="username" data-name="35Q71N">35Q71N</span>:</strong> <em>Gg2</em></div><div class="chat"><small>☆Goro Yagami left</small></div><div class="chat"><small>☆Goro Yagami joined</small></div><div class="chat"><small>☆35Q71N left</small></div><div class="chat"><small> critsomnia joined;  Vitoran,  Referrals, and  critsomnia left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
