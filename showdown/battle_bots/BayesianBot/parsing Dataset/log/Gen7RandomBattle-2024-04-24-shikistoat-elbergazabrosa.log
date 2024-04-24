@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Shiki_stoat vs. ElberGazaBrosa</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110176011" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/shikistoat" class="subtle" target="_blank">Shiki_stoat</a> vs. <a href="http://pokemonshowdown.com/users/elbergazabrosa" class="subtle" target="_blank">ElberGazaBrosa</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆Shiki_stoat
+|j|☆ElberGazaBrosa
+|t:|1713918215
+|gametype|singles
+|player|p1|Shiki_stoat|170|1095
+|player|p2|ElberGazaBrosa|170|1218
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713918215
+|start
+|switch|p1a: Gothitelle|Gothitelle, L89, M|269\/269
+|switch|p2a: Victini|Victini, L78|283\/283
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElberGazaBrosa)
+|
+|t:|1713918223
+|move|p2a: Victini|U-turn|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|185\/269
+|
+|t:|1713918236
+|switch|p2a: Clefable|Clefable, L83, M|293\/293|[from] U-turn
+|move|p1a: Gothitelle|Signal Beam|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|250\/293
+|
+|-heal|p2a: Clefable|268\/293|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1713918261
+|switch|p1a: Beartic|Beartic, L90, M|317\/317
+|move|p2a: Clefable|Knock Off|p1a: Beartic
+|-damage|p1a: Beartic|264\/317
+|-enditem|p1a: Beartic|Life Orb|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|286\/293|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1713918273
+|move|p2a: Clefable|Moonblast|p1a: Beartic
+|-damage|p1a: Beartic|170\/317
+|-unboost|p1a: Beartic|spa|1
+|move|p1a: Beartic|Icicle Crash|p2a: Clefable
+|-damage|p2a: Clefable|124\/293
+|
+|-heal|p2a: Clefable|142\/293|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713918285
+|switch|p2a: Victini|Victini, L78|283\/283
+|move|p1a: Beartic|Icicle Crash|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|214\/283
+|
+|upkeep
+|turn|5
+|
+|t:|1713918296
+|switch|p1a: Ditto|Ditto, L83|215\/215
+|-transform|p1a: Ditto|p2a: Victini|[from] ability: Imposter
+|move|p2a: Victini|V-create|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|139\/215
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1713918312
+|move|p1a: Ditto|Bolt Strike|p2a: Victini
+|-damage|p2a: Victini|86\/283
+|move|p2a: Victini|U-turn|p1a: Ditto
+|-damage|p1a: Ditto|96\/215
+|
+|t:|1713918325
+|switch|p2a: Hippowdon|Hippowdon, L82, F|311\/311|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ditto|83\/215|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1713918333
+|switch|p1a: Archeops|Archeops, L83, F|259\/259
+|move|p2a: Hippowdon|Stealth Rock|p1a: Archeops
+|-sidestart|p1: Shiki_stoat|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|inactive|ElberGazaBrosa has 120 seconds left.
+|
+|t:|1713918372
+|move|p1a: Archeops|Acrobatics|p2a: Hippowdon
+|-damage|p2a: Hippowdon|188\/311
+|move|p2a: Hippowdon|Stone Edge|p1a: Archeops|[miss]
+|-miss|p2a: Hippowdon|p1a: Archeops
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|207\/311|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|ElberGazaBrosa has 120 seconds left.
+|
+|t:|1713918393
+|move|p1a: Archeops|Acrobatics|p2a: Hippowdon
+|-damage|p2a: Hippowdon|89\/311
+|move|p2a: Hippowdon|Stone Edge|p1a: Archeops|[miss]
+|-miss|p2a: Hippowdon|p1a: Archeops
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|108\/311|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1713918401
+|switch|p2a: Lumineon|Lumineon, L90, M|271\/271
+|move|p1a: Archeops|Acrobatics|p2a: Lumineon
+|-damage|p2a: Lumineon|97\/271
+|
+|-weather|none
+|-heal|p2a: Lumineon|113\/271|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1713918409
+|move|p1a: Archeops|Acrobatics|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|upkeep
+|
+|t:|1713918414
+|switch|p2a: Persian|Persian, L92, M|269\/269
+|turn|12
+|
+|t:|1713918418
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|move|p1a: Archeops|U-turn|p2a: Persian
+|-damage|p2a: Persian|186\/269
+|
+|t:|1713918424
+|switch|p1a: Buzzwole|Buzzwole, L79|299\/299|[from] U-turn
+|-damage|p1a: Buzzwole|262\/299|[from] Stealth Rock
+|
+|-heal|p1a: Buzzwole|280\/299|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713918434
+|move|p2a: Persian|Water Pulse|p1a: Buzzwole
+|-damage|p1a: Buzzwole|56\/299
+|-damage|p2a: Persian|160\/269|[from] item: Life Orb
+|move|p1a: Buzzwole|Drain Punch|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|-heal|p1a: Buzzwole|136\/299|[from] drain|[of] p2a: Persian
+|faint|p2a: Persian
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|-heal|p1a: Buzzwole|154\/299|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918439
+|switch|p2a: Clefable|Clefable, L83, M|142\/293
+|turn|14
+|
+|t:|1713918449
+|move|p1a: Buzzwole|Roost|p1a: Buzzwole
+|-heal|p1a: Buzzwole|299\/299
+|-singleturn|p1a: Buzzwole|move: Roost
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|289\/293
+|
+|-heal|p2a: Clefable|293\/293|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1713918459
+|move|p1a: Buzzwole|Toxic|p2a: Clefable|[miss]
+|-miss|p1a: Buzzwole|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|21\/299
+|
+|-heal|p1a: Buzzwole|39\/299|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1713918467
+|switch|p2a: Musharna|Musharna, L90, M|355\/355
+|move|p1a: Buzzwole|Toxic|p2a: Musharna
+|-status|p2a: Musharna|tox
+|-activate|p2a: Musharna|ability: Synchronize
+|-status|p1a: Buzzwole|tox
+|
+|-heal|p1a: Buzzwole|57\/299 tox|[from] item: Leftovers
+|-damage|p1a: Buzzwole|39\/299 tox|[from] psn
+|-damage|p2a: Musharna|333\/355 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1713918482
+|switch|p2a: Clefable|Clefable, L83, M|293\/293
+|move|p1a: Buzzwole|Leech Life|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|238\/293
+|-heal|p1a: Buzzwole|67\/299 tox|[from] drain|[of] p2a: Clefable
+|
+|-heal|p1a: Buzzwole|85\/299 tox|[from] item: Leftovers
+|-heal|p2a: Clefable|256\/293|[from] item: Leftovers
+|-damage|p1a: Buzzwole|49\/299 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1713918493
+|move|p1a: Buzzwole|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Moonblast|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-heal|p2a: Clefable|274\/293 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|256\/293 tox|[from] psn
+|upkeep
+|
+|t:|1713918509
+|switch|p1a: Gothitelle|Gothitelle, L89, M|185\/269
+|-damage|p1a: Gothitelle|152\/269|[from] Stealth Rock
+|turn|19
+|
+|t:|1713918523
+|move|p1a: Gothitelle|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|143\/293 tox
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|tox|[msg]
+|-curestatus|p2: Musharna|tox|[msg]
+|
+|-heal|p2a: Clefable|161\/293|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1713918532
+|move|p1a: Gothitelle|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|53\/293
+|move|p2a: Clefable|Knock Off|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|64\/269
+|-enditem|p1a: Gothitelle|Choice Specs|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|71\/293|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1713918541
+|move|p1a: Gothitelle|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|2\/293
+|-status|p2a: Clefable|par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|149\/293 par
+|
+|-heal|p2a: Clefable|167\/293 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1713918548
+|move|p1a: Gothitelle|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|95\/293 par
+|move|p2a: Clefable|Knock Off|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-crit|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|
+|-heal|p2a: Clefable|113\/293 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918556
+|switch|p1a: Ditto|Ditto, L83|83\/215
+|-damage|p1a: Ditto|57\/215|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Clefable|[from] ability: Imposter
+|turn|23
+|
+|t:|1713918563
+|move|p1a: Ditto|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|82\/293 par
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Ditto
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|par|[msg]
+|
+|upkeep
+|turn|24
+|
+|t:|1713918571
+|switch|p1a: Beartic|Beartic, L90, M|170\/317
+|-damage|p1a: Beartic|91\/317|[from] Stealth Rock
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|229\/293
+|
+|upkeep
+|turn|25
+|
+|t:|1713918578
+|move|p2a: Clefable|Moonblast|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|faint|p1a: Beartic
+|
+|upkeep
+|
+|t:|1713918583
+|switch|p1a: Archeops|Archeops, L83, F|259\/259
+|-damage|p1a: Archeops|195\/259|[from] Stealth Rock
+|turn|26
+|
+|t:|1713918590
+|move|p1a: Archeops|Acrobatics|p2a: Clefable
+|-damage|p2a: Clefable|66\/293
+|move|p2a: Clefable|Moonblast|p1a: Archeops
+|-damage|p1a: Archeops|75\/259
+|
+|upkeep
+|turn|27
+|
+|t:|1713918597
+|move|p1a: Archeops|Acrobatics|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1713918614
+|switch|p2a: Musharna|Musharna, L90, M|333\/355
+|turn|28
+|
+|t:|1713918619
+|move|p1a: Archeops|Roost|p1a: Archeops
+|-heal|p1a: Archeops|205\/259
+|-singleturn|p1a: Archeops|move: Roost
+|move|p2a: Musharna|Psychic|p1a: Archeops
+|-damage|p1a: Archeops|55\/259
+|
+|-heal|p2a: Musharna|355\/355|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1713918626
+|move|p1a: Archeops|Roost|p1a: Archeops
+|-heal|p1a: Archeops|185\/259
+|-singleturn|p1a: Archeops|move: Roost
+|move|p2a: Musharna|Thunder Wave|p1a: Archeops
+|-status|p1a: Archeops|par
+|
+|upkeep
+|turn|30
+|
+|t:|1713918636
+|move|p1a: Archeops|Acrobatics|p2a: Musharna
+|-damage|p2a: Musharna|195\/355
+|move|p2a: Musharna|Psychic|p1a: Archeops
+|-damage|p1a: Archeops|28\/259 par
+|
+|-heal|p2a: Musharna|217\/355|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1713918643
+|move|p1a: Archeops|Roost|p1a: Archeops
+|-heal|p1a: Archeops|158\/259 par
+|-singleturn|p1a: Archeops|move: Roost
+|move|p2a: Musharna|Psychic|p1a: Archeops
+|-damage|p1a: Archeops|4\/259 par
+|
+|-heal|p2a: Musharna|239\/355|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1713918651
+|move|p1a: Archeops|Roost|p1a: Archeops
+|-heal|p1a: Archeops|134\/259 par
+|-singleturn|p1a: Archeops|move: Roost
+|move|p2a: Musharna|Psychic|p1a: Archeops
+|-damage|p1a: Archeops|0 fnt
+|faint|p1a: Archeops
+|
+|-heal|p2a: Musharna|261\/355|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918660
+|switch|p1a: Ditto|Ditto, L83|57\/215
+|-damage|p1a: Ditto|31\/215|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Musharna|[from] ability: Imposter
+|turn|33
+|
+|t:|1713918669
+|switch|p2a: Hippowdon|Hippowdon, L82, F|108\/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Ditto|Signal Beam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|35\/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ditto|18\/215|[from] Sandstorm
+|-heal|p2a: Hippowdon|54\/311|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1713918678
+|move|p1a: Ditto|Signal Beam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ditto|5\/215|[from] Sandstorm
+|upkeep
+|
+|t:|1713918687
+|switch|p2a: Victini|Victini, L78|86\/283
+|turn|35
+|
+|t:|1713918699
+|move|p2a: Victini|Bolt Strike|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|69\/283|[from] Sandstorm
+|upkeep
+|
+|t:|1713918705
+|switch|p1a: Magmortar|Magmortar, L87, M|271\/271
+|-damage|p1a: Magmortar|204\/271|[from] Stealth Rock
+|turn|36
+|
+|t:|1713918713
+|move|p2a: Victini|Bolt Strike|p1a: Magmortar
+|-damage|p1a: Magmortar|113\/271
+|move|p1a: Magmortar|Thunderbolt|p2a: Victini
+|-damage|p2a: Victini|17\/283
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|0 fnt|[from] Sandstorm
+|-damage|p1a: Magmortar|97\/271|[from] Sandstorm
+|faint|p2a: Victini
+|-heal|p1a: Magmortar|113\/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918716
+|switch|p2a: Musharna|Musharna, L90, M|261\/355
+|turn|37
+|
+|t:|1713918726
+|move|p1a: Magmortar|Fire Blast|p2a: Musharna
+|-damage|p2a: Musharna|123\/355
+|move|p2a: Musharna|Psychic|p1a: Magmortar
+|-damage|p1a: Magmortar|13\/271
+|
+|-weather|none
+|-heal|p1a: Magmortar|29\/271|[from] item: Leftovers
+|-heal|p2a: Musharna|145\/355|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1713918734
+|move|p1a: Magmortar|Fire Blast|p2a: Musharna
+|-damage|p2a: Musharna|3\/355
+|move|p2a: Musharna|Psychic|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|faint|p1a: Magmortar
+|
+|win|ElberGazaBrosa
+|raw|Shiki_stoat's rating: 1095 &rarr; <strong>1079<\/strong><br \/>(-16 for losing)
+|raw|ElberGazaBrosa's rating: 1218 &rarr; <strong>1235<\/strong><br \/>(+17 for winning)
+|c|☆ElberGazaBrosa|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆Shiki_stoat and ☆ElberGazaBrosa joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Shiki_stoat and ElberGazaBrosa!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gothitelle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElberGazaBrosa)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−84/269">31.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini went back to ElberGazaBrosa!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−43/293">14.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle, come back!<br></div><div class="battle-history">Go! <strong>Beartic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−53/317">16.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Clefable knocked off Beartic's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−94/317">29.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Beartic's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−162/293">55.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa withdrew Clefable!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−69/283">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Beartic, come back!<br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Victini!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>V-create</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Ditto lost <abbr title="−76/215">35.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Victini's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Victini's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Victini's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−128/283">45.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(Ditto lost <abbr title="−43/215">20%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini went back to ElberGazaBrosa!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Hippowdon</strong>!<br></div><div class="battle-history">[The opposing Hippowdon's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Ditto is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Archeops</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">ElberGazaBrosa has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−123/311">39.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>Archeops avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">ElberGazaBrosa has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−118/311">37.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>Archeops avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa withdrew Hippowdon!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Lumineon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Lumineon lost <abbr title="−174/271">64.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The sandstorm subsided.</small><br></div><div class="battle-history"><small>The opposing Lumineon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Lumineon lost <abbr title="−113/271">41.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lumineon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Persian</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Persian's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Persian lost <abbr title="−83/269">30.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops went back to Shiki_stoat!<br></div><div class="battle-history">Go! <strong>Buzzwole</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Buzzwole!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Buzzwole restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Water Pulse</strong>!<br></div><div class="battle-history"><small>(Buzzwole lost <abbr title="−224/299">74.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Persian lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Persian lost <abbr title="−160/269">59.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Persian had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian fainted!<br></div><div class="battle-history">[Buzzwole's Beast Boost]<br></div><div class="battle-history"><small>Buzzwole's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Buzzwole restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Buzzwole had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Clefable avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Buzzwole lost <abbr title="−278/299">93.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Buzzwole restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa withdrew Clefable!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Musharna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Musharna was badly poisoned!</small><br></div><div class="battle-history">[The opposing Musharna's Synchronize]<br></div><div class="battle-history"><small>Buzzwole was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Buzzwole restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Buzzwole was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Musharna was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa withdrew Musharna!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Leech Life</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−55/293">18.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Clefable had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Buzzwole restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Buzzwole was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Clefable was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Buzzwole lost <abbr title="−49/299">16.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Buzzwole fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Clefable was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gothitelle</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Gothitelle!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−113/293">38.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>The opposing Clefable was cured of its poisoning!</small><br></div><div class="battle-history"><small>The opposing Musharna was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−108/293">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−88/269">32.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Clefable knocked off Gothitelle's Choice Specs!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−69/293">23.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Clefable is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−72/293">24.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Gothitelle lost <abbr title="−64/269">23.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gothitelle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Clefable restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ditto!</small><br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Clefable!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−31/293">10.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Ditto knocked off the opposing Clefable's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Aromatherapy</strong>!<br></div><div class="battle-history"><small>A soothing aroma wafted through the area!</small><br></div><div class="battle-history"><small>The opposing Clefable was cured of paralysis!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto, come back!<br></div><div class="battle-history">Go! <strong>Beartic</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Beartic!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Beartic lost <abbr title="−91/317">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Beartic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Archeops</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Archeops!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−163/293">55.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Archeops lost <abbr title="−120/259">46.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−66/293">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Musharna</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Archeops had its HP restored.</small><br></div><div class="battle-history"><small>(Archeops loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Archeops lost <abbr title="−150/259">57.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Musharna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Archeops had its HP restored.</small><br></div><div class="battle-history"><small>(Archeops loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Archeops is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Musharna lost <abbr title="−160/355">45.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Archeops lost <abbr title="−157/259">60.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Musharna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Archeops had its HP restored.</small><br></div><div class="battle-history"><small>(Archeops loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Archeops lost <abbr title="−154/259">59.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Musharna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Archeops used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Archeops had its HP restored.</small><br></div><div class="battle-history"><small>(Archeops loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Archeops lost <abbr title="−134/259">51.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Archeops fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Musharna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Ditto</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Ditto!</small><br></div><div class="battle-history">[Ditto's Imposter]<br>Ditto transformed into Musharna!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa withdrew Musharna!<br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Hippowdon</strong>!<br></div><div class="battle-history">[The opposing Hippowdon's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−73/311">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Ditto is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Ditto used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−54/311">17.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Ditto is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Victini</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(Ditto lost <abbr title="−5/215">2.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Ditto fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Victini is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magmortar</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Magmortar!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(Magmortar lost <abbr title="−91/271">33.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Victini lost <abbr title="−52/283">18.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Victini is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Magmortar is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victini fainted!<br></div><div class="battle-history"><small>Magmortar restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">ElberGazaBrosa sent out <strong>Musharna</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Musharna lost <abbr title="−138/355">38.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Magmortar lost <abbr title="−100/271">36.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The sandstorm subsided.</small><br></div><div class="battle-history"><small>Magmortar restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Musharna restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Musharna lost <abbr title="−142/355">40%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Musharna used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Magmortar lost <abbr title="−29/271">10.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magmortar fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>ElberGazaBrosa</strong> won the battle!<br></div><div class="chat">Shiki_stoat's rating: 1095 → <strong>1079</strong><br>(-16 for losing)</div><div class="chat">ElberGazaBrosa's rating: 1218 → <strong>1235</strong><br>(+17 for winning)</div><div class="chat chatmessage-elbergazabrosa"><strong style="color:#397993"><small>☆</small><span class="username" data-name="ElberGazaBrosa">ElberGazaBrosa</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Lucius Artor vs. 12123434a</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110267103" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/luciusartor" class="subtle" target="_blank">Lucius Artor</a> vs. <a href="http://pokemonshowdown.com/users/12123434a" class="subtle" target="_blank">12123434a</a></h1>
+<script type="text/plain" class="battle-log-data">|badge|p1|silver|gen9randombattle|30-1
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆Lucius Artor
+|j|☆12123434a
+|t:|1713929327
+|gametype|singles
+|player|p1|Lucius Artor|sonia-masters|
+|player|p2|12123434a|twins-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713929327
+|start
+|switch|p1a: Sudowoodo|Sudowoodo, L90, M|272\/272
+|switch|p2a: Seviper|Seviper, L91, F|281\/281
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lucius Artor)
+|j| Ghostilex
+|j| gomdol2
+|c|☆12123434a|*gulp* gl
+|j| hammy358
+|j| craiging on em
+|c| gomdol2|lets go lucius
+|c|☆Lucius Artor|u2
+|
+|t:|1713929352
+|move|p2a: Seviper|Knock Off|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|197\/272
+|-enditem|p1a: Sudowoodo|Choice Band|[from] move: Knock Off|[of] p2a: Seviper
+|-damage|p2a: Seviper|253\/281|[from] item: Life Orb
+|move|p1a: Sudowoodo|Head Smash|p2a: Seviper|[miss]
+|-miss|p1a: Sudowoodo|p2a: Seviper
+|
+|upkeep
+|turn|2
+|
+|t:|1713929379
+|move|p2a: Seviper|Earthquake|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|25\/272
+|-damage|p2a: Seviper|225\/281|[from] item: Life Orb
+|move|p1a: Sudowoodo|Earthquake|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|19\/281
+|
+|upkeep
+|turn|3
+|
+|t:|1713929386
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|
+|upkeep
+|c|☆12123434a|Wp
+|
+|t:|1713929398
+|switch|p2a: Zangoose|Zangoose, L87, F|269\/269
+|turn|4
+|
+|t:|1713929410
+|move|p2a: Zangoose|Swords Dance|p2a: Zangoose
+|-boost|p2a: Zangoose|atk|2
+|move|p1a: Sudowoodo|Head Smash|p2a: Zangoose|[miss]
+|-miss|p1a: Sudowoodo|p2a: Zangoose
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1713929417
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Zangoose
+|-damage|p2a: Zangoose|198\/269 tox
+|move|p2a: Zangoose|Knock Off|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|-damage|p2a: Zangoose|182\/269 tox|[from] psn
+|upkeep
+|c| hammy358|crazy play
+|c|☆12123434a|Unfortunate, and you read me
+|
+|t:|1713929433
+|switch|p1a: Minun|Minun, L94, F|265\/265
+|turn|6
+|
+|t:|1713929443
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|199\/265
+|move|p2a: Zangoose|Facade|p1a: Minun
+|-end|p1a: Minun|Substitute
+|
+|-heal|p1a: Minun|215\/265|[from] item: Leftovers
+|-damage|p2a: Zangoose|150\/269 tox|[from] psn
+|upkeep
+|turn|7
+|c|☆12123434a|Oh... iforgot what toxic boost did
+|
+|t:|1713929457
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|149\/265
+|move|p2a: Zangoose|Facade|p1a: Minun
+|-end|p1a: Minun|Substitute
+|
+|-heal|p1a: Minun|165\/265|[from] item: Leftovers
+|-damage|p2a: Zangoose|102\/269 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1713929461
+|move|p1a: Minun|Thunderbolt|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|-heal|p1a: Minun|181\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1713929470
+|switch|p2a: Stantler|Stantler, L90, F|278\/278
+|-ability|p2a: Stantler|Intimidate|boost
+|-unboost|p1a: Minun|atk|1
+|turn|9
+|
+|t:|1713929480
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|115\/265
+|move|p2a: Stantler|Earthquake|p1a: Minun
+|-supereffective|p1a: Minun
+|-end|p1a: Minun|Substitute
+|-damage|p2a: Stantler|251\/278|[from] item: Life Orb
+|
+|-heal|p1a: Minun|131\/265|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1713929487
+|switch|p1a: Yanmega|Yanmega, L83, M|277\/277
+|move|p2a: Stantler|Earthquake|p1a: Yanmega
+|-immune|p1a: Yanmega
+|
+|upkeep
+|turn|11
+|
+|t:|1713929491
+|move|p1a: Yanmega|U-turn|p2a: Stantler
+|-damage|p2a: Stantler|176\/278
+|
+|t:|1713929494
+|switch|p1a: Minun|Minun, L94, F|131\/265|[from] U-turn
+|move|p2a: Stantler|Thunder Wave|p1a: Minun
+|-heal|p1a: Minun|197\/265|[from] ability: Volt Absorb|[of] p2a: Stantler
+|
+|-heal|p1a: Minun|213\/265|[from] item: Leftovers
+|upkeep
+|turn|12
+|c|☆12123434a|Nah....
+|c|☆12123434a|Im getting cooked
+|
+|t:|1713929504
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|147\/265
+|move|p2a: Stantler|Double-Edge|p1a: Minun
+|-end|p1a: Minun|Substitute
+|-damage|p2a: Stantler|154\/278|[from] Recoil|[of] p1a: Minun
+|-damage|p2a: Stantler|127\/278|[from] item: Life Orb
+|
+|-heal|p1a: Minun|163\/265|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713929512
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|97\/265
+|move|p2a: Stantler|Earthquake|p1a: Minun
+|-supereffective|p1a: Minun
+|-end|p1a: Minun|Substitute
+|-damage|p2a: Stantler|100\/278|[from] item: Life Orb
+|
+|-heal|p1a: Minun|113\/265|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1713929517
+|move|p1a: Minun|Thunderbolt|p2a: Stantler
+|-damage|p2a: Stantler|0 fnt
+|faint|p2a: Stantler
+|
+|-heal|p1a: Minun|129\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1713929523
+|switch|p2a: Escavalier|Escavalier, L85, F|258\/258
+|turn|15
+|
+|t:|1713929538
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|63\/265
+|move|p2a: Escavalier|Drill Run|p1a: Minun
+|-supereffective|p1a: Minun
+|-end|p1a: Minun|Substitute
+|
+|-heal|p1a: Minun|79\/265|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1713929542
+|switch|p1a: Yanmega|Yanmega, L83, M|277\/277
+|move|p2a: Escavalier|Swords Dance|p2a: Escavalier
+|-boost|p2a: Escavalier|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1713929550
+|move|p1a: Yanmega|Bug Buzz|p2a: Escavalier
+|-resisted|p2a: Escavalier
+|-damage|p2a: Escavalier|128\/258
+|move|p2a: Escavalier|Iron Head|p1a: Yanmega
+|-damage|p1a: Yanmega|43\/277
+|
+|-heal|p2a: Escavalier|144\/258|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1713929557
+|move|p1a: Yanmega|Bug Buzz|p2a: Escavalier
+|-resisted|p2a: Escavalier
+|-damage|p2a: Escavalier|2\/258
+|move|p2a: Escavalier|Iron Head|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|-heal|p2a: Escavalier|18\/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1713929560
+|switch|p1a: Minun|Minun, L94, F|79\/265
+|turn|19
+|c|☆12123434a|Ooof
+|
+|t:|1713929564
+|move|p1a: Minun|Thunderbolt|p2a: Escavalier
+|-damage|p2a: Escavalier|0 fnt
+|faint|p2a: Escavalier
+|
+|-heal|p1a: Minun|95\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1713929571
+|switch|p2a: Simipour|Simipour, L88, M|275\/275
+|turn|20
+|
+|t:|1713929579
+|move|p1a: Minun|Substitute|p1a: Minun
+|-start|p1a: Minun|Substitute
+|-damage|p1a: Minun|29\/265
+|move|p2a: Simipour|Ice Beam|p1a: Minun
+|-activate|p1a: Minun|move: Substitute|[damage]
+|
+|-heal|p1a: Minun|45\/265|[from] item: Leftovers
+|upkeep
+|turn|21
+|c|☆12123434a|🫠
+|
+|t:|1713929596
+|move|p1a: Minun|Nasty Plot|p1a: Minun
+|-boost|p1a: Minun|spa|2
+|move|p2a: Simipour|Ice Beam|p1a: Minun
+|-end|p1a: Minun|Substitute
+|
+|-heal|p1a: Minun|61\/265|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1713929600
+|move|p1a: Minun|Thunderbolt|p2a: Simipour
+|-supereffective|p2a: Simipour
+|-damage|p2a: Simipour|0 fnt
+|faint|p2a: Simipour
+|
+|-heal|p1a: Minun|77\/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1713929602
+|switch|p2a: Lugia|Lugia, L72|272\/272
+|turn|23
+|
+|t:|1713929607
+|move|p1a: Minun|Thunderbolt|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|121\/272
+|-status|p2a: Lugia|par
+|move|p2a: Lugia|Earthquake|p1a: Minun
+|-supereffective|p1a: Minun
+|-damage|p1a: Minun|0 fnt
+|faint|p1a: Minun
+|
+|-heal|p2a: Lugia|138\/272 par|[from] item: Leftovers
+|upkeep
+|c|☆Lucius Artor|g
+|c|☆Lucius Artor|g
+|
+|t:|1713929611
+|switch|p1a: Absol|Absol, L82, M|241\/241
+|turn|24
+|c|☆12123434a|Gs :(
+|
+|t:|1713929616
+|move|p1a: Absol|Knock Off|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|-enditem|p2a: Lugia|Leftovers|[from] move: Knock Off|[of] p1a: Absol
+|faint|p2a: Lugia
+|
+|win|Lucius Artor
+|c|☆12123434a|Man wp
+|c|☆12123434a|You're way better
+|l| hammy358
+|c|☆Lucius Artor|tx
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆Lucius Artor and ☆12123434a joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Lucius Artor and 12123434a!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sudowoodo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Seviper</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lucius Artor)</div><div class="chat"><small> Ghostilex and  gomdol2 joined</small></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>*gulp* gl</em></div><div class="chat"><small> hammy358 and  craiging on em joined</small></div><div class="chat chatmessage-gomdol2"><strong style="color:#c1781f"><small> </small><span class="username" data-name="gomdol2">gomdol2</span>:</strong> <em>lets go lucius</em></div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>u2</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Sudowoodo lost <abbr title="−75/272">27.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Seviper knocked off Sudowoodo's Choice Band!</small><br></div><div class="battle-history"><small>The opposing Seviper lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>The opposing Seviper avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Sudowoodo lost <abbr title="−172/272">63.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Seviper lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Seviper lost <abbr title="−206/281">73.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Seviper lost <abbr title="−19/281">6.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper fainted!<br></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Wp</em></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Zangoose</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Zangoose's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>The opposing Zangoose avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zangoose was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−71/269">26.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Sudowoodo lost <abbr title="−25/272">9.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sudowoodo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zangoose was hurt by poison!</small><br></div><div class="chat chatmessage-hammy358"><strong style="color:#ae5b35"><small> </small><span class="username" data-name="hammy358">hammy358</span>:</strong> <em>crazy play</em></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Unfortunate, and you read me</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Facade</strong>!<br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Zangoose was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Oh... iforgot what toxic boost did</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Facade</strong>!<br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Zangoose was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−102/269">37.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Stantler</strong>!<br></div><div class="battle-history">[The opposing Stantler's Intimidate]<br></div><div class="battle-history"><small>Minun's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun, come back!<br></div><div class="battle-history">Go! <strong>Yanmega</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Yanmega...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Stantler lost <abbr title="−75/278">27.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega went back to Lucius Artor!<br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler used <strong>Thunder Wave</strong>!<br></div><div class="battle-history">[Minun's Volt Absorb]<br><small>Minun had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Nah....</em></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Im getting cooked</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler used <strong>Double-Edge</strong>!<br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Stantler was damaged by the recoil!</small><br></div><div class="battle-history"><small>The opposing Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="battle-history"><small>The opposing Stantler lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Stantler lost <abbr title="−100/278">36.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Stantler fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Drill Run</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun, come back!<br></div><div class="battle-history">Go! <strong>Yanmega</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Escavalier's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−130/258">50.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Yanmega lost <abbr title="−234/277">84.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Escavalier restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−142/258">55.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Yanmega lost <abbr title="−43/277">15.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Yanmega fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Escavalier restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Minun</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Ooof</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−18/258">7.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Simipour</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Minun put in a substitute!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−66/265">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Minun!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>🫠</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Minun's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>Minun's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Simipour lost <abbr title="−275/275">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Simipour fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Minun restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Lugia</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lugia lost <abbr title="−151/272">55.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lugia is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lugia used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Minun lost <abbr title="−77/265">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minun fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lugia restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>g</em></div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>g</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Absol</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Gs :(</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Absol used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lugia lost <abbr title="−138/272">50.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Absol knocked off the opposing Lugia's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lugia fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Lucius Artor</strong> won the battle!<br></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>Man wp</em></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>You're way better</em></div><div class="chat"><small> hammy358 left</small></div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>tx</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

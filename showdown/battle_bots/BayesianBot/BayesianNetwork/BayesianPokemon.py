@@ -81,40 +81,41 @@ df["Status enemy"] = df["Status enemy"].str.rstrip().str.lower()
 df["Sufferer"] = df["Sufferer"].str.rstrip().str.lower()
 df["User"] = df["User"].str.rstrip().str.lower()
 
-df["Boost"] = df["attack_boost"] + df["defense_boost"] + df["special_attack_boost"] + df["special_defense_boost"] + df["speed_boost"] + df["evasion_boost"] + df["accuracy_boost"]
+df["Boost"] = df["attack_boost"] + df["defense_boost"] + df["special_attack_boost"] + df["special_defense_boost"] + df[
+    "speed_boost"] + df["evasion_boost"] + df["accuracy_boost"]
 
-df = df.drop(["accuracy_boost","speed_boost","evasion_boost",
-              "attack_boost","defense_boost","special_attack_boost","special_defense_boost"],axis=1)
-
+df = df.drop(["accuracy_boost", "speed_boost", "evasion_boost",
+              "attack_boost", "defense_boost", "special_attack_boost", "special_defense_boost"], axis=1)
 
 from sklearn.preprocessing import KBinsDiscretizer
 
-encHP = KBinsDiscretizer(n_bins=10, encode='ordinal', strategy='uniform')
+encHP = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='uniform')
 encHP.fit(df[["Pokemon HP"]])
 df["Pokemon HP"] = encHP.transform(df[["Pokemon HP"]]).astype(int)
-encHPE = KBinsDiscretizer(n_bins=10, encode='ordinal', strategy='uniform')
+encHPE = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='uniform')
 encHPE.fit(df[["Enemy HP"]])
 df["Enemy HP"] = encHPE.transform(df[["Enemy HP"]]).astype(int)
-encP = KBinsDiscretizer(n_bins=10, encode='ordinal', strategy='uniform')
+encP = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='uniform')
 encP.fit(df[["Power"]])
 df["Power"] = encP.transform(df[["Power"]]).astype(int)
 
-encB = KBinsDiscretizer(n_bins=3, encode='ordinal',strategy='kmeans')
+encB = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='kmeans')
 encB.fit(df[["Boost"]])
 df["Boost"] = encB.transform(df[["Boost"]]).astype(int)
 
-
-custom_model = BayesianNetwork([('Pokemon HP', 'Choose'), ('Enemy HP', 'Choose'), ('Status enemy', 'Choose'),
-                              ('stab', 'Choose'), ('Multiplicator', 'Choose'), ('Power', 'Choose'),
-                               ("Weather","Choose"), ("Category","Choose"), ("Boost","Choose"),
-                                #('attack_boost',"Choose"), ('defense_boost',"Choose"), ('special_attack_boost',"Choose"
-                                #('special_defense_boost',"Choose"),
-                                #('speed_boost',"Choose"), ('accuracy_boost',"Choose"), ('evasion_boost',"Choose")
-                                    ])
+custom_model = BayesianNetwork([  #('Pokemon HP', 'Choose'),
+    ('Enemy HP', 'Choose'),  #('Status enemy', 'Choose'),
+    ('stab', 'Choose'), ('Multiplicator', 'Choose'),  #('Power', 'Choose'),
+    #("Weather","Choose"),
+    ("Category", "Choose"), ("Boost", "Choose"),
+    #('attack_boost',"Choose"), ('defense_boost',"Choose"), ('special_attack_boost',"Choose"
+    #('special_defense_boost',"Choose"),
+    #('speed_boost',"Choose"), ('accuracy_boost',"Choose"), ('evasion_boost',"Choose")
+])
 pos = {'Pokemon HP': [0.75, -0.5], 'Enemy HP': [1.25, -0.5],
        "stab": [0.75, -1.], 'Multiplicator': [1.25, -1],
-       'Power': [1.25, 0], "Weather" : [1.1, 0],
-       'Choose': [1, -0.5],"Category" : [0.9, 0], "Boost": [1,0],"Status enemy" : [0.6, -0.5],
+       'Power': [1.25, 0], "Weather": [1.1, 0],
+       'Choose': [1, -0.5], "Category": [0.9, 0], "Boost": [1, 0], "Status enemy": [0.6, -0.5],
        # "attack_boost": [0.7, -0.5],
        #'defense_boost': [0.8,-0.6],'special_attack_boost':[0.9,-0.7],'special_defense_boost':[1,-0.8],'speed_boost': [1.1,-0.9],'accuracy_boost':[1.2,-1],'evasion_boost':[1.3,-1.1]
        }
@@ -155,9 +156,9 @@ inference = VariableElimination(custom_model)
 
 def run_query(target_var, evidence, print_output=True):
     probs = []
-    evidence["Power"] = int(encP.transform(np.array(evidence["Power"]).reshape((1, -1)))[0][0])
+    #evidence["Power"] = int(encP.transform(np.array(evidence["Power"]).reshape((1, -1)))[0][0])
     evidence["Enemy HP"] = int(encHPE.transform(np.array(evidence["Enemy HP"]).reshape((1, -1)))[0][0])
-    evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
+    #evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
     evidence["Boost"] = int(encB.transform(np.array(evidence["Boost"]).reshape((1, -1)))[0][0])
     print(target_var, evidence)
 
@@ -238,20 +239,27 @@ df_switch["Multiplicator Out"] = df_switch[["Enemy Type", "Pokemon Out Type"]].a
 
 df_switch = df_switch.drop(["Enemy Type", "Pokemon In Type", "Pokemon Out Type"], axis=1)
 
-
-
-
 from sklearn.preprocessing import KBinsDiscretizer
 
-enc = KBinsDiscretizer(n_bins=10, encode='ordinal', strategy='uniform')
-enc.fit(df_switch[["Pokemon HP"]])
-df_switch["Pokemon HP"] = enc.transform(df_switch[["Pokemon HP"]]).astype(int)
-enc.fit(df_switch[["Enemy HP"]])
-df_switch["Enemy HP"] = enc.transform(df_switch[["Enemy HP"]]).astype(int)
+encHP = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='uniform')
+encHP.fit(df_switch[["Pokemon HP"]])
+df_switch["Pokemon HP"] = encHP.transform(df_switch[["Pokemon HP"]]).astype(int)
+encHPE = KBinsDiscretizer(n_bins=3, encode='ordinal', strategy='uniform')
+encHPE.fit(df_switch[["Enemy HP"]])
 
-switch_model = BayesianNetwork(
-    [('Pokemon HP', 'Switch'), ('Enemy HP', 'Switch'), ('Status Pokemon', 'Switch'), ('Weather', 'Switch'),
-     ('Multiplicator In', 'Switch'), ('Multiplicator Out', 'Switch')])
+df_switch["Enemy HP"] = encHPE.transform(df_switch[["Enemy HP"]]).astype(int)
+
+encIN = KBinsDiscretizer(n_bins=3, encode='ordinal',strategy='kmeans')
+encIN.fit(df_switch[["Multiplicator In"]])
+df_switch["Multiplicator In"] = encIN.transform(df_switch[["Multiplicator In"]]).astype(int)
+encOUT = KBinsDiscretizer(n_bins=3, encode='ordinal',strategy='kmeans')
+encOUT.fit(df_switch[["Multiplicator Out"]])
+df_switch["Multiplicator Out"] = encOUT.transform(df_switch[["Multiplicator Out"]]).astype(int)
+
+
+switch_model = BayesianNetwork([  #('Pokemon HP', 'Switch'), #('Enemy HP', 'Switch'),
+    ('Status Pokemon', 'Switch'),  #('Weather', 'Switch'),
+    ('Multiplicator In', 'Switch'), ('Multiplicator Out', 'Switch')])
 pos = {'Pokemon HP': [0.9, 0], 'Enemy HP': [1.1, 0],
        "Multiplicator Out": [0.75, 0], 'Multiplicator In': [1.25, 0],
        'Switch': [1, -0.5], 'Status Pokemon': [0.9, -1], 'Weather': [1.25, -1]}
@@ -259,23 +267,25 @@ fig, ax = plt.subplots(1, 1, figsize=(12, 12))
 nx.draw_networkx(switch_model, pos=pos, ax=ax, node_size=5000)
 ax.set_title('Custom model')
 fig.savefig('custom_bn')
-
 estimator = BayesianEstimator(model=switch_model, data=df_switch)
 
 cpds = []
 for node in switch_model.nodes():
     cpds.append(estimator.estimate_cpd(node=node,
                                        prior_type="BDeu",
-                                       equivalent_sample_size=10))
+                                       equivalent_sample_size=3500))
 switch_model.add_cpds(*cpds)
 
+#print('Checking the model...')
+#print(f'The model is {switch_model.check_model()}\n\n')
+
+#for cpd in [cpd for cpd in switch_model.get_cpds()]:
+#    print(f'CPD for {cpd.variable}:')
+#    print(cpd)
+
 choose = switch_model.get_cpds("Switch")
+#print(choose.values)
 
-
-EVIDENCE = {'Multiplicator In': 2,
-            'Multiplicator Out': 0.5,
-            'Enemy HP': 1,
-            "Pokemon HP": 9}
 
 ordering_heuristics = ['MinFill', 'MinNeighbors', 'MinWeight', 'WeightedMinFill']
 inferenceS = VariableElimination(switch_model)
@@ -283,10 +293,12 @@ inferenceS = VariableElimination(switch_model)
 
 def switch_run_query(target_var, evidence, print_output=True):
     probs = []
-    evidence["Enemy HP"] = int(encHPE.transform(np.array(evidence["Enemy HP"]).reshape((1, -1)))[0][0])
-    evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
+    #evidence["Enemy HP"] = int(encHPE.transform(np.array(evidence["Enemy HP"]).reshape((1, -1)))[0][0])
+    #evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
+    evidence['Multiplicator In'] = int(encIN.transform(np.array(evidence['Multiplicator In']).reshape((1, -1)))[0][0])
+    evidence['Multiplicator Out'] = int(encOUT.transform(np.array(evidence['Multiplicator Out']).reshape((1, -1)))[0][0])
     prob = inferenceS.query([target_var],
-                                evidence,
-                                show_progress=False)
+                            evidence,
+                            show_progress=False)
     probs.append(prob.get_value(Switch=1))
     return probs[0]

@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: DohNo! vs. cz3</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110349676" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/dohno" class="subtle" target="_blank">DohNo!</a> vs. <a href="http://pokemonshowdown.com/users/cz3" class="subtle" target="_blank">cz3</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆DohNo!
+|j|☆cz3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1713943863
+|gametype|singles
+|player|p1|DohNo!|170|
+|player|p2|cz3|may-rs|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713943863
+|start
+|switch|p1a: Meowstic|Meowstic-F, L89, F|277\/277
+|switch|p2a: Florges|Florges, L85, F|271\/271
+|turn|1
+|c|☆DohNo!|gl hf
+|inactive|cz3 has 120 seconds left.
+|inactive|cz3 has 90 seconds left.
+|
+|t:|1713943931
+|move|p1a: Meowstic|Thunderbolt|p2a: Florges
+|-damage|p2a: Florges|210\/271
+|move|p2a: Florges|Toxic|p1a: Meowstic|[miss]
+|-miss|p2a: Florges|p1a: Meowstic
+|
+|-heal|p2a: Florges|226\/271|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1713943946
+|switch|p1a: Jirachi|Jirachi, L77|281\/281
+|move|p2a: Florges|Toxic|p1a: Jirachi|[miss]
+|-miss|p2a: Florges|p1a: Jirachi
+|
+|-heal|p2a: Florges|242\/271|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713943972
+|switch|p2a: Bronzong|Bronzong, L86|255\/255
+|move|p1a: Jirachi|Iron Head|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|228\/255
+|
+|-heal|p2a: Bronzong|243\/255|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713943987
+|move|p1a: Jirachi|Drain Punch|p2a: Bronzong
+|-damage|p2a: Bronzong|206\/255
+|move|p2a: Bronzong|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|133\/281
+|
+|-heal|p2a: Bronzong|221\/255|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944002
+|switch|p1a: Flygon|Flygon, L82, F|265\/265
+|move|p2a: Bronzong|Earthquake|p1a: Flygon
+|-immune|p1a: Flygon|[from] ability: Levitate
+|
+|-heal|p2a: Bronzong|236\/255|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944024
+|move|p1a: Flygon|Earthquake|p2a: Bronzong
+|-immune|p2a: Bronzong|[from] ability: Levitate
+|move|p2a: Bronzong|Toxic|p1a: Flygon
+|-status|p1a: Flygon|tox
+|
+|-heal|p2a: Bronzong|251\/255|[from] item: Leftovers
+|-damage|p1a: Flygon|249\/265 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1713944047
+|move|p1a: Flygon|Outrage|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|206\/255
+|move|p2a: Bronzong|Iron Head|p1a: Flygon
+|-damage|p1a: Flygon|149\/265 tox
+|
+|-heal|p1a: Flygon|165\/265 tox|[from] item: Leftovers
+|-heal|p2a: Bronzong|221\/255|[from] item: Leftovers
+|-damage|p1a: Flygon|133\/265 tox|[from] psn
+|upkeep
+|turn|8
+|j| IlGabibb0
+|
+|t:|1713944059
+|move|p1a: Flygon|Outrage|p2a: Bronzong|[from]lockedmove
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|170\/255
+|-start|p1a: Flygon|confusion|[fatigue]
+|move|p2a: Bronzong|Iron Head|p1a: Flygon
+|-damage|p1a: Flygon|46\/265 tox
+|
+|-heal|p1a: Flygon|62\/265 tox|[from] item: Leftovers
+|-heal|p2a: Bronzong|185\/255|[from] item: Leftovers
+|-damage|p1a: Flygon|14\/265 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1713944063
+|-activate|p1a: Flygon|confusion
+|-damage|p1a: Flygon|0 fnt|[from] confusion
+|faint|p1a: Flygon
+|move|p2a: Bronzong|Iron Head|p1: Flygon|[notarget]
+|-fail|p2a: Bronzong
+|
+|-heal|p2a: Bronzong|200\/255|[from] item: Leftovers
+|upkeep
+|
+|t:|1713944076
+|switch|p1a: Meowstic|Meowstic-F, L89, F|277\/277
+|turn|10
+|
+|t:|1713944085
+|move|p1a: Meowstic|Dark Pulse|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|64\/255
+|move|p2a: Bronzong|Toxic|p1a: Meowstic
+|-status|p1a: Meowstic|tox
+|
+|-heal|p2a: Bronzong|79\/255|[from] item: Leftovers
+|-damage|p1a: Meowstic|260\/277 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1713944092
+|switch|p2a: Cobalion|Cobalion, L80|277\/277
+|move|p1a: Meowstic|Dark Pulse|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|225\/277
+|-ability|p2a: Cobalion|Justified|boost
+|-boost|p2a: Cobalion|atk|1
+|
+|-heal|p2a: Cobalion|242\/277|[from] item: Leftovers
+|-damage|p1a: Meowstic|226\/277 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944103
+|switch|p1a: Hitmontop|Hitmontop, L89, M|234\/234
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Cobalion|atk|1
+|move|p2a: Cobalion|Iron Head|p1a: Hitmontop
+|-damage|p1a: Hitmontop|171\/234
+|
+|-heal|p2a: Cobalion|259\/277|[from] item: Leftovers
+|-heal|p1a: Hitmontop|185\/234|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944116
+|switch|p2a: Florges|Florges, L85, F|242\/271
+|move|p1a: Hitmontop|Earthquake|p2a: Florges
+|-damage|p2a: Florges|157\/271
+|
+|-heal|p2a: Florges|173\/271|[from] item: Leftovers
+|-heal|p1a: Hitmontop|199\/234|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944128
+|switch|p1a: Jirachi|Jirachi, L77|133\/281
+|move|p2a: Florges|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|79\/281
+|
+|-heal|p2a: Florges|189\/271|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1713944137
+|switch|p2a: Bronzong|Bronzong, L86|79\/255
+|move|p1a: Jirachi|Iron Head|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|52\/255
+|
+|-heal|p2a: Bronzong|67\/255|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944153
+|move|p1a: Jirachi|Drain Punch|p2a: Bronzong
+|-damage|p2a: Bronzong|29\/255
+|-heal|p1a: Jirachi|98\/281|[from] drain|[of] p2a: Bronzong
+|move|p2a: Bronzong|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-heal|p2a: Bronzong|44\/255|[from] item: Leftovers
+|upkeep
+|inactive|DohNo! has 120 seconds left.
+|
+|t:|1713944164
+|switch|p1a: Kecleon|Kecleon, L89, F|252\/252
+|turn|17
+|
+|t:|1713944176
+|move|p1a: Kecleon|Knock Off|p2a: Bronzong
+|-start|p1a: Kecleon|typechange|Dark|[from] ability: Protean
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Kecleon
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1713944182
+|switch|p2a: Cobalion|Cobalion, L80|259\/277
+|turn|18
+|
+|t:|1713944191
+|switch|p1a: Hitmontop|Hitmontop, L89, M|199\/234
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Cobalion|atk|1
+|move|p2a: Cobalion|Swords Dance|p2a: Cobalion
+|-boost|p2a: Cobalion|atk|2
+|
+|-heal|p2a: Cobalion|276\/277|[from] item: Leftovers
+|-heal|p1a: Hitmontop|213\/234|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1713944201
+|switch|p2a: Florges|Florges, L85, F|189\/271
+|move|p1a: Hitmontop|Earthquake|p2a: Florges
+|-damage|p2a: Florges|103\/271
+|
+|-heal|p2a: Florges|119\/271|[from] item: Leftovers
+|-heal|p1a: Hitmontop|227\/234|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1713944212
+|switch|p1a: Spinda|Spinda, L99, M|279\/279
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|254\/271
+|
+|-heal|p2a: Florges|270\/271|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1713944227
+|move|p2a: Florges|Toxic|p1a: Spinda
+|-status|p1a: Spinda|tox
+|move|p1a: Spinda|Return|p2a: Florges
+|-damage|p2a: Florges|153\/271
+|
+|-heal|p2a: Florges|169\/271|[from] item: Leftovers
+|-damage|p1a: Spinda|262\/279 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1713944246
+|move|p1a: Spinda|Sucker Punch||[still]
+|-fail|p1a: Spinda
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|271\/271
+|
+|-heal|p1a: Spinda|279\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|245\/279 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1713944256
+|switch|p1a: Meowstic|Meowstic-F, L89, F|226\/277 tox
+|move|p2a: Florges|Moonblast|p1a: Meowstic
+|-damage|p1a: Meowstic|105\/277 tox
+|
+|-damage|p1a: Meowstic|88\/277 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|cz3 has 120 seconds left.
+|
+|t:|1713944302
+|move|p1a: Meowstic|Psyshock|p2a: Florges
+|-damage|p2a: Florges|118\/271
+|move|p2a: Florges|Moonblast|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|faint|p1a: Meowstic
+|
+|-heal|p2a: Florges|134\/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1713944313
+|switch|p1a: Kecleon|Kecleon, L89, F|252\/252
+|turn|25
+|
+|t:|1713944319
+|move|p2a: Florges|Toxic|p1a: Kecleon|[miss]
+|-miss|p2a: Florges|p1a: Kecleon
+|move|p1a: Kecleon|Thunder Wave|p2a: Florges
+|-start|p1a: Kecleon|typechange|Electric|[from] ability: Protean
+|-status|p2a: Florges|par
+|
+|-heal|p2a: Florges|150\/271 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1713944330
+|move|p1a: Kecleon|Knock Off|p2a: Florges
+|-start|p1a: Kecleon|typechange|Dark|[from] ability: Protean
+|-resisted|p2a: Florges
+|-damage|p2a: Florges|82\/271 par
+|-enditem|p2a: Florges|Leftovers|[from] move: Knock Off|[of] p1a: Kecleon
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|217\/271 par
+|
+|upkeep
+|turn|27
+|inactive|cz3 has 120 seconds left.
+|inactive|cz3 has 90 seconds left.
+|inactive|cz3 has 60 seconds left.
+|
+|t:|1713944418
+|move|p1a: Kecleon|Thunder Wave|p2a: Florges
+|-start|p1a: Kecleon|typechange|Electric|[from] ability: Protean
+|-fail|p2a: Florges|par
+|move|p2a: Florges|Toxic|p1a: Kecleon
+|-status|p1a: Kecleon|tox
+|
+|-damage|p1a: Kecleon|237\/252 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1713944435
+|switch|p1a: Spinda|Spinda, L99, M|245\/279 tox
+|cant|p2a: Florges|par
+|
+|-heal|p1a: Spinda|262\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|245\/279 tox|[from] psn
+|upkeep
+|turn|29
+|inactive|cz3 has 60 seconds left.
+|
+|t:|1713944444
+|move|p1a: Spinda|Feint Attack|p2a: Florges
+|-resisted|p2a: Florges
+|-damage|p2a: Florges|194\/271 par
+|move|p2a: Florges|Moonblast|p1a: Spinda
+|-damage|p1a: Spinda|116\/279 tox
+|
+|-heal|p1a: Spinda|133\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|99\/279 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1713944454
+|move|p1a: Spinda|Return|p2a: Florges
+|-damage|p2a: Florges|77\/271 par
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|212\/271 par
+|
+|-heal|p1a: Spinda|116\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|65\/279 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1713944462
+|move|p1a: Spinda|Return|p2a: Florges
+|-damage|p2a: Florges|85\/271 par
+|cant|p2a: Florges|par
+|
+|-heal|p1a: Spinda|82\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|14\/279 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1713944470
+|move|p1a: Spinda|Return|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|
+|-heal|p1a: Spinda|31\/279 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|0 fnt|[from] psn
+|faint|p1a: Spinda
+|upkeep
+|
+|t:|1713944479
+|switch|p2a: Darkrai|Darkrai, L76|231\/231
+|switch|p1a: Hitmontop|Hitmontop, L89, M|227\/234
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Darkrai|atk|1
+|turn|33
+|inactive|cz3 has 90 seconds left.
+|
+|t:|1713944493
+|-zpower|p2a: Darkrai
+|move|p2a: Darkrai|Black Hole Eclipse|p1a: Hitmontop|[zeffect]
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|155\/234
+|move|p1a: Hitmontop|Close Combat|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-crit|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|faint|p2a: Darkrai
+|
+|-heal|p1a: Hitmontop|169\/234|[from] item: Leftovers
+|upkeep
+|
+|t:|1713944500
+|switch|p2a: Rayquaza|Rayquaza, L67|251\/251
+|-ability|p2a: Rayquaza|Air Lock
+|turn|34
+|c|☆DohNo!|nah
+|
+|t:|1713944524
+|detailschange|p2a: Rayquaza|Rayquaza-Mega, L67
+|-mega|p2a: Rayquaza|Rayquaza|
+|-weather|DeltaStream|[from] ability: Delta Stream|[of] p2a: Rayquaza
+|move|p2a: Rayquaza|Dragon Ascent|p1a: Hitmontop
+|-supereffective|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|-unboost|p2a: Rayquaza|def|1
+|-unboost|p2a: Rayquaza|spd|1
+|faint|p1a: Hitmontop
+|
+|-weather|DeltaStream|[upkeep]
+|upkeep
+|l| IlGabibb0
+|
+|t:|1713944533
+|switch|p1a: Kecleon|Kecleon, L89, F|237\/252 tox
+|turn|35
+|j| IlGabibb0
+|
+|t:|1713944545
+|move|p2a: Rayquaza|Dragon Ascent|p1a: Kecleon
+|-damage|p1a: Kecleon|0 fnt
+|-unboost|p2a: Rayquaza|def|1
+|-unboost|p2a: Rayquaza|spd|1
+|faint|p1a: Kecleon
+|
+|win|cz3
+|n|☆DohNo!|dohno
+|n|☆cz3|cz3
+|n| IlGabibb0|ilgabibb0
+|c|☆cz3|gg
+|l|☆cz3
+|player|p2|
+|l|☆DohNo!
+|player|p1|
+|j|☆DohNo!
+|player|p1|DohNo!|170|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆DohNo! and ☆cz3 joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between DohNo! and cz3!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Meowstic (<strong>Meowstic-F</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 sent out <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-dohno"><strong style="color:#43a850"><small>☆</small><span class="username" data-name="DohNo!">DohNo!</span>:</strong> <em>gl hf</em></div><div class="chat message-error">cz3 has 120 seconds left.</div><div class="chat message-error">cz3 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−61/271">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Meowstic avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic, come back!<br></div><div class="battle-history">Go! <strong>Jirachi</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Jirachi avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 withdrew Florges!<br></div><div class="battle-history">cz3 sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−27/255">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−37/255">14.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Jirachi lost <abbr title="−148/281">52.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi, come back!<br></div><div class="battle-history">Go! <strong>Flygon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history">[Flygon's Levitate]<br><small>It doesn't affect Flygon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Flygon used <strong>Earthquake</strong>!<br></div><div class="battle-history">[The opposing Bronzong's Levitate]<br><small>It doesn't affect the opposing Bronzong...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Flygon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Flygon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Flygon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−45/255">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Flygon lost <abbr title="−100/265">37.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Flygon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Flygon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat"><small> IlGabibb0 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Flygon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−51/255">20%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Flygon became confused due to fatigue!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Flygon lost <abbr title="−87/265">32.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Flygon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Flygon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Flygon is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Flygon fainted!<br></div><div class="battle-history">The opposing Bronzong used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Meowstic (<strong>Meowstic-F</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−136/255">53.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Meowstic was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Meowstic was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">cz3 withdrew Bronzong!<br></div><div class="battle-history">cz3 sent out <strong>Cobalion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Cobalion lost <abbr title="−52/277">18.8%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Cobalion's Justified]<br></div><div class="battle-history"><small>The opposing Cobalion's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Meowstic was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Cobalion's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−63/234">26.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 withdrew Cobalion!<br></div><div class="battle-history">cz3 sent out <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−85/271">31.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop, come back!<br></div><div class="battle-history">Go! <strong>Jirachi</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Jirachi lost <abbr title="−54/281">19.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">cz3 withdrew Florges!<br></div><div class="battle-history">cz3 sent out <strong>Bronzong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−27/255">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−38/255">14.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bronzong had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Jirachi lost <abbr title="−98/281">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Jirachi fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Bronzong restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">DohNo! has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Knock Off</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Dark!</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bronzong lost <abbr title="−44/255">17.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kecleon knocked off the opposing Bronzong's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bronzong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 sent out <strong>Cobalion</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon, come back!<br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Cobalion's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Cobalion used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Cobalion's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Cobalion restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">cz3 withdrew Cobalion!<br></div><div class="battle-history">cz3 sent out <strong>Florges</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−86/271">31.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop, come back!<br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Spinda was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−117/271">43.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda, come back!<br></div><div class="battle-history">Go! Meowstic (<strong>Meowstic-F</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Meowstic lost <abbr title="−121/277">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Meowstic was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="chat message-error">cz3 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−153/271">56.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Meowstic lost <abbr title="−88/277">31.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Kecleon avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Thunder Wave</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Electric!</small><br></div><div class="battle-history"><small>The opposing Florges is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Florges restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Knock Off</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Dark!</small><br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−68/271">25.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Kecleon knocked off the opposing Florges's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat message-error">cz3 has 120 seconds left.</div><div class="chat message-error">cz3 has 90 seconds left.</div><div class="chat message-error">cz3 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon used <strong>Thunder Wave</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Kecleon's Protean]<br><small>Kecleon's type changed to Electric!</small><br></div><div class="battle-history"><small>The opposing Florges is already paralyzed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Kecleon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kecleon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon, come back!<br></div><div class="battle-history">Go! <strong>Spinda</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="chat message-error">cz3 has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Feint Attack</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−23/271">8.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Spinda lost <abbr title="−129/279">46.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−117/271">43.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Florges had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−127/271">46.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Spinda used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−85/271">31.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Spinda restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Spinda was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Spinda fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 sent out <strong>Darkrai</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Darkrai's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat message-error">cz3 has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Darkrai surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Darkrai unleashes its full-force Z-Move!</small><br>The opposing Darkrai used <strong>Black Hole Eclipse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−72/234">30.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Darkrai lost <abbr title="−231/231">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hitmontop's Defense fell!</small><br></div><div class="battle-history"><small>Hitmontop's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Darkrai fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Hitmontop restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">cz3 sent out <strong>Rayquaza</strong>!<br></div><div class="battle-history">[The opposing Rayquaza's Air Lock]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat chatmessage-dohno"><strong style="color:#43a850"><small>☆</small><span class="username" data-name="DohNo!">DohNo!</span>:</strong> <em>nah</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>cz3's fervent wish has reached the opposing Rayquaza!</small><br>The opposing Rayquaza has Mega Evolved into Mega Rayquaza!<br></div><div class="battle-history">[The opposing Rayquaza's Delta Stream]<br><small>Mysterious strong winds are protecting Flying-type Pokémon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rayquaza used <strong>Dragon Ascent</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−169/234">72.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rayquaza's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Rayquaza's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop fainted!<br></div><div class="chat"><small> IlGabibb0 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kecleon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="chat"><small> IlGabibb0 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Rayquaza used <strong>Dragon Ascent</strong>!<br></div><div class="battle-history"><small>(Kecleon lost <abbr title="−237/252">94.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Rayquaza's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Rayquaza's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kecleon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>cz3</strong> won the battle!<br></div><div class="chat chatmessage-cz3"><strong style="color:#1b8f7f"><small>☆</small><span class="username" data-name="cz3">cz3</span>:</strong> <em>gg</em></div><div class="chat"><small>☆cz3 left</small></div><div class="chat"><small>☆DohNo! left</small></div><div class="chat"><small>☆DohNo! joined</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

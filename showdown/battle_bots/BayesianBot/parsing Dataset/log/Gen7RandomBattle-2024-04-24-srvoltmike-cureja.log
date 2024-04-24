@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: srvoltmike vs. cureja</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110219048" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/srvoltmike" class="subtle" target="_blank">srvoltmike</a> vs. <a href="http://pokemonshowdown.com/users/cureja" class="subtle" target="_blank">cureja</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆srvoltmike
+|j|☆cureja
+|html|<table width="100%"><tr><td align="left">srvoltmike<\/td><td align="right">cureja<\/tr><tr><td align="left"><i class="fa fa-circle-o"><\/i> <i class="fa fa-circle-o"><\/i> <\/td><td align="right"><i class="fa fa-circle-o"><\/i> <i class="fa fa-circle"><\/i> <\/tr><\/table>
+|uhtml|bestof|<h2><strong>Game 2<\/strong> of <a href="\/game-bestof3-gen7randombattle-2110212063">a best-of-3<\/a><\/h2>
+|t:|1713923286
+|gametype|singles
+|player|p1|srvoltmike|irida|
+|player|p2|cureja|yellow|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713923286
+|start
+|switch|p1a: Dedenne|Dedenne, L90, F|264\/264
+|switch|p2a: Druddigon|Druddigon, L86, F|273\/273
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by srvoltmike)
+|c|☆srvoltmike|gl hf
+|c|☆cureja|glhf!
+|
+|t:|1713923327
+|move|p1a: Dedenne|Substitute|p1a: Dedenne
+|-start|p1a: Dedenne|Substitute
+|-damage|p1a: Dedenne|198\/264
+|move|p2a: Druddigon|Gunk Shot|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-end|p1a: Dedenne|Substitute
+|
+|upkeep
+|turn|2
+|
+|t:|1713923339
+|move|p1a: Dedenne|Substitute|p1a: Dedenne
+|-start|p1a: Dedenne|Substitute
+|-damage|p1a: Dedenne|132\/264
+|-enditem|p1a: Dedenne|Sitrus Berry|[eat]
+|-heal|p1a: Dedenne|198\/264|[from] item: Sitrus Berry
+|-heal|p1a: Dedenne|264\/264|[from] ability: Cheek Pouch
+|move|p2a: Druddigon|Gunk Shot|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-end|p1a: Dedenne|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1713923355
+|move|p1a: Dedenne|Substitute|p1a: Dedenne
+|-start|p1a: Dedenne|Substitute
+|-damage|p1a: Dedenne|198\/264
+|move|p2a: Druddigon|Gunk Shot|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-end|p1a: Dedenne|Substitute
+|
+|upkeep
+|turn|4
+|
+|t:|1713923373
+|switch|p2a: Swalot|Swalot, L90, M|326\/326
+|move|p1a: Dedenne|Substitute|p1a: Dedenne
+|-start|p1a: Dedenne|Substitute
+|-damage|p1a: Dedenne|132\/264
+|
+|upkeep
+|turn|5
+|
+|t:|1713923377
+|move|p1a: Dedenne|Recycle|p1a: Dedenne
+|-item|p1a: Dedenne|Sitrus Berry|[from] move: Recycle
+|-enditem|p1a: Dedenne|Sitrus Berry|[eat]
+|-heal|p1a: Dedenne|198\/264|[from] item: Sitrus Berry
+|-heal|p1a: Dedenne|264\/264|[from] ability: Cheek Pouch
+|move|p2a: Swalot|Sludge Bomb|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-end|p1a: Dedenne|Substitute
+|
+|upkeep
+|turn|6
+|inactive|srvoltmike has 270 seconds left.
+|
+|t:|1713923428
+|switch|p1a: Liepard|Liepard, L91, F|264\/264
+|move|p2a: Swalot|Toxic|p1a: Liepard
+|-status|p1a: Liepard|tox
+|
+|-damage|p1a: Liepard|248\/264 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1713923461
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Liepard|Copycat||[still]
+|-fail|p1a: Liepard
+|
+|-heal|p1a: Liepard|264\/264 tox|[from] item: Leftovers
+|-damage|p1a: Liepard|232\/264 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|cureja has 270 seconds left.
+|
+|t:|1713923495
+|move|p1a: Liepard|Encore|p2a: Swalot
+|-start|p2a: Swalot|Encore
+|move|p2a: Swalot|Protect||[still]
+|-fail|p2a: Swalot
+|
+|-heal|p1a: Liepard|248\/264 tox|[from] item: Leftovers
+|-damage|p1a: Liepard|200\/264 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1713923502
+|switch|p1a: Scyther|Scyther, L83, M|251\/251
+|switch|p2a: Druddigon|Druddigon, L86, F|273\/273
+|
+|upkeep
+|turn|10
+|inactive|cureja has 270 seconds left.
+|inactive|srvoltmike has 240 seconds left.
+|
+|t:|1713923539
+|switch|p1a: Liepard|Liepard, L91, F|200\/264 tox
+|move|p2a: Druddigon|Gunk Shot|p1a: Liepard
+|-damage|p1a: Liepard|0 fnt
+|faint|p1a: Liepard
+|
+|upkeep
+|inactive|srvoltmike has 210 seconds left.
+|
+|t:|1713923576
+|switch|p1a: Scyther|Scyther, L83, M|251\/251
+|turn|11
+|inactive|cureja has 270 seconds left.
+|inactive|cureja has 240 seconds left.
+|
+|t:|1713923618
+|move|p1a: Scyther|Swords Dance|p1a: Scyther
+|-boost|p1a: Scyther|atk|2
+|move|p2a: Druddigon|Gunk Shot|p1a: Scyther
+|-crit|p1a: Scyther
+|-damage|p1a: Scyther|71\/251
+|
+|upkeep
+|turn|12
+|inactive|srvoltmike has 210 seconds left.
+|inactive|cureja has 240 seconds left.
+|inactive|cureja has 210 seconds left.
+|
+|t:|1713923663
+|switch|p2a: Hippowdon|Hippowdon, L82, F|311\/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Scyther|Roost|p1a: Scyther
+|-heal|p1a: Scyther|197\/251
+|-singleturn|p1a: Scyther|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Scyther|182\/251|[from] Sandstorm
+|upkeep
+|turn|13
+|inactive|cureja has 210 seconds left.
+|inactive|srvoltmike has 210 seconds left.
+|
+|t:|1713923684
+|move|p1a: Scyther|Aerial Ace|p2a: Hippowdon
+|-damage|p2a: Hippowdon|143\/311
+|move|p2a: Hippowdon|Whirlwind|p1a: Scyther
+|drag|p1a: Simisear|Simisear, L89, F|278\/278
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Simisear|261\/278|[from] Sandstorm
+|-heal|p2a: Hippowdon|162\/311|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|srvoltmike has 210 seconds left.
+|
+|t:|1713923704
+|switch|p2a: Druddigon|Druddigon, L86, F|273\/273
+|move|p1a: Simisear|Nasty Plot|p1a: Simisear
+|-boost|p1a: Simisear|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Simisear|244\/278|[from] Sandstorm
+|-damage|p2a: Druddigon|256\/273|[from] Sandstorm
+|upkeep
+|turn|15
+|inactive|srvoltmike has 210 seconds left.
+|inactive|srvoltmike has 180 seconds left.
+|inactive|srvoltmike has 150 seconds left.
+|inactive|cureja has 180 seconds left.
+|
+|t:|1713923785
+|switch|p1a: Scyther|Scyther, L83, M|182\/251
+|move|p2a: Druddigon|Outrage|p1a: Scyther
+|-damage|p1a: Scyther|10\/251
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Scyther|0 fnt|[from] Sandstorm
+|-damage|p2a: Druddigon|239\/273|[from] Sandstorm
+|faint|p1a: Scyther
+|upkeep
+|inactive|srvoltmike has 150 seconds left.
+|
+|t:|1713923794
+|switch|p1a: Dedenne|Dedenne, L90, F|264\/264
+|turn|16
+|
+|t:|1713923801
+|move|p1a: Dedenne|Toxic|p2a: Druddigon
+|-status|p2a: Druddigon|tox
+|move|p2a: Druddigon|Outrage|p1a: Dedenne|[from]lockedmove
+|-immune|p1a: Dedenne
+|-start|p2a: Druddigon|confusion|[fatigue]
+|
+|-weather|none
+|-damage|p2a: Druddigon|222\/273 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1713923803
+|switch|p2a: Hippowdon|Hippowdon, L82, F|162\/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Dedenne|Recycle|p1a: Dedenne
+|-item|p1a: Dedenne|Sitrus Berry|[from] move: Recycle
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dedenne|248\/264|[from] Sandstorm
+|-heal|p2a: Hippowdon|181\/311|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1713923809
+|move|p1a: Dedenne|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Stealth Rock|p1a: Dedenne
+|-sidestart|p1: srvoltmike|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dedenne|232\/264|[from] Sandstorm
+|-heal|p2a: Hippowdon|200\/311 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|181\/311 tox|[from] psn
+|upkeep
+|turn|19
+|inactive|cureja has 210 seconds left.
+|
+|t:|1713923817
+|switch|p1a: Bellossom|Bellossom, L87, M|272\/272
+|-damage|p1a: Bellossom|238\/272|[from] Stealth Rock
+|switch|p2a: Swalot|Swalot, L90, M|326\/326
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Swalot|306\/326|[from] Sandstorm
+|-damage|p1a: Bellossom|221\/272|[from] Sandstorm
+|-heal|p2a: Swalot|326\/326|[from] item: Black Sludge
+|-heal|p1a: Bellossom|238\/272|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|srvoltmike has 180 seconds left.
+|inactive|cureja has 210 seconds left.
+|
+|t:|1713923838
+|move|p2a: Swalot|Sludge Bomb|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|82\/272
+|-status|p1a: Bellossom|psn
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bellossom|65\/272 psn|[from] Sandstorm
+|-damage|p2a: Swalot|306\/326|[from] Sandstorm
+|-heal|p1a: Bellossom|82\/272 psn|[from] item: Leftovers
+|-heal|p2a: Swalot|326\/326|[from] item: Black Sludge
+|-damage|p1a: Bellossom|48\/272 psn|[from] psn
+|upkeep
+|turn|21
+|inactive|cureja has 210 seconds left.
+|
+|t:|1713923850
+|move|p1a: Bellossom|Strength Sap|p2a: Swalot
+|-unboost|p2a: Swalot|atk|1
+|-damage|p1a: Bellossom|0 fnt|[from] ability: Liquid Ooze|[of] p2a: Swalot
+|faint|p1a: Bellossom
+|move|p2a: Swalot|Sludge Bomb|p1: Bellossom|[notarget]
+|-fail|p2a: Swalot
+|
+|-weather|none
+|upkeep
+|c|☆cureja|o
+|c|☆srvoltmike|i didnt kno that one got affected by liquid ooze tbh
+|
+|t:|1713923874
+|switch|p1a: Darkrai|Darkrai, L76|231\/231
+|-damage|p1a: Darkrai|203\/231|[from] Stealth Rock
+|turn|22
+|c|☆cureja|me neither
+|c|☆cureja|neat
+|inactive|cureja has 210 seconds left.
+|
+|t:|1713923890
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Swalot|Toxic|p1a: Darkrai
+|-status|p1a: Darkrai|tox
+|
+|-damage|p1a: Darkrai|189\/231 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1713923895
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Swalot|Sludge Bomb|p1a: Darkrai
+|-damage|p1a: Darkrai|87\/231 tox
+|
+|-damage|p1a: Darkrai|59\/231 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1713923904
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Darkrai|Dark Pulse|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|-damage|p1a: Darkrai|17\/231 tox|[from] psn
+|upkeep
+|turn|25
+|inactive|srvoltmike has 180 seconds left.
+|
+|t:|1713923924
+|switch|p2a: Hippowdon|Hippowdon, L82, F|181\/311 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|-zpower|p1a: Darkrai
+|move|p1a: Darkrai|Black Hole Eclipse|p2a: Hippowdon|[zeffect]
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Darkrai|3\/231 tox|[from] Sandstorm
+|-damage|p1a: Darkrai|0 fnt|[from] psn
+|faint|p1a: Darkrai
+|upkeep
+|
+|t:|1713923930
+|switch|p1a: Dedenne|Dedenne, L90, F|232\/264
+|switch|p2a: Swalot|Swalot, L90, M|326\/326
+|-damage|p1a: Dedenne|199\/264|[from] Stealth Rock
+|turn|26
+|
+|t:|1713923934
+|move|p1a: Dedenne|Thunderbolt|p2a: Swalot
+|-damage|p2a: Swalot|236\/326
+|move|p2a: Swalot|Sludge Bomb|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-damage|p1a: Dedenne|0 fnt
+|faint|p1a: Dedenne
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Swalot|216\/326|[from] Sandstorm
+|-heal|p2a: Swalot|236\/326|[from] item: Black Sludge
+|upkeep
+|
+|t:|1713923939
+|switch|p1a: Simisear|Simisear, L89, F|244\/278
+|-damage|p1a: Simisear|175\/278|[from] Stealth Rock
+|turn|27
+|inactive|cureja has 240 seconds left.
+|
+|t:|1713923944
+|move|p1a: Simisear|Fire Blast|p2a: Swalot
+|-damage|p2a: Swalot|83\/326
+|-damage|p1a: Simisear|148\/278|[from] item: Life Orb
+|move|p2a: Swalot|Earthquake|p1a: Simisear
+|-supereffective|p1a: Simisear
+|-damage|p1a: Simisear|0 fnt
+|faint|p1a: Simisear
+|
+|win|cureja
+|c|☆cureja|ggs
+|c|☆srvoltmike|ggs!
+|c|☆srvoltmike|gl with the rest of the tour
+|c|☆cureja|ty!
+|c|☆cureja|have a nice rest of your day!
+|c|☆srvoltmike|u2
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆srvoltmike and ☆cureja joined</small></div><div class="chat"><table width="100%"><tbody><tr><td align="left">srvoltmike</td><td align="right">cureja</td></tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle"></i> </td></tr></tbody></table></div><div class="notice uhtml-bestof"><h2><strong>Game 2</strong> of <a href="/game-bestof3-gen7randombattle-2110212063" target="_blank" rel="noopener">a best-of-3</a></h2></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between srvoltmike and cureja!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dedenne</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cureja sent out <strong>Druddigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by srvoltmike)</div><div class="chat chatmessage-srvoltmike"><strong style="color:#a915c0"><small>☆</small><span class="username" data-name="srvoltmike">srvoltmike</span>:</strong> <em>gl hf</em></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>glhf!</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Dedenne put in a substitute!</small><br></div><div class="battle-history"><small>(Dedenne lost <abbr title="−66/264">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Dedenne's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Dedenne put in a substitute!</small><br></div><div class="battle-history"><small>(Dedenne lost <abbr title="−66/264">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Dedenne ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Dedenne restored HP using its Sitrus Berry!</small><br></div><div class="battle-history">[Dedenne's Cheek Pouch]<br><small>Dedenne had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Dedenne's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Dedenne put in a substitute!</small><br></div><div class="battle-history"><small>(Dedenne lost <abbr title="−66/264">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Dedenne's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Druddigon!<br></div><div class="battle-history">cureja sent out <strong>Swalot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Dedenne put in a substitute!</small><br></div><div class="battle-history"><small>(Dedenne lost <abbr title="−66/264">25%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>Dedenne found one Sitrus Berry!</small><br></div><div class="battle-history"><small>(Dedenne ate its Sitrus Berry!)</small><br></div><div class="battle-history"><small>Dedenne restored HP using its Sitrus Berry!</small><br></div><div class="battle-history">[Dedenne's Cheek Pouch]<br><small>Dedenne had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Dedenne's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">srvoltmike has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne, come back!<br></div><div class="battle-history">Go! <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Liepard was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Liepard was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Swalot protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Liepard used <strong>Copycat</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Liepard restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Liepard was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">cureja has 270 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Liepard used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Swalot must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Liepard restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Liepard was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Liepard, come back!<br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Swalot!<br></div><div class="battle-history">cureja sent out <strong>Druddigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">cureja has 270 seconds left.</div><div class="chat message-error">srvoltmike has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther, come back!<br></div><div class="battle-history">Go! <strong>Liepard</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Liepard lost <abbr title="−200/264">75.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Liepard fainted!<br></div><div class="chat message-error">srvoltmike has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">cureja has 270 seconds left.</div><div class="chat message-error">cureja has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>Scyther's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Scyther lost <abbr title="−180/251">71.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">srvoltmike has 210 seconds left.</div><div class="chat message-error">cureja has 240 seconds left.</div><div class="chat message-error">cureja has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Druddigon!<br></div><div class="battle-history">cureja sent out <strong>Hippowdon</strong>!<br></div><div class="battle-history">[The opposing Hippowdon's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Scyther had its HP restored.</small><br></div><div class="battle-history"><small>(Scyther loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Scyther is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="chat message-error">cureja has 210 seconds left.</div><div class="chat message-error">srvoltmike has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther used <strong>Aerial Ace</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−168/311">54.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon used <strong>Whirlwind</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Simisear</strong> was dragged out!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Simisear is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">srvoltmike has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Hippowdon!<br></div><div class="battle-history">cureja sent out <strong>Druddigon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Simisear's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Simisear is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Druddigon is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">srvoltmike has 210 seconds left.</div><div class="chat message-error">srvoltmike has 180 seconds left.</div><div class="chat message-error">srvoltmike has 150 seconds left.</div><div class="chat message-error">cureja has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear, come back!<br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(Scyther lost <abbr title="−172/251">68.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Scyther is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Druddigon is buffeted by the sandstorm!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther fainted!<br></div><div class="chat message-error">srvoltmike has 150 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dedenne</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Druddigon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Druddigon used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>It doesn't affect Dedenne...</small><br></div><div class="battle-history"><small>The opposing Druddigon became confused due to fatigue!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The sandstorm subsided.</small><br></div><div class="battle-history"><small>The opposing Druddigon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Druddigon!<br></div><div class="battle-history">cureja sent out <strong>Hippowdon</strong>!<br></div><div class="battle-history">[The opposing Hippowdon's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>Dedenne found one Sitrus Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Dedenne is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Hippowdon was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Dedenne is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Hippowdon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Hippowdon was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="chat message-error">cureja has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne, come back!<br></div><div class="battle-history">Go! <strong>Bellossom</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Bellossom!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Hippowdon!<br></div><div class="battle-history">cureja sent out <strong>Swalot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Swalot is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat message-error">srvoltmike has 180 seconds left.</div><div class="chat message-error">cureja has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Bellossom lost <abbr title="−156/272">57.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Bellossom was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Bellossom's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Bellossom's Sp. Def rose!</small><br></div><div class="battle-history"><small>Bellossom's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Bellossom is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Swalot is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Bellossom restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Bellossom was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">cureja has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom used <strong>Strength Sap</strong>!<br></div><div class="battle-history"><small>The opposing Swalot's Attack fell!</small><br></div><div class="battle-history">[The opposing Swalot's Liquid Ooze]<br><small>Bellossom sucked up the liquid ooze!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Bellossom fainted!<br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The sandstorm subsided.</small><br></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>o</em></div><div class="chat chatmessage-srvoltmike"><strong style="color:#a915c0"><small>☆</small><span class="username" data-name="srvoltmike">srvoltmike</span>:</strong> <em>i didnt kno that one got affected by liquid ooze tbh</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Darkrai</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Darkrai!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>me neither</em></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>neat</em></div><div class="chat message-error">cureja has 210 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Darkrai used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Darkrai's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Darkrai was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darkrai was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darkrai used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Darkrai's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Darkrai lost <abbr title="−102/231">44.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darkrai was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Swalot protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darkrai used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>The opposing Swalot protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darkrai was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="chat message-error">srvoltmike has 180 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">cureja withdrew Swalot!<br></div><div class="battle-history">cureja sent out <strong>Hippowdon</strong>!<br></div><div class="battle-history">[The opposing Hippowdon's Sand Stream]<br><small>A sandstorm kicked up!</small><br></div><div class="battle-history"><small>Darkrai surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darkrai unleashes its full-force Z-Move!</small><br>Darkrai used <strong>Black Hole Eclipse</strong>!<br></div><div class="battle-history"><small>(The opposing Hippowdon lost <abbr title="−181/311">58.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hippowdon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>Darkrai is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>Darkrai was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darkrai fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dedenne</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">cureja sent out <strong>Swalot</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Dedenne!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−90/326">27.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dedenne lost <abbr title="−199/264">75.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dedenne fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sandstorm is raging.)</small><br></div><div class="battle-history"><small>The opposing Swalot is buffeted by the sandstorm!</small><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Simisear</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Simisear!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat message-error">cureja has 240 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−153/326">46.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Simisear lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Simisear lost <abbr title="−148/278">53.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>cureja</strong> won the battle!<br></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>ggs</em></div><div class="chat chatmessage-srvoltmike"><strong style="color:#a915c0"><small>☆</small><span class="username" data-name="srvoltmike">srvoltmike</span>:</strong> <em>ggs!</em></div><div class="chat chatmessage-srvoltmike"><strong style="color:#a915c0"><small>☆</small><span class="username" data-name="srvoltmike">srvoltmike</span>:</strong> <em>gl with the rest of the tour</em></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>ty!</em></div><div class="chat chatmessage-cureja"><strong style="color:#8d4ed1"><small>☆</small><span class="username" data-name="cureja">cureja</span>:</strong> <em>have a nice rest of your day!</em></div><div class="chat chatmessage-srvoltmike"><strong style="color:#a915c0"><small>☆</small><span class="username" data-name="srvoltmike">srvoltmike</span>:</strong> <em>u2</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

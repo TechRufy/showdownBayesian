@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: rainbowranjan vs. vaanavil vishesh</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110269801" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/rainbowranjan" class="subtle" target="_blank">rainbowranjan</a> vs. <a href="http://pokemonshowdown.com/users/vaanavilvishesh" class="subtle" target="_blank">vaanavil vishesh</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆rainbowranjan
+|j|☆vaanavil vishesh
+|t:|1713929690
+|gametype|singles
+|player|p1|rainbowranjan|170|
+|player|p2|vaanavil vishesh|lance|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713929690
+|start
+|switch|p1a: Alomomola|Alomomola, L87, F|429\/429
+|switch|p2a: Ampharos|Ampharos, L88, F|302\/302
+|turn|1
+|
+|t:|1713929702
+|switch|p1a: Torterra|Torterra, L88, M|310\/310
+|move|p2a: Ampharos|Volt Switch|p1a: Torterra
+|-immune|p1a: Torterra
+|
+|upkeep
+|turn|2
+|
+|t:|1713929722
+|switch|p2a: Camerupt|Camerupt, L88, M|266\/266
+|move|p1a: Torterra|Earthquake|p2a: Camerupt
+|-supereffective|p2a: Camerupt
+|-damage|p2a: Camerupt|31\/266
+|
+|upkeep
+|turn|3
+|
+|t:|1713929741
+|switch|p1a: Alomomola|Alomomola, L87, F|429\/429
+|detailschange|p2a: Camerupt|Camerupt-Mega, L88, M
+|-mega|p2a: Camerupt|Camerupt|Cameruptite
+|move|p2a: Camerupt|Fire Blast|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|268\/429
+|
+|upkeep
+|turn|4
+|
+|t:|1713929759
+|switch|p2a: Whimsicott|Whimsicott, L87, F|246\/246
+|move|p1a: Alomomola|Scald|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|221\/246
+|
+|-heal|p2a: Whimsicott|236\/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713929794
+|move|p2a: Whimsicott|Leech Seed|p1a: Alomomola
+|-start|p1a: Alomomola|move: Leech Seed
+|move|p1a: Alomomola|Toxic|p2a: Whimsicott
+|-status|p2a: Whimsicott|tox
+|
+|-heal|p2a: Whimsicott|246\/246 tox|[from] item: Leftovers
+|-damage|p1a: Alomomola|215\/429|[from] Leech Seed|[of] p2a: Whimsicott
+|-damage|p2a: Whimsicott|231\/246 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1713929805
+|move|p2a: Whimsicott|Moonblast|p1a: Alomomola
+|-damage|p1a: Alomomola|67\/429
+|-unboost|p1a: Alomomola|spa|1
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p2a: Whimsicott|246\/246 tox|[from] item: Leftovers
+|-damage|p1a: Alomomola|14\/429|[from] Leech Seed|[of] p2a: Whimsicott
+|-damage|p2a: Whimsicott|216\/246 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1713929818
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Whimsicott|Moonblast|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|228\/429|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Whimsicott|231\/246 tox|[from] item: Leftovers
+|-damage|p1a: Alomomola|175\/429|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|246\/246 tox|[silent]
+|-damage|p2a: Whimsicott|201\/246 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1713929833
+|move|p1a: Alomomola|Protect||[still]
+|-fail|p1a: Alomomola
+|move|p2a: Whimsicott|Moonblast|p1a: Alomomola
+|-damage|p1a: Alomomola|34\/429
+|-unboost|p1a: Alomomola|spa|1
+|
+|-heal|p2a: Whimsicott|216\/246 tox|[from] item: Leftovers
+|-damage|p1a: Alomomola|0 fnt|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|246\/246 tox|[silent]
+|faint|p1a: Alomomola
+|-damage|p2a: Whimsicott|186\/246 tox|[from] psn
+|upkeep
+|
+|t:|1713929849
+|switch|p1a: Galvantula|Galvantula, L82, F|249\/249
+|turn|9
+|
+|t:|1713929864
+|switch|p2a: Ampharos|Ampharos, L88, F|302\/302
+|move|p1a: Galvantula|Bug Buzz|p2a: Ampharos
+|-damage|p2a: Ampharos|184\/302
+|-damage|p1a: Galvantula|225\/249|[from] item: Life Orb
+|
+|-heal|p2a: Ampharos|202\/302|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1713929891
+|switch|p1a: Torterra|Torterra, L88, M|310\/310
+|move|p2a: Ampharos|Heal Bell|p2a: Ampharos
+|-activate|p2a: Ampharos|move: Heal Bell
+|-curestatus|p2: Whimsicott|tox|[msg]
+|
+|-heal|p2a: Ampharos|220\/302|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1713929914
+|switch|p2a: Whimsicott|Whimsicott, L87, F|186\/246
+|move|p1a: Torterra|Earthquake|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|119\/246
+|
+|-heal|p2a: Whimsicott|134\/246|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1713929928
+|switch|p1a: Probopass|Probopass, L89, M|252\/252
+|-item|p1a: Probopass|Air Balloon
+|move|p2a: Whimsicott|Moonblast|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|222\/252
+|-unboost|p1a: Probopass|spa|1
+|-enditem|p1a: Probopass|Air Balloon
+|
+|-heal|p2a: Whimsicott|149\/246|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713929945
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Probopass|Toxic|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|
+|-heal|p2a: Whimsicott|164\/246|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1713929953
+|move|p2a: Whimsicott|Leech Seed|p1a: Probopass
+|-start|p1a: Probopass|move: Leech Seed
+|move|p1a: Probopass|Toxic|p2a: Whimsicott
+|-status|p2a: Whimsicott|tox
+|
+|-heal|p2a: Whimsicott|179\/246 tox|[from] item: Leftovers
+|-damage|p1a: Probopass|191\/252|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|210\/246 tox|[silent]
+|-damage|p2a: Whimsicott|195\/246 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1713929976
+|switch|p2a: Maractus|Maractus, L97, F|302\/302
+|move|p1a: Probopass|Flash Cannon|p2a: Maractus
+|-damage|p2a: Maractus|248\/302
+|
+|-heal|p2a: Maractus|266\/302|[from] item: Leftovers
+|-damage|p1a: Probopass|160\/252|[from] Leech Seed|[of] p2a: Maractus
+|-heal|p2a: Maractus|297\/302|[silent]
+|upkeep
+|turn|16
+|
+|t:|1713929999
+|switch|p1a: Galvantula|Galvantula, L82, F|225\/249
+|move|p2a: Maractus|Hidden Power|p1a: Galvantula
+|-damage|p1a: Galvantula|145\/249
+|
+|-heal|p2a: Maractus|302\/302|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1713930017
+|move|p1a: Galvantula|Bug Buzz|p2a: Maractus
+|-supereffective|p2a: Maractus
+|-damage|p2a: Maractus|68\/302
+|-damage|p1a: Galvantula|121\/249|[from] item: Life Orb
+|move|p2a: Maractus|Leech Seed|p1a: Galvantula
+|-start|p1a: Galvantula|move: Leech Seed
+|
+|-heal|p2a: Maractus|86\/302|[from] item: Leftovers
+|-damage|p1a: Galvantula|90\/249|[from] Leech Seed|[of] p2a: Maractus
+|-heal|p2a: Maractus|117\/302|[silent]
+|upkeep
+|turn|18
+|
+|t:|1713930029
+|move|p2a: Maractus|Spiky Shield|p2a: Maractus
+|-singleturn|p2a: Maractus|move: Protect
+|move|p1a: Galvantula|Bug Buzz|p2a: Maractus
+|-activate|p2a: Maractus|move: Protect
+|
+|-heal|p2a: Maractus|135\/302|[from] item: Leftovers
+|-damage|p1a: Galvantula|59\/249|[from] Leech Seed|[of] p2a: Maractus
+|-heal|p2a: Maractus|166\/302|[silent]
+|upkeep
+|turn|19
+|
+|t:|1713930050
+|switch|p2a: Ampharos|Ampharos, L88, F|220\/302
+|move|p1a: Galvantula|Bug Buzz|p2a: Ampharos
+|-damage|p2a: Ampharos|111\/302
+|-damage|p1a: Galvantula|35\/249|[from] item: Life Orb
+|
+|-heal|p2a: Ampharos|129\/302|[from] item: Leftovers
+|-damage|p1a: Galvantula|4\/249|[from] Leech Seed|[of] p2a: Ampharos
+|-heal|p2a: Ampharos|160\/302|[silent]
+|upkeep
+|turn|20
+|
+|t:|1713930063
+|move|p1a: Galvantula|Giga Drain|p2a: Ampharos
+|-damage|p2a: Ampharos|103\/302
+|-heal|p1a: Galvantula|33\/249|[from] drain|[of] p2a: Ampharos
+|-damage|p1a: Galvantula|9\/249|[from] item: Life Orb
+|move|p2a: Ampharos|Heal Bell|p2a: Ampharos
+|-activate|p2a: Ampharos|move: Heal Bell
+|-curestatus|p2: Whimsicott|tox|[msg]
+|
+|-heal|p2a: Ampharos|121\/302|[from] item: Leftovers
+|-damage|p1a: Galvantula|0 fnt|[from] Leech Seed|[of] p2a: Ampharos
+|-heal|p2a: Ampharos|130\/302|[silent]
+|faint|p1a: Galvantula
+|upkeep
+|
+|t:|1713930081
+|switch|p1a: Torterra|Torterra, L88, M|310\/310
+|turn|21
+|
+|t:|1713930095
+|switch|p2a: Maractus|Maractus, L97, F|166\/302
+|move|p1a: Torterra|Earthquake|p2a: Maractus
+|-resisted|p2a: Maractus
+|-damage|p2a: Maractus|103\/302
+|
+|-heal|p2a: Maractus|121\/302|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1713930108
+|move|p2a: Maractus|Hidden Power|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|70\/310
+|move|p1a: Torterra|Stealth Rock|p2a: Maractus
+|-sidestart|p2: vaanavil vishesh|move: Stealth Rock
+|
+|-heal|p2a: Maractus|139\/302|[from] item: Leftovers
+|-heal|p1a: Torterra|89\/310|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1713930119
+|move|p2a: Maractus|Hidden Power|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|
+|-heal|p2a: Maractus|157\/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1713930138
+|switch|p1a: Probopass|Probopass, L89, M|160\/252
+|turn|24
+|
+|t:|1713930145
+|move|p2a: Maractus|Giga Drain|p1a: Probopass
+|-damage|p1a: Probopass|88\/252
+|-heal|p2a: Maractus|193\/302|[from] drain|[of] p1a: Probopass
+|move|p1a: Probopass|Toxic|p2a: Maractus
+|-status|p2a: Maractus|tox
+|
+|-heal|p2a: Maractus|211\/302 tox|[from] item: Leftovers
+|-damage|p2a: Maractus|193\/302 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1713930159
+|move|p2a: Maractus|Hidden Power|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|68\/252
+|move|p1a: Probopass|Flash Cannon|p2a: Maractus
+|-damage|p2a: Maractus|115\/302 tox
+|
+|-heal|p2a: Maractus|133\/302 tox|[from] item: Leftovers
+|-damage|p2a: Maractus|97\/302 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1713930170
+|move|p2a: Maractus|Leech Seed|p1a: Probopass
+|-start|p1a: Probopass|move: Leech Seed
+|move|p1a: Probopass|Flash Cannon|p2a: Maractus
+|-damage|p2a: Maractus|18\/302 tox
+|
+|-heal|p2a: Maractus|36\/302 tox|[from] item: Leftovers
+|-damage|p1a: Probopass|37\/252|[from] Leech Seed|[of] p2a: Maractus
+|-heal|p2a: Maractus|67\/302 tox|[silent]
+|-damage|p2a: Maractus|13\/302 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1713930189
+|switch|p2a: Whimsicott|Whimsicott, L87, F|195\/246
+|-damage|p2a: Whimsicott|165\/246|[from] Stealth Rock
+|move|p1a: Probopass|Flash Cannon|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|1\/246
+|
+|-heal|p2a: Whimsicott|16\/246|[from] item: Leftovers
+|-damage|p1a: Probopass|6\/252|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|47\/246|[silent]
+|upkeep
+|turn|28
+|
+|t:|1713930202
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Probopass|Flash Cannon|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|
+|-heal|p2a: Whimsicott|62\/246|[from] item: Leftovers
+|-damage|p1a: Probopass|0 fnt|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|68\/246|[silent]
+|faint|p1a: Probopass
+|upkeep
+|
+|t:|1713930225
+|switch|p1a: Floette|Floette-Eternal, L82, F|256\/256
+|turn|29
+|
+|t:|1713930242
+|move|p2a: Whimsicott|Leech Seed|p1a: Floette
+|-start|p1a: Floette|move: Leech Seed
+|move|p1a: Floette|Psychic|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|upkeep
+|
+|t:|1713930263
+|switch|p2a: Ampharos|Ampharos, L88, F|130\/302
+|-damage|p2a: Ampharos|93\/302|[from] Stealth Rock
+|turn|30
+|
+|t:|1713930282
+|move|p1a: Floette|Psychic|p2a: Ampharos
+|-damage|p2a: Ampharos|25\/302
+|move|p2a: Ampharos|Volt Switch|p1a: Floette
+|-damage|p1a: Floette|184\/256
+|
+|t:|1713930293
+|switch|p2a: Espeon|Espeon, L84, M|246\/246|[from] Volt Switch
+|-damage|p2a: Espeon|216\/246|[from] Stealth Rock
+|
+|-damage|p1a: Floette|152\/256|[from] Leech Seed|[of] p2a: Espeon
+|-heal|p2a: Espeon|246\/246|[silent]
+|upkeep
+|turn|31
+|
+|t:|1713930309
+|move|p1a: Floette|Psychic|p2a: Espeon
+|-resisted|p2a: Espeon
+|-damage|p2a: Espeon|215\/246
+|move|p2a: Espeon|Trick|p1a: Floette
+|-activate|p2a: Espeon|move: Trick|[of] p1a: Floette
+|-item|p1a: Floette|Choice Specs|[from] move: Trick
+|-item|p2a: Espeon|Choice Scarf|[from] move: Trick
+|
+|-damage|p1a: Floette|120\/256|[from] Leech Seed|[of] p2a: Espeon
+|-heal|p2a: Espeon|246\/246|[silent]
+|upkeep
+|turn|32
+|
+|t:|1713930330
+|move|p2a: Espeon|Psychic|p1a: Floette
+|-damage|p1a: Floette|30\/256
+|move|p1a: Floette|Light of Ruin|p2a: Espeon
+|-damage|p2a: Espeon|15\/246
+|-damage|p1a: Floette|0 fnt|[from] Recoil
+|faint|p1a: Floette
+|
+|upkeep
+|
+|t:|1713930339
+|switch|p1a: Hitmontop|Hitmontop, L89, M|234\/234
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Espeon|atk|1
+|turn|33
+|
+|t:|1713930354
+|move|p1a: Hitmontop|Sucker Punch|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|upkeep
+|
+|t:|1713930361
+|switch|p2a: Mimikyu|Mimikyu, L74, M|203\/203
+|-damage|p2a: Mimikyu|178\/203|[from] Stealth Rock
+|turn|34
+|
+|t:|1713930402
+|move|p1a: Hitmontop|Sucker Punch||[still]
+|-fail|p1a: Hitmontop
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|upkeep
+|turn|35
+|
+|t:|1713930412
+|move|p1a: Hitmontop|Sucker Punch|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|178\/203
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L74, M
+|move|p2a: Mimikyu|Play Rough|p1a: Hitmontop
+|-supereffective|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|win|vaanavil vishesh
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆rainbowranjan and ☆vaanavil vishesh joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between rainbowranjan and vaanavil vishesh!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Alomomola</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh sent out <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It doesn't affect Torterra...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Ampharos!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Camerupt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Camerupt lost <abbr title="−235/266">88.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Alomomola</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Camerupt's Cameruptite is reacting to the Key Stone!</small><br>The opposing Camerupt has Mega Evolved into Mega Camerupt!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Camerupt used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Alomomola lost <abbr title="−161/429">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Camerupt!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Whimsicott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Whimsicott lost <abbr title="−25/246">10.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Alomomola was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Alomomola's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Alomomola lost <abbr title="−148/429">34.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Alomomola's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Alomomola's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Alomomola protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>Alomomola protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Alomomola's wish came true!</small><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Alomomola's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Alomomola lost <abbr title="−141/429">32.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Alomomola's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Alomomola's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Alomomola fainted!<br></div><div class="battle-history"><small>The opposing Whimsicott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Whimsicott!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−118/302">39.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Ampharos!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Whimsicott</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Whimsicott lost <abbr title="−67/246">27.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Probopass</strong>!<br></div><div class="battle-history"><small>Probopass floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Probopass lost <abbr title="−30/252">11.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Probopass's Sp. Atk fell!</small><br></div><div class="battle-history"><small>Probopass's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Probopass was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Probopass's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Whimsicott!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−54/302">17.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Probopass's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Probopass, come back!<br></div><div class="battle-history">Go! <strong>Galvantula</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Galvantula lost <abbr title="−80/249">32.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−234/302">77.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Galvantula was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Galvantula's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Maractus protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>The opposing Maractus protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Galvantula's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Maractus!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Ampharos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−109/302">36.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Galvantula's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−57/302">18.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ampharos had its energy drained!</small><br></div><div class="battle-history"><small>Galvantula lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>The opposing Whimsicott was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Ampharos restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Galvantula's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Galvantula fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Ampharos!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−63/302">20.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Torterra lost <abbr title="−240/310">77.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Torterra restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Torterra lost <abbr title="−89/310">28.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Probopass</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>(Probopass lost <abbr title="−72/252">28.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Probopass had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Maractus was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Maractus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Probopass lost <abbr title="−20/252">7.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−78/302">25.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Maractus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Maractus used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Probopass was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Maractus lost <abbr title="−79/302">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Probopass's health is sapped by Leech Seed!</small><br></div><div class="battle-history"><small>The opposing Maractus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh withdrew Maractus!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Whimsicott</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Whimsicott!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Whimsicott lost <abbr title="−164/246">66.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Probopass's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>The opposing Whimsicott protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Whimsicott restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Probopass's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Probopass fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Floette (<strong>Floette-Eternal</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott used <strong>Leech Seed</strong>!<br></div><div class="battle-history"><small>Floette was seeded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Floette used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Whimsicott lost <abbr title="−68/246">27.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Whimsicott fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh sent out <strong>Ampharos</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Ampharos!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floette used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Ampharos lost <abbr title="−68/302">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(Floette lost <abbr title="−72/256">28.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ampharos went back to vaanavil vishesh!<br></div><div class="battle-history">vaanavil vishesh sent out <strong>Espeon</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Espeon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floette's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Floette used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Espeon lost <abbr title="−31/246">12.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon used <strong>Trick</strong>!<br></div><div class="battle-history"><small>The opposing Espeon switched items with its target!</small><br></div><div class="battle-history"><small>Floette obtained one Choice Specs.</small><br></div><div class="battle-history"><small>The opposing Espeon obtained one Choice Scarf.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Floette's health is sapped by Leech Seed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Floette lost <abbr title="−90/256">35.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Floette used <strong>Light of Ruin</strong>!<br></div><div class="battle-history"><small>(The opposing Espeon lost <abbr title="−231/246">93.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Floette was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Floette fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmontop</strong>!<br></div><div class="battle-history">[Hitmontop's Intimidate]<br></div><div class="battle-history"><small>The opposing Espeon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Espeon lost <abbr title="−15/246">6.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">vaanavil vishesh sent out <strong>Mimikyu</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Mimikyu!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Mimikyu's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop used <strong>Sucker Punch</strong>!<br></div><div class="battle-history">[The opposing Mimikyu's Disguise]<br><small>Its disguise served it as a decoy!</small><br></div><div class="battle-history"><small>(The opposing Mimikyu lost <abbr title="0/203">0%</abbr> of its health!)</small><br></div><div class="battle-history">The opposing Mimikyu's disguise was busted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mimikyu used <strong>Play Rough</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hitmontop lost <abbr title="−234/234">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmontop fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>vaanavil vishesh</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

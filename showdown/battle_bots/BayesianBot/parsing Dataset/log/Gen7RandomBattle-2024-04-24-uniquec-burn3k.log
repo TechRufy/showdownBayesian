@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: unique C vs. burn3k</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110374885" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/uniquec" class="subtle" target="_blank">unique C</a> vs. <a href="http://pokemonshowdown.com/users/burn3k" class="subtle" target="_blank">burn3k</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆unique C
+|j|☆burn3k
+|t:|1713948037
+|gametype|singles
+|player|p1|unique C|265|1432
+|player|p2|burn3k|101|1324
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713948037
+|start
+|switch|p1a: Minior|Minior-Indigo, L80|227\/227
+|switch|p2a: Persian|Persian-Alola, L85, M|249\/249
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|1
+|
+|t:|1713948057
+|switch|p1a: Keldeo|Keldeo, L80|277\/277
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1713948066
+|-zpower|p2a: Persian
+|move|p2a: Persian|Black Hole Eclipse|p1a: Keldeo|[zeffect]
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|135\/277
+|-ability|p1a: Keldeo|Justified|boost
+|-boost|p1a: Keldeo|atk|1
+|move|p1a: Keldeo|Secret Sword|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|83\/249
+|-damage|p1a: Keldeo|108\/277|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by unique C)
+|
+|t:|1713948080
+|move|p2a: Persian|Hidden Power|p1a: Keldeo
+|-damage|p1a: Keldeo|31\/277
+|move|p1a: Keldeo|Secret Sword|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|-damage|p1a: Keldeo|4\/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713948087
+|switch|p2a: Jellicent|Jellicent, L88, M|319\/319
+|turn|4
+|
+|t:|1713948109
+|move|p1a: Keldeo|Hidden Power|p2a: Jellicent
+|-supereffective|p2a: Jellicent
+|-damage|p2a: Jellicent|218\/319
+|-damage|p1a: Keldeo|0 fnt|[from] item: Life Orb
+|faint|p1a: Keldeo
+|move|p2a: Jellicent|Scald|p1: Keldeo|[notarget]
+|-fail|p2a: Jellicent
+|
+|-heal|p2a: Jellicent|237\/319|[from] item: Leftovers
+|upkeep
+|
+|t:|1713948114
+|switch|p1a: Cherrim|Cherrim, L98, F|296\/296
+|turn|5
+|
+|t:|1713948117
+|switch|p2a: Swalot|Swalot, L90, F|326\/326
+|move|p1a: Cherrim|Toxic|p2a: Swalot
+|-immune|p2a: Swalot
+|
+|upkeep
+|turn|6
+|
+|t:|1713948123
+|switch|p1a: Empoleon|Empoleon, L83, F|275\/275
+|move|p2a: Swalot|Ice Beam|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|261\/275
+|
+|-heal|p1a: Empoleon|275\/275|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1713948130
+|switch|p2a: Zangoose|Zangoose, L87, F|269\/269
+|move|p1a: Empoleon|Scald|p2a: Zangoose
+|-damage|p2a: Zangoose|160\/269
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|8
+|
+|t:|1713948139
+|move|p2a: Zangoose|Close Combat|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|-unboost|p2a: Zangoose|def|1
+|-unboost|p2a: Zangoose|spd|1
+|faint|p1a: Empoleon
+|
+|-damage|p2a: Zangoose|144\/269 tox|[from] psn
+|upkeep
+|inactive|unique C has 120 seconds left.
+|
+|t:|1713948180
+|switch|p1a: Cherrim|Cherrim, L98, F|296\/296
+|turn|9
+|
+|t:|1713948183
+|move|p1a: Cherrim|Energy Ball|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|upkeep
+|
+|t:|1713948188
+|switch|p2a: Watchog|Watchog, L93, M|262\/262
+|turn|10
+|
+|t:|1713948194
+|move|p1a: Cherrim|Toxic|p2a: Watchog
+|-status|p2a: Watchog|tox
+|move|p2a: Watchog|Knock Off|p1a: Cherrim
+|-damage|p1a: Cherrim|189\/296
+|-enditem|p1a: Cherrim|Leftovers|[from] move: Knock Off|[of] p2a: Watchog
+|
+|-damage|p2a: Watchog|246\/262 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1713948203
+|move|p1a: Cherrim|Morning Sun|p1a: Cherrim
+|-heal|p1a: Cherrim|296\/296
+|move|p2a: Watchog|Return|p1a: Cherrim
+|-damage|p1a: Cherrim|139\/296
+|
+|-heal|p2a: Watchog|262\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|230\/262 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1713948207
+|switch|p2a: Swalot|Swalot, L90, F|326\/326
+|move|p1a: Cherrim|Morning Sun|p1a: Cherrim
+|-heal|p1a: Cherrim|287\/296
+|
+|upkeep
+|turn|13
+|
+|t:|1713948223
+|switch|p1a: Eelektross|Eelektross, L88, F|293\/293
+|move|p2a: Swalot|Toxic|p1a: Eelektross
+|-status|p1a: Eelektross|tox
+|
+|-damage|p1a: Eelektross|275\/293 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1713948227
+|move|p2a: Swalot|Sludge Bomb|p1a: Eelektross
+|-damage|p1a: Eelektross|217\/293 tox
+|move|p1a: Eelektross|Thunderbolt|p2a: Swalot
+|-damage|p2a: Swalot|220\/326
+|
+|-heal|p2a: Swalot|240\/326|[from] item: Black Sludge
+|-damage|p1a: Eelektross|181\/293 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1713948233
+|move|p2a: Swalot|Sludge Bomb|p1a: Eelektross
+|-damage|p1a: Eelektross|120\/293 tox
+|move|p1a: Eelektross|Thunderbolt|p2a: Swalot
+|-damage|p2a: Swalot|140\/326
+|
+|-heal|p2a: Swalot|160\/326|[from] item: Black Sludge
+|-damage|p1a: Eelektross|66\/293 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1713948239
+|move|p2a: Swalot|Sludge Bomb|p1a: Eelektross
+|-damage|p1a: Eelektross|3\/293 tox
+|move|p1a: Eelektross|Knock Off|p2a: Swalot
+|-crit|p2a: Swalot
+|-damage|p2a: Swalot|33\/326
+|-activate|p2a: Swalot|ability: Sticky Hold
+|
+|-heal|p2a: Swalot|53\/326|[from] item: Black Sludge
+|-damage|p1a: Eelektross|0 fnt|[from] psn
+|faint|p1a: Eelektross
+|upkeep
+|
+|t:|1713948251
+|switch|p1a: Minior|Minior-Indigo, L80|227\/227
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|17
+|
+|t:|1713948255
+|move|p2a: Swalot|Pain Split|p1a: Minior
+|-sethp|p1a: Minior|140\/227|[from] move: Pain Split|[silent]
+|-sethp|p2a: Swalot|140\/326|[from] move: Pain Split
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|-heal|p2a: Swalot|160\/326|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|t:|1713948262
+|move|p1a: Minior|Earthquake|p2a: Swalot
+|-supereffective|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|upkeep
+|
+|t:|1713948267
+|switch|p2a: Donphan|Donphan, L84, M|288\/288
+|turn|19
+|
+|t:|1713948273
+|move|p1a: Minior|Acrobatics|p2a: Donphan
+|-damage|p2a: Donphan|177\/288
+|move|p2a: Donphan|Stone Edge|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|
+|upkeep
+|
+|t:|1713948283
+|switch|p1a: Cherrim|Cherrim, L98, F|287\/296
+|turn|20
+|
+|t:|1713948288
+|move|p1a: Cherrim|Toxic|p2a: Donphan
+|-status|p2a: Donphan|tox
+|move|p2a: Donphan|Stone Edge|p1a: Cherrim
+|-damage|p1a: Cherrim|149\/296
+|
+|-damage|p2a: Donphan|159\/288 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1713948294
+|move|p1a: Cherrim|Morning Sun|p1a: Cherrim
+|-heal|p1a: Cherrim|296\/296
+|move|p2a: Donphan|Stone Edge|p1a: Cherrim
+|-damage|p1a: Cherrim|161\/296
+|
+|-damage|p2a: Donphan|123\/288 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1713948299
+|move|p1a: Cherrim|Energy Ball|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|t:|1713948304
+|switch|p2a: Watchog|Watchog, L93, M|230\/262 tox
+|turn|23
+|
+|t:|1713948314
+|switch|p1a: Wobbuffet|Wobbuffet, L86, F|467\/467
+|move|p2a: Watchog|Hypnosis|p1a: Wobbuffet
+|-status|p1a: Wobbuffet|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Watchog|246\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|230\/262 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1713948319
+|move|p2a: Watchog|Knock Off|p1a: Wobbuffet
+|-supereffective|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|257\/467 slp
+|-enditem|p1a: Wobbuffet|Custap Berry|[from] move: Knock Off|[of] p2a: Watchog
+|cant|p1a: Wobbuffet|slp
+|
+|-heal|p2a: Watchog|246\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|214\/262 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1713948326
+|move|p2a: Watchog|Return|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|94\/467 slp
+|-curestatus|p1a: Wobbuffet|slp|[msg]
+|move|p1a: Wobbuffet|Encore|p2a: Watchog
+|-start|p2a: Watchog|Encore
+|
+|-heal|p2a: Watchog|230\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|182\/262 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1713948347
+|move|p2a: Watchog|Return|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|0 fnt
+|faint|p1a: Wobbuffet
+|
+|-heal|p2a: Watchog|198\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|134\/262 tox|[from] psn
+|upkeep
+|
+|t:|1713948349
+|switch|p1a: Cherrim|Cherrim, L98, F|161\/296
+|turn|27
+|
+|t:|1713948352
+|switch|p2a: Jellicent|Jellicent, L88, M|237\/319
+|move|p1a: Cherrim|Energy Ball|p2a: Jellicent
+|-supereffective|p2a: Jellicent
+|-damage|p2a: Jellicent|55\/319
+|
+|-heal|p2a: Jellicent|74\/319|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1713948364
+|move|p1a: Cherrim|Energy Ball|p2a: Jellicent
+|-supereffective|p2a: Jellicent
+|-damage|p2a: Jellicent|0 fnt
+|faint|p2a: Jellicent
+|
+|upkeep
+|
+|t:|1713948366
+|switch|p2a: Watchog|Watchog, L93, M|134\/262 tox
+|turn|29
+|
+|t:|1713948371
+|move|p1a: Cherrim|Energy Ball|p2a: Watchog
+|-damage|p2a: Watchog|8\/262 tox
+|-unboost|p2a: Watchog|spd|1
+|move|p2a: Watchog|Hypnosis|p1a: Cherrim
+|-status|p1a: Cherrim|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Watchog|24\/262 tox|[from] item: Leftovers
+|-damage|p2a: Watchog|8\/262 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1713948380
+|cant|p1a: Cherrim|slp
+|move|p2a: Watchog|Return|p1a: Cherrim
+|-damage|p1a: Cherrim|0 fnt
+|faint|p1a: Cherrim
+|
+|win|burn3k
+|raw|unique C's rating: 1432 &rarr; <strong>1406<\/strong><br \/>(-26 for losing)
+|raw|burn3k's rating: 1324 &rarr; <strong>1350<\/strong><br \/>(+26 for winning)
+|l|☆unique C
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆unique C and ☆burn3k joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between unique C and burn3k!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Minior (<strong>Minior-Indigo</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out Persian (<strong>Persian-Alola</strong>)!<br></div><div class="battle-history">[Minior's Shields Down]<br>Shields Down deactivated!<br>(Minior shielded itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior, come back!<br></div><div class="battle-history">Go! <strong>Keldeo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Persian's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Persian surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Persian unleashes its full-force Z-Move!</small><br>The opposing Persian used <strong>Black Hole Eclipse</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Keldeo lost <abbr title="−142/277">51.3%</abbr> of its health!)</small><br></div><div class="battle-history">[Keldeo's Justified]<br></div><div class="battle-history"><small>Keldeo's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Secret Sword</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Persian lost <abbr title="−166/249">66.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Keldeo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by unique C)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Keldeo lost <abbr title="−77/277">27.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Secret Sword</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Persian lost <abbr title="−83/249">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Persian fainted!<br></div><div class="battle-history"><small>Keldeo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−101/319">31.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Keldeo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Keldeo fainted!<br></div><div class="battle-history">The opposing Jellicent used <strong>Scald</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cherrim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">burn3k withdrew Jellicent!<br></div><div class="battle-history">burn3k sent out <strong>Swalot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Swalot...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim, come back!<br></div><div class="battle-history">Go! <strong>Empoleon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Empoleon lost <abbr title="−14/275">5.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Empoleon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">burn3k withdrew Swalot!<br></div><div class="battle-history">burn3k sent out <strong>Zangoose</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−109/269">40.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zangoose was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Empoleon lost <abbr title="−275/275">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Zangoose's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Zangoose's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Empoleon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Zangoose was hurt by poison!</small><br></div><div class="chat message-error">unique C has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cherrim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Zangoose lost <abbr title="−144/269">53.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zangoose fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out <strong>Watchog</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Watchog was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Cherrim lost <abbr title="−107/296">36.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Watchog knocked off Cherrim's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>Cherrim had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Cherrim lost <abbr title="−157/296">53.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">burn3k withdrew Watchog!<br></div><div class="battle-history">burn3k sent out <strong>Swalot</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>Cherrim had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim, come back!<br></div><div class="battle-history">Go! <strong>Eelektross</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Eelektross was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Eelektross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Eelektross lost <abbr title="−58/293">19.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eelektross used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−106/326">32.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Eelektross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Eelektross lost <abbr title="−61/293">20.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eelektross used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−100/326">30.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Eelektross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Eelektross lost <abbr title="−63/293">21.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eelektross used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−127/326">39.0%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Swalot's Sticky Hold]<br><small>The opposing Swalot's item cannot be removed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Eelektross was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eelektross fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Minior (<strong>Minior-Indigo</strong>)!<br></div><div class="battle-history">[Minior's Shields Down]<br>Shields Down deactivated!<br>(Minior shielded itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot used <strong>Pain Split</strong>!<br></div><div class="battle-history"><small>The battlers shared their pain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Minior's Defense fell!</small><br></div><div class="battle-history"><small>Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Minior's Speed rose sharply!</small><br></div><div class="battle-history"><small>Minior returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Swalot restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Swalot lost <abbr title="−160/326">49.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Swalot fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out <strong>Donphan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Acrobatics</strong>!<br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−111/288">38.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Minior lost <abbr title="−140/227">61.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minior fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cherrim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Donphan was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Cherrim lost <abbr title="−138/296">46.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Donphan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Morning Sun</strong>!<br></div><div class="battle-history"><small>Cherrim had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(Cherrim lost <abbr title="−135/296">45.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Donphan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−123/288">42.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out <strong>Watchog</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim, come back!<br></div><div class="battle-history">Go! <strong>Wobbuffet</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Hypnosis</strong>!<br></div><div class="battle-history"><small>Wobbuffet fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Wobbuffet lost <abbr title="−210/467">45.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Watchog knocked off Wobbuffet's Custap Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Wobbuffet lost <abbr title="−163/467">34.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Wobbuffet woke up!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Watchog must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Wobbuffet lost <abbr title="−94/467">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Cherrim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">burn3k withdrew Watchog!<br></div><div class="battle-history">burn3k sent out <strong>Jellicent</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−182/319">57.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Jellicent restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Jellicent lost <abbr title="−74/319">23.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Jellicent fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">burn3k sent out <strong>Watchog</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim used <strong>Energy Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Watchog lost <abbr title="−126/262">48.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Watchog's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Hypnosis</strong>!<br></div><div class="battle-history"><small>Cherrim fell asleep!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Watchog restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Watchog was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Cherrim lost <abbr title="−161/296">54.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Cherrim fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>burn3k</strong> won the battle!<br></div><div class="chat">unique C's rating: 1432 → <strong>1406</strong><br>(-26 for losing)</div><div class="chat">burn3k's rating: 1324 → <strong>1350</strong><br>(+26 for winning)</div><div class="chat"><small>☆unique C left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

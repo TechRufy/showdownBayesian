@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: merchingftw2 vs. AlephSubZero</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2049704167" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/merchingftw2" class="subtle" target="_blank">merchingftw2</a> vs. <a href="http://pokemonshowdown.com/users/alephsubzero" class="subtle" target="_blank">AlephSubZero</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆merchingftw2
+|j|☆AlephSubZero
+|t:|1706835889
+|gametype|singles
+|player|p1|merchingftw2|1|1735
+|player|p2|AlephSubZero|psychic-gen4|1805
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1706835889
+|start
+|switch|p1a: Sylveon|Sylveon, L85, M|300\/300
+|switch|p2a: Kabutops|Kabutops, L87, F|246\/246
+|turn|1
+|
+|t:|1706835928
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane, L69|248\/248
+|move|p1a: Sylveon|Hyper Voice|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|181\/248
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by merchingftw2)
+|
+|t:|1706835943
+|switch|p1a: Gliscor|Gliscor, L80, M|251\/251
+|move|p2a: Necrozma|Earthquake|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1706835965
+|switch|p2a: Arceus|Arceus-Fighting, L72|292\/292
+|move|p1a: Gliscor|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|208\/292
+|
+|upkeep
+|turn|4
+|
+|t:|1706835980
+|switch|p1a: Sylveon|Sylveon, L85, M|300\/300
+|move|p2a: Arceus|Judgment|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|260\/300
+|
+|-heal|p1a: Sylveon|278\/300|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1706835990
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane, L69|181\/248
+|move|p1a: Sylveon|Hyper Voice|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|108\/248
+|
+|-heal|p1a: Sylveon|296\/300|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1706835996
+|switch|p1a: Meganium|Meganium, L90, F|290\/290
+|-zpower|p2a: Necrozma
+|move|p2a: Necrozma|Searing Sunraze Smash|p1a: Meganium|[zeffect]
+|-damage|p1a: Meganium|103\/290
+|
+|upkeep
+|turn|7
+|
+|t:|1706836007
+|switch|p2a: Espeon|Espeon, L84, F|246\/246
+|move|p1a: Meganium|Synthesis|p1a: Meganium
+|-heal|p1a: Meganium|248\/290
+|
+|upkeep
+|turn|8
+|
+|t:|1706836013
+|move|p2a: Espeon|Calm Mind|p2a: Espeon
+|-boost|p2a: Espeon|spa|1
+|-boost|p2a: Espeon|spd|1
+|move|p1a: Meganium|Light Screen|p1a: Meganium
+|-sidestart|p1: merchingftw2|move: Light Screen
+|
+|upkeep
+|turn|9
+|
+|t:|1706836022
+|switch|p1a: Stakataka|Stakataka, L83|237\/237
+|-item|p1a: Stakataka|Air Balloon
+|move|p2a: Espeon|Calm Mind|p2a: Espeon
+|-boost|p2a: Espeon|spa|1
+|-boost|p2a: Espeon|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1706836038
+|move|p2a: Espeon|Shadow Ball|p1a: Stakataka
+|-damage|p1a: Stakataka|158\/237
+|-unboost|p1a: Stakataka|spd|1
+|-enditem|p1a: Stakataka|Air Balloon
+|-damage|p2a: Espeon|222\/246|[from] item: Life Orb
+|move|p1a: Stakataka|Gyro Ball|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|-ability|p1a: Stakataka|Beast Boost|boost
+|-boost|p1a: Stakataka|def|1
+|
+|upkeep
+|
+|t:|1706836046
+|switch|p2a: Arceus|Arceus-Fighting, L72|208\/292
+|turn|11
+|
+|t:|1706836052
+|switch|p1a: Sylveon|Sylveon, L85, M|296\/300
+|move|p2a: Arceus|Judgment|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|275\/300
+|
+|-heal|p1a: Sylveon|293\/300|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1706836058
+|switch|p2a: Klinklang|Klinklang, L87|246\/246
+|move|p1a: Sylveon|Hyper Voice|p2a: Klinklang
+|-resisted|p2a: Klinklang
+|-damage|p2a: Klinklang|186\/246
+|
+|-heal|p2a: Klinklang|201\/246|[from] item: Leftovers
+|-heal|p1a: Sylveon|300\/300|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1706836064
+|switch|p1a: Gliscor|Gliscor, L80, M|251\/251 tox
+|move|p2a: Klinklang|Substitute|p2a: Klinklang
+|-start|p2a: Klinklang|Substitute
+|-damage|p2a: Klinklang|140\/246
+|
+|-heal|p2a: Klinklang|155\/246|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1706836071
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor
+|-damage|p1a: Gliscor|203\/251 tox
+|-damage|p1a: Gliscor|157\/251 tox
+|-hitcount|p1a: Gliscor|2
+|move|p1a: Gliscor|Earthquake|p2a: Klinklang
+|-supereffective|p2a: Klinklang
+|-end|p2a: Klinklang|Substitute
+|
+|-heal|p2a: Klinklang|170\/246|[from] item: Leftovers
+|-heal|p1a: Gliscor|188\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1706836094
+|switch|p2a: Arceus|Arceus-Fighting, L72|208\/292
+|move|p1a: Gliscor|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|126\/292
+|
+|-heal|p1a: Gliscor|219\/251 tox|[from] ability: Poison Heal
+|-sideend|p1: merchingftw2|move: Light Screen
+|upkeep
+|turn|16
+|
+|t:|1706836118
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|272\/292
+|move|p1a: Gliscor|Toxic|p2a: Arceus
+|-status|p2a: Arceus|tox
+|
+|-damage|p2a: Arceus|254\/292 tox|[from] psn
+|-heal|p1a: Gliscor|250\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1706836131
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane, L69|108\/248
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|251\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|18
+|
+|t:|1706836146
+|move|p1a: Gliscor|Earthquake|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1706836160
+|switch|p2a: Sharpedo|Sharpedo, L82, F|249\/249
+|turn|19
+|
+|t:|1706836181
+|switch|p1a: Stakataka|Stakataka, L83|158\/237
+|detailschange|p2a: Sharpedo|Sharpedo-Mega, L82, F
+|-mega|p2a: Sharpedo|Sharpedo|Sharpedonite
+|move|p2a: Sharpedo|Waterfall|p1a: Stakataka
+|-supereffective|p1a: Stakataka
+|-damage|p1a: Stakataka|48\/237
+|
+|upkeep
+|turn|20
+|
+|t:|1706836189
+|move|p2a: Sharpedo|Waterfall|p1a: Stakataka
+|-supereffective|p1a: Stakataka
+|-damage|p1a: Stakataka|0 fnt
+|faint|p1a: Stakataka
+|
+|upkeep
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1706836210
+|switch|p1a: Meganium|Meganium, L90, F|248\/290
+|turn|21
+|
+|t:|1706836235
+|move|p2a: Sharpedo|Crunch|p1a: Meganium
+|-damage|p1a: Meganium|101\/290
+|move|p1a: Meganium|Reflect|p1a: Meganium
+|-sidestart|p1: merchingftw2|Reflect
+|
+|upkeep
+|turn|22
+|
+|t:|1706836245
+|move|p2a: Sharpedo|Psychic Fangs|p1a: Meganium
+|-sideend|p1: merchingftw2|Reflect
+|-damage|p1a: Meganium|0 fnt
+|faint|p1a: Meganium
+|
+|upkeep
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1706836265
+|switch|p1a: Watchog|Watchog, L93, M|262\/262
+|turn|23
+|
+|t:|1706836275
+|switch|p2a: Klinklang|Klinklang, L87|170\/246
+|move|p1a: Watchog|Return|p2a: Klinklang
+|-resisted|p2a: Klinklang
+|-damage|p2a: Klinklang|111\/246
+|
+|-heal|p2a: Klinklang|126\/246|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1706836284
+|switch|p1a: Gliscor|Gliscor, L80, M|251\/251 tox
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor|[miss]
+|-miss|p2a: Klinklang|p1a: Gliscor
+|
+|-heal|p2a: Klinklang|141\/246|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1706836291
+|switch|p2a: Arceus|Arceus-Fighting, L72|254\/292 tox
+|move|p1a: Gliscor|Toxic|p2a: Arceus
+|-fail|p2a: Arceus|tox
+|
+|-damage|p2a: Arceus|236\/292 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1706836300
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Gliscor|Toxic|p2a: Arceus
+|-fail|p2a: Arceus|tox
+|
+|-damage|p2a: Arceus|200\/292 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1706836305
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Arceus|Ice Beam|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-damage|p2a: Arceus|146\/292 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1706836315
+|switch|p2a: Klinklang|Klinklang, L87|141\/246
+|switch|p1a: Sylveon|Sylveon, L85, M|300\/300
+|
+|-heal|p2a: Klinklang|156\/246|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1706836329
+|switch|p1a: Gliscor|Gliscor, L80, M|251\/251 tox
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor
+|-damage|p1a: Gliscor|206\/251 tox
+|-damage|p1a: Gliscor|161\/251 tox
+|-hitcount|p1a: Gliscor|2
+|
+|-heal|p2a: Klinklang|171\/246|[from] item: Leftovers
+|-heal|p1a: Gliscor|192\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1706836339
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor
+|-damage|p1a: Gliscor|146\/251 tox
+|-damage|p1a: Gliscor|97\/251 tox
+|-hitcount|p1a: Gliscor|2
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|35\/251 tox
+|
+|-heal|p2a: Klinklang|186\/246|[from] item: Leftovers
+|-heal|p1a: Gliscor|66\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|
+|t:|1706836356
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Klinklang|Shift Gear|p2a: Klinklang
+|-boost|p2a: Klinklang|spe|2
+|-boost|p2a: Klinklang|atk|1
+|
+|-heal|p2a: Klinklang|201\/246|[from] item: Leftovers
+|-heal|p1a: Gliscor|97\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|32
+|
+|t:|1706836364
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor
+|-end|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|30\/251 tox
+|-hitcount|p1a: Gliscor|2
+|move|p1a: Gliscor|Earthquake|p2a: Klinklang
+|-supereffective|p2a: Klinklang
+|-damage|p2a: Klinklang|57\/246
+|
+|-heal|p2a: Klinklang|72\/246|[from] item: Leftovers
+|-heal|p1a: Gliscor|61\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|
+|t:|1706836385
+|move|p2a: Klinklang|Gear Grind|p1a: Gliscor|[miss]
+|-miss|p2a: Klinklang|p1a: Gliscor
+|move|p1a: Gliscor|Earthquake|p2a: Klinklang
+|-supereffective|p2a: Klinklang
+|-damage|p2a: Klinklang|0 fnt
+|faint|p2a: Klinklang
+|
+|-heal|p1a: Gliscor|92\/251 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1706836390
+|switch|p2a: Sharpedo|Sharpedo-Mega, L82, F|249\/249
+|turn|34
+|c|☆merchingftw2|lol
+|c|☆AlephSubZero|"Unfortunate" doesn't begin to describe my series, this game rewards blind luck and nothing else, I am beyond convinced at this point. After getting completely tooled by scheduling with my opponent changing times on me last minute and refusing to provide confirmation prior to the day of the match as to play times, losing this way somehow felt even worse than I had thought possible. My preparation was superior, my play was superior, and I lost, so I don't see a reason to continue engaging in an activity where what is within my control is overwhelmingly outweighed by what is not.
+|
+|t:|1706836411
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Sharpedo|Waterfall|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|123\/251 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|
+|t:|1706836425
+|move|p2a: Sharpedo|Waterfall|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1706836437
+|switch|p1a: Sylveon|Sylveon, L85, M|300\/300
+|turn|36
+|
+|t:|1706836444
+|move|p2a: Sharpedo|Waterfall|p1a: Sylveon
+|-damage|p1a: Sylveon|179\/300
+|cant|p1a: Sylveon|flinch
+|
+|-heal|p1a: Sylveon|197\/300|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1706836452
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Sharpedo|Waterfall|p1a: Sylveon
+|-activate|p1a: Sylveon|move: Protect
+|
+|-heal|p1a: Sylveon|215\/300|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1706836455
+|move|p2a: Sharpedo|Waterfall|p1a: Sylveon
+|-damage|p1a: Sylveon|82\/300
+|move|p1a: Sylveon|Hyper Voice|p2a: Sharpedo
+|-supereffective|p2a: Sharpedo
+|-damage|p2a: Sharpedo|0 fnt
+|faint|p2a: Sharpedo
+|
+|-heal|p1a: Sylveon|100\/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1706836457
+|switch|p2a: Kabutops|Kabutops, L87, F|246\/246
+|turn|39
+|
+|t:|1706836466
+|move|p2a: Kabutops|Liquidation|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|
+|upkeep
+|
+|t:|1706836470
+|switch|p1a: Staraptor|Staraptor, L81, F|270\/270
+|turn|40
+|
+|t:|1706836483
+|move|p1a: Staraptor|Close Combat|p2a: Kabutops
+|-supereffective|p2a: Kabutops
+|-damage|p2a: Kabutops|26\/246
+|-unboost|p1a: Staraptor|def|1
+|-unboost|p1a: Staraptor|spd|1
+|-ability|p2a: Kabutops|Weak Armor|boost
+|-unboost|p2a: Kabutops|def|1
+|-boost|p2a: Kabutops|spe|2
+|move|p2a: Kabutops|Stone Edge|p1a: Staraptor
+|-supereffective|p1a: Staraptor
+|-damage|p1a: Staraptor|0 fnt
+|faint|p1a: Staraptor
+|
+|upkeep
+|
+|t:|1706836493
+|switch|p1a: Watchog|Watchog, L93, M|262\/262
+|turn|41
+|
+|t:|1706836498
+|move|p2a: Kabutops|Liquidation|p1a: Watchog
+|-damage|p1a: Watchog|145\/262
+|-unboost|p1a: Watchog|def|1
+|move|p1a: Watchog|Return|p2a: Kabutops
+|-resisted|p2a: Kabutops
+|-damage|p2a: Kabutops|0 fnt
+|faint|p2a: Kabutops
+|
+|-heal|p1a: Watchog|161\/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1706836500
+|switch|p2a: Arceus|Arceus-Fighting, L72|146\/292 tox
+|turn|42
+|c|☆AlephSubZero|gg
+|
+|t:|1706836504
+|move|p2a: Arceus|Judgment|p1a: Watchog
+|-supereffective|p1a: Watchog
+|-damage|p1a: Watchog|0 fnt
+|faint|p1a: Watchog
+|
+|win|AlephSubZero
+|raw|merchingftw2's rating: 1735 &rarr; <strong>1719<\/strong><br \/>(-16 for losing)
+|raw|AlephSubZero's rating: 1805 &rarr; <strong>1821<\/strong><br \/>(+16 for winning)
+|c|☆merchingftw2|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆merchingftw2 and ☆AlephSubZero joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between merchingftw2 and AlephSubZero!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out <strong>Kabutops</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Kabutops!<br></div><div class="battle-history">AlephSubZero sent out Necrozma (<strong>Necrozma-Dusk-Mane</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Necrozma lost <abbr title="−67/248">27.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by merchingftw2)</div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Gliscor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It doesn't affect Gliscor...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gliscor was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Necrozma!<br></div><div class="battle-history">AlephSubZero sent out Arceus (<strong>Arceus-Fighting</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost <abbr title="−84/292">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−40/300">13.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Arceus!<br></div><div class="battle-history">AlephSubZero sent out Necrozma (<strong>Necrozma-Dusk-Mane</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Necrozma lost <abbr title="−73/248">29.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="battle-history"><small>The opposing Necrozma surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Necrozma unleashes its full-force Z-Move!</small><br>The opposing Necrozma used <strong>Searing Sunraze Smash</strong>!<br></div><div class="battle-history"><small>(Meganium lost <abbr title="−187/290">64.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Necrozma!<br></div><div class="battle-history">AlephSubZero sent out <strong>Espeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Meganium had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Espeon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Espeon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Light Screen</strong>!<br></div><div class="battle-history"><small>Light Screen made your team stronger against special moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meganium, come back!<br></div><div class="battle-history">Go! <strong>Stakataka</strong>!<br></div><div class="battle-history"><small>Stakataka floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Espeon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Espeon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon used <strong>Shadow Ball</strong>!<br></div><div class="battle-history"><small>(Stakataka lost <abbr title="−79/237">33.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Stakataka's Sp. Def fell!</small><br></div><div class="battle-history"><small>Stakataka's Air Balloon popped!</small><br></div><div class="battle-history"><small>The opposing Espeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka used <strong>Gyro Ball</strong>!<br></div><div class="battle-history"><small>(The opposing Espeon lost <abbr title="−222/246">90.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Espeon fainted!<br></div><div class="battle-history">[Stakataka's Beast Boost]<br></div><div class="battle-history"><small>Stakataka's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out Arceus (<strong>Arceus-Fighting</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−21/300">7.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Arceus!<br></div><div class="battle-history">AlephSubZero sent out <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−60/246">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Gliscor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Klinklang put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−61/246">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−48/251">19.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−46/251">18.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Klinklang's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Klinklang!<br></div><div class="battle-history">AlephSubZero sent out Arceus (<strong>Arceus-Fighting</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Arceus lost <abbr title="−82/292">28.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="battle-history"><small>Your team's Light Screen wore off!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Arceus was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Arceus!<br></div><div class="battle-history">AlephSubZero sent out Necrozma (<strong>Necrozma-Dusk-Mane</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Protect</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Necrozma lost <abbr title="−108/248">43.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Necrozma fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out <strong>Sharpedo</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor, come back!<br></div><div class="battle-history">Go! <strong>Stakataka</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sharpedo's Sharpedonite is reacting to the Key Stone!</small><br>The opposing Sharpedo has Mega Evolved into Mega Sharpedo!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Stakataka lost <abbr title="−110/237">46.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Stakataka lost <abbr title="−48/237">20.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Stakataka fainted!<br></div><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meganium</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Meganium lost <abbr title="−147/290">50.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium used <strong>Reflect</strong>!<br></div><div class="battle-history"><small>Reflect made your team stronger against physical moves!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Psychic Fangs</strong>!<br></div><div class="battle-history"><small>Your team's Reflect wore off!</small><br></div><div class="battle-history"><small>(Meganium lost <abbr title="−101/290">34.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meganium fainted!<br></div><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Watchog</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Sharpedo!<br></div><div class="battle-history">AlephSubZero sent out <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−59/246">24.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Watchog, come back!<br></div><div class="battle-history">Go! <strong>Gliscor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>Gliscor avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Klinklang!<br></div><div class="battle-history">AlephSubZero sent out Arceus (<strong>Arceus-Fighting</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Arceus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Arceus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Gliscor protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>Gliscor protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Arceus was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero withdrew Arceus!<br></div><div class="battle-history">AlephSubZero sent out <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor, come back!<br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon, come back!<br></div><div class="battle-history">Go! <strong>Gliscor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−45/251">17.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−45/251">17.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−46/251">18.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−49/251">19.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Gliscor put in a substitute!</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−62/251">24.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Gliscor protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Shift Gear</strong>!<br></div><div class="battle-history"><small>The opposing Klinklang's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Klinklang's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>Gliscor's substitute faded!</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−67/251">26.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−144/246">58.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klinklang restored a little HP using its Leftovers!</small><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>Gliscor avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Klinklang lost <abbr title="−72/246">29.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klinklang fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out Sharpedo (<strong>Sharpedo-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="chat chatmessage-merchingftw2"><strong style="color:#be3cbe"><small>☆</small><span class="username" data-name="merchingftw2">merchingftw2</span>:</strong> <em>lol</em></div><div class="chat chatmessage-alephsubzero"><strong style="color:#7f63c5"><small>☆</small><span class="username" data-name="AlephSubZero">AlephSubZero</span>:</strong> <em>"Unfortunate" doesn't begin to describe my series, this game rewards blind luck and nothing else, I am beyond convinced at this point. After getting completely tooled by scheduling with my opponent changing times on me last minute and refusing to provide confirmation prior to the day of the match as to play times, losing this way somehow felt even worse than I had thought possible. My preparation was superior, my play was superior, and I lost, so I don't see a reason to continue engaging in an activity where what is within my control is overwhelmingly outweighed by what is not.</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Gliscor protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>Gliscor protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Gliscor's Poison Heal]<br><small>Gliscor had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gliscor lost <abbr title="−123/251">49.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gliscor fainted!<br></div><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−121/300">40.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−133/300">44.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Sharpedo lost <abbr title="−249/249">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sharpedo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out <strong>Kabutops</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kabutops used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Sylveon lost <abbr title="−100/300">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sylveon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Staraptor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Staraptor used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Kabutops lost <abbr title="−220/246">89.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Staraptor's Defense fell!</small><br></div><div class="battle-history"><small>Staraptor's Sp. Def fell!</small><br></div><div class="battle-history">[The opposing Kabutops's Weak Armor]<br></div><div class="battle-history"><small>The opposing Kabutops's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Kabutops's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kabutops used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Staraptor lost <abbr title="−270/270">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Staraptor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Watchog</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kabutops used <strong>Liquidation</strong>!<br></div><div class="battle-history"><small>(Watchog lost <abbr title="−117/262">44.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Watchog's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Watchog used <strong>Return</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Kabutops lost <abbr title="−26/246">10.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kabutops fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Watchog restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">AlephSubZero sent out Arceus (<strong>Arceus-Fighting</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat chatmessage-alephsubzero"><strong style="color:#7f63c5"><small>☆</small><span class="username" data-name="AlephSubZero">AlephSubZero</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Watchog lost <abbr title="−161/262">61.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Watchog fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>AlephSubZero</strong> won the battle!<br></div><div class="chat">merchingftw2's rating: 1735 → <strong>1719</strong><br>(-16 for losing)</div><div class="chat">AlephSubZero's rating: 1805 → <strong>1821</strong><br>(+16 for winning)</div><div class="chat chatmessage-merchingftw2"><strong style="color:#be3cbe"><small>☆</small><span class="username" data-name="merchingftw2">merchingftw2</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: burn3k vs. lolu Chand</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110368714" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/burn3k" class="subtle" target="_blank">burn3k</a> vs. <a href="http://pokemonshowdown.com/users/loluchand" class="subtle" target="_blank">lolu Chand</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆burn3k
+|j|☆lolu Chand
+|t:|1713947047
+|gametype|singles
+|player|p1|burn3k|101|1345
+|player|p2|lolu Chand|red|1430
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713947047
+|start
+|switch|p1a: Lucario|Lucario, L76, F|231\/231
+|switch|p2a: Gastrodon|Gastrodon-East, L88, M|339\/339
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolu Chand)
+|
+|t:|1713947056
+|switch|p1a: Celebi|Celebi, L83|302\/302
+|move|p2a: Gastrodon|Earthquake|p1a: Celebi
+|-resisted|p1a: Celebi
+|-damage|p1a: Celebi|255\/302
+|
+|upkeep
+|turn|2
+|
+|t:|1713947076
+|switch|p2a: Venusaur|Venusaur, L79, M|256\/256
+|move|p1a: Celebi|Nasty Plot|p1a: Celebi
+|-boost|p1a: Celebi|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1713947082
+|switch|p2a: Solgaleo|Solgaleo, L74|325\/325
+|move|p1a: Celebi|Psychic|p2a: Solgaleo
+|-resisted|p2a: Solgaleo
+|-damage|p2a: Solgaleo|254\/325
+|-damage|p1a: Celebi|225\/302|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1713947093
+|move|p1a: Celebi|Hidden Power|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|faint|p2a: Solgaleo
+|-damage|p1a: Celebi|195\/302|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713947095
+|switch|p2a: Typhlosion|Typhlosion, L86, M|274\/274
+|turn|5
+|
+|t:|1713947100
+|switch|p1a: Primarina|Primarina, L82, F|265\/265
+|move|p2a: Typhlosion|Eruption|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|188\/265
+|
+|upkeep
+|turn|6
+|
+|t:|1713947106
+|switch|p2a: Gastrodon|Gastrodon-East, L88, M|339\/339
+|move|p1a: Primarina|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|264\/339
+|
+|-heal|p2a: Gastrodon|285\/339|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1713947110
+|switch|p1a: Regice|Regice, L87|281\/281
+|move|p2a: Gastrodon|Ice Beam|p1a: Regice
+|-resisted|p1a: Regice
+|-damage|p1a: Regice|265\/281
+|
+|-heal|p1a: Regice|281\/281|[from] item: Leftovers
+|-heal|p2a: Gastrodon|306\/339|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1713947125
+|switch|p2a: Typhlosion|Typhlosion, L86, M|274\/274
+|move|p1a: Regice|Ice Beam|p2a: Typhlosion
+|-resisted|p2a: Typhlosion
+|-damage|p2a: Typhlosion|223\/274
+|
+|upkeep
+|turn|9
+|
+|t:|1713947129
+|move|p2a: Typhlosion|Fire Blast|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|141\/281
+|move|p1a: Regice|Thunderbolt|p2a: Typhlosion
+|-damage|p2a: Typhlosion|151\/274
+|
+|-heal|p1a: Regice|158\/281|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1713947149
+|move|p2a: Typhlosion|Fire Blast|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|20\/281
+|move|p1a: Regice|Rest|p1a: Regice
+|-status|p1a: Regice|slp|[from] move: Rest
+|-heal|p1a: Regice|281\/281 slp|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1713947152
+|move|p2a: Typhlosion|Fire Blast|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|153\/281 slp
+|cant|p1a: Regice|slp
+|move|p1a: Regice|Sleep Talk|p1a: Regice
+|move|p1a: Regice|Ice Beam|p2a: Typhlosion|[from]move: Sleep Talk
+|-resisted|p2a: Typhlosion
+|-damage|p2a: Typhlosion|100\/274
+|
+|-heal|p1a: Regice|170\/281 slp|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1713947165
+|move|p2a: Typhlosion|Fire Blast|p1a: Regice
+|-supereffective|p1a: Regice
+|-crit|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1713947171
+|switch|p1a: Basculin|Basculin, L86, M|261\/261
+|turn|13
+|
+|t:|1713947184
+|move|p2a: Typhlosion|Fire Blast|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|165\/261
+|move|p1a: Basculin|Head Smash|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|0 fnt
+|faint|p2a: Typhlosion
+|-damage|p1a: Basculin|115\/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1713947186
+|switch|p2a: Venusaur|Venusaur, L79, M|256\/256
+|turn|14
+|
+|t:|1713947188
+|detailschange|p2a: Venusaur|Venusaur-Mega, L79, M
+|-mega|p2a: Venusaur|Venusaur|Venusaurite
+|move|p1a: Basculin|Head Smash|p2a: Venusaur
+|-damage|p2a: Venusaur|121\/256
+|-damage|p1a: Basculin|47\/261|[from] Recoil
+|move|p2a: Venusaur|Giga Drain|p1a: Basculin
+|-supereffective|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|-heal|p2a: Venusaur|145\/256|[from] drain|[of] p1a: Basculin
+|faint|p1a: Basculin
+|
+|upkeep
+|
+|t:|1713947193
+|switch|p1a: Celebi|Celebi, L83|195\/302
+|turn|15
+|
+|t:|1713947198
+|move|p1a: Celebi|Psychic|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|-damage|p1a: Celebi|165\/302|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713947202
+|switch|p2a: Florges|Florges-Blue, L85, F|271\/271
+|turn|16
+|
+|t:|1713947207
+|switch|p1a: Lucario|Lucario, L76, F|231\/231
+|move|p2a: Florges|Moonblast|p1a: Lucario
+|-damage|p1a: Lucario|78\/231
+|-unboost|p1a: Lucario|spa|1
+|
+|upkeep
+|turn|17
+|
+|t:|1713947216
+|detailschange|p1a: Lucario|Lucario-Mega, L76, F
+|-mega|p1a: Lucario|Lucario|Lucarionite
+|move|p1a: Lucario|Meteor Mash|p2a: Florges
+|-supereffective|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|
+|upkeep
+|
+|t:|1713947219
+|switch|p2a: Gastrodon|Gastrodon-East, L88, M|306\/339
+|turn|18
+|
+|t:|1713947223
+|switch|p1a: Primarina|Primarina, L82, F|188\/265
+|move|p2a: Gastrodon|Earthquake|p1a: Primarina
+|-damage|p1a: Primarina|68\/265
+|
+|-heal|p2a: Gastrodon|327\/339|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1713947226
+|move|p1a: Primarina|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|204\/339
+|move|p2a: Gastrodon|Earthquake|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-heal|p2a: Gastrodon|225\/339|[from] item: Leftovers
+|upkeep
+|
+|t:|1713947230
+|switch|p1a: Celebi|Celebi, L83|165\/302
+|turn|20
+|
+|t:|1713947249
+|switch|p2a: Lunatone|Lunatone, L92|315\/315
+|move|p1a: Celebi|Giga Drain|p2a: Lunatone
+|-supereffective|p2a: Lunatone
+|-damage|p2a: Lunatone|104\/315
+|-heal|p1a: Celebi|271\/302|[from] drain|[of] p2a: Lunatone
+|-damage|p1a: Celebi|241\/302|[from] item: Life Orb
+|
+|-heal|p2a: Lunatone|123\/315|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1713947252
+|move|p1a: Celebi|Giga Drain|p2a: Lunatone
+|-supereffective|p2a: Lunatone
+|-damage|p2a: Lunatone|0 fnt
+|-heal|p1a: Celebi|302\/302|[from] drain|[of] p2a: Lunatone
+|faint|p2a: Lunatone
+|-damage|p1a: Celebi|272\/302|[from] item: Life Orb
+|
+|upkeep
+|-message|lolu Chand forfeited.
+|
+|win|burn3k
+|raw|burn3k's rating: 1345 &rarr; <strong>1370<\/strong><br \/>(+25 for winning)
+|raw|lolu Chand's rating: 1440 &rarr; <strong>1415<\/strong><br \/>(-25 for losing)
+|l|☆lolu Chand
+|player|p2|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆burn3k and ☆lolu Chand joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between burn3k and lolu Chand!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Lucario</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolu Chand)</div><div class="spacer battle-history"><br></div><div class="battle-history">Lucario, come back!<br></div><div class="battle-history">Go! <strong>Celebi</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Celebi lost <abbr title="−47/302">15.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand withdrew Gastrodon!<br></div><div class="battle-history">lolu Chand sent out <strong>Venusaur</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Celebi's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand withdrew Venusaur!<br></div><div class="battle-history">lolu Chand sent out <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost <abbr title="−71/325">21.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Celebi lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Solgaleo lost <abbr title="−254/325">78.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Solgaleo fainted!<br></div><div class="battle-history"><small>Celebi lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand sent out <strong>Typhlosion</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Celebi, come back!<br></div><div class="battle-history">Go! <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Eruption</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Primarina lost <abbr title="−77/265">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand withdrew Typhlosion!<br></div><div class="battle-history">lolu Chand sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Gastrodon lost <abbr title="−75/339">22.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Primarina, come back!<br></div><div class="battle-history">Go! <strong>Regice</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−16/281">5.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regice restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand withdrew Gastrodon!<br></div><div class="battle-history">lolu Chand sent out <strong>Typhlosion</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Typhlosion lost <abbr title="−51/274">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−140/281">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Typhlosion lost <abbr title="−72/274">26.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regice restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−138/281">49.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Regice slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−128/281">45.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Sleep Talk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Typhlosion lost <abbr title="−51/274">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regice restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−170/281">60.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Basculin</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Basculin lost <abbr title="−96/261">36.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Basculin used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Typhlosion lost <abbr title="−100/274">36.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Typhlosion fainted!<br></div><div class="battle-history"><small>Basculin was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand sent out <strong>Venusaur</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Venusaur's Venusaurite is reacting to the Key Stone!</small><br>The opposing Venusaur has Mega Evolved into Mega Venusaur!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Basculin used <strong>Head Smash</strong>!<br></div><div class="battle-history"><small>(The opposing Venusaur lost <abbr title="−135/256">52.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Basculin was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venusaur used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Basculin lost <abbr title="−47/261">18.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Basculin had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Basculin fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Celebi</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Venusaur lost <abbr title="−145/256">56.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venusaur fainted!<br></div><div class="battle-history"><small>Celebi lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand sent out Florges (<strong>Florges-Blue</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Celebi, come back!<br></div><div class="battle-history">Go! <strong>Lucario</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Lucario lost <abbr title="−153/231">66.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Lucario's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lucario's Lucarionite is reacting to the Key Stone!</small><br>Lucario has Mega Evolved into Mega Lucario!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lucario used <strong>Meteor Mash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Florges lost <abbr title="−271/271">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Florges fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand sent out Gastrodon (<strong>Gastrodon-East</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lucario, come back!<br></div><div class="battle-history">Go! <strong>Primarina</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Primarina lost <abbr title="−120/265">45.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Primarina used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Gastrodon lost <abbr title="−123/339">36.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gastrodon used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Primarina lost <abbr title="−68/265">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Primarina fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gastrodon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Celebi</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">lolu Chand withdrew Gastrodon!<br></div><div class="battle-history">lolu Chand sent out <strong>Lunatone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lunatone lost <abbr title="−211/315">67.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lunatone had its energy drained!</small><br></div><div class="battle-history"><small>Celebi lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lunatone restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Celebi used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lunatone lost <abbr title="−123/315">39.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lunatone had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunatone fainted!<br></div><div class="battle-history"><small>Celebi lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>lolu Chand forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>burn3k</strong> won the battle!<br></div><div class="chat">burn3k's rating: 1345 → <strong>1370</strong><br>(+25 for winning)</div><div class="chat">lolu Chand's rating: 1440 → <strong>1415</strong><br>(-25 for losing)</div><div class="chat"><small>☆lolu Chand left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

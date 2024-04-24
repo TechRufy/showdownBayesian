@@ -62,15 +62,15 @@ def check_stab(active_types, move):
 
 
 def get_probability_Move(state, move):
-    EVIDENCE = {'Weather': str(state.weather).lower(),
-                'Power': moves[move.translate(mapping_table).lower()]["basePower"],
+    EVIDENCE = {#'Weather': str(state.weather).lower(),
+                #'Power': moves[move.translate(mapping_table).lower()]["basePower"],
                 'Multiplicator': Generate_Multiplicator(moves[move.translate(mapping_table).lower()]["type"],
                                                         state.opponent.active.types),
                 'stab': check_stab(state.user.active.types, move),
                 'Enemy HP': int((state.opponent.active.hp / state.opponent.active.maxhp) * 100),
-                "Pokemon HP": int((state.user.active.hp / state.user.active.maxhp) * 100),
+                #"Pokemon HP": int((state.user.active.hp / state.user.active.maxhp) * 100),
                 "Category": moves[move.translate(mapping_table).lower()]["category"],
-                "Status enemy": state.opponent.active.status if state.opponent.active.status is not None else "normal",
+                #"Status enemy": state.opponent.active.status if state.opponent.active.status is not None else "normal",
                 "Boost": (state.user.active.attack_boost + state.user.active.defense_boost + state.user.active.special_attack_boost + state.user.active.special_defense_boost + state.user.active.speed_boost + state.user.active.accuracy_boost + state.user.active.evasion_boost)
                 }
     result = run_query(target_var='Choose', evidence=EVIDENCE)
@@ -85,13 +85,13 @@ def get_probability_Switch(state, switch):
     if maxhpP == 0:
         maxhpP = 1
 
-    EVIDENCE = {'Weather': str(state.weather).lower(),
+    EVIDENCE = {#'Weather': str(state.weather).lower(),
                 'Multiplicator In': Generate_Multiplicator_In_switch(state.opponent.active.types,
                                                                      pokemon[switch[7:]]["types"]),
                 'Multiplicator Out': Generate_Multiplicator_Out_switch(state.opponent.active.types,
                                                                        state.user.active.types),
-                'Enemy HP': int((state.opponent.active.hp / maxhpE) * 100),
-                "Pokemon HP": int((state.user.active.hp / maxhpP) * 100),
+                #'Enemy HP': int((state.opponent.active.hp / maxhpE) * 100),
+                #"Pokemon HP": int((state.user.active.hp / maxhpP) * 100),
                 "Status Pokemon": state.user.active.status if state.user.active.status is not None else "normal"
                 }
     result = switch_run_query(target_var='Switch', evidence=EVIDENCE)

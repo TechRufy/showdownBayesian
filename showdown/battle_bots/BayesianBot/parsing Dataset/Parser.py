@@ -44,6 +44,42 @@ def parser(log_data):
                "p2a boost": {
                    'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
                    'special_defense_boost': 0, 'speed_boost': 0, 'accuracy_boost': 0, 'evasion_boost': 0}}
+
+    pokedex["farfetch’d"] = {
+        "num": 83,
+        "name": "farfetch\u2019d",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "baseStats": {
+            "hp": 52,
+            "attack": 90,
+            "defense": 55,
+            "special-attack": 58,
+            "special-defense": 62,
+            "speed": 60
+        },
+        "abilities": {
+            "0": "Keen Eye",
+            "1": "Inner Focus",
+            "H": "Defiant"
+        },
+        "heightm": 0.8,
+        "weightkg": 15,
+        "color": "Brown",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "otherFormes": [
+            "Farfetch\u2019d-Galar"
+        ],
+        "formeOrder": [
+            "Farfetch\u2019d",
+            "Farfetch\u2019d-Galar"
+        ]}
+
     for line in log_data:
         if line.startswith('|-boost|'):
             group = line.split("|")
@@ -102,15 +138,13 @@ def parser(log_data):
                         team["p1a"].append(token[5:])
                     if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
                         df2.loc[len(df2)] = [token[5:], pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
-                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")][
+                                             pokedex[token[5:].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokedex[
-                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’",
-                                                                                                                  "'")][
+                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokedex[
-                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’",
-                                                                                                                  "'")][
+                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokemon["hp p1a"],
                                              pokemon["hp p2a"],
@@ -121,17 +155,13 @@ def parser(log_data):
                             if pkmn == token[5:] or pkmn == pokemon["p1a Pokemon"]:
                                 continue
                             df2.loc[len(df2)] = [pkmn, pokemon["p1a Pokemon"], pokemon["p2a Pokemon"],
-                                                 pokedex[pkmn.lower().strip().replace("\n", "").replace("’", "'")][
+                                                 pokedex[pkmn.lower().strip().replace("\n", "")][
                                                      "types"],
                                                  pokedex[
-                                                     pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace(
-                                                         "’",
-                                                         "'")][
+                                                     pokemon["p1a Pokemon"].lower().strip().replace("\n", "")][
                                                      "types"],
                                                  pokedex[
-                                                     pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace(
-                                                         "’",
-                                                         "'")][
+                                                     pokemon["p2a Pokemon"].lower().strip().replace("\n", "")][
                                                      "types"],
                                                  pokemon["hp p1a"],
                                                  pokemon["hp p2a"],
@@ -147,16 +177,16 @@ def parser(log_data):
                     if not team["p2a"].__contains__(token[5:]):
                         team["p2a"].append(token[5:])
                     if pokemon["p1a Pokemon"] is not None and pokemon["p2a Pokemon"] is not None:
+                        if token[5:].lower().strip().replace("\n", "") == "type: null":
+                            continue
                         df2.loc[len(df2)] = [token[5:], pokemon["p2a Pokemon"], pokemon["p1a Pokemon"],
-                                             pokedex[token[5:].lower().strip().replace("\n", "").replace("’", "'")][
+                                             pokedex[token[5:].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokedex[
-                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "").replace("’",
-                                                                                                                  "'")][
+                                                 pokemon["p2a Pokemon"].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokedex[
-                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "").replace("’",
-                                                                                                                  "'")][
+                                                 pokemon["p1a Pokemon"].lower().strip().replace("\n", "")][
                                                  "types"],
                                              pokemon["hp p2a"],
                                              pokemon["hp p1a"],
@@ -214,6 +244,8 @@ def parser(log_data):
                     continue
                 if not pokemon[User[:3] + " mosse"].__contains__(Move):
                     pokemon[User[:3] + " mosse"].append(Move)
+                if User[5:].lower().strip().replace("\n", "") == "type: null" or Sufferer[5:].lower().strip().replace("\n", "") == "type":
+                    continue
                 df.loc[len(df)] = [User[5:], Sufferer[5:], Move,
                                    pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
                                    pokedex[Sufferer[5:].lower().strip().replace("\n", "")]["types"],
@@ -267,6 +299,8 @@ def parser(log_data):
                         Move = item
                 if not pokemon[User[:3] + " mosse"].__contains__(Move):
                     pokemon[User[:3] + " mosse"].append(Move)
+                if User[5:].lower().strip().replace("\n", "") == "type: null":
+                    continue
                 df.loc[len(df)] = [User[5:], User[5:], Move,
                                    pokedex[User[5:].lower().strip().replace("\n", "")]["types"],
                                    pokedex[User[5:].lower().strip().replace("\n", "")]["types"],

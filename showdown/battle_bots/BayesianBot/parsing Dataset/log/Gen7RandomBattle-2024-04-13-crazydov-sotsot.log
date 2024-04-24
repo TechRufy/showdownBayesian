@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: crazydov vs. soTsoT</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2102691258" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/crazydov" class="subtle" target="_blank">crazydov</a> vs. <a href="http://pokemonshowdown.com/users/sotsot" class="subtle" target="_blank">soTsoT</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆crazydov
+|j|☆soTsoT
+|t:|1713032142
+|gametype|singles
+|player|p1|crazydov|burglar-gen1|
+|player|p2|soTsoT|#teamskymin|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713032142
+|start
+|switch|p1a: Tapu Lele|Tapu Lele, L78|237\/237
+|switch|p2a: Gligar|Gligar, L83, M|244\/244
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|c|☆soTsoT|hf
+|
+|t:|1713032177
+|switch|p1a: Tentacruel|Tentacruel, L83, M|268\/268
+|move|p2a: Gligar|Stealth Rock|p1a: Tentacruel
+|-sidestart|p1: crazydov|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1713032209
+|switch|p2a: Zekrom|Zekrom, L74|270\/270
+|-ability|p2a: Zekrom|Teravolt
+|move|p1a: Tentacruel|Knock Off|p2a: Zekrom
+|-damage|p2a: Zekrom|224\/270
+|-enditem|p2a: Zekrom|Assault Vest|[from] move: Knock Off|[of] p1a: Tentacruel
+|
+|upkeep
+|turn|3
+|
+|t:|1713032220
+|switch|p1a: Excadrill|Excadrill, L81, M|311\/311
+|-damage|p1a: Excadrill|302\/311|[from] Stealth Rock
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Zekrom|Bolt Strike|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|4
+|
+|t:|1713032228
+|switch|p2a: Gligar|Gligar, L83, M|244\/244
+|move|p1a: Excadrill|Iron Head|p2a: Gligar
+|-damage|p2a: Gligar|158\/244
+|-damage|p1a: Excadrill|271\/311|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1713032238
+|switch|p1a: Tentacruel|Tentacruel, L83, M|268\/268
+|-damage|p1a: Tentacruel|235\/268|[from] Stealth Rock
+|move|p2a: Gligar|Earthquake|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1713032252
+|switch|p1a: Crobat|Crobat, L82, M|274\/274
+|-damage|p1a: Crobat|206\/274|[from] Stealth Rock
+|turn|6
+|
+|t:|1713032270
+|move|p1a: Crobat|Defog|p2a: Gligar
+|-unboost|p2a: Gligar|evasion|1
+|-sideend|p1: crazydov|Stealth Rock|[from] move: Defog|[of] p1a: Crobat
+|move|p2a: Gligar|Roost|p2a: Gligar
+|-heal|p2a: Gligar|244\/244
+|-singleturn|p2a: Gligar|move: Roost
+|
+|-heal|p1a: Crobat|223\/274|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1713032283
+|switch|p1a: Articuno|Articuno, L87|298\/298
+|-ability|p1a: Articuno|Pressure
+|move|p2a: Gligar|Stealth Rock|p1a: Articuno
+|-sidestart|p1: crazydov|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1713032309
+|switch|p2a: Garbodor|Garbodor, L88, F|284\/284
+|move|p1a: Articuno|Freeze-Dry|p2a: Garbodor
+|-damage|p2a: Garbodor|200\/284
+|
+|-heal|p2a: Garbodor|217\/284|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1713032325
+|switch|p1a: Crobat|Crobat, L82, M|223\/274
+|-damage|p1a: Crobat|155\/274|[from] Stealth Rock
+|move|p2a: Garbodor|Toxic|p1a: Crobat
+|-immune|p1a: Crobat
+|
+|-heal|p1a: Crobat|172\/274|[from] item: Black Sludge
+|-heal|p2a: Garbodor|234\/284|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1713032333
+|switch|p2a: Gligar|Gligar, L83, M|244\/244
+|move|p1a: Crobat|Defog|p2a: Gligar
+|-unboost|p2a: Gligar|evasion|1
+|-sideend|p1: crazydov|Stealth Rock|[from] move: Defog|[of] p1a: Crobat
+|
+|-heal|p1a: Crobat|189\/274|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1713032341
+|switch|p1a: Articuno|Articuno, L87|298\/298
+|-ability|p1a: Articuno|Pressure
+|move|p2a: Gligar|Toxic|p1a: Articuno
+|-status|p1a: Articuno|tox
+|
+|-damage|p1a: Articuno|280\/298 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1713032346
+|switch|p2a: Garbodor|Garbodor, L88, F|234\/284
+|move|p1a: Articuno|Freeze-Dry|p2a: Garbodor
+|-damage|p2a: Garbodor|155\/284
+|
+|-heal|p1a: Articuno|298\/298 tox|[from] item: Leftovers
+|-heal|p2a: Garbodor|172\/284|[from] item: Black Sludge
+|-damage|p1a: Articuno|262\/298 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1713032359
+|switch|p1a: Excadrill|Excadrill, L81, M|271\/311
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Garbodor|Stomping Tantrum|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|111\/311
+|
+|-heal|p2a: Garbodor|189\/284|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1713032377
+|switch|p1a: Articuno|Articuno, L87|262\/298 tox
+|-ability|p1a: Articuno|Pressure
+|move|p2a: Garbodor|Stomping Tantrum|p1a: Articuno
+|-immune|p1a: Articuno
+|
+|-heal|p1a: Articuno|280\/298 tox|[from] item: Leftovers
+|-heal|p2a: Garbodor|206\/284|[from] item: Black Sludge
+|-damage|p1a: Articuno|262\/298 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1713032388
+|move|p1a: Articuno|Hurricane|p2a: Garbodor|[miss]
+|-miss|p1a: Articuno|p2a: Garbodor
+|move|p2a: Garbodor|Gunk Shot|p1a: Articuno
+|-damage|p1a: Articuno|133\/298 tox
+|
+|-heal|p1a: Articuno|151\/298 tox|[from] item: Leftovers
+|-heal|p2a: Garbodor|223\/284|[from] item: Black Sludge
+|-damage|p1a: Articuno|115\/298 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1713032400
+|switch|p2a: Raticate|Raticate-Alola, L88, M|275\/275
+|move|p1a: Articuno|Hurricane|p2a: Raticate
+|-damage|p2a: Raticate|155\/275
+|-start|p2a: Raticate|confusion
+|
+|-heal|p1a: Articuno|133\/298 tox|[from] item: Leftovers
+|-damage|p1a: Articuno|79\/298 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1713032412
+|switch|p1a: Excadrill|Excadrill, L81, M|111\/311
+|-ability|p1a: Excadrill|Mold Breaker
+|-activate|p2a: Raticate|confusion
+|-damage|p2a: Raticate|125\/275|[from] confusion
+|
+|upkeep
+|turn|18
+|
+|t:|1713032418
+|switch|p2a: Gligar|Gligar, L83, M|244\/244
+|move|p1a: Excadrill|Iron Head|p2a: Gligar
+|-damage|p2a: Gligar|158\/244
+|-damage|p1a: Excadrill|80\/311|[from] item: Life Orb
+|
+|upkeep
+|turn|19
+|
+|t:|1713032426
+|switch|p1a: Articuno|Articuno, L87|79\/298 tox
+|-ability|p1a: Articuno|Pressure
+|move|p2a: Gligar|Stealth Rock|p1a: Articuno
+|-sidestart|p1: crazydov|move: Stealth Rock
+|
+|-heal|p1a: Articuno|97\/298 tox|[from] item: Leftovers
+|-damage|p1a: Articuno|79\/298 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1713032442
+|switch|p2a: Garbodor|Garbodor, L88, F|223\/284
+|move|p1a: Articuno|Freeze-Dry|p2a: Garbodor
+|-damage|p2a: Garbodor|144\/284
+|
+|-heal|p1a: Articuno|97\/298 tox|[from] item: Leftovers
+|-heal|p2a: Garbodor|161\/284|[from] item: Black Sludge
+|-damage|p1a: Articuno|61\/298 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1713032482
+|switch|p2a: Zekrom|Zekrom, L74|224\/270
+|-ability|p2a: Zekrom|Teravolt
+|move|p1a: Articuno|Hurricane|p2a: Zekrom
+|-resisted|p2a: Zekrom
+|-damage|p2a: Zekrom|159\/270
+|
+|-heal|p1a: Articuno|79\/298 tox|[from] item: Leftovers
+|-damage|p1a: Articuno|25\/298 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1713032489
+|switch|p2a: Garbodor|Garbodor, L88, F|161\/284
+|move|p1a: Articuno|Freeze-Dry|p2a: Garbodor
+|-damage|p2a: Garbodor|77\/284
+|
+|-heal|p1a: Articuno|43\/298 tox|[from] item: Leftovers
+|-heal|p2a: Garbodor|94\/284|[from] item: Black Sludge
+|-damage|p1a: Articuno|0 fnt|[from] psn
+|faint|p1a: Articuno
+|upkeep
+|
+|t:|1713032497
+|switch|p1a: Tapu Lele|Tapu Lele, L78|237\/237
+|-damage|p1a: Tapu Lele|208\/237|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|23
+|
+|t:|1713032503
+|move|p1a: Tapu Lele|Psychic|p2a: Garbodor
+|-supereffective|p2a: Garbodor
+|-crit|p2a: Garbodor
+|-damage|p2a: Garbodor|0 fnt
+|faint|p2a: Garbodor
+|-damage|p1a: Tapu Lele|185\/237|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713032510
+|switch|p2a: Slaking|Slaking, L84, M|389\/389
+|turn|24
+|
+|t:|1713032516
+|switch|p1a: Excadrill|Excadrill, L81, M|80\/311
+|-damage|p1a: Excadrill|71\/311|[from] Stealth Rock
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Slaking|Retaliate|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1713032521
+|switch|p1a: Lilligant|Lilligant, L87, F|264\/264
+|-damage|p1a: Lilligant|231\/264|[from] Stealth Rock
+|turn|25
+|
+|t:|1713032555
+|switch|p2a: Gligar|Gligar, L83, M|158\/244
+|move|p1a: Lilligant|Sleep Powder|p2a: Gligar
+|-status|p2a: Gligar|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|26
+|
+|t:|1713032562
+|switch|p2a: Zekrom|Zekrom, L74|159\/270
+|-ability|p2a: Zekrom|Teravolt
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|upkeep
+|turn|27
+|
+|t:|1713032574
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Zekrom|Outrage|p1a: Lilligant
+|-damage|p1a: Lilligant|86\/264
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|28
+|
+|t:|1713032582
+|move|p1a: Lilligant|Giga Drain|p2a: Zekrom
+|-resisted|p2a: Zekrom
+|-damage|p2a: Zekrom|32\/270
+|-heal|p1a: Lilligant|150\/264|[from] drain|[of] p2a: Zekrom
+|-damage|p1a: Lilligant|124\/264|[from] item: Life Orb
+|move|p2a: Zekrom|Outrage|p1a: Lilligant|[from]lockedmove
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|-start|p2a: Zekrom|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1713032588
+|switch|p1a: Crobat|Crobat, L82, M|189\/274
+|-damage|p1a: Crobat|121\/274|[from] Stealth Rock
+|turn|29
+|
+|t:|1713032597
+|move|p1a: Crobat|Roost|p1a: Crobat
+|-heal|p1a: Crobat|258\/274
+|-singleturn|p1a: Crobat|move: Roost
+|-activate|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Volt Switch|p1a: Crobat
+|-damage|p1a: Crobat|179\/274
+|
+|t:|1713032613
+|switch|p2a: Breloom|Breloom, L84, F|238\/238|[from] Volt Switch
+|
+|-heal|p1a: Crobat|196\/274|[from] item: Black Sludge
+|upkeep
+|turn|30
+|
+|t:|1713032624
+|move|p1a: Crobat|Brave Bird|p2a: Breloom
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|-damage|p1a: Crobat|117\/274|[from] Recoil
+|
+|-heal|p1a: Crobat|134\/274|[from] item: Black Sludge
+|upkeep
+|
+|t:|1713032627
+|switch|p2a: Slaking|Slaking, L84, M|389\/389
+|turn|31
+|
+|t:|1713032642
+|move|p1a: Crobat|Roost|p1a: Crobat
+|-heal|p1a: Crobat|271\/274
+|-singleturn|p1a: Crobat|move: Roost
+|move|p2a: Slaking|Retaliate|p1a: Crobat
+|-damage|p1a: Crobat|0 fnt
+|faint|p1a: Crobat
+|
+|upkeep
+|
+|t:|1713032644
+|switch|p1a: Tapu Lele|Tapu Lele, L78|185\/237
+|-damage|p1a: Tapu Lele|156\/237|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|32
+|
+|t:|1713032652
+|switch|p2a: Zekrom|Zekrom, L74|32\/270
+|-ability|p2a: Zekrom|Teravolt
+|move|p1a: Tapu Lele|Moonblast|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-damage|p2a: Zekrom|0 fnt
+|faint|p2a: Zekrom
+|-damage|p1a: Tapu Lele|133\/237|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713032654
+|switch|p2a: Slaking|Slaking, L84, M|389\/389
+|turn|33
+|c|☆crazydov|gg w
+|c|☆soTsoT|ggs
+|
+|t:|1713032660
+|move|p2a: Slaking|Retaliate|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|win|soTsoT
+|c|☆crazydov|smell ya later
+|c|☆soTsoT|bye
+|l|☆crazydov
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆crazydov and ☆soTsoT joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between crazydov and soTsoT!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Tapu Lele</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="battle-history">[The opposing Tapu Lele's Psychic Surge]<br><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-sotsot"><strong style="color:#8869bf"><small>☆</small><span class="username" data-name="soTsoT">soTsoT</span>:</strong> <em>hf</em></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Tapu Lele!<br></div><div class="battle-history">crazydov sent out <strong>Tentacruel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Zekrom</strong>!<br></div><div class="battle-history">[Zekrom's Teravolt]<br><small>Zekrom is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Zekrom lost <abbr title="−46/270">17.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Tentacruel knocked off Zekrom's Assault Vest!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Tentacruel!<br></div><div class="battle-history">crazydov sent out <strong>Excadrill</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Excadrill!</small><br></div><div class="battle-history">[The opposing Excadrill's Mold Breaker]<br><small>The opposing Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Excadrill...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom, come back!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Gligar lost <abbr title="−86/244">35.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Excadrill!<br></div><div class="battle-history">crazydov sent out <strong>Tentacruel</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tentacruel!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Tentacruel lost <abbr title="−235/268">87.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tentacruel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The weirdness disappeared from the battlefield!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Crobat</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Crobat!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Gligar's evasiveness fell!</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Gligar had its HP restored.</small><br></div><div class="battle-history"><small>(Gligar loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Crobat!<br></div><div class="battle-history">crazydov sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−84/284">29.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Articuno!<br></div><div class="battle-history">crazydov sent out <strong>Crobat</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Crobat!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Crobat...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor, come back!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Gligar's evasiveness fell!</small><br></div><div class="battle-history"><small>The pointed stones disappeared from around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Crobat!<br></div><div class="battle-history">crazydov sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Articuno was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−79/284">27.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Articuno!<br></div><div class="battle-history">crazydov sent out <strong>Excadrill</strong>!<br></div><div class="battle-history">[The opposing Excadrill's Mold Breaker]<br><small>The opposing Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Stomping Tantrum</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Excadrill lost <abbr title="−160/311">51.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Excadrill!<br></div><div class="battle-history">crazydov sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Stomping Tantrum</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Articuno...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>Garbodor avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−129/298">43.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor, come back!<br></div><div class="battle-history">Go! Raticate (<strong>Raticate-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>(Raticate lost <abbr title="−120/275">43.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Raticate became confused!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Articuno!<br></div><div class="battle-history">crazydov sent out <strong>Excadrill</strong>!<br></div><div class="battle-history">[The opposing Excadrill's Mold Breaker]<br><small>The opposing Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Raticate is confused!</small><br></div><div class="battle-history">It hurt itself in its confusion!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Raticate, come back!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Gligar lost <abbr title="−86/244">35.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Excadrill lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Excadrill!<br></div><div class="battle-history">crazydov sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gligar used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−79/284">27.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor, come back!<br></div><div class="battle-history">Go! <strong>Zekrom</strong>!<br></div><div class="battle-history">[Zekrom's Teravolt]<br><small>Zekrom is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Hurricane</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Zekrom lost <abbr title="−65/270">24.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom, come back!<br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−84/284">29.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Tapu Lele</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tapu Lele!</small><br></div><div class="battle-history">[The opposing Tapu Lele's Psychic Surge]<br><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Lele used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−94/284">33.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor fainted!<br></div><div class="battle-history"><small>The opposing Tapu Lele lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Slaking</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">crazydov withdrew Tapu Lele!<br></div><div class="battle-history">crazydov sent out <strong>Excadrill</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Excadrill!</small><br></div><div class="battle-history">[The opposing Excadrill's Mold Breaker]<br><small>The opposing Excadrill breaks the mold!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slaking used <strong>Retaliate</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Excadrill lost <abbr title="−71/311">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Excadrill fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Lilligant</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lilligant!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Slaking, come back!<br></div><div class="battle-history">Go! <strong>Gligar</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Sleep Powder</strong>!<br></div><div class="battle-history"><small>Gligar fell asleep!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gligar, come back!<br></div><div class="battle-history">Go! <strong>Zekrom</strong>!<br></div><div class="battle-history">[Zekrom's Teravolt]<br><small>Zekrom is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Lilligant's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−145/264">54.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The weirdness disappeared from the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Zekrom lost <abbr title="−127/270">47.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Zekrom had its energy drained!</small><br></div><div class="battle-history"><small>The opposing Lilligant lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom used <strong>Outrage</strong>!<br></div><div class="battle-history"><small>(The opposing Lilligant lost <abbr title="−124/264">47.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lilligant fainted!<br></div><div class="battle-history"><small>Zekrom became confused due to fatigue!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Crobat</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Crobat!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Crobat had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Crobat loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zekrom is confused!</small><br></div><div class="battle-history">Zekrom used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>(The opposing Crobat lost <abbr title="−79/274">28.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom went back to soTsoT!<br></div><div class="battle-history">Go! <strong>Breloom</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Breloom lost <abbr title="−238/238">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Breloom fainted!<br></div><div class="battle-history"><small>The opposing Crobat was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Crobat restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Slaking</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Crobat had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Crobat loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Slaking used <strong>Retaliate</strong>!<br></div><div class="battle-history"><small>(The opposing Crobat lost <abbr title="−271/274">98.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crobat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">crazydov sent out <strong>Tapu Lele</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Tapu Lele!</small><br></div><div class="battle-history">[The opposing Tapu Lele's Psychic Surge]<br><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Slaking, come back!<br></div><div class="battle-history">Go! <strong>Zekrom</strong>!<br></div><div class="battle-history">[Zekrom's Teravolt]<br><small>Zekrom is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Lele used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zekrom lost <abbr title="−32/270">11.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zekrom fainted!<br></div><div class="battle-history"><small>The opposing Tapu Lele lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Slaking</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="chat chatmessage-crazydov"><strong style="color:#8c6f31"><small>☆</small><span class="username" data-name="crazydov">crazydov</span>:</strong> <em>gg w</em></div><div class="chat chatmessage-sotsot"><strong style="color:#8869bf"><small>☆</small><span class="username" data-name="soTsoT">soTsoT</span>:</strong> <em>ggs</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Slaking used <strong>Retaliate</strong>!<br></div><div class="battle-history"><small>(The opposing Tapu Lele lost <abbr title="−133/237">56.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Tapu Lele fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>soTsoT</strong> won the battle!<br></div><div class="chat chatmessage-crazydov"><strong style="color:#8c6f31"><small>☆</small><span class="username" data-name="crazydov">crazydov</span>:</strong> <em>smell ya later</em></div><div class="chat chatmessage-sotsot"><strong style="color:#8869bf"><small>☆</small><span class="username" data-name="soTsoT">soTsoT</span>:</strong> <em>bye</em></div><div class="chat"><small>☆crazydov left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

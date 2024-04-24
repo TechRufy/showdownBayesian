@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Rein_Entei vs. Burgers and Pizza!</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110335635" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/reinentei" class="subtle" target="_blank">Rein_Entei</a> vs. <a href="http://pokemonshowdown.com/users/burgersandpizza" class="subtle" target="_blank">Burgers and Pizza!</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆Rein_Entei
+|j|☆Burgers and Pizza!
+|t:|1713941486
+|gametype|singles
+|player|p1|Rein_Entei|dancer|1510
+|player|p2|Burgers and Pizza!|workerice|1615
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713941486
+|start
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|switch|p2a: Sunflora|Sunflora, M|312\/312
+|turn|1
+|
+|t:|1713941503
+|switch|p1a: Noctowl|Noctowl, L93, F|337\/337
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1713941515
+|switch|p2a: Oranguru|Oranguru, L93, M|318\/318
+|move|p1a: Noctowl|Hyper Voice|p2a: Oranguru
+|-damage|p2a: Oranguru|236\/318
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1713941525
+|switch|p1a: Wobbuffet|Wobbuffet, L86, F|467\/467
+|move|p2a: Oranguru|Trick|p1a: Wobbuffet
+|-activate|p2a: Oranguru|move: Trick|[of] p1a: Wobbuffet
+|-item|p1a: Wobbuffet|Choice Specs|[from] move: Trick
+|-item|p2a: Oranguru|Custap Berry|[from] move: Trick
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rein_Entei)
+|
+|t:|1713941578
+|move|p2a: Oranguru|Nature Power|p1a: Wobbuffet
+|move|p2a: Oranguru|Tri Attack|p1a: Wobbuffet|[from]move: Nature Power
+|-damage|p1a: Wobbuffet|328\/467
+|move|p1a: Wobbuffet|Mirror Coat|p2a: Oranguru
+|-damage|p2a: Oranguru|0 fnt
+|faint|p2a: Oranguru
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1713941591
+|switch|p2a: Houndoom|Houndoom, L81, M|253\/253
+|turn|5
+|
+|t:|1713941611
+|move|p2a: Houndoom|Nasty Plot|p2a: Houndoom
+|-boost|p2a: Houndoom|spa|2
+|move|p1a: Wobbuffet|Mirror Coat||[still]
+|-fail|p1a: Wobbuffet
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1713941622
+|switch|p1a: Noctowl|Noctowl, L93, F|337\/337
+|detailschange|p2a: Houndoom|Houndoom-Mega, L81, M
+|-mega|p2a: Houndoom|Houndoom|Houndoominite
+|move|p2a: Houndoom|Dark Pulse|p1a: Noctowl
+|-damage|p1a: Noctowl|148\/337
+|
+|-heal|p1a: Noctowl|169\/337|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1713941629
+|move|p2a: Houndoom|Dark Pulse|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|
+|upkeep
+|
+|t:|1713941646
+|switch|p1a: Wobbuffet|Wobbuffet, L86, F|328\/467
+|turn|8
+|
+|t:|1713941651
+|move|p2a: Houndoom|Dark Pulse|p1a: Wobbuffet
+|-supereffective|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|0 fnt
+|faint|p1a: Wobbuffet
+|
+|upkeep
+|
+|t:|1713941654
+|switch|p1a: Garbodor|Garbodor, L88, M|284\/284
+|turn|9
+|
+|t:|1713941661
+|move|p2a: Houndoom|Dark Pulse|p1a: Garbodor
+|-damage|p1a: Garbodor|56\/284
+|move|p1a: Garbodor|Stomping Tantrum|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|137\/253
+|
+|-heal|p1a: Garbodor|73\/284|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1713941666
+|move|p2a: Houndoom|Dark Pulse|p1a: Garbodor
+|-damage|p1a: Garbodor|0 fnt
+|faint|p1a: Garbodor
+|
+|upkeep
+|
+|t:|1713941668
+|switch|p1a: Kangaskhan|Kangaskhan, L76, F|285\/285
+|turn|11
+|
+|t:|1713941674
+|detailschange|p1a: Kangaskhan|Kangaskhan-Mega, L76, F
+|-mega|p1a: Kangaskhan|Kangaskhan|Kangaskhanite
+|move|p2a: Houndoom|Fire Blast|p1a: Kangaskhan|[miss]
+|-miss|p2a: Houndoom|p1a: Kangaskhan
+|move|p1a: Kangaskhan|Body Slam|p2a: Houndoom
+|-damage|p2a: Houndoom|38\/253
+|-status|p2a: Houndoom|par
+|-damage|p2a: Houndoom|17\/253 par
+|-hitcount|p2a: Houndoom|2
+|
+|upkeep
+|turn|12
+|
+|t:|1713941683
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|-hitcount|p2: Houndoom|1
+|
+|upkeep
+|
+|t:|1713941707
+|switch|p2a: Dedenne|Dedenne, L90, M|267\/267
+|turn|13
+|
+|t:|1713941714
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|move|p2a: Dedenne|Super Fang|p1a: Magnezone|[miss]
+|-miss|p2a: Dedenne|p1a: Magnezone
+|
+|upkeep
+|turn|14
+|
+|t:|1713941725
+|move|p2a: Dedenne|Super Fang|p1a: Magnezone|[miss]
+|-miss|p2a: Dedenne|p1a: Magnezone
+|move|p1a: Magnezone|Flash Cannon|p2a: Dedenne
+|-damage|p2a: Dedenne|153\/267
+|
+|upkeep
+|turn|15
+|
+|t:|1713941731
+|switch|p1a: Blacephalon|Blacephalon, L80|215\/215
+|move|p2a: Dedenne|Super Fang|p1a: Blacephalon
+|-immune|p1a: Blacephalon
+|
+|upkeep
+|turn|16
+|
+|t:|1713941746
+|switch|p2a: Snorlax|Snorlax, L84, F|406\/406
+|move|p1a: Blacephalon|Fire Blast|p2a: Snorlax
+|-damage|p2a: Snorlax|276\/406
+|
+|upkeep
+|turn|17
+|
+|t:|1713941762
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|18
+|
+|t:|1713941771
+|move|p1a: Magnezone|Thunderbolt|p2a: Snorlax
+|-damage|p2a: Snorlax|171\/406
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|374\/406|[from] item: Mago Berry
+|move|p2a: Snorlax|Crunch|p1a: Magnezone
+|-damage|p1a: Magnezone|170\/252
+|
+|upkeep
+|turn|19
+|
+|t:|1713941777
+|move|p1a: Magnezone|Thunderbolt|p2a: Snorlax
+|-damage|p2a: Snorlax|277\/406
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|
+|upkeep
+|turn|20
+|
+|t:|1713941780
+|move|p1a: Magnezone|Thunderbolt|p2a: Snorlax
+|-damage|p2a: Snorlax|184\/406
+|-status|p2a: Snorlax|par
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|387\/406 par|[from] item: Mago Berry
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|21
+|
+|t:|1713941786
+|move|p1a: Magnezone|Thunderbolt|p2a: Snorlax
+|-damage|p2a: Snorlax|285\/406 par
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|
+|upkeep
+|turn|22
+|
+|t:|1713941797
+|move|p1a: Magnezone|Thunderbolt|p2a: Snorlax
+|-damage|p2a: Snorlax|177\/406 par
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|380\/406 par|[from] item: Mago Berry
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|23
+|
+|t:|1713941802
+|switch|p1a: Kangaskhan|Kangaskhan-Mega, L76, F|285\/285
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|
+|upkeep
+|turn|24
+|
+|t:|1713941806
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|304\/406 par
+|-damage|p2a: Snorlax|228\/406 par
+|-hitcount|p2a: Snorlax|2
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|25
+|
+|t:|1713941812
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|152\/406 par
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|355\/406 par|[from] item: Mago Berry
+|-damage|p2a: Snorlax|279\/406 par
+|-hitcount|p2a: Snorlax|2
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|26
+|
+|t:|1713941819
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|203\/406 par
+|-damage|p2a: Snorlax|127\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|330\/406 par|[from] item: Mago Berry
+|
+|upkeep
+|turn|27
+|
+|t:|1713941826
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|254\/406 par
+|-damage|p2a: Snorlax|178\/406 par
+|-hitcount|p2a: Snorlax|2
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|28
+|
+|t:|1713941832
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|102\/406 par
+|-damage|p2a: Snorlax|26\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|229\/406 par|[from] item: Mago Berry
+|
+|upkeep
+|turn|29
+|
+|t:|1713941843
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|153\/406 par
+|-damage|p2a: Snorlax|77\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|280\/406 par|[from] item: Mago Berry
+|
+|upkeep
+|turn|30
+|
+|t:|1713941850
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|204\/406 par
+|-damage|p2a: Snorlax|128\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|331\/406 par|[from] item: Mago Berry
+|
+|upkeep
+|turn|31
+|
+|t:|1713941856
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|255\/406 par
+|-damage|p2a: Snorlax|179\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Recycle|p2a: Snorlax
+|-item|p2a: Snorlax|Mago Berry|[from] move: Recycle
+|-enditem|p2a: Snorlax|Mago Berry|[eat]
+|-heal|p2a: Snorlax|382\/406 par|[from] item: Mago Berry
+|
+|upkeep
+|turn|32
+|
+|t:|1713941861
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|306\/406 par
+|-damage|p2a: Snorlax|230\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Return|p1a: Kangaskhan
+|-damage|p1a: Kangaskhan|65\/285
+|
+|upkeep
+|turn|33
+|
+|t:|1713941869
+|move|p1a: Kangaskhan|Seismic Toss|p2a: Snorlax
+|-damage|p2a: Snorlax|154\/406 par
+|-damage|p2a: Snorlax|78\/406 par
+|-hitcount|p2a: Snorlax|2
+|move|p2a: Snorlax|Return|p1a: Kangaskhan
+|-damage|p1a: Kangaskhan|0 fnt
+|faint|p1a: Kangaskhan
+|
+|upkeep
+|
+|t:|1713941887
+|switch|p1a: Blacephalon|Blacephalon, L80|215\/215
+|turn|34
+|
+|t:|1713941893
+|move|p1a: Blacephalon|Fire Blast|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1713941897
+|switch|p2a: Mantine|Mantine, L87, F|290\/290
+|turn|35
+|
+|t:|1713941910
+|switch|p1a: Magnezone|Magnezone, L83|170\/252
+|switch|p2a: Sunflora|Sunflora, M|312\/312
+|
+|upkeep
+|turn|36
+|
+|t:|1713941920
+|move|p1a: Magnezone|Volt Switch|p2a: Sunflora
+|-resisted|p2a: Sunflora
+|-damage|p2a: Sunflora|273\/312
+|
+|t:|1713941923
+|switch|p1a: Blacephalon|Blacephalon, L80|215\/215|[from] Volt Switch
+|move|p2a: Sunflora|Earth Power|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|-damage|p2a: Sunflora|242\/312|[from] item: Life Orb
+|
+|upkeep
+|-message|Rein_Entei forfeited.
+|
+|win|Burgers and Pizza!
+|raw|Rein_Entei's rating: 1510 &rarr; <strong>1496<\/strong><br \/>(-14 for losing)
+|raw|Burgers and Pizza!'s rating: 1615 &rarr; <strong>1629<\/strong><br \/>(+14 for winning)
+|l|☆Rein_Entei
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆Rein_Entei and ☆Burgers and Pizza! joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Rein_Entei and Burgers and Pizza!!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Noctowl</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sunflora used <strong>Sunny Day</strong>!<br></div><div class="battle-history"><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! withdrew Sunflora!<br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Oranguru</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Noctowl used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−82/318">25.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Noctowl, come back!<br></div><div class="battle-history">Go! <strong>Wobbuffet</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Trick</strong>!<br></div><div class="battle-history"><small>The opposing Oranguru switched items with its target!</small><br></div><div class="battle-history"><small>Wobbuffet obtained one Choice Specs.</small><br></div><div class="battle-history"><small>The opposing Oranguru obtained one Custap Berry.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rein_Entei)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru used <strong>Nature Power</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nature Power turned into Tri Attack!<br></div><div class="battle-history"><small>(Wobbuffet lost <abbr title="−139/467">29.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet used <strong>Mirror Coat</strong>!<br></div><div class="battle-history"><small>(The opposing Oranguru lost <abbr title="−236/318">74.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Oranguru fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Houndoom</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Houndoom's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet used <strong>Mirror Coat</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet, come back!<br></div><div class="battle-history">Go! <strong>Noctowl</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Houndoom's Houndoominite is reacting to the Key Stone!</small><br>The opposing Houndoom has Mega Evolved into Mega Houndoom!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Noctowl lost <abbr title="−189/337">56.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Noctowl restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Noctowl lost <abbr title="−169/337">50.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Noctowl fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Wobbuffet</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Wobbuffet lost <abbr title="−328/467">70.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wobbuffet fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Garbodor</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−228/284">80.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor used <strong>Stomping Tantrum</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Houndoom lost <abbr title="−116/253">45.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Garbodor restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>(Garbodor lost <abbr title="−73/284">25.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Garbodor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Kangaskhan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Kangaskhan's Kangaskhanite is reacting to the Key Stone!</small><br>Kangaskhan has Mega Evolved into Mega Kangaskhan!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>Kangaskhan avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Houndoom lost <abbr title="−99/253">39.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Houndoom is paralyzed! It may be unable to move!</small><br></div><div class="battle-history"><small>(The opposing Houndoom lost <abbr title="−21/253">8.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Houndoom lost <abbr title="−17/253">6.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Houndoom fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 1 time!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Dedenne</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Super Fang</strong>!<br></div><div class="battle-history"><small>Magnezone avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Super Fang</strong>!<br></div><div class="battle-history"><small>Magnezone avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>(The opposing Dedenne lost <abbr title="−114/267">42.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! <strong>Blacephalon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Dedenne used <strong>Super Fang</strong>!<br></div><div class="battle-history"><small>It doesn't affect Blacephalon...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! withdrew Dedenne!<br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Snorlax</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blacephalon used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−130/406">32.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blacephalon, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Curse</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Snorlax's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Snorlax's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−105/406">25.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−82/252">32.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−97/406">23.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−93/406">22.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Snorlax is paralyzed! It may be unable to move!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Curse</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Snorlax's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Snorlax's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−102/406">25.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−108/406">26.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone, come back!<br></div><div class="battle-history">Go! Kangaskhan (<strong>Kangaskhan-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Recycle</strong>!<br></div><div class="battle-history"><small>The opposing Snorlax found one Mago Berry!</small><br></div><div class="battle-history"><small>(The opposing Snorlax ate its Mago Berry!)</small><br></div><div class="battle-history"><small>The opposing Snorlax restored HP using its Mago Berry!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Kangaskhan lost <abbr title="−220/285">77.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan used <strong>Seismic Toss</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−76/406">18.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Kangaskhan lost <abbr title="−65/285">22.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kangaskhan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Blacephalon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blacephalon used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Snorlax lost <abbr title="−78/406">19.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Snorlax fainted!<br></div><div class="battle-history">[Blacephalon's Beast Boost]<br></div><div class="battle-history"><small>Blacephalon's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Mantine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Blacephalon, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Burgers and Pizza! withdrew Mantine!<br></div><div class="battle-history">Burgers and Pizza! sent out <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Sunflora lost <abbr title="−39/312">12.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone went back to Rein_Entei!<br></div><div class="battle-history">Go! <strong>Blacephalon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sunflora used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Blacephalon lost <abbr title="−215/215">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Blacephalon fainted!<br></div><div class="battle-history"><small>The opposing Sunflora lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Rein_Entei forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Burgers and Pizza!</strong> won the battle!<br></div><div class="chat">Rein_Entei's rating: 1510 → <strong>1496</strong><br>(-14 for losing)</div><div class="chat">Burgers and Pizza!'s rating: 1615 → <strong>1629</strong><br>(+14 for winning)</div><div class="chat"><small>☆Rein_Entei left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

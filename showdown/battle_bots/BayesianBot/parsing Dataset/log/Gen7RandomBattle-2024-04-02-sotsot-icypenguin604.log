@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: soTsoT vs. icypenguin604</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2094507629" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/sotsot" class="subtle" target="_blank">soTsoT</a> vs. <a href="http://pokemonshowdown.com/users/icypenguin604" class="subtle" target="_blank">icypenguin604</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆soTsoT
+|j|☆icypenguin604
+|t:|1712082949
+|gametype|singles
+|player|p1|soTsoT|#teamskymin|1709
+|player|p2|icypenguin604|265|1730
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712082949
+|start
+|switch|p1a: Silvally|Silvally-Water, L87|307\/307
+|switch|p2a: Beheeyem|Beheeyem, L92, F|287\/287
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by icypenguin604)
+|
+|t:|1712082978
+|move|p1a: Silvally|Parting Shot|p2a: Beheeyem
+|-unboost|p2a: Beheeyem|atk|1
+|-unboost|p2a: Beheeyem|spa|1
+|
+|t:|1712082986
+|switch|p1a: Shiinotic|Shiinotic, L90, F|254\/254|[from] Parting Shot
+|move|p2a: Beheeyem|Thunderbolt|p1a: Shiinotic
+|-resisted|p1a: Shiinotic
+|-damage|p1a: Shiinotic|205\/254
+|
+|-heal|p1a: Shiinotic|220\/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1712082991
+|switch|p2a: Abomasnow|Abomasnow, L85, F|291\/291
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Shiinotic|Spore|p2a: Abomasnow
+|-immune|p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Shiinotic|205\/254|[from] Hail
+|-heal|p1a: Shiinotic|220\/254|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1712083000
+|switch|p1a: Solgaleo|Solgaleo, L74|325\/325
+|detailschange|p2a: Abomasnow|Abomasnow-Mega, L85, F
+|-mega|p2a: Abomasnow|Abomasnow|Abomasite
+|move|p2a: Abomasnow|Wood Hammer|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|243\/325
+|-damage|p2a: Abomasnow|264\/291|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Solgaleo|223\/325|[from] Hail
+|-heal|p1a: Solgaleo|243\/325|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1712083022
+|switch|p2a: Arcanine|Arcanine, L84, M|288\/288
+|-ability|p2a: Arcanine|Intimidate|boost
+|-fail|p1a: Solgaleo|unboost|[from] ability: Full Metal Body|[of] p1a: Solgaleo
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Arcanine
+|-resisted|p2a: Arcanine
+|-damage|p2a: Arcanine|225\/288
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Arcanine|207\/288|[from] Hail
+|-damage|p1a: Solgaleo|223\/325|[from] Hail
+|-heal|p1a: Solgaleo|243\/325|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1712083034
+|switch|p1a: Silvally|Silvally-Water, L87|307\/307
+|move|p2a: Arcanine|Wild Charge|p1a: Silvally
+|-supereffective|p1a: Silvally
+|-damage|p1a: Silvally|143\/307
+|-damage|p2a: Arcanine|166\/288|[from] Recoil
+|-damage|p2a: Arcanine|138\/288|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Silvally|124\/307|[from] Hail
+|-damage|p2a: Arcanine|120\/288|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1712083042
+|move|p1a: Silvally|Multi-Attack|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|-weather|none
+|upkeep
+|
+|t:|1712083055
+|switch|p2a: Abomasnow|Abomasnow-Mega, L85, F|264\/291
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|7
+|
+|t:|1712083086
+|move|p1a: Silvally|Parting Shot|p2a: Abomasnow
+|-unboost|p2a: Abomasnow|atk|1
+|-unboost|p2a: Abomasnow|spa|1
+|
+|t:|1712083088
+|switch|p1a: Solgaleo|Solgaleo, L74|243\/325|[from] Parting Shot
+|move|p2a: Abomasnow|Wood Hammer|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|189\/325
+|-damage|p2a: Abomasnow|246\/291|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Solgaleo|169\/325|[from] Hail
+|-heal|p1a: Solgaleo|189\/325|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1712083093
+|switch|p2a: Pikachu|Pikachu, L93, F|216\/216
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Pikachu
+|-resisted|p2a: Pikachu
+|-damage|p2a: Pikachu|127\/216
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Pikachu|114\/216|[from] Hail
+|-damage|p1a: Solgaleo|169\/325|[from] Hail
+|-heal|p1a: Solgaleo|189\/325|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1712083103
+|switch|p1a: Shiinotic|Shiinotic, L90, F|220\/254
+|move|p2a: Pikachu|Volt Switch|p1a: Shiinotic
+|-resisted|p1a: Shiinotic
+|-damage|p1a: Shiinotic|169\/254
+|
+|t:|1712083105
+|switch|p2a: Abomasnow|Abomasnow-Mega, L85, F|246\/291|[from] Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Shiinotic|154\/254|[from] Hail
+|-heal|p1a: Shiinotic|169\/254|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1712083119
+|switch|p1a: Solgaleo|Solgaleo, L74|189\/325
+|move|p2a: Abomasnow|Blizzard|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|106\/325
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Solgaleo|86\/325|[from] Hail
+|-heal|p1a: Solgaleo|106\/325|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1712083125
+|switch|p2a: Crawdaunt|Crawdaunt, L85, M|246\/246
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-crit|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|162\/246
+|
+|-weather|none
+|-heal|p1a: Solgaleo|126\/325|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1712083140
+|switch|p1a: Shiinotic|Shiinotic, L90, F|169\/254
+|switch|p2a: Abomasnow|Abomasnow-Mega, L85, F|246\/291
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Shiinotic|154\/254|[from] Hail
+|-heal|p1a: Shiinotic|169\/254|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1712083164
+|switch|p1a: Solgaleo|Solgaleo, L74|126\/325
+|move|p2a: Abomasnow|Earthquake|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1712083177
+|switch|p1a: Silvally|Silvally-Water, L87|124\/307
+|turn|14
+|
+|t:|1712083185
+|move|p1a: Silvally|Parting Shot|p2a: Abomasnow
+|-unboost|p2a: Abomasnow|atk|1
+|-unboost|p2a: Abomasnow|spa|1
+|inactive|soTsoT has 120 seconds left.
+|
+|t:|1712083219
+|switch|p1a: Arceus|Arceus-Electric, L72|292\/292|[from] Parting Shot
+|move|p2a: Abomasnow|Blizzard|p1a: Arceus
+|-damage|p1a: Arceus|193\/292
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Arceus|175\/292|[from] Hail
+|upkeep
+|turn|15
+|
+|t:|1712083232
+|switch|p2a: Beheeyem|Beheeyem, L92, F|287\/287
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Arceus|157\/292|[from] Hail
+|-damage|p2a: Beheeyem|270\/287|[from] Hail
+|upkeep
+|turn|16
+|
+|t:|1712083239
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|292\/292
+|move|p2a: Beheeyem|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|60\/292
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1712083243
+|move|p1a: Arceus|Judgment|p2a: Beheeyem
+|-damage|p2a: Beheeyem|131\/287
+|move|p2a: Beheeyem|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|inactive|soTsoT has 120 seconds left.
+|
+|t:|1712083254
+|switch|p1a: Mothim|Mothim, L94, M|284\/284
+|turn|18
+|
+|t:|1712083263
+|move|p1a: Mothim|Bug Buzz|p2a: Beheeyem
+|-supereffective|p2a: Beheeyem
+|-damage|p2a: Beheeyem|0 fnt
+|faint|p2a: Beheeyem
+|
+|upkeep
+|
+|t:|1712083266
+|switch|p2a: Pikachu|Pikachu, L93, F|114\/216
+|turn|19
+|
+|t:|1712083278
+|switch|p1a: Shiinotic|Shiinotic, L90, F|169\/254
+|move|p2a: Pikachu|Volt Switch|p1a: Shiinotic
+|-resisted|p1a: Shiinotic
+|-damage|p1a: Shiinotic|118\/254
+|
+|t:|1712083281
+|switch|p2a: Abomasnow|Abomasnow-Mega, L85, F|246\/291|[from] Volt Switch
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Shiinotic|103\/254|[from] Hail
+|-heal|p1a: Shiinotic|118\/254|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1712083287
+|switch|p1a: Silvally|Silvally-Water, L87|124\/307
+|move|p2a: Abomasnow|Blizzard|p1a: Silvally
+|-resisted|p1a: Silvally
+|-damage|p1a: Silvally|49\/307
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Silvally|30\/307|[from] Hail
+|upkeep
+|turn|21
+|
+|t:|1712083301
+|move|p1a: Silvally|Ice Beam|p2a: Abomasnow
+|-damage|p2a: Abomasnow|192\/291
+|move|p2a: Abomasnow|Blizzard|p1a: Silvally
+|-resisted|p1a: Silvally
+|-damage|p1a: Silvally|0 fnt
+|faint|p1a: Silvally
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1712083312
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364\/364
+|turn|22
+|
+|t:|1712083320
+|move|p1a: Vaporeon|Scald|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|149\/291
+|-status|p2a: Abomasnow|brn
+|move|p2a: Abomasnow|Blizzard|p1a: Vaporeon
+|-resisted|p1a: Vaporeon
+|-damage|p1a: Vaporeon|298\/364
+|-status|p1a: Vaporeon|frz
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Vaporeon|276\/364 frz|[from] Hail
+|-heal|p1a: Vaporeon|298\/364 frz|[from] item: Leftovers
+|-damage|p2a: Abomasnow|131\/291 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1712083350
+|-curestatus|p1a: Vaporeon|frz|[from] move: Scald
+|move|p1a: Vaporeon|Scald|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|89\/291 brn
+|move|p2a: Abomasnow|Wood Hammer|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|87\/364
+|-damage|p2a: Abomasnow|19\/291 brn|[from] Recoil
+|
+|-weather|none
+|-heal|p1a: Vaporeon|109\/364|[from] item: Leftovers
+|-damage|p2a: Abomasnow|1\/291 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1712083361
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|move|p2a: Abomasnow|Wood Hammer|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|faint|p1a: Vaporeon
+|-damage|p2a: Abomasnow|0 fnt|[from] Recoil
+|faint|p2a: Abomasnow
+|
+|upkeep
+|
+|t:|1712083385
+|switch|p1a: Shiinotic|Shiinotic, L90, F|118\/254
+|switch|p2a: Kyogre|Kyogre, L72|263\/263
+|detailschange|p2a: Kyogre|Kyogre-Primal, L72
+|-primal|p2a: Kyogre|Blue Orb
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Kyogre
+|turn|25
+|
+|t:|1712083391
+|move|p2a: Kyogre|Ice Beam|p1a: Shiinotic
+|-supereffective|p1a: Shiinotic
+|-damage|p1a: Shiinotic|0 fnt
+|faint|p1a: Shiinotic
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|
+|t:|1712083393
+|switch|p1a: Mothim|Mothim, L94, M|284\/284
+|turn|26
+|
+|t:|1712083397
+|move|p1a: Mothim|Quiver Dance|p1a: Mothim
+|-boost|p1a: Mothim|spa|1
+|-boost|p1a: Mothim|spd|1
+|-boost|p1a: Mothim|spe|1
+|move|p2a: Kyogre|Thunder|p1a: Mothim
+|-supereffective|p1a: Mothim
+|-damage|p1a: Mothim|106\/284
+|-status|p1a: Mothim|par
+|
+|-weather|PrimordialSea|[upkeep]
+|-heal|p1a: Mothim|123\/284 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|c|☆icypenguin604|gg
+|-message|soTsoT forfeited.
+|
+|win|icypenguin604
+|raw|soTsoT's rating: 1709 &rarr; <strong>1690<\/strong><br \/>(-19 for losing)
+|raw|icypenguin604's rating: 1730 &rarr; <strong>1749<\/strong><br \/>(+19 for winning)
+|l|☆soTsoT
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆soTsoT and ☆icypenguin604 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between soTsoT and icypenguin604!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Silvally (<strong>Silvally-Water</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 sent out <strong>Beheeyem</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by icypenguin604)</div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Parting Shot</strong>!<br></div><div class="battle-history"><small>The opposing Beheeyem's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Beheeyem's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally went back to soTsoT!<br></div><div class="battle-history">Go! <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shiinotic lost <abbr title="−49/254">19.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Beheeyem!<br></div><div class="battle-history">icypenguin604 sent out <strong>Abomasnow</strong>!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic used <strong>Spore</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Abomasnow...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Shiinotic is buffeted by the hail!</small><br></div><div class="battle-history"><small>Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic, come back!<br></div><div class="battle-history">Go! <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Abomasnow's Abomasite is reacting to the Key Stone!</small><br>The opposing Abomasnow has Mega Evolved into Mega Abomasnow!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Solgaleo lost <abbr title="−82/325">25.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Solgaleo is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Abomasnow!<br></div><div class="battle-history">icypenguin604 sent out <strong>Arcanine</strong>!<br></div><div class="battle-history">[The opposing Arcanine's Intimidate]<br></div><div class="battle-history">[Solgaleo's Full Metal Body]<br><small>Solgaleo's stats were not lowered!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−63/288">21.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Arcanine is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo, come back!<br></div><div class="battle-history">Go! Silvally (<strong>Silvally-Water</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine used <strong>Wild Charge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Silvally lost <abbr title="−164/307">53.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Arcanine was damaged by the recoil!</small><br></div><div class="battle-history"><small>The opposing Arcanine lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Silvally is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Arcanine is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Multi-Attack</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Arcanine lost <abbr title="−120/288">41.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Arcanine fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 sent out Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Parting Shot</strong>!<br></div><div class="battle-history"><small>The opposing Abomasnow's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Abomasnow's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally went back to soTsoT!<br></div><div class="battle-history">Go! <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Solgaleo lost <abbr title="−54/325">16.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Solgaleo is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Abomasnow!<br></div><div class="battle-history">icypenguin604 sent out <strong>Pikachu</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Pikachu lost <abbr title="−89/216">41.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Pikachu is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo, come back!<br></div><div class="battle-history">Go! <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shiinotic lost <abbr title="−51/254">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu went back to icypenguin604!<br></div><div class="battle-history">icypenguin604 sent out Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Shiinotic is buffeted by the hail!</small><br></div><div class="battle-history"><small>Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic, come back!<br></div><div class="battle-history">Go! <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Solgaleo lost <abbr title="−83/325">25.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Solgaleo is buffeted by the hail!</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Abomasnow!<br></div><div class="battle-history">icypenguin604 sent out <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo used <strong>Sunsteel Strike</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Crawdaunt lost <abbr title="−84/246">34.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Solgaleo restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo, come back!<br></div><div class="battle-history">Go! <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Crawdaunt!<br></div><div class="battle-history">icypenguin604 sent out Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Shiinotic is buffeted by the hail!</small><br></div><div class="battle-history"><small>Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic, come back!<br></div><div class="battle-history">Go! <strong>Solgaleo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Solgaleo lost <abbr title="−126/325">38.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Solgaleo fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Silvally (<strong>Silvally-Water</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Parting Shot</strong>!<br></div><div class="battle-history"><small>The opposing Abomasnow's Attack fell!</small><br></div><div class="battle-history"><small>The opposing Abomasnow's Sp. Atk fell!</small><br></div><div class="chat message-error">soTsoT has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally went back to soTsoT!<br></div><div class="battle-history">Go! Arceus (<strong>Arceus-Electric</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−99/292">33.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Arceus is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 withdrew Abomasnow!<br></div><div class="battle-history">icypenguin604 sent out <strong>Beheeyem</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Arceus's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Arceus's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Arceus is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Beheeyem is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Recover</strong>!<br></div><div class="battle-history"><small>Arceus had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−232/292">79.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Arceus used <strong>Judgment</strong>!<br></div><div class="battle-history"><small>(The opposing Beheeyem lost <abbr title="−139/287">48.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>(Arceus lost <abbr title="−60/292">20.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Arceus fainted!<br></div><div class="chat message-error">soTsoT has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mothim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mothim used <strong>Bug Buzz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Beheeyem lost <abbr title="−131/287">45.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beheeyem fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 sent out <strong>Pikachu</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mothim, come back!<br></div><div class="battle-history">Go! <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Shiinotic lost <abbr title="−51/254">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pikachu went back to icypenguin604!<br></div><div class="battle-history">icypenguin604 sent out Abomasnow (<strong>Abomasnow-Mega</strong>)!<br></div><div class="battle-history">[The opposing Abomasnow's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Shiinotic is buffeted by the hail!</small><br></div><div class="battle-history"><small>Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic, come back!<br></div><div class="battle-history">Go! Silvally (<strong>Silvally-Water</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Silvally lost <abbr title="−75/307">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Silvally is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Silvally used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−54/291">18.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Silvally lost <abbr title="−30/307">9.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Silvally fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−43/291">14.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Abomasnow was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−66/364">18.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Vaporeon was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Vaporeon is buffeted by the hail!</small><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Abomasnow was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Vaporeon's Scald melted the ice!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Scald</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Abomasnow lost <abbr title="−42/291">14.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−211/364">58.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Abomasnow was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Vaporeon lost <abbr title="−109/364">29.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Vaporeon fainted!<br></div><div class="battle-history"><small>The opposing Abomasnow was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Abomasnow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">icypenguin604 sent out <strong>Kyogre</strong>!<br></div><div class="battle-history">The opposing Kyogre's Primal Reversion! It reverted to its primal state!<br></div><div class="battle-history">[The opposing Kyogre's Primordial Sea]<br><small>A heavy rain began to fall!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyogre used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Shiinotic lost <abbr title="−118/254">46.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Shiinotic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mothim</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mothim used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>Mothim's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Mothim's Sp. Def rose!</small><br></div><div class="battle-history"><small>Mothim's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kyogre used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mothim lost <abbr title="−178/284">62.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mothim is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mothim restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="chat chatmessage-icypenguin604"><strong style="color:#6664dc"><small>☆</small><span class="username" data-name="icypenguin604">icypenguin604</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>soTsoT forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>icypenguin604</strong> won the battle!<br></div><div class="chat">soTsoT's rating: 1709 → <strong>1690</strong><br>(-19 for losing)</div><div class="chat">icypenguin604's rating: 1730 → <strong>1749</strong><br>(+19 for winning)</div><div class="chat"><small>☆soTsoT left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

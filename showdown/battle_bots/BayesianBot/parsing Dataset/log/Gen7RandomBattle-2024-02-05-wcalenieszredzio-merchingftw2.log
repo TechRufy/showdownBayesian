@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Wcale nie szredzio vs. merchingftw2</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2051796842" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/wcalenieszredzio" class="subtle" target="_blank">Wcale nie szredzio</a> vs. <a href="http://pokemonshowdown.com/users/merchingftw2" class="subtle" target="_blank">merchingftw2</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Wcale nie szredzio
+|j|☆merchingftw2
+|t:|1707088373
+|gametype|singles
+|player|p1|Wcale nie szredzio|pokekid|1505
+|player|p2|merchingftw2|1|1780
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1707088373
+|start
+|switch|p1a: Lopunny|Lopunny, L78, F|229\/229
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277\/277
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by merchingftw2)
+|inactive|Wcale nie szredzio has 120 seconds left.
+|
+|t:|1707088426
+|switch|p1a: Xatu|Xatu, L89, M|260\/260
+|move|p2a: Meowstic|Signal Beam|p1a: Xatu
+|-damage|p1a: Xatu|182\/260
+|-damage|p2a: Meowstic|250\/277|[from] item: Life Orb
+|
+|-heal|p1a: Xatu|198\/260|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1707088443
+|move|p2a: Meowstic|Calm Mind|p2a: Meowstic
+|-boost|p2a: Meowstic|spa|1
+|-boost|p2a: Meowstic|spd|1
+|move|p1a: Xatu|Toxic|p2a: Meowstic
+|-status|p2a: Meowstic|tox
+|
+|-heal|p1a: Xatu|214\/260|[from] item: Leftovers
+|-damage|p2a: Meowstic|233\/277 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1707088453
+|move|p2a: Meowstic|Thunderbolt|p1a: Xatu
+|-supereffective|p1a: Xatu
+|-damage|p1a: Xatu|0 fnt
+|faint|p1a: Xatu
+|-damage|p2a: Meowstic|206\/277 tox|[from] item: Life Orb
+|
+|-damage|p2a: Meowstic|172\/277 tox|[from] psn
+|upkeep
+|
+|t:|1707088461
+|switch|p1a: Regirock|Regirock, L88|284\/284
+|turn|4
+|
+|t:|1707088483
+|switch|p2a: Luvdisc|Luvdisc, F|248\/248
+|move|p1a: Regirock|Stealth Rock|p2a: Luvdisc
+|-sidestart|p2: merchingftw2|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|inactive|Wcale nie szredzio has 120 seconds left.
+|
+|t:|1707088519
+|switch|p1a: Venomoth|Venomoth, L83, M|251\/251
+|move|p2a: Luvdisc|Toxic|p1a: Venomoth
+|-immune|p1a: Venomoth
+|
+|upkeep
+|turn|6
+|inactive|Wcale nie szredzio has 120 seconds left.
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1707088541
+|switch|p2a: Scyther|Scyther, L83, M|251\/251
+|-damage|p2a: Scyther|126\/251|[from] Stealth Rock
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|upkeep
+|turn|7
+|inactive|Wcale nie szredzio has 120 seconds left.
+|
+|t:|1707088560
+|move|p1a: Venomoth|Sludge Bomb|p2a: Scyther
+|-damage|p2a: Scyther|0 fnt
+|faint|p2a: Scyther
+|
+|upkeep
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1707088603
+|switch|p2a: Regice|Regice, L87|281\/281
+|-damage|p2a: Regice|211\/281|[from] Stealth Rock
+|turn|8
+|inactive|Wcale nie szredzio has 120 seconds left.
+|
+|t:|1707088643
+|switch|p1a: Regirock|Regirock, L88|284\/284
+|move|p2a: Regice|Ice Beam|p1a: Regirock
+|-damage|p1a: Regirock|199\/284
+|
+|-heal|p1a: Regirock|216\/284|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1707088653
+|move|p1a: Regirock|Toxic|p2a: Regice
+|-status|p2a: Regice|tox
+|move|p2a: Regice|Rock Polish|p2a: Regice
+|-boost|p2a: Regice|spe|2
+|
+|-heal|p1a: Regirock|233\/284|[from] item: Leftovers
+|-damage|p2a: Regice|194\/281 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1707088661
+|move|p2a: Regice|Focus Blast|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|69\/284
+|move|p1a: Regirock|Stone Edge|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|2\/281 tox
+|-enditem|p2a: Regice|Weakness Policy
+|-boost|p2a: Regice|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Regice|spa|2|[from] item: Weakness Policy
+|
+|-heal|p1a: Regirock|86\/284|[from] item: Leftovers
+|-damage|p2a: Regice|0 fnt|[from] psn
+|faint|p2a: Regice
+|upkeep
+|
+|t:|1707088675
+|switch|p2a: Meowstic|Meowstic-F, L89, F|172\/277 tox
+|-damage|p2a: Meowstic|138\/277 tox|[from] Stealth Rock
+|turn|11
+|
+|t:|1707088680
+|move|p2a: Meowstic|Thunderbolt|p1a: Regirock
+|-damage|p1a: Regirock|20\/284
+|-damage|p2a: Meowstic|111\/277 tox|[from] item: Life Orb
+|move|p1a: Regirock|Stone Edge|p2a: Meowstic
+|-crit|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|faint|p2a: Meowstic
+|
+|-heal|p1a: Regirock|37\/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1707088697
+|switch|p2a: Crustle|Crustle, L82, M|249\/249
+|-damage|p2a: Crustle|187\/249|[from] Stealth Rock
+|turn|12
+|
+|t:|1707088701
+|move|p1a: Regirock|Stone Edge|p2a: Crustle
+|-supereffective|p2a: Crustle
+|-damage|p2a: Crustle|5\/249
+|move|p2a: Crustle|Shell Smash|p2a: Crustle
+|-unboost|p2a: Crustle|def|1
+|-unboost|p2a: Crustle|spd|1
+|-boost|p2a: Crustle|atk|2
+|-boost|p2a: Crustle|spa|2
+|-boost|p2a: Crustle|spe|2
+|-enditem|p2a: Crustle|White Herb
+|-clearnegativeboost|p2a: Crustle|[silent]
+|
+|-heal|p1a: Regirock|54\/284|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1707088713
+|move|p2a: Crustle|X-Scissor|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|
+|upkeep
+|
+|t:|1707088725
+|switch|p1a: Lopunny|Lopunny, L78, F|229\/229
+|turn|14
+|inactive|merchingftw2 has 120 seconds left.
+|
+|t:|1707088748
+|detailschange|p1a: Lopunny|Lopunny-Mega, L78, F
+|-mega|p1a: Lopunny|Lopunny|Lopunnite
+|move|p1a: Lopunny|Power-Up Punch|p2a: Crustle
+|-damage|p2a: Crustle|0 fnt
+|-boost|p1a: Lopunny|atk|1
+|faint|p2a: Crustle
+|
+|upkeep
+|-message|merchingftw2 forfeited.
+|
+|win|Wcale nie szredzio
+|raw|Wcale nie szredzio's rating: 1505 &rarr; <strong>1538<\/strong><br \/>(+33 for winning)
+|raw|merchingftw2's rating: 1780 &rarr; <strong>1747<\/strong><br \/>(-33 for losing)
+|l|☆merchingftw2
+|player|p2|
+|c|☆Wcale nie szredzio|gg
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆Wcale nie szredzio and ☆merchingftw2 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Wcale nie szredzio and merchingftw2!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Lopunny</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Meowstic (<strong>Meowstic-F</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by merchingftw2)</div><div class="chat message-error">Wcale nie szredzio has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio withdrew Lopunny!<br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Xatu</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Signal Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Xatu lost <abbr title="−78/260">30%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Meowstic lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Xatu restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Meowstic's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Meowstic's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xatu used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Meowstic was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Xatu restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Meowstic was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Xatu lost <abbr title="−214/260">82.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xatu fainted!<br></div><div class="battle-history"><small>Meowstic lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Meowstic was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Regirock</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic, come back!<br></div><div class="battle-history">Go! <strong>Luvdisc</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">Wcale nie szredzio has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio withdrew Regirock!<br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Venomoth</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Luvdisc used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Venomoth...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">Wcale nie szredzio has 120 seconds left.</div><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Luvdisc, come back!<br></div><div class="battle-history">Go! <strong>Scyther</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Scyther!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Venomoth's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">Wcale nie szredzio has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Venomoth used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Scyther lost <abbr title="−126/251">50.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Scyther fainted!<br></div><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Regice</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Regice!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">Wcale nie szredzio has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio withdrew Venomoth!<br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Regirock</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(The opposing Regirock lost <abbr title="−85/284">29.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Regirock restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Regice was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Rock Polish</strong>!<br></div><div class="battle-history"><small>Regice's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Regirock restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Regice was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Regice used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Regirock lost <abbr title="−164/284">57.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Regice lost <abbr title="−192/281">68.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Regice used its Weakness Policy!)</small><br></div><div class="battle-history"><small>The Weakness Policy sharply raised Regice's Attack!</small><br></div><div class="battle-history"><small>The Weakness Policy sharply raised Regice's Sp. Atk!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Regirock restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Regice was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regice fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Meowstic (<strong>Meowstic-F</strong>)!<br></div><div class="battle-history"><small>Pointed stones dug into Meowstic!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Regirock lost <abbr title="−66/284">23.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Meowstic lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Meowstic lost <abbr title="−111/277">40.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meowstic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Regirock restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Crustle</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Crustle!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Crustle lost <abbr title="−182/249">73.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Crustle's Defense fell!</small><br></div><div class="battle-history"><small>Crustle's Sp. Def fell!</small><br></div><div class="battle-history"><small>Crustle's Attack rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Crustle's Speed rose sharply!</small><br></div><div class="battle-history"><small>Crustle returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Regirock restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Crustle used <strong>X-Scissor</strong>!<br></div><div class="battle-history"><small>(The opposing Regirock lost <abbr title="−54/284">19.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Regirock fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Wcale nie szredzio sent out <strong>Lopunny</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">merchingftw2 has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lopunny's Lopunnite is reacting to the Key Stone!</small><br>The opposing Lopunny has Mega Evolved into Mega Lopunny!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lopunny used <strong>Power-Up Punch</strong>!<br></div><div class="battle-history"><small>(Crustle lost <abbr title="−5/249">2.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lopunny's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Crustle fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>merchingftw2 forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Wcale nie szredzio</strong> won the battle!<br></div><div class="chat">Wcale nie szredzio's rating: 1505 → <strong>1538</strong><br>(+33 for winning)</div><div class="chat">merchingftw2's rating: 1780 → <strong>1747</strong><br>(-33 for losing)</div><div class="chat"><small>☆merchingftw2 left</small></div><div class="chat chatmessage-wcalenieszredzio"><strong style="color:#ab446e"><small>☆</small><span class="username" data-name="Wcale nie szredzio">Wcale nie szredzio</span>:</strong> <em>gg</em></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

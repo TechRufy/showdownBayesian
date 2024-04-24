@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: SValore vs. Joe678</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110254832" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/svalore" class="subtle" target="_blank">SValore</a> vs. <a href="http://pokemonshowdown.com/users/joe678" class="subtle" target="_blank">Joe678</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆SValore
+|j|☆Joe678
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1713927704
+|gametype|singles
+|j|*Lady Monita 
+|player|p1|SValore|marnie-masters2|
+|player|p2|Joe678|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713927704
+|start
+|switch|p1a: Torterra|Torterra, L88, F|310\/310
+|switch|p2a: Exeggutor|Exeggutor-Alola, L90, M|317\/317
+|-item|p1a: Torterra|Leftovers|[from] ability: Frisk|[of] p2a: Exeggutor|[identify]
+|turn|1
+|c|☆SValore|glhf
+|l|☆Joe678
+|inactive|Joe678 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|SValore has 120 seconds left.
+|j|☆Joe678
+|inactive|Joe678 reconnected.
+|player|p2|Joe678|1|
+|l|☆Joe678
+|inactive|Joe678 disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Joe678
+|inactive|Joe678 reconnected.
+|player|p2|Joe678|1|
+|inactive|SValore has 90 seconds left.
+|
+|t:|1713927768
+|switch|p1a: Magnezone|Magnezone, L83|252\/252
+|move|p2a: Exeggutor|Flamethrower|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|-damage|p2a: Exeggutor|286\/317|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713927772
+|switch|p1a: Latias|Latias, L79, F|256\/256
+|turn|2
+|
+|t:|1713927784
+|detailschange|p1a: Latias|Latias-Mega, L79, F
+|-mega|p1a: Latias|Latias|Latiasite
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Exeggutor|Draco Meteor|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|35\/256
+|-unboost|p2a: Exeggutor|spa|2
+|-damage|p2a: Exeggutor|255\/317|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1713927796
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|163\/256
+|-singleturn|p1a: Latias|move: Roost
+|move|p2a: Exeggutor|Trick Room|p2a: Exeggutor
+|-fieldstart|move: Trick Room|[of] p2a: Exeggutor
+|
+|upkeep
+|turn|4
+|
+|t:|1713927807
+|move|p2a: Exeggutor|Draco Meteor|p1a: Latias|[miss]
+|-miss|p2a: Exeggutor|p1a: Latias
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|256\/256
+|-singleturn|p1a: Latias|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1713927812
+|move|p2a: Exeggutor|Draco Meteor|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|139\/256
+|-unboost|p2a: Exeggutor|spa|2
+|-damage|p2a: Exeggutor|224\/317|[from] item: Life Orb
+|move|p1a: Latias|Draco Meteor|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|-unboost|p1a: Latias|spa|2
+|faint|p2a: Exeggutor
+|
+|upkeep
+|
+|t:|1713927824
+|switch|p2a: Escavalier|Escavalier, L85, M|258\/258
+|turn|6
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713927861
+|switch|p1a: Groudon|Groudon, L75|274\/274
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Escavalier|Swords Dance|p2a: Escavalier
+|-boost|p2a: Escavalier|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713927878
+|move|p2a: Escavalier|Iron Head|p1a: Groudon
+|-damage|p1a: Groudon|88\/274
+|cant|p1a: Groudon|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|105\/274|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|8
+|inactive|SValore has 120 seconds left.
+|c|☆SValore|bro serene gracing all over the place
+|
+|t:|1713927889
+|move|p1a: Groudon|Stone Edge|p2a: Escavalier
+|-damage|p2a: Escavalier|185\/258
+|move|p2a: Escavalier|Iron Head|p1a: Groudon
+|-damage|p1a: Groudon|0 fnt
+|faint|p1a: Groudon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Escavalier|201\/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1713927913
+|switch|p1a: Hitmonchan|Hitmonchan, L89, M|234\/234
+|turn|9
+|
+|t:|1713927919
+|move|p1a: Hitmonchan|Drain Punch|p2a: Escavalier
+|-damage|p2a: Escavalier|101\/258
+|move|p2a: Escavalier|Megahorn|p1a: Hitmonchan
+|-resisted|p1a: Hitmonchan
+|-crit|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Escavalier|117\/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1713927926
+|switch|p1a: Persian|Persian-Alola, L85, F|249\/249
+|turn|10
+|
+|t:|1713927938
+|-zpower|p1a: Persian
+|move|p1a: Persian|Black Hole Eclipse|p2a: Escavalier|[zeffect]
+|-damage|p2a: Escavalier|0 fnt
+|faint|p2a: Escavalier
+|
+|-weather|none
+|upkeep
+|
+|t:|1713927946
+|switch|p2a: Gurdurr|Gurdurr, L87, F|290\/290
+|turn|11
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713927964
+|switch|p1a: Torterra|Torterra, L88, F|310\/310
+|move|p2a: Gurdurr|Bulk Up|p2a: Gurdurr
+|-boost|p2a: Gurdurr|atk|1
+|-boost|p2a: Gurdurr|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1713927970
+|move|p1a: Torterra|Wood Hammer|p2a: Gurdurr
+|-crit|p2a: Gurdurr
+|-damage|p2a: Gurdurr|146\/290
+|-damage|p1a: Torterra|262\/310|[from] Recoil
+|move|p2a: Gurdurr|Bulk Up|p2a: Gurdurr
+|-boost|p2a: Gurdurr|atk|1
+|-boost|p2a: Gurdurr|def|1
+|
+|-heal|p1a: Torterra|281\/310|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713927975
+|move|p1a: Torterra|Wood Hammer|p2a: Gurdurr
+|-damage|p2a: Gurdurr|91\/290
+|-damage|p1a: Torterra|263\/310|[from] Recoil
+|move|p2a: Gurdurr|Drain Punch|p1a: Torterra
+|-damage|p1a: Torterra|124\/310
+|-heal|p2a: Gurdurr|161\/290|[from] drain|[of] p1a: Torterra
+|
+|-heal|p1a: Torterra|143\/310|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713927998
+|switch|p1a: Latias|Latias-Mega, L79, F|139\/256
+|move|p2a: Gurdurr|Drain Punch|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|66\/256
+|-heal|p2a: Gurdurr|198\/290|[from] drain|[of] p1a: Latias
+|
+|upkeep
+|turn|15
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713928005
+|move|p2a: Gurdurr|Mach Punch|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|27\/256
+|move|p1a: Latias|Draco Meteor|p2a: Gurdurr
+|-damage|p2a: Gurdurr|51\/290
+|-unboost|p1a: Latias|spa|2
+|
+|upkeep
+|turn|16
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713928029
+|switch|p1a: Torterra|Torterra, L88, F|143\/310
+|move|p2a: Gurdurr|Mach Punch|p1a: Torterra
+|-damage|p1a: Torterra|70\/310
+|
+|-heal|p1a: Torterra|89\/310|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1713928037
+|move|p2a: Gurdurr|Mach Punch|p1a: Torterra
+|-damage|p1a: Torterra|16\/310
+|move|p1a: Torterra|Wood Hammer|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|faint|p2a: Gurdurr
+|-damage|p1a: Torterra|0 fnt|[from] Recoil
+|faint|p1a: Torterra
+|
+|upkeep
+|
+|t:|1713928044
+|switch|p1a: Persian|Persian-Alola, L85, F|249\/249
+|switch|p2a: Ditto|Ditto, L83|215\/215
+|-transform|p2a: Ditto|p1a: Persian|[from] ability: Imposter
+|turn|18
+|inactive|SValore has 120 seconds left.
+|inactive|SValore has 90 seconds left.
+|
+|t:|1713928100
+|move|p2a: Ditto|Thunderbolt|p1a: Persian
+|-damage|p1a: Persian|183\/249
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1713928105
+|move|p2a: Ditto|Thunderbolt|p1a: Persian
+|-damage|p1a: Persian|121\/249
+|move|p1a: Persian|Thunderbolt|p2a: Ditto
+|-damage|p2a: Ditto|85\/215
+|
+|upkeep
+|turn|20
+|
+|t:|1713928109
+|move|p2a: Ditto|Thunderbolt|p1a: Persian
+|-damage|p1a: Persian|50\/249
+|move|p1a: Persian|Thunderbolt|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|upkeep
+|
+|t:|1713928114
+|switch|p2a: Chatot|Chatot, L89, F|280\/280
+|turn|21
+|
+|t:|1713928120
+|move|p1a: Persian|Thunderbolt|p2a: Chatot
+|-supereffective|p2a: Chatot
+|-damage|p2a: Chatot|0 fnt
+|faint|p2a: Chatot
+|
+|upkeep
+|
+|t:|1713928122
+|switch|p2a: Lunala|Lunala, L72|316\/316
+|turn|22
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713928152
+|move|p1a: Persian|Dark Pulse|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|16\/316
+|move|p2a: Lunala|Moonblast|p1a: Persian
+|-supereffective|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|-heal|p2a: Lunala|35\/316|[from] item: Leftovers
+|upkeep
+|
+|t:|1713928156
+|switch|p1a: Latias|Latias-Mega, L79, F|27\/256
+|turn|23
+|c|☆SValore|gg
+|c|☆SValore|wp
+|
+|t:|1713928164
+|move|p1a: Latias|Draco Meteor|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|-unboost|p1a: Latias|spa|2
+|faint|p2a: Lunala
+|
+|win|SValore
+|n|☆SValore|svalore
+|n|*Lady Monita |ladymonita
+|n|☆Joe678|joe678
+|l|*Lady Monita 
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆SValore and ☆Joe678 joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class="chat"><small>*Lady Monita  joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between SValore and Joe678!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out Exeggutor (<strong>Exeggutor-Alola</strong>)!<br></div><div class="battle-history">[The opposing Exeggutor's Frisk]<br><small>The opposing Exeggutor frisked Torterra and found its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat chatmessage-svalore"><strong style="color:#37a69d"><small>☆</small><span class="username" data-name="SValore">SValore</span>:</strong> <em>glhf</em></div><div class="chat"><small>☆Joe678 left</small></div><div class="chat message-error">Joe678 disconnected and has a minute to reconnect!</div><div class="chat message-error">SValore has 120 seconds left.</div><div class="chat"><small>☆Joe678 joined</small></div><div class="chat message-error">Joe678 reconnected.</div><div class="chat"><small>☆Joe678 left</small></div><div class="chat message-error">Joe678 disconnected and has a minute to reconnect!</div><div class="chat"><small>☆Joe678 joined</small></div><div class="chat message-error">Joe678 reconnected.</div><div class="chat message-error">SValore has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! <strong>Magnezone</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Flamethrower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Magnezone lost <abbr title="−252/252">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Magnezone fainted!<br></div><div class="battle-history"><small>The opposing Exeggutor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Latias</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Latias's Latiasite is reacting to the Key Stone!</small><br>Latias has Mega Evolved into Mega Latias!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Latias's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Latias's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Latias lost <abbr title="−221/256">86.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>The opposing Exeggutor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latias had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Trick Room</strong>!<br></div><div class="battle-history"><small>The opposing Exeggutor twisted the dimensions!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>Latias avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Latias had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Latias lost <abbr title="−117/256">45.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Exeggutor's Sp. Atk fell harshly!</small><br></div><div class="battle-history"><small>The opposing Exeggutor lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Exeggutor lost <abbr title="−224/317">70.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latias's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Exeggutor fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out <strong>Escavalier</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Latias, come back!<br></div><div class="battle-history">Go! <strong>Groudon</strong>!<br></div><div class="battle-history">[Groudon's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Escavalier's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Groudon lost <abbr title="−186/274">67.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Groudon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>Groudon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The twisted dimensions returned to normal!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="chat chatmessage-svalore"><strong style="color:#37a69d"><small>☆</small><span class="username" data-name="SValore">SValore</span>:</strong> <em>bro serene gracing all over the place</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Groudon used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−73/258">28.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Groudon lost <abbr title="−105/274">38.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Groudon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Escavalier restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmonchan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−100/258">38.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier used <strong>Megahorn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Hitmonchan lost <abbr title="−234/234">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonchan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Escavalier restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Persian (<strong>Persian-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Persian surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Persian unleashes its full-force Z-Move!</small><br>Persian used <strong>Black Hole Eclipse</strong>!<br></div><div class="battle-history"><small>(The opposing Escavalier lost <abbr title="−117/258">45.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Escavalier fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out <strong>Gurdurr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Persian, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Gurdurr's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Gurdurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−144/290">49.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>The opposing Gurdurr's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Gurdurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Torterra restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−55/290">19.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−139/310">44.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Torterra had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Torterra restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra, come back!<br></div><div class="battle-history">Go! Latias (<strong>Latias-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Latias lost <abbr title="−73/256">28.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latias had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Mach Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Latias lost <abbr title="−39/256">15.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−147/290">50.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latias's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Latias, come back!<br></div><div class="battle-history">Go! <strong>Torterra</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Mach Punch</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−73/310">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Torterra restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr used <strong>Mach Punch</strong>!<br></div><div class="battle-history"><small>(Torterra lost <abbr title="−73/310">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra used <strong>Wood Hammer</strong>!<br></div><div class="battle-history"><small>(The opposing Gurdurr lost <abbr title="−51/290">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gurdurr fainted!<br></div><div class="battle-history"><small>Torterra was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Torterra fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Persian (<strong>Persian-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out <strong>Ditto</strong>!<br></div><div class="battle-history">[The opposing Ditto's Imposter]<br>The opposing Ditto transformed into Persian-Alola!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="chat message-error">SValore has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ditto used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Persian lost <abbr title="−66/249">26.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Persian's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ditto used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Persian lost <abbr title="−62/249">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Ditto lost <abbr title="−130/215">60.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ditto used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Persian lost <abbr title="−71/249">28.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Ditto lost <abbr title="−85/215">39.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ditto fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out <strong>Chatot</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Chatot lost <abbr title="−280/280">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Chatot fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Joe678 sent out <strong>Lunala</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Persian used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−300/316">94.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Persian lost <abbr title="−50/249">20.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Persian fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lunala restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Latias (<strong>Latias-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="chat chatmessage-svalore"><strong style="color:#37a69d"><small>☆</small><span class="username" data-name="SValore">SValore</span>:</strong> <em>gg</em></div><div class="chat chatmessage-svalore"><strong style="color:#37a69d"><small>☆</small><span class="username" data-name="SValore">SValore</span>:</strong> <em>wp</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Latias used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Lunala lost <abbr title="−35/316">11.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Latias's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>SValore</strong> won the battle!<br></div><div class="chat"><small>*Lady Monita  left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: La.Hellhound vs. NewMotherTeresa</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110176289" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/lahellhound" class="subtle" target="_blank">La.Hellhound</a> vs. <a href="http://pokemonshowdown.com/users/newmotherteresa" class="subtle" target="_blank">NewMotherTeresa</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|‽La.Hellhound
+|j|☆NewMotherTeresa
+|t:|1713918248
+|gametype|singles
+|player|p1|La.Hellhound|bruno|1662
+|player|p2|NewMotherTeresa|galacticgruntf|1584
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713918248
+|start
+|switch|p1a: Porygon2|Porygon2, L84|280\/280
+|switch|p2a: Volbeat|Volbeat, L90, M, shiny|263\/263
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NewMotherTeresa)
+|inactive|La.Hellhound also wants the timer to be on.
+|
+|t:|1713918259
+|switch|p1a: Espeon|Espeon, L84, M|246\/246
+|move|p2a: Volbeat|Thunder Wave|p1a: Espeon
+|move|p1a: Espeon|Thunder Wave|p2a: Volbeat|[from]ability: Magic Bounce
+|-status|p2a: Volbeat|par
+|
+|upkeep
+|turn|2
+|
+|t:|1713918271
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Volbeat|Lunge|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|46\/246
+|-unboost|p1a: Espeon|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1713918293
+|switch|p1a: Dragalge|Dragalge, L87, M|255\/255
+|move|p2a: Volbeat|Lunge|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|217\/255
+|-unboost|p1a: Dragalge|atk|1
+|
+|upkeep
+|turn|4
+|
+|t:|1713918303
+|cant|p2a: Volbeat|par
+|move|p1a: Dragalge|Draco Meteor|p2a: Volbeat
+|-damage|p2a: Volbeat|0 fnt
+|-unboost|p1a: Dragalge|spa|2
+|faint|p2a: Volbeat
+|
+|upkeep
+|
+|t:|1713918315
+|switch|p2a: Muk|Muk, L87, F|324\/324
+|turn|5
+|
+|t:|1713918320
+|switch|p1a: Zapdos|Zapdos, L79|272\/272
+|move|p2a: Muk|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|136\/272
+|-status|p1a: Zapdos|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-heal|p1a: Zapdos|153\/272 psn|[from] item: Leftovers
+|-damage|p1a: Zapdos|119\/272 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1713918331
+|move|p1a: Zapdos|Discharge|p2a: Muk
+|-damage|p2a: Muk|245\/324
+|move|p2a: Muk|Curse|p2a: Muk
+|-unboost|p2a: Muk|spe|1
+|-boost|p2a: Muk|atk|1
+|-boost|p2a: Muk|def|1
+|
+|-heal|p1a: Zapdos|136\/272 psn|[from] item: Leftovers
+|-heal|p2a: Muk|265\/324|[from] item: Black Sludge
+|-damage|p1a: Zapdos|102\/272 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1713918342
+|move|p1a: Zapdos|Discharge|p2a: Muk
+|-damage|p2a: Muk|180\/324
+|-status|p2a: Muk|par
+|cant|p2a: Muk|par
+|
+|-heal|p1a: Zapdos|119\/272 psn|[from] item: Leftovers
+|-heal|p2a: Muk|200\/324 par|[from] item: Black Sludge
+|-damage|p1a: Zapdos|85\/272 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1713918354
+|move|p1a: Zapdos|U-turn|p2a: Muk
+|-resisted|p2a: Muk
+|-damage|p2a: Muk|185\/324 par
+|
+|t:|1713918358
+|switch|p1a: Golduck|Golduck, L90, M|290\/290|[from] U-turn
+|-ability|p1a: Golduck|Cloud Nine
+|move|p2a: Muk|Ice Punch|p1a: Golduck
+|-resisted|p1a: Golduck
+|-damage|p1a: Golduck|244\/290
+|
+|-heal|p2a: Muk|205\/324 par|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1713918367
+|move|p1a: Golduck|Encore|p2a: Muk
+|-start|p2a: Muk|Encore
+|cant|p2a: Muk|par
+|
+|-heal|p2a: Muk|225\/324 par|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1713918375
+|switch|p2a: Lapras|Lapras, L87, M|368\/368
+|move|p1a: Golduck|Scald|p2a: Lapras
+|-immune|p2a: Lapras|[from] ability: Water Absorb
+|
+|upkeep
+|turn|11
+|
+|t:|1713918387
+|switch|p1a: Porygon2|Porygon2, L84|280\/280
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Lapras|Freeze-Dry|p1a: Porygon2
+|-crit|p1a: Porygon2
+|-damage|p1a: Porygon2|217\/280
+|
+|upkeep
+|turn|12
+|
+|t:|1713918395
+|switch|p2a: Muk|Muk, L87, F|225\/324 par
+|move|p1a: Porygon2|Toxic||[still]
+|-fail|p1a: Porygon2
+|
+|-heal|p2a: Muk|245\/324 par|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1713918403
+|switch|p1a: Golduck|Golduck, L90, M|244\/290
+|-ability|p1a: Golduck|Cloud Nine
+|move|p2a: Muk|Gunk Shot|p1a: Golduck
+|-damage|p1a: Golduck|105\/290
+|
+|-heal|p2a: Muk|265\/324 par|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1713918411
+|move|p1a: Golduck|Psyshock|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|93\/324 par
+|-damage|p1a: Golduck|76\/290|[from] item: Life Orb
+|move|p2a: Muk|Gunk Shot|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|-heal|p2a: Muk|113\/324 par|[from] item: Black Sludge
+|upkeep
+|
+|t:|1713918421
+|switch|p1a: Palkia|Palkia, L75|259\/259
+|-ability|p1a: Palkia|Pressure
+|turn|15
+|
+|t:|1713918425
+|move|p1a: Palkia|Spacial Rend|p2a: Muk
+|-crit|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1713918428
+|switch|p2a: Lapras|Lapras, L87, M|368\/368
+|turn|16
+|
+|t:|1713918434
+|switch|p1a: Porygon2|Porygon2, L84|217\/280
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Lapras|Freeze-Dry|p1a: Porygon2
+|-damage|p1a: Porygon2|171\/280
+|-status|p1a: Porygon2|frz
+|
+|upkeep
+|turn|17
+|
+|t:|1713918451
+|switch|p2a: Minun|Minun, L94, F|265\/265
+|-curestatus|p1a: Porygon2|frz|[msg]
+|move|p1a: Porygon2|Toxic|p2a: Minun
+|-status|p2a: Minun|tox
+|
+|-damage|p2a: Minun|249\/265 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1713918460
+|switch|p1a: Dragalge|Dragalge, L87, M|217\/255
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|
+|-heal|p2a: Minun|265\/265 tox|[from] item: Leftovers
+|-damage|p2a: Minun|233\/265 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1713918468
+|switch|p1a: Porygon2|Porygon2, L84|171\/280
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Minun|Hidden Power|p1a: Porygon2
+|-damage|p1a: Porygon2|115\/280
+|
+|-heal|p2a: Minun|249\/265 tox|[from] item: Leftovers
+|-damage|p2a: Minun|201\/265 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1713918477
+|move|p2a: Minun|Thunderbolt|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|-heal|p2a: Minun|217\/265 tox|[from] item: Leftovers
+|-damage|p2a: Minun|153\/265 tox|[from] psn
+|upkeep
+|
+|t:|1713918490
+|switch|p1a: Espeon|Espeon, L84, M|46\/246
+|turn|21
+|
+|t:|1713918493
+|move|p1a: Espeon|Psychic|p2a: Minun
+|-damage|p2a: Minun|4\/265 tox
+|-damage|p1a: Espeon|22\/246|[from] item: Life Orb
+|move|p2a: Minun|Thunderbolt|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|-heal|p2a: Minun|20\/265 tox|[from] item: Leftovers
+|-damage|p2a: Minun|0 fnt|[from] psn
+|faint|p2a: Minun
+|upkeep
+|
+|t:|1713918508
+|switch|p1a: Zapdos|Zapdos, L79|85\/272 psn
+|switch|p2a: Lapras|Lapras, L87, M|368\/368
+|turn|22
+|
+|t:|1713918515
+|move|p1a: Zapdos|Discharge|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|198\/368
+|-status|p2a: Lapras|par
+|move|p2a: Lapras|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-heal|p2a: Lapras|221\/368 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918524
+|switch|p1a: Dragalge|Dragalge, L87, M|217\/255
+|turn|23
+|
+|t:|1713918528
+|move|p1a: Dragalge|Draco Meteor|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|-unboost|p1a: Dragalge|spa|2
+|faint|p2a: Lapras
+|
+|upkeep
+|
+|t:|1713918534
+|switch|p2a: Samurott|Samurott, L87, F|307\/307
+|turn|24
+|
+|t:|1713918537
+|move|p2a: Samurott|Ice Beam|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|103\/255
+|move|p1a: Dragalge|Draco Meteor|p2a: Samurott
+|-damage|p2a: Samurott|199\/307
+|-unboost|p1a: Dragalge|spa|2
+|
+|upkeep
+|turn|25
+|
+|t:|1713918544
+|switch|p1a: Palkia|Palkia, L75|259\/259
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Samurott|Ice Beam|p1a: Palkia
+|-damage|p1a: Palkia|194\/259
+|
+|upkeep
+|turn|26
+|
+|t:|1713918551
+|move|p1a: Palkia|Spacial Rend|p2a: Samurott
+|-damage|p2a: Samurott|76\/307
+|move|p2a: Samurott|Grass Knot|p1a: Palkia
+|-damage|p1a: Palkia|113\/259
+|
+|upkeep
+|turn|27
+|
+|t:|1713918559
+|move|p1a: Palkia|Spacial Rend|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1713918561
+|switch|p2a: Torkoal|Torkoal, L84, F|255\/255
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|28
+|
+|t:|1713918566
+|move|p1a: Palkia|Thunder Wave|p2a: Torkoal
+|-status|p2a: Torkoal|par
+|move|p2a: Torkoal|Earthquake|p1a: Palkia
+|-damage|p1a: Palkia|53\/259
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1713918572
+|move|p1a: Palkia|Spacial Rend|p2a: Torkoal
+|-damage|p2a: Torkoal|66\/255 par
+|cant|p2a: Torkoal|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Torkoal|81\/255 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|-message|NewMotherTeresa forfeited.
+|
+|win|La.Hellhound
+|raw|La.Hellhound's rating: 1662 &rarr; <strong>1678<\/strong><br \/>(+16 for winning)
+|raw|NewMotherTeresa's rating: 1584 &rarr; <strong>1568<\/strong><br \/>(-16 for losing)
+|l|☆NewMotherTeresa
+|player|p2|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>‽La.Hellhound and ☆NewMotherTeresa joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between La.Hellhound and NewMotherTeresa!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Volbeat</strong>!<br></div><div class="battle-history">[Porygon2's Download]<br></div><div class="battle-history"><small>Porygon2's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by NewMotherTeresa)</div><div class="chat message-error">La.Hellhound also wants the timer to be on.</div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2, come back!<br></div><div class="battle-history">Go! <strong>Espeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Thunder Wave</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">[Espeon's Magic Bounce]<br>Espeon bounced the Thunder Wave back!<br></div><div class="battle-history"><small>The opposing Volbeat is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Espeon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Espeon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Espeon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Lunge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Espeon lost <abbr title="−200/246">81.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Espeon's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Espeon, come back!<br></div><div class="battle-history">Go! <strong>Dragalge</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat used <strong>Lunge</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Dragalge lost <abbr title="−38/255">14.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dragalge's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Volbeat lost <abbr title="−263/263">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dragalge's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Volbeat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge, come back!<br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−136/272">50%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Muk's Poison Touch]<br><small>Zapdos was poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−79/324">24.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Curse</strong>!<br></div><div class="battle-history"><small>The opposing Muk's Speed fell!</small><br></div><div class="battle-history"><small>The opposing Muk's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Muk's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−85/324">26.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Muk is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Zapdos was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−15/324">4.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos went back to La.Hellhound!<br></div><div class="battle-history">Go! <strong>Golduck</strong>!<br></div><div class="battle-history">[Golduck's Cloud Nine]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Golduck lost <abbr title="−46/290">15.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golduck used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Muk must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa withdrew Muk!<br></div><div class="battle-history">NewMotherTeresa sent out <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golduck used <strong>Scald</strong>!<br></div><div class="battle-history">[The opposing Lapras's Water Absorb]<br><small>It doesn't affect the opposing Lapras...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golduck, come back!<br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="battle-history">[Porygon2's Download]<br></div><div class="battle-history"><small>Porygon2's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Porygon2 lost <abbr title="−63/280">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa withdrew Lapras!<br></div><div class="battle-history">NewMotherTeresa sent out <strong>Muk</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2, come back!<br></div><div class="battle-history">Go! <strong>Golduck</strong>!<br></div><div class="battle-history">[Golduck's Cloud Nine]<br><small>The effects of the weather disappeared.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Golduck lost <abbr title="−139/290">47.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golduck used <strong>Psyshock</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−172/324">53.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Golduck lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Golduck lost <abbr title="−76/290">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golduck fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Muk restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Palkia</strong>!<br></div><div class="battle-history">[Palkia's Pressure]<br><small>Palkia is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia used <strong>Spacial Rend</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Muk lost <abbr title="−113/324">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Muk fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia, come back!<br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="battle-history">[Porygon2's Download]<br></div><div class="battle-history"><small>Porygon2's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Porygon2 lost <abbr title="−46/280">16.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Porygon2 was frozen solid!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa withdrew Lapras!<br></div><div class="battle-history">NewMotherTeresa sent out <strong>Minun</strong>!<br></div><div class="battle-history"><small>Porygon2 thawed out!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Minun was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2, come back!<br></div><div class="battle-history">Go! <strong>Dragalge</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>The opposing Minun's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge, come back!<br></div><div class="battle-history">Go! <strong>Porygon2</strong>!<br></div><div class="battle-history">[Porygon2's Download]<br></div><div class="battle-history"><small>Porygon2's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(Porygon2 lost <abbr title="−56/280">20%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Porygon2 lost <abbr title="−115/280">41.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Porygon2 fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Espeon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Espeon used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Minun lost <abbr title="−149/265">56.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Espeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(Espeon lost <abbr title="−22/246">8.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Espeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Minun restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Minun was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Minun fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lapras lost <abbr title="−170/368">46.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lapras is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−85/272">31.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lapras restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Dragalge</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Lapras lost <abbr title="−221/368">60.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dragalge's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Samurott</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Dragalge lost <abbr title="−114/255">44.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−108/307">35.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Dragalge's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dragalge, come back!<br></div><div class="battle-history">Go! <strong>Palkia</strong>!<br></div><div class="battle-history">[Palkia's Pressure]<br><small>Palkia is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>(Palkia lost <abbr title="−65/259">25.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia used <strong>Spacial Rend</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−123/307">40.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott used <strong>Grass Knot</strong>!<br></div><div class="battle-history"><small>(Palkia lost <abbr title="−81/259">31.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia used <strong>Spacial Rend</strong>!<br></div><div class="battle-history"><small>(The opposing Samurott lost <abbr title="−76/307">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Samurott fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">NewMotherTeresa sent out <strong>Torkoal</strong>!<br></div><div class="battle-history">[The opposing Torkoal's Drought]<br><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Torkoal is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torkoal used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Palkia lost <abbr title="−60/259">23.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">Palkia used <strong>Spacial Rend</strong>!<br></div><div class="battle-history"><small>(The opposing Torkoal lost <abbr title="−189/255">74.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Torkoal is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="battle-history"><small>The opposing Torkoal restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>NewMotherTeresa forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>La.Hellhound</strong> won the battle!<br></div><div class="chat">La.Hellhound's rating: 1662 → <strong>1678</strong><br>(+16 for winning)</div><div class="chat">NewMotherTeresa's rating: 1584 → <strong>1568</strong><br>(-16 for losing)</div><div class="chat"><small>☆NewMotherTeresa left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

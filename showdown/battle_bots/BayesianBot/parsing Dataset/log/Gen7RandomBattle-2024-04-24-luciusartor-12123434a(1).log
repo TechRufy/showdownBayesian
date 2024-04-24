@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: Lucius Artor vs. 12123434a</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110265705" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/luciusartor" class="subtle" target="_blank">Lucius Artor</a> vs. <a href="http://pokemonshowdown.com/users/12123434a" class="subtle" target="_blank">12123434a</a></h1>
+<script type="text/plain" class="battle-log-data">|badge|p1|silver|gen9randombattle|30-1
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆Lucius Artor
+|j|☆12123434a
+|t:|1713929137
+|gametype|singles
+|player|p1|Lucius Artor|sonia-masters|
+|player|p2|12123434a|twins-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713929137
+|start
+|switch|p1a: Hitmonlee|Hitmonlee, L86, M|225\/225
+|switch|p2a: Octillery|Octillery, L93, M|290\/290
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lucius Artor)
+|j| gomdol2
+|c|☆12123434a|I got smoked
+|j| Ghostilex
+|j| hammy358
+|j| craiging on em
+|
+|t:|1713929165
+|switch|p2a: Shiinotic|Shiinotic, L90, M|254\/254
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Shiinotic
+|-resisted|p2a: Shiinotic
+|-damage|p2a: Shiinotic|160\/254
+|
+|-heal|p2a: Shiinotic|175\/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1713929171
+|move|p1a: Hitmonlee|Poison Jab|p2a: Shiinotic
+|-supereffective|p2a: Shiinotic
+|-damage|p2a: Shiinotic|0 fnt
+|-status|p1a: Hitmonlee|par|[from] ability: Effect Spore|[of] p2a: Shiinotic
+|faint|p2a: Shiinotic
+|
+|upkeep
+|c|☆12123434a|... ok i an throwing
+|
+|t:|1713929186
+|switch|p2a: Octillery|Octillery, L93, M|290\/290
+|turn|3
+|
+|t:|1713929191
+|move|p2a: Octillery|Scald|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|146\/225 par
+|-damage|p2a: Octillery|261\/290|[from] item: Life Orb
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Octillery
+|-damage|p2a: Octillery|68\/290
+|
+|upkeep
+|turn|4
+|
+|t:|1713929200
+|move|p2a: Octillery|Scald|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|63\/225 par
+|-damage|p2a: Octillery|39\/290|[from] item: Life Orb
+|move|p1a: Hitmonlee|Knock Off|p2a: Octillery
+|-damage|p2a: Octillery|0 fnt
+|-enditem|p2a: Octillery|Life Orb|[from] move: Knock Off|[of] p1a: Hitmonlee
+|faint|p2a: Octillery
+|
+|upkeep
+|
+|t:|1713929209
+|switch|p2a: Nihilego|Nihilego, L80|306\/306
+|turn|5
+|
+|t:|1713929219
+|switch|p1a: Klinklang|Klinklang, L87|246\/246
+|move|p2a: Nihilego|Sludge Wave|p1a: Klinklang
+|-immune|p1a: Klinklang
+|
+|upkeep
+|turn|6
+|
+|t:|1713929227
+|switch|p2a: Diggersby|Diggersby, L84, F|280\/280
+|move|p1a: Klinklang|Shift Gear|p1a: Klinklang
+|-boost|p1a: Klinklang|spe|2
+|-boost|p1a: Klinklang|atk|1
+|
+|upkeep
+|turn|7
+|
+|t:|1713929233
+|move|p1a: Klinklang|Gear Grind|p2a: Diggersby
+|-damage|p2a: Diggersby|159\/280
+|-damage|p2a: Diggersby|33\/280
+|-hitcount|p2a: Diggersby|2
+|-damage|p1a: Klinklang|222\/246|[from] item: Life Orb
+|move|p2a: Diggersby|Earthquake|p1a: Klinklang
+|-supereffective|p1a: Klinklang
+|-damage|p1a: Klinklang|0 fnt
+|faint|p1a: Klinklang
+|-damage|p2a: Diggersby|5\/280|[from] item: Life Orb
+|
+|upkeep
+|j| doraemonnobita
+|
+|t:|1713929247
+|switch|p1a: Hitmonlee|Hitmonlee, L86, M|63\/225 par
+|turn|8
+|
+|t:|1713929259
+|move|p2a: Diggersby|Agility|p2a: Diggersby
+|-boost|p2a: Diggersby|spe|2
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Diggersby
+|-supereffective|p2a: Diggersby
+|-damage|p2a: Diggersby|0 fnt
+|faint|p2a: Diggersby
+|
+|upkeep
+|
+|t:|1713929260
+|switch|p2a: Nihilego|Nihilego, L80|306\/306
+|turn|9
+|
+|t:|1713929266
+|move|p2a: Nihilego|Sludge Wave|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|0 fnt
+|faint|p1a: Hitmonlee
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1713929270
+|switch|p1a: Malamar|Malamar, L82, M|275\/275
+|turn|10
+|l| doraemonnobita
+|j|+pokeblade☆101
+|
+|t:|1713929297
+|move|p2a: Nihilego|Sludge Wave|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spa|1
+|
+|upkeep
+|j| MDILL97
+|c|☆Lucius Artor|im such a chocker
+|l| MDILL97
+|inactive|Lucius Artor has 270 seconds left.
+|c|☆Lucius Artor|gg
+|c|☆12123434a|😈
+|-message|Lucius Artor forfeited.
+|
+|win|12123434a
+|l|☆Lucius Artor
+|player|p1|
+|l| Ghostilex
+|l| hammy358
+|l| craiging on em
+|l|+pokeblade☆101
+|j| RaandBats King
+|l| RaandBats King
+|l| gomdol2
+|j|☆Lucius Artor
+|player|p1|Lucius Artor|sonia-masters|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆Lucius Artor and ☆12123434a joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Lucius Artor and 12123434a!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmonlee</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Octillery</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lucius Artor)</div><div class="chat"><small> gomdol2 joined</small></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>I got smoked</em></div><div class="chat"><small> Ghostilex,  hammy358, and  craiging on em joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a withdrew Octillery!<br></div><div class="battle-history">12123434a sent out <strong>Shiinotic</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−94/254">37.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Shiinotic restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shiinotic lost <abbr title="−175/254">68.9%</abbr> of its health!)</small><br></div><div class="battle-history">[The opposing Shiinotic's Effect Spore]<br><small>Hitmonlee is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shiinotic fainted!<br></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>... ok i an throwing</em></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Octillery</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Hitmonlee lost <abbr title="−79/225">35.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Octillery lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−193/290">66.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery used <strong>Scald</strong>!<br></div><div class="battle-history"><small>(Hitmonlee lost <abbr title="−83/225">36.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Octillery lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−39/290">13.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hitmonlee knocked off the opposing Octillery's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Nihilego</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee, come back!<br></div><div class="battle-history">Go! <strong>Klinklang</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It doesn't affect Klinklang...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">12123434a withdrew Nihilego!<br></div><div class="battle-history">12123434a sent out <strong>Diggersby</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klinklang used <strong>Shift Gear</strong>!<br></div><div class="battle-history"><small>Klinklang's Speed rose sharply!</small><br></div><div class="battle-history"><small>Klinklang's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Klinklang used <strong>Gear Grind</strong>!<br></div><div class="battle-history"><small>(The opposing Diggersby lost <abbr title="−121/280">43.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(The opposing Diggersby lost <abbr title="−126/280">45%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 2 times!</small><br></div><div class="battle-history"><small>Klinklang lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Klinklang lost <abbr title="−222/246">90.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Klinklang fainted!<br></div><div class="battle-history"><small>The opposing Diggersby lost some of its HP!</small><br></div><div class="chat"><small> doraemonnobita joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hitmonlee</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby used <strong>Agility</strong>!<br></div><div class="battle-history"><small>The opposing Diggersby's Speed rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee used <strong>High Jump Kick</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Diggersby lost <abbr title="−5/280">1.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Diggersby fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">12123434a sent out <strong>Nihilego</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Hitmonlee lost <abbr title="−63/225">28.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee fainted!<br></div><div class="battle-history">[The opposing Nihilego's Beast Boost]<br></div><div class="battle-history"><small>The opposing Nihilego's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Malamar</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat"><small>+pokeblade☆101 joined;  doraemonnobita left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Nihilego used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Malamar lost <abbr title="−275/275">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Malamar fainted!<br></div><div class="battle-history">[The opposing Nihilego's Beast Boost]<br></div><div class="battle-history"><small>The opposing Nihilego's Sp. Atk rose!</small><br></div><div class="chat"><small> MDILL97 joined</small></div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>im such a chocker</em></div><div class="chat"><small> MDILL97 left</small></div><div class="chat message-error">Lucius Artor has 270 seconds left.</div><div class="chat chatmessage-luciusartor"><strong style="color:#2194b6"><small>☆</small><span class="username" data-name="Lucius Artor">Lucius Artor</span>:</strong> <em>gg</em></div><div class="chat chatmessage-12123434a"><strong style="color:#b95a3a"><small>☆</small><span class="username" data-name="12123434a">12123434a</span>:</strong> <em>😈</em></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lucius Artor forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>12123434a</strong> won the battle!<br></div><div class="chat"><small>☆Lucius Artor left</small></div><div class="chat"><small> RaandBats King and ☆Lucius Artor joined;  Ghostilex,  hammy358,  craiging on em, +pokeblade☆101,  RaandBats King, and  gomdol2 left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

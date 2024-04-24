@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: burn3k vs. stashwdp</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110350678" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/burn3k" class="subtle" target="_blank">burn3k</a> vs. <a href="http://pokemonshowdown.com/users/stashwdp" class="subtle" target="_blank">stashwdp</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆burn3k
+|j|☆stashwdp
+|t:|1713944028
+|gametype|singles
+|player|p1|burn3k|101|1364
+|player|p2|stashwdp|266|1323
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713944028
+|start
+|switch|p1a: Amoonguss|Amoonguss, L84, F|329\/329
+|switch|p2a: Octillery|Octillery, L93, F|290\/290
+|turn|1
+|
+|t:|1713944037
+|move|p2a: Octillery|Fire Blast|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|31\/329
+|move|p1a: Amoonguss|Giga Drain|p2a: Octillery
+|-supereffective|p2a: Octillery
+|-damage|p2a: Octillery|146\/290
+|-heal|p1a: Amoonguss|103\/329|[from] drain|[of] p2a: Octillery
+|
+|-heal|p1a: Amoonguss|123\/329|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1713944051
+|switch|p2a: Delibird|Delibird, F|252\/252
+|switch|p1a: Heatran|Heatran, L80, F|277\/277
+|-item|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stashwdp)
+|
+|t:|1713944063
+|move|p2a: Delibird|Destiny Bond|p2a: Delibird
+|-singlemove|p2a: Delibird|Destiny Bond
+|move|p1a: Heatran|Stealth Rock|p2a: Delibird
+|-sidestart|p2: stashwdp|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1713944070
+|move|p2a: Delibird|Spikes|p1a: Heatran
+|-sidestart|p1: burn3k|Spikes
+|move|p1a: Heatran|Stealth Rock||[still]
+|-fail|p1a: Heatran
+|
+|upkeep
+|turn|5
+|
+|t:|1713944074
+|move|p2a: Delibird|Destiny Bond|p2a: Delibird
+|-singlemove|p2a: Delibird|Destiny Bond
+|move|p1a: Heatran|Taunt|p2a: Delibird
+|-start|p2a: Delibird|move: Taunt
+|
+|upkeep
+|turn|6
+|
+|t:|1713944087
+|switch|p2a: Octillery|Octillery, L93, F|146\/290
+|-damage|p2a: Octillery|110\/290|[from] Stealth Rock
+|move|p1a: Heatran|Lava Plume|p2a: Octillery
+|-resisted|p2a: Octillery
+|-crit|p2a: Octillery
+|-damage|p2a: Octillery|30\/290
+|
+|upkeep
+|turn|7
+|
+|t:|1713944091
+|move|p1a: Heatran|Lava Plume|p2a: Octillery
+|-resisted|p2a: Octillery
+|-damage|p2a: Octillery|0 fnt
+|faint|p2a: Octillery
+|
+|upkeep
+|
+|t:|1713944100
+|switch|p2a: Donphan|Donphan, L84, M|288\/288
+|-damage|p2a: Donphan|270\/288|[from] Stealth Rock
+|turn|8
+|
+|t:|1713944104
+|move|p1a: Heatran|Lava Plume|p2a: Donphan
+|-damage|p2a: Donphan|149\/288
+|move|p2a: Donphan|Stealth Rock|p1a: Heatran
+|-sidestart|p1: burn3k|move: Stealth Rock
+|
+|-heal|p2a: Donphan|167\/288|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1713944108
+|move|p1a: Heatran|Lava Plume|p2a: Donphan
+|-damage|p2a: Donphan|38\/288
+|-status|p2a: Donphan|brn
+|move|p2a: Donphan|Stone Edge|p1a: Heatran|[miss]
+|-miss|p2a: Donphan|p1a: Heatran
+|
+|-heal|p2a: Donphan|56\/288 brn|[from] item: Leftovers
+|-damage|p2a: Donphan|38\/288 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1713944115
+|move|p1a: Heatran|Lava Plume|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|t:|1713944120
+|switch|p2a: Lunala|Lunala, L72|316\/316
+|-damage|p2a: Lunala|277\/316|[from] Stealth Rock
+|turn|11
+|
+|t:|1713944128
+|move|p2a: Lunala|Moongeist Beam|p1a: Heatran
+|-damage|p1a: Heatran|187\/277
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Taunt|p2a: Lunala
+|-start|p2a: Lunala|move: Taunt
+|
+|-heal|p2a: Lunala|296\/316|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1713944137
+|switch|p2a: Sandslash|Sandslash, L89, M|278\/278
+|-damage|p2a: Sandslash|261\/278|[from] Stealth Rock
+|switch|p1a: Amoonguss|Amoonguss, L84, F|232\/329
+|-damage|p1a: Amoonguss|191\/329|[from] Spikes
+|-damage|p1a: Amoonguss|150\/329|[from] Stealth Rock
+|
+|-heal|p2a: Sandslash|278\/278|[from] item: Leftovers
+|-heal|p1a: Amoonguss|170\/329|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1713944143
+|move|p2a: Sandslash|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|76\/329
+|-enditem|p1a: Amoonguss|Black Sludge|[from] move: Knock Off|[of] p2a: Sandslash
+|move|p1a: Amoonguss|Giga Drain|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|78\/278
+|-heal|p1a: Amoonguss|176\/329|[from] drain|[of] p2a: Sandslash
+|
+|-heal|p2a: Sandslash|95\/278|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1713944147
+|move|p2a: Sandslash|Earthquake|p1a: Amoonguss
+|-damage|p1a: Amoonguss|34\/329
+|move|p1a: Amoonguss|Giga Drain|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|-heal|p1a: Amoonguss|82\/329|[from] drain|[of] p2a: Sandslash
+|faint|p2a: Sandslash
+|
+|upkeep
+|
+|t:|1713944159
+|switch|p2a: Togedemaru|Togedemaru, L86, F|252\/252
+|-damage|p2a: Togedemaru|237\/252|[from] Stealth Rock
+|turn|15
+|
+|t:|1713944166
+|switch|p1a: Tauros|Tauros, L84, M|263\/263
+|-damage|p1a: Tauros|231\/263|[from] Spikes
+|-damage|p1a: Tauros|199\/263|[from] Stealth Rock
+|move|p2a: Togedemaru|Iron Head|p1a: Tauros
+|-damage|p1a: Tauros|109\/263
+|
+|upkeep
+|turn|16
+|
+|t:|1713944170
+|move|p1a: Tauros|Earthquake|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-damage|p2a: Togedemaru|0 fnt
+|faint|p2a: Togedemaru
+|-damage|p1a: Tauros|83\/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713944175
+|switch|p2a: Delibird|Delibird, F|252\/252
+|-damage|p2a: Delibird|126\/252|[from] Stealth Rock
+|turn|17
+|
+|t:|1713944178
+|move|p1a: Tauros|Body Slam|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1713944181
+|switch|p2a: Lunala|Lunala, L72|296\/316
+|-damage|p2a: Lunala|257\/316|[from] Stealth Rock
+|turn|18
+|-message|stashwdp forfeited.
+|
+|win|burn3k
+|raw|burn3k's rating: 1364 &rarr; <strong>1382<\/strong><br \/>(+18 for winning)
+|raw|stashwdp's rating: 1323 &rarr; <strong>1305<\/strong><br \/>(-18 for losing)
+|l|☆stashwdp
+|player|p2|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆burn3k and ☆stashwdp joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between burn3k and stashwdp!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Amoonguss</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Octillery</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Amoonguss lost <abbr title="−298/329">90.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Amoonguss used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−144/290">49.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Octillery had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp withdrew Octillery!<br></div><div class="battle-history">stashwdp sent out <strong>Delibird</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Amoonguss, come back!<br></div><div class="battle-history">Go! <strong>Heatran</strong>!<br></div><div class="battle-history"><small>Heatran floats in the air with its Air Balloon!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by stashwdp)</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird used <strong>Destiny Bond</strong>!<br></div><div class="battle-history"><small>The opposing Delibird is hoping to take its attacker down with it!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird used <strong>Destiny Bond</strong>!<br></div><div class="battle-history"><small>The opposing Delibird is hoping to take its attacker down with it!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Delibird fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp withdrew Delibird!<br></div><div class="battle-history">stashwdp sent out <strong>Octillery</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Octillery!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−80/290">27.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Octillery lost <abbr title="−30/290">10.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Octillery fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Donphan</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Donphan!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−121/288">42.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Donphan restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−129/288">44.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Donphan was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>Heatran avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Donphan restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Donphan was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Lava Plume</strong>!<br></div><div class="battle-history"><small>(The opposing Donphan lost <abbr title="−38/288">13.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Donphan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Lunala</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lunala!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Moongeist Beam</strong>!<br></div><div class="battle-history"><small>(Heatran lost <abbr title="−90/277">32.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Heatran's Air Balloon popped!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>The opposing Lunala fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Lunala restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp withdrew Lunala!<br></div><div class="battle-history">stashwdp sent out <strong>Sandslash</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Sandslash!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Heatran, come back!<br></div><div class="battle-history">Go! <strong>Amoonguss</strong>!<br></div><div class="battle-history"><small>Amoonguss was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Amoonguss!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sandslash restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Amoonguss restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Amoonguss lost <abbr title="−94/329">28.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sandslash knocked off Amoonguss's Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Amoonguss used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Sandslash lost <abbr title="−200/278">71.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sandslash had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sandslash restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(Amoonguss lost <abbr title="−142/329">43.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Amoonguss used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Sandslash lost <abbr title="−95/278">34.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Sandslash had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sandslash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Togedemaru</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Togedemaru!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Amoonguss, come back!<br></div><div class="battle-history">Go! <strong>Tauros</strong>!<br></div><div class="battle-history"><small>Tauros was hurt by the spikes!</small><br></div><div class="battle-history"><small>Pointed stones dug into Tauros!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Tauros lost <abbr title="−90/263">34.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−237/252">94.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru fainted!<br></div><div class="battle-history"><small>Tauros lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Delibird</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Delibird!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Delibird lost <abbr title="−126/252">50%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Delibird fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">stashwdp sent out <strong>Lunala</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Lunala!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>stashwdp forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>burn3k</strong> won the battle!<br></div><div class="chat">burn3k's rating: 1364 → <strong>1382</strong><br>(+18 for winning)</div><div class="chat">stashwdp's rating: 1323 → <strong>1305</strong><br>(-18 for losing)</div><div class="chat"><small>☆stashwdp left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

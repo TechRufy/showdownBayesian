@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: DubTo vs. char chah</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110201773" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/dubto" class="subtle" target="_blank">DubTo</a> vs. <a href="http://pokemonshowdown.com/users/charchah" class="subtle" target="_blank">char chah</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆DubTo
+|j|☆char chah
+|t:|1713921254
+|gametype|singles
+|player|p1|DubTo|kieran-festival|1539
+|player|p2|char chah|veteran|1577
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713921254
+|start
+|switch|p1a: Alakazam|Alakazam, L82, F|223\/223
+|switch|p2a: Crawdaunt|Crawdaunt, L85, F|246\/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by char chah)
+|inactive|DubTo has 120 seconds left.
+|
+|t:|1713921286
+|move|p1a: Alakazam|Focus Blast|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1713921295
+|switch|p2a: Lunala|Lunala, L72|316\/316
+|turn|2
+|
+|t:|1713921311
+|switch|p1a: Regigigas|Regigigas, L86|329\/329
+|-start|p1a: Regigigas|ability: Slow Start
+|move|p2a: Lunala|Moongeist Beam|p1a: Regigigas
+|-immune|p1a: Regigigas
+|
+|upkeep
+|turn|3
+|
+|t:|1713921332
+|switch|p2a: Phione|Phione, L90|290\/290
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|247\/329
+|
+|-heal|p1a: Regigigas|267\/329|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713921343
+|move|p2a: Phione|Knock Off|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|move|p1a: Regigigas|Knock Off|p2a: Phione
+|-damage|p2a: Phione|235\/290
+|-enditem|p2a: Phione|Leftovers|[from] move: Knock Off|[of] p1a: Regigigas
+|
+|-heal|p1a: Regigigas|287\/329|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713921353
+|move|p2a: Phione|Knock Off|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|205\/329
+|
+|-heal|p1a: Regigigas|225\/329|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1713921368
+|move|p2a: Phione|Scald|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|move|p1a: Regigigas|Drain Punch|p2a: Phione
+|-damage|p2a: Phione|193\/290
+|-heal|p1a: Regigigas|246\/329|[from] drain|[of] p2a: Phione
+|
+|-heal|p1a: Regigigas|266\/329|[from] item: Leftovers
+|-end|p1a: Regigigas|Slow Start
+|upkeep
+|turn|7
+|
+|t:|1713921387
+|move|p1a: Regigigas|Return|p2a: Phione
+|-damage|p2a: Phione|30\/290
+|move|p2a: Phione|Scald|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|
+|-heal|p1a: Regigigas|286\/329|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|char chah has 120 seconds left.
+|
+|t:|1713921407
+|move|p1a: Regigigas|Drain Punch|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|-heal|p1a: Regigigas|301\/329|[from] drain|[of] p2a: Phione
+|faint|p2a: Phione
+|
+|-heal|p1a: Regigigas|321\/329|[from] item: Leftovers
+|upkeep
+|inactive|char chah has 120 seconds left.
+|
+|t:|1713921430
+|switch|p2a: Ursaring|Ursaring, L85, F|292\/292
+|turn|9
+|
+|t:|1713921435
+|move|p2a: Ursaring|Protect|p2a: Ursaring
+|-singleturn|p2a: Ursaring|Protect
+|move|p1a: Regigigas|Return|p2a: Ursaring
+|-activate|p2a: Ursaring|move: Protect
+|
+|-heal|p1a: Regigigas|329\/329|[from] item: Leftovers
+|-status|p2a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|inactive|char chah has 120 seconds left.
+|
+|t:|1713921448
+|move|p1a: Regigigas|Return|p2a: Ursaring
+|-damage|p2a: Ursaring|90\/292 tox
+|move|p2a: Ursaring|Close Combat|p1a: Regigigas
+|-supereffective|p1a: Regigigas
+|-damage|p1a: Regigigas|155\/329
+|-unboost|p2a: Ursaring|def|1
+|-unboost|p2a: Ursaring|spd|1
+|
+|-heal|p1a: Regigigas|175\/329|[from] item: Leftovers
+|-damage|p2a: Ursaring|72\/292 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|char chah has 120 seconds left.
+|
+|t:|1713921464
+|move|p1a: Regigigas|Drain Punch|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|-heal|p1a: Regigigas|211\/329|[from] drain|[of] p2a: Ursaring
+|faint|p2a: Ursaring
+|
+|-heal|p1a: Regigigas|231\/329|[from] item: Leftovers
+|upkeep
+|inactive|char chah has 90 seconds left.
+|-message|char chah forfeited.
+|
+|win|DubTo
+|raw|DubTo's rating: 1539 &rarr; <strong>1561<\/strong><br \/>(+22 for winning)
+|raw|char chah's rating: 1577 &rarr; <strong>1555<\/strong><br \/>(-22 for losing)
+|l|☆char chah
+|player|p2|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆DubTo and ☆char chah joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between DubTo and char chah!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Alakazam</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">char chah sent out <strong>Crawdaunt</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by char chah)</div><div class="chat message-error">DubTo has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam used <strong>Focus Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Crawdaunt lost <abbr title="−246/246">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Crawdaunt fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">char chah sent out <strong>Lunala</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Alakazam, come back!<br></div><div class="battle-history">Go! <strong>Regigigas</strong>!<br></div><div class="battle-history">[Regigigas's Slow Start]<br><small>Regigigas can't get it going!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lunala used <strong>Moongeist Beam</strong>!<br></div><div class="battle-history"><small>It doesn't affect Regigigas...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">char chah withdrew Lunala!<br></div><div class="battle-history">char chah sent out <strong>Phione</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Regigigas put in a substitute!</small><br></div><div class="battle-history"><small>(Regigigas lost <abbr title="−82/329">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Phione used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Regigigas!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Phione lost <abbr title="−55/290">19.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Regigigas knocked off the opposing Phione's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Phione used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>Regigigas's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Regigigas put in a substitute!</small><br></div><div class="battle-history"><small>(Regigigas lost <abbr title="−82/329">24.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Phione used <strong>Scald</strong>!<br></div><div class="battle-history"><small>The substitute took damage for Regigigas!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Phione lost <abbr title="−42/290">14.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Phione had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Regigigas finally got its act together!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Phione lost <abbr title="−163/290">56.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Phione used <strong>Scald</strong>!<br></div><div class="battle-history"><small>Regigigas's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">char chah has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Phione lost <abbr title="−30/290">10.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Phione had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Phione fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">char chah has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">char chah sent out <strong>Ursaring</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Ursaring protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Return</strong>!<br></div><div class="battle-history"><small>The opposing Ursaring protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ursaring was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">char chah has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Ursaring lost <abbr title="−202/292">69.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Regigigas lost <abbr title="−174/329">52.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ursaring's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Ursaring's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Ursaring was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">char chah has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Regigigas used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Ursaring lost <abbr title="−72/292">24.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ursaring had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ursaring fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Regigigas restored a little HP using its Leftovers!</small><br></div><div class="chat message-error">char chah has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>char chah forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>DubTo</strong> won the battle!<br></div><div class="chat">DubTo's rating: 1539 → <strong>1561</strong><br>(+22 for winning)</div><div class="chat">char chah's rating: 1577 → <strong>1555</strong><br>(-22 for losing)</div><div class="chat"><small>☆char chah left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

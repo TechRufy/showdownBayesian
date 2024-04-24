@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: totally_dyle vs. betathunder</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110172086" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/totallydyle" class="subtle" target="_blank">totally_dyle</a> vs. <a href="http://pokemonshowdown.com/users/betathunder" class="subtle" target="_blank">betathunder</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆totally_dyle
+|j|☆betathunder
+|t:|1713917754
+|gametype|singles
+|player|p1|totally_dyle|169|1627
+|player|p2|betathunder|rhi|1771
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713917754
+|start
+|switch|p1a: Darmanitan|Darmanitan, L83, F|310\/310
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by betathunder)
+|inactive|totally_dyle also wants the timer to be on.
+|inactive|betathunder has 120 seconds left.
+|
+|t:|1713917800
+|switch|p2a: Incineroar|Incineroar, L84, F|297\/297
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Darmanitan|atk|1
+|move|p1a: Darmanitan|U-turn|p2a: Incineroar
+|-damage|p2a: Incineroar|240\/297
+|-damage|p1a: Darmanitan|279\/310|[from] item: Life Orb
+|
+|t:|1713917809
+|switch|p1a: Dewgong|Dewgong, L92, M|315\/315|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1713917813
+|move|p2a: Incineroar|Fake Out|p1a: Dewgong
+|-damage|p1a: Dewgong|284\/315
+|cant|p1a: Dewgong|flinch
+|
+|-heal|p1a: Dewgong|303\/315|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1713917819
+|switch|p2a: Clefable|Clefable, L83, F|293\/293
+|move|p1a: Dewgong|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|-heal|p1a: Dewgong|315\/315|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713917824
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|200\/293 tox
+|move|p2a: Clefable|Moonblast|p1a: Dewgong
+|-damage|p1a: Dewgong|205\/315
+|
+|-heal|p1a: Dewgong|224\/315|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713917832
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|112\/293 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|259\/293 tox
+|
+|-heal|p1a: Dewgong|243\/315|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1713917835
+|move|p1a: Dewgong|Encore|p2a: Clefable
+|-start|p2a: Clefable|Encore
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|293\/293 tox
+|
+|-heal|p1a: Dewgong|262\/315|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1713917837
+|switch|p2a: Articuno|Articuno, L87|298\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Dewgong|Surf|p2a: Articuno
+|-damage|p2a: Articuno|237\/298
+|
+|-heal|p2a: Articuno|255\/298|[from] item: Leftovers
+|-heal|p1a: Dewgong|281\/315|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1713917841
+|switch|p1a: Darmanitan|Darmanitan, L83, F|279\/310
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|181\/298
+|
+|-heal|p2a: Articuno|199\/298|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1713917850
+|move|p1a: Darmanitan|Flare Blitz|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|-damage|p1a: Darmanitan|255\/310|[from] Recoil|[of] p2a: Articuno
+|move|p2a: Articuno|Toxic|p1a: Darmanitan
+|-status|p1a: Darmanitan|tox
+|
+|-heal|p2a: Articuno|217\/298|[from] item: Leftovers
+|-damage|p1a: Darmanitan|236\/310 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1713917852
+|switch|p2a: Incineroar|Incineroar, L84, F|240\/297
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Darmanitan|atk|1
+|move|p1a: Darmanitan|Flare Blitz|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|139\/297
+|-damage|p1a: Darmanitan|203\/310 tox|[from] Recoil
+|
+|-damage|p1a: Darmanitan|165\/310 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1713917854
+|move|p2a: Incineroar|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|122\/310 tox
+|cant|p1a: Darmanitan|flinch
+|
+|-damage|p1a: Darmanitan|65\/310 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1713917861
+|move|p1a: Darmanitan|U-turn|p2a: Incineroar
+|-damage|p2a: Incineroar|84\/297
+|-damage|p1a: Darmanitan|34\/310 tox|[from] item: Life Orb
+|
+|t:|1713917865
+|switch|p1a: Dewgong|Dewgong, L92, M|281\/315|[from] U-turn
+|move|p2a: Incineroar|Darkest Lariat|p1a: Dewgong
+|-damage|p1a: Dewgong|184\/315
+|
+|-heal|p1a: Dewgong|203\/315|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713917873
+|switch|p2a: Clefable|Clefable, L83, F|293\/293 tox
+|move|p1a: Dewgong|Toxic|p2a: Clefable
+|-fail|p2a: Clefable|tox
+|
+|-heal|p1a: Dewgong|222\/315|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1713917876
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|211\/293 tox
+|move|p2a: Clefable|Moonblast|p1a: Dewgong
+|-damage|p1a: Dewgong|109\/315
+|
+|-heal|p1a: Dewgong|128\/315|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1713917881
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|124\/293 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|271\/293 tox
+|
+|-heal|p1a: Dewgong|147\/315|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1713917885
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|175\/293 tox
+|move|p2a: Clefable|Moonblast|p1a: Dewgong
+|-damage|p1a: Dewgong|37\/315
+|
+|-heal|p1a: Dewgong|56\/315|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1713917889
+|move|p1a: Dewgong|Surf|p2a: Clefable
+|-damage|p2a: Clefable|85\/293 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|232\/293 tox
+|
+|-heal|p1a: Dewgong|75\/315|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1713917893
+|switch|p2a: Articuno|Articuno, L87|217\/298
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Dewgong|Encore||[still]
+|-fail|p1a: Dewgong
+|
+|-heal|p2a: Articuno|235\/298|[from] item: Leftovers
+|-heal|p1a: Dewgong|94\/315|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1713917895
+|move|p2a: Articuno|Toxic|p1a: Dewgong
+|-status|p1a: Dewgong|tox
+|move|p1a: Dewgong|Toxic|p2a: Articuno
+|-status|p2a: Articuno|tox
+|
+|-heal|p2a: Articuno|253\/298 tox|[from] item: Leftovers
+|-heal|p1a: Dewgong|113\/315 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|235\/298 tox|[from] psn
+|-damage|p1a: Dewgong|94\/315 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1713917899
+|move|p2a: Articuno|Freeze-Dry|p1a: Dewgong
+|-damage|p1a: Dewgong|57\/315 tox
+|move|p1a: Dewgong|Encore|p2a: Articuno
+|-start|p2a: Articuno|Encore
+|
+|-heal|p2a: Articuno|253\/298 tox|[from] item: Leftovers
+|-heal|p1a: Dewgong|76\/315 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|217\/298 tox|[from] psn
+|-damage|p1a: Dewgong|38\/315 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1713917907
+|move|p2a: Articuno|Freeze-Dry|p1a: Dewgong
+|-damage|p1a: Dewgong|2\/315 tox
+|move|p1a: Dewgong|Surf|p2a: Articuno
+|-damage|p2a: Articuno|154\/298 tox
+|
+|-heal|p2a: Articuno|172\/298 tox|[from] item: Leftovers
+|-heal|p1a: Dewgong|21\/315 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|118\/298 tox|[from] psn
+|-damage|p1a: Dewgong|0 fnt|[from] psn
+|faint|p1a: Dewgong
+|upkeep
+|
+|t:|1713917909
+|switch|p1a: Darmanitan|Darmanitan, L83, F|34\/310 tox
+|turn|22
+|
+|t:|1713917913
+|switch|p2a: Incineroar|Incineroar, L84, F|84\/297
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Darmanitan|atk|1
+|move|p1a: Darmanitan|Flare Blitz|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|-damage|p1a: Darmanitan|6\/310 tox|[from] Recoil
+|
+|-damage|p1a: Darmanitan|0 fnt|[from] psn
+|faint|p1a: Darmanitan
+|upkeep
+|
+|t:|1713917923
+|switch|p1a: Unown|Unown-W|258\/258
+|switch|p2a: Articuno|Articuno, L87|118\/298 tox
+|-ability|p2a: Articuno|Pressure
+|turn|23
+|
+|t:|1713917927
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|267\/298 tox
+|-singleturn|p2a: Articuno|move: Roost
+|move|p1a: Unown|Hidden Power|p2a: Articuno
+|-damage|p2a: Articuno|189\/298 tox
+|
+|-heal|p2a: Articuno|207\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|189\/298 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1713917940
+|switch|p2a: Pangoro|Pangoro, L87, M|307\/307
+|move|p1a: Unown|Hidden Power|p2a: Pangoro
+|-immune|p2a: Pangoro
+|
+|upkeep
+|turn|25
+|
+|t:|1713917946
+|switch|p1a: Aromatisse|Aromatisse, L91, M|332\/332
+|move|p2a: Pangoro|Parting Shot|p1a: Aromatisse
+|-unboost|p1a: Aromatisse|atk|1
+|-unboost|p1a: Aromatisse|spa|1
+|
+|t:|1713917952
+|switch|p2a: Articuno|Articuno, L87|189\/298 tox|[from] Parting Shot
+|-ability|p2a: Articuno|Pressure
+|
+|-heal|p2a: Articuno|207\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|189\/298 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1713917954
+|move|p1a: Aromatisse|Protect|p1a: Aromatisse
+|-singleturn|p1a: Aromatisse|Protect
+|move|p2a: Articuno|Toxic|p1a: Aromatisse
+|-activate|p1a: Aromatisse|move: Protect
+|
+|-heal|p2a: Articuno|207\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|171\/298 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1713917959
+|switch|p1a: Lanturn|Lanturn, L89, F|367\/367
+|move|p2a: Articuno|Toxic|p1a: Lanturn
+|-status|p1a: Lanturn|tox
+|
+|-heal|p2a: Articuno|189\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|135\/298 tox|[from] psn
+|-damage|p1a: Lanturn|345\/367 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1713917961
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|284\/298 tox
+|-singleturn|p2a: Articuno|move: Roost
+|move|p1a: Lanturn|Thunderbolt|p2a: Articuno
+|-damage|p2a: Articuno|221\/298 tox
+|
+|-heal|p2a: Articuno|239\/298 tox|[from] item: Leftovers
+|-heal|p1a: Lanturn|367\/367 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|167\/298 tox|[from] psn
+|-damage|p1a: Lanturn|323\/367 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1713917964
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Lanturn|Heal Bell|p1a: Lanturn
+|-activate|p1a: Lanturn|move: Heal Bell
+|-curestatus|p1a: Lanturn|tox|[msg]
+|
+|-heal|p1a: Lanturn|345\/367|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1713917987
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Lanturn|Thunderbolt|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-heal|p1a: Lanturn|367\/367|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1713918004
+|move|p1a: Lanturn|Thunderbolt|p2a: Sylveon
+|-damage|p2a: Sylveon|234\/300
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|252\/300|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1713918009
+|move|p1a: Lanturn|Thunderbolt|p2a: Sylveon
+|-damage|p2a: Sylveon|212\/300
+|move|p2a: Sylveon|Hyper Voice|p1a: Lanturn
+|-damage|p1a: Lanturn|153\/367
+|
+|-heal|p1a: Lanturn|175\/367|[from] item: Leftovers
+|-heal|p2a: Sylveon|230\/300|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1713918011
+|move|p1a: Lanturn|Thunderbolt|p2a: Sylveon
+|-damage|p2a: Sylveon|184\/300
+|move|p2a: Sylveon|Hyper Voice|p1a: Lanturn
+|-damage|p1a: Lanturn|0 fnt
+|faint|p1a: Lanturn
+|
+|-heal|p2a: Sylveon|202\/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1713918014
+|switch|p1a: Aromatisse|Aromatisse, L91, M|332\/332
+|turn|34
+|
+|t:|1713918016
+|switch|p2a: Articuno|Articuno, L87|167\/298 tox
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Aromatisse|Calm Mind|p1a: Aromatisse
+|-boost|p1a: Aromatisse|spa|1
+|-boost|p1a: Aromatisse|spd|1
+|
+|-heal|p2a: Articuno|185\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|167\/298 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1713918019
+|switch|p1a: Unown|Unown-W|258\/258
+|move|p2a: Articuno|Toxic|p1a: Unown
+|-status|p1a: Unown|tox
+|
+|-heal|p2a: Articuno|185\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|149\/298 tox|[from] psn
+|-damage|p1a: Unown|242\/258 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1713918022
+|switch|p2a: Pangoro|Pangoro, L87, M|307\/307
+|move|p1a: Unown|Hidden Power|p2a: Pangoro
+|-immune|p2a: Pangoro
+|
+|-damage|p1a: Unown|210\/258 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1713918036
+|move|p1a: Unown|Hidden Power|p2a: Pangoro
+|-immune|p2a: Pangoro
+|move|p2a: Pangoro|Knock Off|p1a: Unown
+|-supereffective|p1a: Unown
+|-damage|p1a: Unown|0 fnt
+|-enditem|p1a: Unown|Choice Specs|[from] move: Knock Off|[of] p2a: Pangoro
+|faint|p1a: Unown
+|-damage|p2a: Pangoro|277\/307|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713918038
+|switch|p1a: Aromatisse|Aromatisse, L91, M|332\/332
+|turn|38
+|
+|t:|1713918041
+|move|p2a: Pangoro|Parting Shot|p1a: Aromatisse
+|-unboost|p1a: Aromatisse|atk|1
+|-unboost|p1a: Aromatisse|spa|1
+|
+|t:|1713918043
+|switch|p2a: Articuno|Articuno, L87|149\/298 tox|[from] Parting Shot
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Aromatisse|Moonblast|p2a: Articuno
+|-damage|p2a: Articuno|94\/298 tox
+|
+|-heal|p2a: Articuno|112\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|94\/298 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1713918046
+|switch|p1a: Giratina|Giratina, L76|353\/353
+|-ability|p1a: Giratina|Pressure
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|243\/298 tox
+|-singleturn|p2a: Articuno|move: Roost
+|
+|-heal|p2a: Articuno|261\/298 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|225\/298 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1713918048
+|switch|p2a: Sylveon|Sylveon, L85, F|202\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|
+|-heal|p2a: Sylveon|220\/300|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1713918051
+|switch|p1a: Aromatisse|Aromatisse, L91, M|332\/332
+|move|p2a: Sylveon|Hyper Voice|p1a: Aromatisse
+|-damage|p1a: Aromatisse|218\/332
+|
+|-heal|p2a: Sylveon|238\/300|[from] item: Leftovers
+|-heal|p1a: Aromatisse|238\/332|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1713918054
+|switch|p2a: Articuno|Articuno, L87|225\/298 tox
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Aromatisse|Moonblast|p2a: Articuno
+|-damage|p2a: Articuno|131\/298 tox
+|
+|-heal|p2a: Articuno|149\/298 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|258\/332|[from] item: Leftovers
+|-damage|p2a: Articuno|131\/298 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1713918056
+|move|p2a: Articuno|Toxic|p1a: Aromatisse
+|-status|p1a: Aromatisse|tox
+|move|p1a: Aromatisse|Moonblast|p2a: Articuno
+|-damage|p2a: Articuno|47\/298 tox
+|
+|-heal|p2a: Articuno|65\/298 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|278\/332 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|29\/298 tox|[from] psn
+|-damage|p1a: Aromatisse|258\/332 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1713918058
+|move|p2a: Articuno|Roost|p2a: Articuno
+|-heal|p2a: Articuno|178\/298 tox
+|-singleturn|p2a: Articuno|move: Roost
+|move|p1a: Aromatisse|Moonblast|p2a: Articuno
+|-damage|p2a: Articuno|96\/298 tox
+|
+|-heal|p2a: Articuno|114\/298 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|278\/332 tox|[from] item: Leftovers
+|-damage|p2a: Articuno|60\/298 tox|[from] psn
+|-damage|p1a: Aromatisse|238\/332 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1713918063
+|switch|p2a: Miltank|Miltank, L86, F|304\/304
+|move|p1a: Aromatisse|Moonblast|p2a: Miltank
+|-damage|p2a: Miltank|165\/304
+|
+|-heal|p2a: Miltank|184\/304|[from] item: Leftovers
+|-heal|p1a: Aromatisse|258\/332 tox|[from] item: Leftovers
+|-damage|p1a: Aromatisse|198\/332 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1713918075
+|move|p2a: Miltank|Body Slam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|111\/332 tox
+|move|p1a: Aromatisse|Calm Mind|p1a: Aromatisse
+|-boost|p1a: Aromatisse|spa|1
+|-boost|p1a: Aromatisse|spd|1
+|
+|-heal|p2a: Miltank|203\/304|[from] item: Leftovers
+|-heal|p1a: Aromatisse|131\/332 tox|[from] item: Leftovers
+|-damage|p1a: Aromatisse|51\/332 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1713918085
+|move|p2a: Miltank|Body Slam|p1a: Aromatisse
+|-crit|p1a: Aromatisse
+|-damage|p1a: Aromatisse|0 fnt
+|faint|p1a: Aromatisse
+|
+|-heal|p2a: Miltank|222\/304|[from] item: Leftovers
+|upkeep
+|c|☆betathunder|gg
+|
+|t:|1713918093
+|switch|p1a: Giratina|Giratina, L76|353\/353
+|-ability|p1a: Giratina|Pressure
+|turn|48
+|
+|t:|1713918096
+|switch|p2a: Sylveon|Sylveon, L85, F|238\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|
+|-heal|p2a: Sylveon|256\/300|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1713918104
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|274\/300|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1713918131
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Sylveon|Hyper Voice|p1a: Giratina
+|-supereffective|p1a: Giratina
+|-damage|p1a: Giratina|219\/353
+|
+|-heal|p1a: Giratina|241\/353|[from] item: Leftovers
+|-heal|p2a: Sylveon|292\/300|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1713918144
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p1a: Giratina|263\/353|[from] item: Leftovers
+|-heal|p2a: Sylveon|300\/300|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1713918151
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p1a: Giratina|285\/353|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1713918153
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p1a: Giratina|307\/353|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1713918155
+|move|p1a: Giratina|Dragon Pulse|p2a: Sylveon
+|-immune|p2a: Sylveon
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p1a: Giratina|329\/353|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1713918157
+|move|p1a: Giratina|Dragon Pulse|p2a: Sylveon
+|-immune|p2a: Sylveon
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p1a: Giratina|351\/353|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1713918161
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|-heal|p1a: Giratina|353\/353|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1713918164
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|58
+|
+|t:|1713918167
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|59
+|
+|t:|1713918169
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|60
+|
+|t:|1713918171
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|61
+|
+|t:|1713918173
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|62
+|
+|t:|1713918175
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|63
+|
+|t:|1713918177
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|64
+|
+|t:|1713918178
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|65
+|
+|t:|1713918180
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|66
+|
+|t:|1713918181
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|67
+|
+|t:|1713918182
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|68
+|
+|t:|1713918183
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|69
+|
+|t:|1713918189
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Dragon Pulse|p2a: Sylveon
+|-immune|p2a: Sylveon
+|
+|upkeep
+|turn|70
+|
+|t:|1713918194
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|upkeep
+|turn|71
+|
+|t:|1713918203
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Dragon Pulse|p2a: Sylveon
+|-immune|p2a: Sylveon
+|
+|upkeep
+|turn|72
+|c|☆totally_dyle|Being a sore winner isn't very cool
+|
+|t:|1713918208
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|upkeep
+|turn|73
+|c|☆betathunder|?????
+|c|☆betathunder|you can stall with rest
+|c|☆totally_dyle|Whatever you say
+|c|☆betathunder|blud is in an autolost position with no way to win and insists on playing it out and IM THE BAD GUY???
+|inactive|betathunder has 120 seconds left.
+|
+|t:|1713918244
+|switch|p2a: Sylveon|Sylveon, L85, F|300\/300
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|
+|upkeep
+|turn|74
+|c|☆totally_dyle|Yes
+|inactive|betathunder has 120 seconds left.
+|
+|t:|1713918251
+|switch|p2a: Clefable|Clefable, L83, F|232\/293 tox
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|upkeep
+|turn|75
+|c|☆betathunder|lol
+|
+|t:|1713918260
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|76
+|c|☆betathunder|youre sad
+|
+|t:|1713918265
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|77
+|
+|t:|1713918283
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|78
+|c|☆totally_dyle|I'm sad to be playing someone who could have  set up clefable theis whole time
+|
+|t:|1713918291
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|79
+|
+|t:|1713918292
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|80
+|
+|t:|1713918295
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|81
+|
+|t:|1713918299
+|move|p1a: Giratina|Dragon Pulse|p2a: Clefable
+|-immune|p2a: Clefable
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|0
+|-boost|p2a: Clefable|spd|0
+|
+|upkeep
+|turn|82
+|
+|t:|1713918302
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|0
+|-boost|p1a: Giratina|spd|0
+|move|p2a: Clefable|Moonblast|p1a: Giratina
+|-supereffective|p1a: Giratina
+|-damage|p1a: Giratina|142\/353
+|
+|-heal|p1a: Giratina|164\/353|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1713918317
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|353\/353 slp|[silent]
+|move|p2a: Clefable|Moonblast|p1a: Giratina
+|-supereffective|p1a: Giratina
+|-damage|p1a: Giratina|127\/353 slp
+|
+|-heal|p1a: Giratina|149\/353 slp|[from] item: Leftovers
+|upkeep
+|turn|84
+|
+|t:|1713918321
+|cant|p1a: Giratina|slp
+|move|p2a: Clefable|Moonblast|p1a: Giratina
+|-supereffective|p1a: Giratina
+|-damage|p1a: Giratina|0 fnt
+|faint|p1a: Giratina
+|
+|win|betathunder
+|raw|totally_dyle's rating: 1649 &rarr; <strong>1636<\/strong><br \/>(-13 for losing)
+|raw|betathunder's rating: 1771 &rarr; <strong>1784<\/strong><br \/>(+13 for winning)
+|c|☆totally_dyle|voila
+|l|☆totally_dyle
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆totally_dyle and ☆betathunder joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between totally_dyle and betathunder!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by betathunder)</div><div class="chat message-error">totally_dyle also wants the timer to be on.</div><div class="chat message-error">betathunder has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Incineroar</strong>!<br></div><div class="battle-history">[The opposing Incineroar's Intimidate]<br></div><div class="battle-history"><small>Darmanitan's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−57/297">19.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan went back to totally_dyle!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−31/315">9.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Incineroar!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Clefable was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−93/293">31.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−110/315">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−88/293">30.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Clefable must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−61/298">20.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong, come back!<br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>The opposing Articuno put in a substitute!</small><br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−74/298">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>The opposing Articuno's substitute faded!</small><br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Darmanitan was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Darmanitan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Incineroar</strong>!<br></div><div class="battle-history">[The opposing Incineroar's Intimidate]<br></div><div class="battle-history"><small>Darmanitan's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−101/297">34.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darmanitan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar used <strong>Fake Out</strong>!<br></div><div class="battle-history"><small>(Darmanitan lost <abbr title="−43/310">13.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darmanitan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>U-turn</strong>!<br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−55/297">18.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Darmanitan lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan went back to totally_dyle!<br></div><div class="battle-history">Go! <strong>Dewgong</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar used <strong>Darkest Lariat</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−97/315">30.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Incineroar!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−82/293">28.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−113/315">35.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−87/293">29.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−96/293">32.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−110/315">34.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Clefable lost <abbr title="−90/293">30.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Soft-Boiled</strong>!<br></div><div class="battle-history"><small>The opposing Clefable had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Encore</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Dewgong was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Articuno was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Dewgong was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−37/315">11.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Articuno must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Dewgong was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Freeze-Dry</strong>!<br></div><div class="battle-history"><small>(Dewgong lost <abbr title="−36/315">11.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong used <strong>Surf</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−63/298">21.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Dewgong restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Dewgong was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dewgong fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Darmanitan</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Incineroar</strong>!<br></div><div class="battle-history">[The opposing Incineroar's Intimidate]<br></div><div class="battle-history"><small>Darmanitan's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan used <strong>Flare Blitz</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Incineroar lost <abbr title="−84/297">28.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Incineroar fainted!<br></div><div class="battle-history"><small>Darmanitan was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Darmanitan was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Darmanitan fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Unown (<strong>Unown-W</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unown used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−78/298">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Pangoro</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unown used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Pangoro...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unown, come back!<br></div><div class="battle-history">Go! <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro used <strong>Parting Shot</strong>!<br></div><div class="battle-history"><small>Aromatisse's Attack fell!</small><br></div><div class="battle-history"><small>Aromatisse's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro went back to betathunder!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Aromatisse protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse, come back!<br></div><div class="battle-history">Go! <strong>Lanturn</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Lanturn was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Lanturn was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−63/298">21.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Lanturn restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Lanturn was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>Lanturn was cured of its poisoning!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lanturn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lanturn restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−66/300">22%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−40/300">13.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Lanturn lost <abbr title="−214/367">58.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Lanturn restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>(The opposing Sylveon lost <abbr title="−46/300">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Lanturn lost <abbr title="−175/367">47.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Lanturn fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Aromatisse's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Aromatisse's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse, come back!<br></div><div class="battle-history">Go! Unown (<strong>Unown-W</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Unown was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Unown was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Pangoro</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unown used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Pangoro...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Unown was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unown used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Pangoro...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Unown lost <abbr title="−210/258">81.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Pangoro knocked off Unown's Choice Specs!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unown fainted!<br></div><div class="battle-history"><small>The opposing Pangoro lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro used <strong>Parting Shot</strong>!<br></div><div class="battle-history"><small>Aromatisse's Attack fell!</small><br></div><div class="battle-history"><small>Aromatisse's Sp. Atk fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Pangoro went back to betathunder!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−55/298">18.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse, come back!<br></div><div class="battle-history">Go! <strong>Giratina</strong>!<br></div><div class="battle-history">[Giratina's Pressure]<br><small>Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina, come back!<br></div><div class="battle-history">Go! <strong>Aromatisse</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>(Aromatisse lost <abbr title="−114/332">34.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Articuno</strong>!<br></div><div class="battle-history">[The opposing Articuno's Pressure]<br><small>The opposing Articuno is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−94/298">31.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Aromatisse was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−84/298">28.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Aromatisse was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Articuno used <strong>Roost</strong>!<br></div><div class="battle-history"><small>The opposing Articuno had its HP restored.</small><br></div><div class="battle-history"><small>(The opposing Articuno loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Articuno lost <abbr title="−82/298">27.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Articuno restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Articuno was hurt by poison!</small><br></div><div class="battle-history"><small>Aromatisse was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Articuno!<br></div><div class="battle-history">betathunder sent out <strong>Miltank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>(The opposing Miltank lost <abbr title="−139/304">45.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Miltank restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Miltank used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(Aromatisse lost <abbr title="−87/332">26.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Aromatisse's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Aromatisse's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Miltank restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Aromatisse was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Miltank used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Aromatisse lost <abbr title="−51/332">15.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Aromatisse fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Miltank restored a little HP using its Leftovers!</small><br></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>gg</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Giratina</strong>!<br></div><div class="battle-history">[Giratina's Pressure]<br><small>Giratina is exerting its pressure!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Miltank!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Hyper Voice</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Giratina lost <abbr title="−134/353">38.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 51</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Sylveon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 52</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 53</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk rose!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 54</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Sylveon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 55</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Sylveon...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Sylveon used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Sylveon's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 56</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 57</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 58</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 59</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 60</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 61</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 62</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 63</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 64</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 65</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 66</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 67</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 68</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 69</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Sylveon...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 70</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 71</h2><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Sylveon...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 72</h2><div class="chat chatmessage-totallydyle"><strong style="color:#2173d6"><small>☆</small><span class="username" data-name="totally_dyle">totally_dyle</span>:</strong> <em>Being a sore winner isn't very cool</em></div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 73</h2><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>?????</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>you can stall with rest</em></div><div class="chat chatmessage-totallydyle"><strong style="color:#2173d6"><small>☆</small><span class="username" data-name="totally_dyle">totally_dyle</span>:</strong> <em>Whatever you say</em></div><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>blud is in an autolost position with no way to win and insists on playing it out and IM THE BAD GUY???</em></div><div class="chat message-error">betathunder has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Clefable!<br></div><div class="battle-history">betathunder sent out <strong>Sylveon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 74</h2><div class="chat chatmessage-totallydyle"><strong style="color:#2173d6"><small>☆</small><span class="username" data-name="totally_dyle">totally_dyle</span>:</strong> <em>Yes</em></div><div class="chat message-error">betathunder has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">betathunder withdrew Sylveon!<br></div><div class="battle-history">betathunder sent out <strong>Clefable</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 75</h2><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>lol</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 76</h2><div class="chat chatmessage-betathunder"><strong style="color:#746ccd"><small>☆</small><span class="username" data-name="betathunder">betathunder</span>:</strong> <em>youre sad</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 77</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 78</h2><div class="chat chatmessage-totallydyle"><strong style="color:#2173d6"><small>☆</small><span class="username" data-name="totally_dyle">totally_dyle</span>:</strong> <em>I'm sad to be playing someone who could have  set up clefable theis whole time</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 79</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 80</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 81</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Dragon Pulse</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Clefable...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>The opposing Clefable's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>The opposing Clefable's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 82</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Calm Mind</strong>!<br></div><div class="battle-history"><small>Giratina's Sp. Atk won't go any higher!</small><br></div><div class="battle-history"><small>Giratina's Sp. Def won't go any higher!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Giratina lost <abbr title="−211/353">59.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 83</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Rest</strong>!<br></div><div class="battle-history"><small>Giratina slept and became healthy!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Giratina lost <abbr title="−226/353">64.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Giratina restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 84</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina is fast asleep.<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Clefable used <strong>Moonblast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Giratina lost <abbr title="−149/353">42.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>betathunder</strong> won the battle!<br></div><div class="chat">totally_dyle's rating: 1649 → <strong>1636</strong><br>(-13 for losing)</div><div class="chat">betathunder's rating: 1771 → <strong>1784</strong><br>(+13 for winning)</div><div class="chat chatmessage-totallydyle"><strong style="color:#2173d6"><small>☆</small><span class="username" data-name="totally_dyle">totally_dyle</span>:</strong> <em>voila</em></div><div class="chat"><small>☆totally_dyle left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

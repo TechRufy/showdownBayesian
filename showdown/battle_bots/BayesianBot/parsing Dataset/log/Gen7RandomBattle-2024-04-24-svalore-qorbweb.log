@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: SValore vs. qorbweb</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110264015" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/svalore" class="subtle" target="_blank">SValore</a> vs. <a href="http://pokemonshowdown.com/users/qorbweb" class="subtle" target="_blank">qorbweb</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆SValore
+|j|☆qorbweb
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1713928915
+|gametype|singles
+|player|p1|SValore|marnie-masters2|
+|player|p2|qorbweb|misty|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713928915
+|start
+|switch|p1a: Simisear|Simisear, L89, F|278\/278
+|switch|p2a: Aurorus|Aurorus, L88, F|360\/360
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|turn|1
+|j|*Lady Monita 
+|c|☆SValore|glhf
+|c|☆qorbweb|hf
+|inactive|SValore has 120 seconds left.
+|inactive|SValore has 90 seconds left.
+|
+|t:|1713928983
+|switch|p2a: Marshadow|Marshadow, L70|242\/242
+|move|p1a: Simisear|Substitute|p1a: Simisear
+|-start|p1a: Simisear|Substitute
+|-damage|p1a: Simisear|209\/278
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Simisear|192\/278|[from] Hail
+|-damage|p2a: Marshadow|227\/242|[from] Hail
+|-heal|p1a: Simisear|209\/278|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1713929011
+|move|p1a: Simisear|Fire Blast|p2a: Marshadow
+|-damage|p2a: Marshadow|82\/242
+|move|p2a: Marshadow|Rock Tomb|p1a: Simisear
+|-supereffective|p1a: Simisear
+|-end|p1a: Simisear|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Simisear|192\/278|[from] Hail
+|-damage|p2a: Marshadow|67\/242|[from] Hail
+|-heal|p1a: Simisear|209\/278|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713929034
+|move|p1a: Simisear|Fire Blast|p2a: Marshadow|[miss]
+|-miss|p1a: Simisear|p2a: Marshadow
+|-zpower|p2a: Marshadow
+|move|p2a: Marshadow|Soul-Stealing 7-Star Strike|p1a: Simisear|[zeffect]
+|-damage|p1a: Simisear|0 fnt
+|faint|p1a: Simisear
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Marshadow|52\/242|[from] Hail
+|upkeep
+|
+|t:|1713929046
+|switch|p1a: Gourgeist|Gourgeist, L89, M|260\/260
+|-item|p2a: Marshadow|Marshadium Z|[from] ability: Frisk|[of] p1a: Gourgeist|[identify]
+|turn|4
+|
+|t:|1713929058
+|switch|p2a: Absol|Absol, L88, M|258\/258
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Absol
+|-resisted|p2a: Absol
+|-damage|p2a: Absol|231\/258
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gourgeist|244\/260|[from] Hail
+|-damage|p2a: Absol|215\/258|[from] Hail
+|-heal|p1a: Gourgeist|260\/260|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713929063
+|move|p1a: Gourgeist|Will-O-Wisp|p2a: Absol
+|-status|p2a: Absol|brn
+|move|p2a: Absol|Knock Off|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-damage|p1a: Gourgeist|131\/260
+|-enditem|p1a: Gourgeist|Leftovers|[from] move: Knock Off|[of] p2a: Absol
+|-damage|p2a: Absol|190\/258 brn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p2a: Absol|174\/258 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1713929072
+|switch|p2a: Aurorus|Aurorus, L88, F|360\/360
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|196\/260
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gourgeist|180\/260|[from] Hail
+|upkeep
+|turn|7
+|inactive|SValore has 120 seconds left.
+|
+|t:|1713929109
+|move|p1a: Gourgeist|Seed Bomb|p2a: Aurorus
+|-supereffective|p2a: Aurorus
+|-damage|p2a: Aurorus|160\/360
+|move|p2a: Aurorus|Stealth Rock|p1a: Gourgeist
+|-sidestart|p1: SValore|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gourgeist|164\/260|[from] Hail
+|-heal|p2a: Aurorus|182\/360|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|qorbweb has 120 seconds left.
+|
+|t:|1713929150
+|switch|p2a: Gogoat|Gogoat, L89, F|364\/364
+|move|p1a: Gourgeist|Seed Bomb|p2a: Gogoat
+|-ability|p2a: Gogoat|Sap Sipper|boost
+|-boost|p2a: Gogoat|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gourgeist|148\/260|[from] Hail
+|-damage|p2a: Gogoat|342\/364|[from] Hail
+|-heal|p2a: Gogoat|364\/364|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1713929157
+|switch|p2a: Marshadow|Marshadow, L70|52\/242
+|move|p1a: Gourgeist|Will-O-Wisp|p2a: Marshadow|[miss]
+|-miss|p1a: Gourgeist|p2a: Marshadow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Marshadow|37\/242|[from] Hail
+|-damage|p1a: Gourgeist|132\/260|[from] Hail
+|upkeep
+|turn|10
+|
+|t:|1713929162
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Marshadow
+|-supereffective|p2a: Marshadow
+|-damage|p2a: Marshadow|0 fnt
+|faint|p2a: Marshadow
+|
+|-weather|none
+|upkeep
+|j| venson04
+|
+|t:|1713929169
+|switch|p2a: Beartic|Beartic, L90, M|317\/317
+|turn|11
+|inactive|SValore has 120 seconds left.
+|inactive|SValore has 90 seconds left.
+|
+|t:|1713929235
+|switch|p1a: Mew|Mew, L81|295\/295
+|-damage|p1a: Mew|259\/295|[from] Stealth Rock
+|move|p2a: Beartic|Icicle Crash|p1a: Mew|[miss]
+|-miss|p2a: Beartic|p1a: Mew
+|
+|upkeep
+|turn|12
+|inactive|SValore has 90 seconds left.
+|
+|t:|1713929262
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Beartic|Icicle Crash|p1a: Mew
+|-damage|p1a: Mew|72\/295
+|
+|upkeep
+|turn|13
+|
+|t:|1713929279
+|-zpower|p1a: Mew
+|move|p1a: Mew|Genesis Supernova|p2a: Beartic|[zeffect]
+|-damage|p2a: Beartic|0 fnt
+|-fieldstart|move: Psychic Terrain
+|faint|p2a: Beartic
+|
+|upkeep
+|
+|t:|1713929288
+|switch|p2a: Gogoat|Gogoat, L89, F|364\/364
+|turn|14
+|
+|t:|1713929304
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|220\/295
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Gogoat|Horn Leech|p1a: Mew
+|-damage|p1a: Mew|138\/295
+|
+|upkeep
+|turn|15
+|
+|t:|1713929320
+|move|p1a: Mew|Fire Blast|p2a: Gogoat
+|-supereffective|p2a: Gogoat
+|-damage|p2a: Gogoat|70\/364
+|move|p2a: Gogoat|Horn Leech|p1a: Mew
+|-damage|p1a: Mew|60\/295
+|-heal|p2a: Gogoat|109\/364|[from] drain|[of] p1a: Mew
+|
+|-heal|p2a: Gogoat|131\/364|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|SValore has 60 seconds left.
+|
+|t:|1713929352
+|switch|p2a: Absol|Absol, L88, M|174\/258 brn
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|208\/295
+|-singleturn|p1a: Mew|move: Roost
+|
+|-damage|p2a: Absol|158\/258 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1713929358
+|move|p1a: Mew|Fire Blast|p2a: Absol|[miss]
+|-miss|p1a: Mew|p2a: Absol
+|move|p2a: Absol|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|82\/295
+|-damage|p2a: Absol|133\/258 brn|[from] item: Life Orb
+|
+|-damage|p2a: Absol|117\/258 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|l| venson04
+|
+|t:|1713929374
+|move|p1a: Mew|Fire Blast|p2a: Absol
+|-damage|p2a: Absol|0 fnt
+|faint|p2a: Absol
+|
+|upkeep
+|
+|t:|1713929378
+|switch|p2a: Mawile|Mawile, L80, M|211\/211
+|-ability|p2a: Mawile|Intimidate|boost
+|-unboost|p1a: Mew|atk|1
+|turn|19
+|
+|t:|1713929392
+|detailschange|p2a: Mawile|Mawile-Mega, L80, M
+|-mega|p2a: Mawile|Mawile|Mawilite
+|move|p2a: Mawile|Sucker Punch||[still]
+|-fail|p2a: Mawile
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|230\/295
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1713929407
+|move|p1a: Mew|Fire Blast|p2a: Mawile
+|-supereffective|p2a: Mawile
+|-damage|p2a: Mawile|0 fnt
+|faint|p2a: Mawile
+|
+|upkeep
+|
+|t:|1713929410
+|switch|p2a: Aurorus|Aurorus, L88, F|182\/360
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|turn|21
+|
+|t:|1713929413
+|move|p1a: Mew|Psychic|p2a: Aurorus
+|-damage|p2a: Aurorus|22\/360
+|move|p2a: Aurorus|Blizzard|p1a: Mew
+|-damage|p1a: Mew|110\/295
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Mew|92\/295|[from] Hail
+|-heal|p2a: Aurorus|44\/360|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1713929422
+|move|p1a: Mew|Psychic|p2a: Aurorus
+|-damage|p2a: Aurorus|0 fnt
+|faint|p2a: Aurorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Mew|74\/295|[from] Hail
+|upkeep
+|
+|t:|1713929423
+|switch|p2a: Gogoat|Gogoat, L89, F|131\/364
+|turn|23
+|
+|t:|1713929426
+|move|p1a: Mew|Psychic|p2a: Gogoat
+|-damage|p2a: Gogoat|0 fnt
+|faint|p2a: Gogoat
+|
+|win|SValore
+|n|☆SValore|svalore
+|n|☆qorbweb|qorbweb
+|n|*Lady Monita |ladymonita
+|l|*Lady Monita 
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆SValore and ☆qorbweb joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between SValore and qorbweb!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Simisear</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small>*Lady Monita  joined</small></div><div class="chat chatmessage-svalore"><strong style="color:#37a69d"><small>☆</small><span class="username" data-name="SValore">SValore</span>:</strong> <em>glhf</em></div><div class="chat chatmessage-qorbweb"><strong style="color:#78a225"><small>☆</small><span class="username" data-name="qorbweb">qorbweb</span>:</strong> <em>hf</em></div><div class="chat message-error">SValore has 120 seconds left.</div><div class="chat message-error">SValore has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Aurorus!<br></div><div class="battle-history">qorbweb sent out <strong>Marshadow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear used <strong>Substitute</strong>!<br></div><div class="battle-history"><small>Simisear put in a substitute!</small><br></div><div class="battle-history"><small>(Simisear lost <abbr title="−69/278">24.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Simisear is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Marshadow is buffeted by the hail!</small><br></div><div class="battle-history"><small>Simisear restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Simisear used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Marshadow lost <abbr title="−145/242">59.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marshadow used <strong>Rock Tomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>Simisear's substitute faded!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Simisear is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Marshadow is buffeted by the hail!</small><br></div><div class="battle-history"><small>Simisear restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Marshadow avoided the attack!</small><br></div><div class="battle-history"><small>The opposing Marshadow surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Marshadow unleashes its full-force Z-Move!</small><br>The opposing Marshadow used <strong>Soul-Stealing 7-Star Strike</strong>!<br></div><div class="battle-history"><small>(Simisear lost <abbr title="−209/278">75.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Simisear fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Marshadow is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gourgeist</strong>!<br></div><div class="battle-history">[Gourgeist's Frisk]<br><small>Gourgeist frisked the opposing Marshadow and found its Marshadium Z!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Marshadow!<br></div><div class="battle-history">qorbweb sent out <strong>Absol</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Absol lost <abbr title="−27/258">10.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Gourgeist is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Absol is buffeted by the hail!</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Absol was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−129/260">49.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Absol knocked off Gourgeist's Leftovers!</small><br></div><div class="battle-history"><small>The opposing Absol lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="battle-history"><small>The opposing Absol was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Absol!<br></div><div class="battle-history">qorbweb sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Gourgeist is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Seed Bomb</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−200/360">55.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around your team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Gourgeist is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">qorbweb has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Aurorus!<br></div><div class="battle-history">qorbweb sent out <strong>Gogoat</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Seed Bomb</strong>!<br></div><div class="battle-history">[The opposing Gogoat's Sap Sipper]<br></div><div class="battle-history"><small>The opposing Gogoat's Attack rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Gourgeist is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Gogoat is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Gogoat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Gogoat!<br></div><div class="battle-history">qorbweb sent out <strong>Marshadow</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>The opposing Marshadow avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>The opposing Marshadow is buffeted by the hail!</small><br></div><div class="battle-history"><small>Gourgeist is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Marshadow lost <abbr title="−37/242">15.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Marshadow fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The hail stopped.</small><br></div><div class="chat"><small> venson04 joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Beartic</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">SValore has 120 seconds left.</div><div class="chat message-error">SValore has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Mew</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into Mew!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>Mew avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat message-error">SValore has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Mew's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beartic used <strong>Icicle Crash</strong>!<br></div><div class="battle-history"><small>(Mew lost <abbr title="−187/295">63.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew unleashes its full-force Z-Move!</small><br>Mew used <strong>Genesis Supernova</strong>!<br></div><div class="battle-history"><small>(The opposing Beartic lost <abbr title="−317/317">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beartic fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Gogoat</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Mew had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gogoat used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>(Mew lost <abbr title="−82/295">27.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Gogoat lost <abbr title="−294/364">80.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gogoat used <strong>Horn Leech</strong>!<br></div><div class="battle-history"><small>(Mew lost <abbr title="−78/295">26.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mew had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Gogoat restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat message-error">SValore has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb withdrew Gogoat!<br></div><div class="battle-history">qorbweb sent out <strong>Absol</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Mew had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Absol was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>The opposing Absol avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost <abbr title="−126/295">42.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Absol lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Absol was hurt by its burn!</small><br></div><div class="battle-history"><small>The weirdness disappeared from the battlefield!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="chat"><small> venson04 left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>(The opposing Absol lost <abbr title="−117/258">45.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Absol fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Mawile</strong>!<br></div><div class="battle-history">[The opposing Mawile's Intimidate]<br></div><div class="battle-history"><small>Mew's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Mawile's Mawilite is reacting to the Key Stone!</small><br>The opposing Mawile has Mega Evolved into Mega Mawile!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mawile used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Mew had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Mawile lost <abbr title="−211/211">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mawile fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Aurorus</strong>!<br></div><div class="battle-history">[The opposing Aurorus's Snow Warning]<br><small>It started to hail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−160/360">44.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus used <strong>Blizzard</strong>!<br></div><div class="battle-history"><small>(Mew lost <abbr title="−120/295">40.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Mew is buffeted by the hail!</small><br></div><div class="battle-history"><small>The opposing Aurorus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Aurorus lost <abbr title="−44/360">12.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Aurorus fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The hail is crashing down.)</small><br></div><div class="battle-history"><small>Mew is buffeted by the hail!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">qorbweb sent out <strong>Gogoat</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Gogoat lost <abbr title="−131/364">36.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Gogoat fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>SValore</strong> won the battle!<br></div><div class="chat"><small>*Lady Monita  left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: soTsoT vs. Eimint64</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2094468211" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/sotsot" class="subtle" target="_blank">soTsoT</a> vs. <a href="http://pokemonshowdown.com/users/eimint64" class="subtle" target="_blank">Eimint64</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆soTsoT
+|j|☆Eimint64
+|t:|1712079738
+|gametype|singles
+|player|p1|soTsoT|#teamskymin|1711
+|player|p2|Eimint64|169|1746
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1712079738
+|start
+|switch|p1a: Musharna|Musharna, L90, F|355\/355
+|switch|p2a: Bisharp|Bisharp, L82, M|241\/241
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Eimint64)
+|
+|t:|1712079746
+|-activate|p1a: Musharna|move: Pursuit
+|move|p2a: Bisharp|Pursuit|p1a: Musharna|[from]Pursuit
+|-supereffective|p1a: Musharna
+|-damage|p1a: Musharna|133\/355
+|switch|p1a: Golem|Golem-Alola, L88, M|284\/284
+|
+|upkeep
+|turn|2
+|
+|t:|1712079756
+|move|p2a: Bisharp|Knock Off|p1a: Golem
+|-damage|p1a: Golem|188\/284
+|-enditem|p1a: Golem|Life Orb|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Golem|Return|p2a: Bisharp
+|-damage|p2a: Bisharp|87\/241
+|
+|upkeep
+|turn|3
+|
+|t:|1712079763
+|move|p2a: Bisharp|Iron Head|p1a: Golem
+|-damage|p1a: Golem|124\/284
+|move|p1a: Golem|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1712079784
+|switch|p2a: Lapras|Lapras, L87, M|368\/368
+|turn|4
+|
+|t:|1712079797
+|switch|p1a: Maractus|Maractus, L97, M|302\/302
+|move|p2a: Lapras|Hydro Pump|p1a: Maractus
+|-ability|p1a: Maractus|Storm Drain|boost
+|-boost|p1a: Maractus|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1712079803
+|move|p1a: Maractus|Spikes|p2a: Lapras
+|-sidestart|p2: Eimint64|Spikes
+|move|p2a: Lapras|Ice Beam|p1a: Maractus
+|-supereffective|p1a: Maractus
+|-damage|p1a: Maractus|102\/302
+|
+|-heal|p1a: Maractus|120\/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1712079807
+|move|p1a: Maractus|Giga Drain|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|86\/368
+|-heal|p1a: Maractus|261\/302|[from] drain|[of] p2a: Lapras
+|move|p2a: Lapras|Ice Beam|p1a: Maractus
+|-supereffective|p1a: Maractus
+|-damage|p1a: Maractus|51\/302
+|
+|-heal|p1a: Maractus|69\/302|[from] item: Leftovers
+|-heal|p2a: Lapras|109\/368|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1712079813
+|move|p1a: Maractus|Giga Drain|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|-heal|p1a: Maractus|124\/302|[from] drain|[of] p2a: Lapras
+|faint|p2a: Lapras
+|
+|-heal|p1a: Maractus|142\/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1712079814
+|switch|p2a: Victreebel|Victreebel, L90, M|290\/290
+|-damage|p2a: Victreebel|254\/290|[from] Spikes
+|turn|8
+|
+|t:|1712079823
+|switch|p1a: Golem|Golem-Alola, L88, M|124\/284
+|move|p2a: Victreebel|Sunny Day|p2a: Victreebel
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1712079830
+|move|p2a: Victreebel|Power Whip|p1a: Golem
+|-supereffective|p1a: Golem
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|-damage|p2a: Victreebel|225\/290|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1712079833
+|switch|p1a: Giratina|Giratina-Origin, L74|344\/344
+|turn|10
+|
+|t:|1712079838
+|move|p2a: Victreebel|Sludge Bomb|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|265\/344
+|-damage|p2a: Victreebel|196\/290|[from] item: Life Orb
+|move|p1a: Giratina|Draco Meteor|p2a: Victreebel
+|-damage|p2a: Victreebel|19\/290
+|-unboost|p1a: Giratina|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1712079843
+|move|p1a: Giratina|Shadow Sneak|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1712079849
+|switch|p2a: Beautifly|Beautifly, L98, F|276\/276
+|turn|12
+|
+|t:|1712079871
+|switch|p1a: Marowak|Marowak, L88, M|249\/249
+|move|p2a: Beautifly|Quiver Dance|p2a: Beautifly
+|-boost|p2a: Beautifly|spa|1
+|-boost|p2a: Beautifly|spd|1
+|-boost|p2a: Beautifly|spe|1
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1712079878
+|move|p2a: Beautifly|Air Cutter|p1a: Marowak
+|-damage|p1a: Marowak|125\/249
+|move|p1a: Marowak|Stone Edge|p2a: Beautifly
+|-supereffective|p2a: Beautifly
+|-damage|p2a: Beautifly|0 fnt
+|faint|p2a: Beautifly
+|
+|upkeep
+|
+|t:|1712079884
+|switch|p2a: Bruxish|Bruxish, L86, F|257\/257
+|-damage|p2a: Bruxish|225\/257|[from] Spikes
+|turn|14
+|
+|t:|1712079896
+|move|p2a: Bruxish|Psychic Fangs|p1a: Marowak
+|-damage|p1a: Marowak|1\/249
+|move|p1a: Marowak|Knock Off|p2a: Bruxish
+|-supereffective|p2a: Bruxish
+|-damage|p2a: Bruxish|0 fnt
+|-enditem|p2a: Bruxish|Choice Scarf|[from] move: Knock Off|[of] p1a: Marowak
+|faint|p2a: Bruxish
+|
+|upkeep
+|
+|t:|1712079899
+|switch|p2a: Naganadel|Naganadel, L75|233\/233
+|-damage|p2a: Naganadel|204\/233|[from] Spikes
+|turn|15
+|
+|t:|1712079915
+|switch|p1a: Durant|Durant, L81, F|227\/227
+|move|p2a: Naganadel|Sludge Wave|p1a: Durant
+|-immune|p1a: Durant
+|
+|upkeep
+|turn|16
+|
+|t:|1712079924
+|move|p2a: Naganadel|Fire Blast|p1a: Durant
+|-supereffective|p1a: Durant
+|-damage|p1a: Durant|0 fnt
+|faint|p1a: Durant
+|-ability|p2a: Naganadel|Beast Boost|boost
+|-boost|p2a: Naganadel|spa|1
+|
+|upkeep
+|
+|t:|1712079927
+|switch|p1a: Giratina|Giratina-Origin, L74|265\/344
+|turn|17
+|
+|t:|1712079933
+|switch|p1a: Marowak|Marowak, L88, M|1\/249
+|-zpower|p2a: Naganadel
+|move|p2a: Naganadel|Devastating Drake|p1a: Marowak|[zeffect]
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|-ability|p2a: Naganadel|Beast Boost|boost
+|-boost|p2a: Naganadel|spa|1
+|
+|upkeep
+|
+|t:|1712079940
+|switch|p1a: Giratina|Giratina-Origin, L74|265\/344
+|turn|18
+|
+|t:|1712079962
+|switch|p1a: Musharna|Musharna, L90, F|133\/355
+|move|p2a: Naganadel|Sludge Wave|p1a: Musharna
+|-damage|p1a: Musharna|0 fnt
+|faint|p1a: Musharna
+|-ability|p2a: Naganadel|Beast Boost|boost
+|-boost|p2a: Naganadel|spa|1
+|
+|upkeep
+|-message|soTsoT forfeited.
+|
+|win|Eimint64
+|raw|soTsoT's rating: 1711 &rarr; <strong>1693<\/strong><br \/>(-18 for losing)
+|raw|Eimint64's rating: 1746 &rarr; <strong>1764<\/strong><br \/>(+18 for winning)
+|l|☆soTsoT
+|player|p1|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆soTsoT and ☆Eimint64 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between soTsoT and Eimint64!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Musharna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Bisharp</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by Eimint64)</div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Musharna is being withdrawn...)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bisharp used <strong>Pursuit</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Musharna lost <abbr title="−222/355">62.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Musharna, come back!<br></div><div class="battle-history">Go! Golem (<strong>Golem-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bisharp used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Golem lost <abbr title="−96/284">33.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bisharp knocked off Golem's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Bisharp lost <abbr title="−154/241">63.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bisharp used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Golem lost <abbr title="−64/284">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bisharp lost <abbr title="−87/241">36.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bisharp fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Lapras</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Golem, come back!<br></div><div class="battle-history">Go! <strong>Maractus</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Hydro Pump</strong>!<br></div><div class="battle-history">[Maractus's Storm Drain]<br></div><div class="battle-history"><small>Maractus's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Spikes</strong>!<br></div><div class="battle-history"><small>Spikes were scattered on the ground all around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Maractus lost <abbr title="−200/302">66.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lapras lost <abbr title="−282/368">76.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lapras had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Maractus lost <abbr title="−210/302">69.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Lapras restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus used <strong>Giga Drain</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Lapras lost <abbr title="−109/368">29.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Lapras had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Lapras fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Maractus restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Victreebel</strong>!<br></div><div class="battle-history"><small>The opposing Victreebel was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maractus, come back!<br></div><div class="battle-history">Go! Golem (<strong>Golem-Alola</strong>)!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Sunny Day</strong>!<br></div><div class="battle-history"><small>The sunlight turned harsh!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Power Whip</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Golem lost <abbr title="−124/284">43.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Golem fainted!<br></div><div class="battle-history"><small>The opposing Victreebel lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Giratina (<strong>Giratina-Origin</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Giratina lost <abbr title="−79/344">23.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Victreebel lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Victreebel lost <abbr title="−177/290">61.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Giratina's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>(The opposing Victreebel lost <abbr title="−19/290">6.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Victreebel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(The sunlight is strong.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Beautifly</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina, come back!<br></div><div class="battle-history">Go! <strong>Marowak</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beautifly used <strong>Quiver Dance</strong>!<br></div><div class="battle-history"><small>The opposing Beautifly's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Beautifly's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Beautifly's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The harsh sunlight faded.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beautifly used <strong>Air Cutter</strong>!<br></div><div class="battle-history"><small>(Marowak lost <abbr title="−124/249">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Marowak used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Beautifly lost <abbr title="−276/276">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Beautifly fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Bruxish</strong>!<br></div><div class="battle-history"><small>The opposing Bruxish was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bruxish used <strong>Psychic Fangs</strong>!<br></div><div class="battle-history"><small>(Marowak lost <abbr title="−124/249">49.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Marowak used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bruxish lost <abbr title="−225/257">87.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Marowak knocked off the opposing Bruxish's Choice Scarf!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bruxish fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Eimint64 sent out <strong>Naganadel</strong>!<br></div><div class="battle-history"><small>The opposing Naganadel was hurt by the spikes!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Marowak, come back!<br></div><div class="battle-history">Go! <strong>Durant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Naganadel used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It doesn't affect Durant...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Naganadel used <strong>Fire Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Durant lost <abbr title="−227/227">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Durant fainted!<br></div><div class="battle-history">[The opposing Naganadel's Beast Boost]<br></div><div class="battle-history"><small>The opposing Naganadel's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Giratina (<strong>Giratina-Origin</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina, come back!<br></div><div class="battle-history">Go! <strong>Marowak</strong>!<br></div><div class="battle-history"><small>The opposing Naganadel surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Naganadel unleashes its full-force Z-Move!</small><br>The opposing Naganadel used <strong>Devastating Drake</strong>!<br></div><div class="battle-history"><small>(Marowak lost <abbr title="−1/249">0.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Marowak fainted!<br></div><div class="battle-history">[The opposing Naganadel's Beast Boost]<br></div><div class="battle-history"><small>The opposing Naganadel's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Giratina (<strong>Giratina-Origin</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Giratina, come back!<br></div><div class="battle-history">Go! <strong>Musharna</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Naganadel used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>(Musharna lost <abbr title="−133/355">37.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Musharna fainted!<br></div><div class="battle-history">[The opposing Naganadel's Beast Boost]<br></div><div class="battle-history"><small>The opposing Naganadel's Sp. Atk rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>soTsoT forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Eimint64</strong> won the battle!<br></div><div class="chat">soTsoT's rating: 1711 → <strong>1693</strong><br>(-18 for losing)</div><div class="chat">Eimint64's rating: 1746 → <strong>1764</strong><br>(+18 for winning)</div><div class="chat"><small>☆soTsoT left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

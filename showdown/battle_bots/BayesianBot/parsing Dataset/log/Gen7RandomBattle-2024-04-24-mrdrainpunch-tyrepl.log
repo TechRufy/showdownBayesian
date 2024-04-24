@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: MrDrainPunch ⌐◼_◼ vs. tyrepl</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110272900" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/mrdrainpunch" class="subtle" target="_blank">MrDrainPunch ⌐◼_◼</a> vs. <a href="http://pokemonshowdown.com/users/tyrepl" class="subtle" target="_blank">tyrepl</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆MrDrainPunch ⌐◼_◼
+|j|☆tyrepl
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1713930105
+|gametype|singles
+|player|p1|MrDrainPunch ⌐◼_◼|birdkeeper-gen4dp|
+|player|p2|tyrepl|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713930105
+|start
+|switch|p1a: Illumise|Illumise, L92, F|269\/269
+|switch|p2a: Klefki|Klefki, L85, M|236\/236
+|turn|1
+|j|*Lady Monita 
+|j| BB-8-NU
+|inactive|tyrepl also wants the timer to be on.
+|inactive|MrDrainPunch ⌐◼_◼ also wants the timer to be on.
+|j| Sinnohchampionwq
+|c|☆MrDrainPunch ⌐◼_◼|Glhf
+|
+|t:|1713930111
+|move|p1a: Illumise|Thunder Wave|p2a: Klefki
+|-status|p2a: Klefki|par
+|move|p2a: Klefki|Thunder Wave|p1a: Illumise
+|-status|p1a: Illumise|par
+|
+|upkeep
+|turn|2
+|c| Sinnohchampionwq|glhf
+|j| TheDudeBlake
+|c| Sinnohchampionwq|both of u*
+|j| justlelegirl
+|
+|t:|1713930136
+|move|p1a: Illumise|Encore|p2a: Klefki
+|-start|p2a: Klefki|Encore
+|move|p2a: Klefki|Thunder Wave|p1a: Illumise
+|-fail|p1a: Illumise|par
+|
+|upkeep
+|turn|3
+|c| TheDudeBlake|ur doing 2 battles at once, what skill
+|c|☆MrDrainPunch ⌐◼_◼|Ty
+|
+|t:|1713930164
+|switch|p1a: Skuntank|Skuntank, L87, M|321\/321
+|switch|p2a: Zekrom|Zekrom, L74|270\/270
+|-ability|p2a: Zekrom|Teravolt
+|
+|upkeep
+|turn|4
+|
+|t:|1713930184
+|move|p1a: Skuntank|Crunch|p2a: Zekrom
+|-damage|p2a: Zekrom|192\/270
+|move|p2a: Zekrom|Bolt Strike|p1a: Skuntank
+|-damage|p1a: Skuntank|138\/321
+|
+|-heal|p1a: Skuntank|158\/321|[from] item: Black Sludge
+|upkeep
+|turn|5
+|inactive|tyrepl has 120 seconds left.
+|inactive|tyrepl has 90 seconds left.
+|
+|t:|1713930229
+|switch|p1a: Froslass|Froslass, L86, F|261\/261
+|move|p2a: Zekrom|Bolt Strike|p1a: Froslass
+|-damage|p1a: Froslass|96\/261
+|
+|-heal|p1a: Froslass|112\/261|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|tyrepl has 90 seconds left.
+|
+|t:|1713930261
+|move|p1a: Froslass|Ice Beam|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-damage|p2a: Zekrom|64\/270
+|move|p2a: Zekrom|Bolt Strike|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Zekrom|Disable|Bolt Strike|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|t:|1713930266
+|switch|p1a: Meloetta|Meloetta, L82|298\/298
+|turn|7
+|inactive|tyrepl has 60 seconds left.
+|
+|t:|1713930300
+|move|p1a: Meloetta|Relic Song|p2a: Zekrom
+|-damage|p2a: Zekrom|0 fnt
+|faint|p2a: Zekrom
+|-formechange|p1a: Meloetta|Meloetta-Pirouette|[msg]
+|-damage|p1a: Meloetta|269\/298|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713930316
+|switch|p2a: Hitmontop|Hitmontop, L89, M|234\/234
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Meloetta|atk|1
+|turn|8
+|inactive|tyrepl has 30 seconds left.
+|
+|t:|1713930342
+|switch|p1a: Necrozma|Necrozma, L81|290\/290
+|move|p2a: Hitmontop|Close Combat|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|223\/290
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|
+|-heal|p1a: Necrozma|241\/290|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|MrDrainPunch ⌐◼_◼ has 120 seconds left.
+|
+|t:|1713930362
+|move|p2a: Hitmontop|Toxic|p1a: Necrozma
+|-status|p1a: Necrozma|tox
+|move|p1a: Necrozma|Photon Geyser|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|-heal|p1a: Necrozma|259\/290 tox|[from] item: Leftovers
+|-damage|p1a: Necrozma|241\/290 tox|[from] psn
+|upkeep
+|inactive|tyrepl has 30 seconds left.
+|inactive|tyrepl has 20 seconds left.
+|inactive|tyrepl has 15 seconds left.
+|inactive|tyrepl has 10 seconds left.
+|
+|t:|1713930397
+|switch|p2a: Leafeon|Leafeon, L88, F|258\/258
+|turn|10
+|inactive|tyrepl has 20 seconds left this turn.
+|inactive|tyrepl has 15 seconds left.
+|
+|t:|1713930404
+|move|p2a: Leafeon|Knock Off|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|132\/290 tox
+|-enditem|p1a: Necrozma|Leftovers|[from] move: Knock Off|[of] p2a: Leafeon
+|move|p1a: Necrozma|Heat Wave|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|88\/258
+|-status|p2a: Leafeon|brn
+|
+|-heal|p2a: Leafeon|104\/258 brn|[from] item: Leftovers
+|-damage|p1a: Necrozma|96\/290 tox|[from] psn
+|-damage|p2a: Leafeon|88\/258 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|tyrepl has 25 seconds left this turn.
+|
+|t:|1713930413
+|move|p2a: Leafeon|Synthesis|p2a: Leafeon
+|-heal|p2a: Leafeon|217\/258 brn
+|move|p1a: Necrozma|Photon Geyser|p2a: Leafeon
+|-damage|p2a: Leafeon|60\/258 brn
+|
+|-heal|p2a: Leafeon|76\/258 brn|[from] item: Leftovers
+|-damage|p1a: Necrozma|42\/290 tox|[from] psn
+|-damage|p2a: Leafeon|60\/258 brn|[from] brn
+|upkeep
+|turn|12
+|c|☆MrDrainPunch ⌐◼_◼|Sry
+|inactive|tyrepl has 30 seconds left.
+|
+|t:|1713930424
+|move|p2a: Leafeon|Heal Bell|p2a: Leafeon
+|-activate|p2a: Leafeon|move: Heal Bell
+|-curestatus|p2a: Leafeon|brn|[msg]
+|-curestatus|p2: Klefki|par|[msg]
+|move|p1a: Necrozma|Moonlight|p1a: Necrozma
+|-heal|p1a: Necrozma|187\/290 tox
+|
+|-heal|p2a: Leafeon|76\/258|[from] item: Leftovers
+|-damage|p1a: Necrozma|115\/290 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1713930427
+|move|p2a: Leafeon|Leaf Blade|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|-heal|p2a: Leafeon|92\/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1713930436
+|switch|p1a: Skuntank|Skuntank, L87, M|158\/321
+|turn|14
+|
+|t:|1713930440
+|move|p2a: Leafeon|Knock Off|p1a: Skuntank
+|-resisted|p1a: Skuntank
+|-damage|p1a: Skuntank|107\/321
+|-enditem|p1a: Skuntank|Black Sludge|[from] move: Knock Off|[of] p2a: Leafeon
+|move|p1a: Skuntank|Poison Jab|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|
+|upkeep
+|
+|t:|1713930452
+|switch|p2a: Starmie|Starmie, L84|238\/238
+|turn|15
+|
+|t:|1713930455
+|move|p1a: Skuntank|Sucker Punch|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|88\/238
+|move|p2a: Starmie|Hydro Pump|p1a: Skuntank|[miss]
+|-miss|p2a: Starmie|p1a: Skuntank
+|
+|upkeep
+|turn|16
+|l| TheDudeBlake
+|j| ChaseInsurance
+|
+|t:|1713930460
+|move|p1a: Skuntank|Sucker Punch||[still]
+|-fail|p1a: Skuntank
+|move|p2a: Starmie|Recover|p2a: Starmie
+|-heal|p2a: Starmie|207\/238
+|
+|upkeep
+|turn|17
+|c|☆MrDrainPunch ⌐◼_◼|Sry
+|
+|t:|1713930463
+|move|p1a: Skuntank|Sucker Punch|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|49\/238
+|move|p2a: Starmie|Hydro Pump|p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt
+|faint|p1a: Skuntank
+|-damage|p2a: Starmie|26\/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713930465
+|switch|p1a: Meloetta|Meloetta, L82|269\/298
+|turn|18
+|
+|t:|1713930470
+|move|p2a: Starmie|Hydro Pump|p1a: Meloetta
+|-damage|p1a: Meloetta|156\/298
+|-damage|p2a: Starmie|3\/238|[from] item: Life Orb
+|move|p1a: Meloetta|Knock Off|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|-enditem|p2a: Starmie|Life Orb|[from] move: Knock Off|[of] p1a: Meloetta
+|faint|p2a: Starmie
+|-damage|p1a: Meloetta|127\/298|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713930474
+|switch|p2a: Klefki|Klefki, L85, M|236\/236
+|turn|19
+|
+|t:|1713930482
+|switch|p1a: Illumise|Illumise, L92, F|269\/269 par
+|move|p2a: Klefki|Thunder Wave|p1a: Illumise
+|-fail|p1a: Illumise|par
+|
+|upkeep
+|turn|20
+|j| TheDudeBlake
+|
+|t:|1713930485
+|switch|p2a: Bibarel|Bibarel, L89, F|285\/285
+|move|p1a: Illumise|Thunder Wave|p2a: Bibarel
+|-status|p2a: Bibarel|par
+|
+|upkeep
+|turn|21
+|inactive|tyrepl has 120 seconds left.
+|l| ChaseInsurance
+|
+|t:|1713930494
+|switch|p1a: Poliwrath|Poliwrath, L90, M|308\/308
+|move|p2a: Bibarel|Swords Dance|p2a: Bibarel
+|-boost|p2a: Bibarel|atk|4
+|
+|upkeep
+|turn|22
+|l| justlelegirl
+|
+|t:|1713930501
+|move|p2a: Bibarel|Return|p1a: Poliwrath
+|-damage|p1a: Poliwrath|0 fnt
+|faint|p1a: Poliwrath
+|-damage|p2a: Bibarel|257\/285 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713930505
+|switch|p1a: Meloetta|Meloetta, L82|127\/298
+|turn|23
+|
+|t:|1713930507
+|cant|p2a: Bibarel|par
+|move|p1a: Meloetta|Close Combat|p2a: Bibarel
+|-supereffective|p2a: Bibarel
+|-damage|p2a: Bibarel|49\/285 par
+|-unboost|p1a: Meloetta|def|1
+|-unboost|p1a: Meloetta|spd|1
+|-damage|p1a: Meloetta|98\/298|[from] item: Life Orb
+|
+|upkeep
+|turn|24
+|
+|t:|1713930510
+|switch|p1a: Illumise|Illumise, L92, F|269\/269 par
+|move|p2a: Bibarel|Quick Attack|p1a: Illumise
+|-damage|p1a: Illumise|84\/269 par
+|-damage|p2a: Bibarel|21\/285 par|[from] item: Life Orb
+|
+|-heal|p1a: Illumise|100\/269 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1713930514
+|cant|p1a: Illumise|par
+|move|p2a: Bibarel|Quick Attack|p1a: Illumise
+|-damage|p1a: Illumise|0 fnt
+|faint|p1a: Illumise
+|-damage|p2a: Bibarel|0 fnt|[from] item: Life Orb
+|faint|p2a: Bibarel
+|
+|upkeep
+|
+|t:|1713930516
+|switch|p1a: Meloetta|Meloetta, L82|98\/298
+|switch|p2a: Klefki|Klefki, L85, M|236\/236
+|turn|26
+|
+|t:|1713930518
+|move|p2a: Klefki|Thunder Wave|p1a: Meloetta|[miss]
+|-miss|p2a: Klefki|p1a: Meloetta
+|move|p1a: Meloetta|Relic Song|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|176\/236
+|-formechange|p1a: Meloetta|Meloetta-Pirouette|[msg]
+|-damage|p1a: Meloetta|69\/298|[from] item: Life Orb
+|
+|-heal|p2a: Klefki|190\/236|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1713930521
+|move|p1a: Meloetta|Close Combat|p2a: Klefki
+|-damage|p2a: Klefki|15\/236
+|-unboost|p1a: Meloetta|def|1
+|-unboost|p1a: Meloetta|spd|1
+|-damage|p1a: Meloetta|40\/298|[from] item: Life Orb
+|move|p2a: Klefki|Dazzling Gleam|p1a: Meloetta
+|-supereffective|p1a: Meloetta
+|-crit|p1a: Meloetta
+|-damage|p1a: Meloetta|0 fnt
+|faint|p1a: Meloetta
+|
+|win|tyrepl
+|n|☆MrDrainPunch ⌐◼_◼|mrdrainpunch
+|n|☆tyrepl|tyrepl
+|n|*Lady Monita |ladymonita
+|n| BB-8-NU|bb8nu
+|n| Sinnohchampionwq|sinnohchampionwq
+|n| TheDudeBlake|thedudeblake
+|l|*Lady Monita 
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆MrDrainPunch ⌐◼_◼ and ☆tyrepl joined</small></div><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up.</div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Tournament battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between MrDrainPunch ⌐◼_◼ and tyrepl!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Illumise</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat"><small>*Lady Monita  and  BB-8-NU joined</small></div><div class="chat message-error">tyrepl also wants the timer to be on.</div><div class="chat message-error">MrDrainPunch ⌐◼_◼ also wants the timer to be on.</div><div class="chat"><small> Sinnohchampionwq joined</small></div><div class="chat chatmessage-mrdrainpunch"><strong style="color:#2c9bac"><small>☆</small><span class="username" data-name="MrDrainPunch ⌐◼_◼">MrDrainPunch ⌐◼_◼</span>:</strong> <em>Glhf</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Klefki is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Illumise is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="chat chatmessage-sinnohchampionwq"><strong style="color:#c66215"><small> </small><span class="username" data-name="Sinnohchampionwq">Sinnohchampionwq</span>:</strong> <em>glhf</em></div><div class="chat"><small> TheDudeBlake joined</small></div><div class="chat chatmessage-sinnohchampionwq"><strong style="color:#c66215"><small> </small><span class="username" data-name="Sinnohchampionwq">Sinnohchampionwq</span>:</strong> <em>both of u*</em></div><div class="chat"><small> justlelegirl joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise used <strong>Encore</strong>!<br></div><div class="battle-history"><small>The opposing Klefki must do an encore!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Illumise is already paralyzed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="chat chatmessage-thedudeblake"><strong style="color:#2c873c"><small> </small><span class="username" data-name="TheDudeBlake">TheDudeBlake</span>:</strong> <em>ur doing 2 battles at once, what skill</em></div><div class="chat chatmessage-mrdrainpunch"><strong style="color:#2c9bac"><small>☆</small><span class="username" data-name="MrDrainPunch ⌐◼_◼">MrDrainPunch ⌐◼_◼</span>:</strong> <em>Ty</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise, come back!<br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl withdrew Klefki!<br></div><div class="battle-history">tyrepl sent out <strong>Zekrom</strong>!<br></div><div class="battle-history">[The opposing Zekrom's Teravolt]<br><small>The opposing Zekrom is radiating a bursting aura!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Crunch</strong>!<br></div><div class="battle-history"><small>(The opposing Zekrom lost <abbr title="−78/270">28.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zekrom used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−183/321">57.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Skuntank restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat message-error">tyrepl has 120 seconds left.</div><div class="chat message-error">tyrepl has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank, come back!<br></div><div class="battle-history">Go! <strong>Froslass</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zekrom used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(Froslass lost <abbr title="−165/261">63.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Froslass restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="chat message-error">tyrepl has 90 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Froslass used <strong>Ice Beam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Zekrom lost <abbr title="−128/270">47.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zekrom used <strong>Bolt Strike</strong>!<br></div><div class="battle-history"><small>(Froslass lost <abbr title="−112/261">42.9%</abbr> of its health!)</small><br></div><div class="battle-history">[Froslass's Cursed Body]<br><small>The opposing Zekrom's Bolt Strike was disabled!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Froslass fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat message-error">tyrepl has 60 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Relic Song</strong>!<br></div><div class="battle-history"><small>(The opposing Zekrom lost <abbr title="−64/270">23.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Zekrom fainted!<br></div><div class="battle-history">Meloetta transformed!<br></div><div class="battle-history"><small>Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Hitmontop</strong>!<br></div><div class="battle-history">[The opposing Hitmontop's Intimidate]<br></div><div class="battle-history"><small>Meloetta's Attack fell!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="chat message-error">tyrepl has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta, come back!<br></div><div class="battle-history">Go! <strong>Necrozma</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−67/290">23.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Hitmontop's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Hitmontop's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Necrozma restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat message-error">MrDrainPunch ⌐◼_◼ has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Necrozma was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Hitmontop lost <abbr title="−234/234">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Hitmontop fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Necrozma restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Necrozma was hurt by poison!</small><br></div><div class="chat message-error">tyrepl has 30 seconds left.</div><div class="chat message-error">tyrepl has 20 seconds left.</div><div class="chat message-error">tyrepl has 15 seconds left.</div><div class="chat message-error">tyrepl has 10 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Leafeon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="chat message-error">tyrepl has 20 seconds left this turn.</div><div class="chat message-error">tyrepl has 15 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−109/290">37.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Necrozma's Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost <abbr title="−170/258">65.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Leafeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Necrozma was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Leafeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="chat message-error">tyrepl has 25 seconds left this turn.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>The opposing Leafeon had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Photon Geyser</strong>!<br></div><div class="battle-history"><small>(The opposing Leafeon lost <abbr title="−157/258">60.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Leafeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Necrozma was hurt by poison!</small><br></div><div class="battle-history"><small>The opposing Leafeon was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="chat chatmessage-mrdrainpunch"><strong style="color:#2c9bac"><small>☆</small><span class="username" data-name="MrDrainPunch ⌐◼_◼">MrDrainPunch ⌐◼_◼</span>:</strong> <em>Sry</em></div><div class="chat message-error">tyrepl has 30 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Heal Bell</strong>!<br></div><div class="battle-history"><small>A bell chimed!</small><br></div><div class="battle-history"><small>The opposing Leafeon's burn was healed!</small><br></div><div class="battle-history"><small>The opposing Klefki was cured of paralysis!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma used <strong>Moonlight</strong>!<br></div><div class="battle-history"><small>Necrozma had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Leafeon restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Necrozma was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>(Necrozma lost <abbr title="−115/290">39.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Necrozma fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Leafeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Skuntank</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−51/321">15.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Skuntank's Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost <abbr title="−92/258">35.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Starmie</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Starmie lost <abbr title="−150/238">63.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>Skuntank avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="chat"><small> ChaseInsurance joined;  TheDudeBlake left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie used <strong>Recover</strong>!<br></div><div class="battle-history"><small>The opposing Starmie had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="chat chatmessage-mrdrainpunch"><strong style="color:#2c9bac"><small>☆</small><span class="username" data-name="MrDrainPunch ⌐◼_◼">MrDrainPunch ⌐◼_◼</span>:</strong> <em>Sry</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank used <strong>Sucker Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Starmie lost <abbr title="−158/238">66.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(Skuntank lost <abbr title="−107/321">33.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Skuntank fainted!<br></div><div class="battle-history"><small>The opposing Starmie lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie used <strong>Hydro Pump</strong>!<br></div><div class="battle-history"><small>(Meloetta lost <abbr title="−113/298">37.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Starmie lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Starmie lost <abbr title="−3/238">1.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Meloetta knocked off the opposing Starmie's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Starmie fainted!<br></div><div class="battle-history"><small>Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta, come back!<br></div><div class="battle-history">Go! <strong>Illumise</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Illumise is already paralyzed!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="chat"><small> TheDudeBlake joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl withdrew Klefki!<br></div><div class="battle-history">tyrepl sent out <strong>Bibarel</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>The opposing Bibarel is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="chat message-error">tyrepl has 120 seconds left.</div><div class="chat"><small> ChaseInsurance left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise, come back!<br></div><div class="battle-history">Go! <strong>Poliwrath</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Bibarel's Attack rose drastically!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="chat"><small> justlelegirl left</small></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel used <strong>Return</strong>!<br></div><div class="battle-history"><small>(Poliwrath lost <abbr title="−308/308">100%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Poliwrath fainted!<br></div><div class="battle-history"><small>The opposing Bibarel lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Bibarel lost <abbr title="−208/285">73.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Meloetta's Defense fell!</small><br></div><div class="battle-history"><small>Meloetta's Sp. Def fell!</small><br></div><div class="battle-history"><small>Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta, come back!<br></div><div class="battle-history">Go! <strong>Illumise</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel used <strong>Quick Attack</strong>!<br></div><div class="battle-history"><small>(Illumise lost <abbr title="−185/269">68.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Bibarel lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Illumise restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">Illumise is paralyzed! It can't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel used <strong>Quick Attack</strong>!<br></div><div class="battle-history"><small>(Illumise lost <abbr title="−100/269">37.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Illumise fainted!<br></div><div class="battle-history"><small>The opposing Bibarel lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Bibarel fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">tyrepl sent out <strong>Klefki</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Thunder Wave</strong>!<br></div><div class="battle-history"><small>Meloetta avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Relic Song</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Klefki lost <abbr title="−60/236">25.4%</abbr> of its health!)</small><br></div><div class="battle-history">Meloetta transformed!<br></div><div class="battle-history"><small>Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Klefki restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>(The opposing Klefki lost <abbr title="−175/236">74.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Meloetta's Defense fell!</small><br></div><div class="battle-history"><small>Meloetta's Sp. Def fell!</small><br></div><div class="battle-history"><small>Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Klefki used <strong>Dazzling Gleam</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Meloetta lost <abbr title="−40/298">13.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Meloetta fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>tyrepl</strong> won the battle!<br></div><div class="chat"><small>*Lady Monita  left</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

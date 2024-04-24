@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: La.Hellhound vs. lessFeather</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110212252" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/lahellhound" class="subtle" target="_blank">La.Hellhound</a> vs. <a href="http://pokemonshowdown.com/users/lessfeather" class="subtle" target="_blank">lessFeather</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|‽La.Hellhound
+|j|☆lessFeather
+|t:|1713922495
+|gametype|singles
+|player|p1|La.Hellhound|bruno|1659
+|player|p2|lessFeather|lillie|1685
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713922495
+|start
+|switch|p1a: Salazzle|Salazzle, L84, F|251\/251
+|switch|p2a: Kommo-o|Kommo-o, L75, M|236\/236
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by La.Hellhound)
+|
+|t:|1713922507
+|move|p1a: Salazzle|Toxic|p2a: Kommo-o
+|-status|p2a: Kommo-o|tox
+|move|p2a: Kommo-o|Dragon Dance|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|spe|1
+|
+|-damage|p2a: Kommo-o|222\/236 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1713922517
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|-zpower|p2a: Kommo-o
+|move|p2a: Kommo-o|Clangorous Soulblaze|p1a: Salazzle|[zeffect]
+|-zbroken|p1a: Salazzle
+|-damage|p1a: Salazzle|198\/251
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|
+|-heal|p1a: Salazzle|213\/251|[from] item: Black Sludge
+|-damage|p2a: Kommo-o|194\/236 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1713922532
+|switch|p1a: Gourgeist|Gourgeist-Small, L89, F|243\/243
+|-item|p2a: Kommo-o|Kommonium Z|[from] ability: Frisk|[of] p1a: Gourgeist|[identify]
+|move|p2a: Kommo-o|Dragon Dance|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|spe|1
+|
+|-damage|p2a: Kommo-o|152\/236 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1713922544
+|move|p2a: Kommo-o|Iron Head|p1a: Gourgeist
+|-damage|p1a: Gourgeist|151\/243
+|cant|p1a: Gourgeist|flinch
+|
+|-heal|p1a: Gourgeist|166\/243|[from] item: Leftovers
+|-damage|p2a: Kommo-o|96\/236 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1713922551
+|move|p2a: Kommo-o|Clanging Scales|p1a: Gourgeist
+|-damage|p1a: Gourgeist|3\/243
+|-unboost|p2a: Kommo-o|def|1
+|move|p1a: Gourgeist|Synthesis|p1a: Gourgeist
+|-heal|p1a: Gourgeist|124\/243
+|
+|-heal|p1a: Gourgeist|139\/243|[from] item: Leftovers
+|-damage|p2a: Kommo-o|26\/236 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1713922560
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|-heal|p1a: Gourgeist|154\/243|[from] item: Leftovers
+|upkeep
+|
+|t:|1713922564
+|switch|p2a: Ho-Oh|Ho-Oh, L73|275\/275
+|turn|7
+|
+|t:|1713922568
+|switch|p1a: Politoed|Politoed, L86, M|295\/295
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Ho-Oh|Brave Bird|p1a: Politoed
+|-damage|p1a: Politoed|154\/295
+|-damage|p2a: Ho-Oh|228\/275|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ho-Oh|245\/275|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1713922583
+|move|p2a: Ho-Oh|Brave Bird|p1a: Politoed
+|-damage|p1a: Politoed|12\/295
+|-damage|p2a: Ho-Oh|198\/275|[from] Recoil
+|move|p1a: Politoed|Toxic|p2a: Ho-Oh|[miss]
+|-miss|p1a: Politoed|p2a: Ho-Oh
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ho-Oh|215\/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1713922593
+|switch|p1a: Steelix|Steelix, L82, F|257\/257
+|move|p2a: Ho-Oh|Brave Bird|p1a: Steelix
+|-resisted|p1a: Steelix
+|-damage|p1a: Steelix|226\/257
+|-damage|p2a: Ho-Oh|205\/275|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ho-Oh|222\/275|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1713922603
+|switch|p2a: Feraligatr|Feraligatr, L80, M|267\/267
+|detailschange|p1a: Steelix|Steelix-Mega, L82, F
+|-mega|p1a: Steelix|Steelix|Steelixite
+|move|p1a: Steelix|Stealth Rock|p2a: Feraligatr
+|-sidestart|p2: lessFeather|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1713922619
+|switch|p1a: Gourgeist|Gourgeist-Small, L89, F|154\/243
+|-item|p2a: Feraligatr|Life Orb|[from] ability: Frisk|[of] p1a: Gourgeist|[identify]
+|move|p2a: Feraligatr|Dragon Dance|p2a: Feraligatr
+|-boost|p2a: Feraligatr|atk|1
+|-boost|p2a: Feraligatr|spe|1
+|
+|-weather|none
+|-heal|p1a: Gourgeist|169\/243|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1713922631
+|move|p2a: Feraligatr|Ice Punch|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-damage|p1a: Gourgeist|0 fnt
+|faint|p1a: Gourgeist
+|
+|upkeep
+|
+|t:|1713922636
+|switch|p1a: Gurdurr|Gurdurr, L87, M|290\/290
+|turn|13
+|
+|t:|1713922650
+|switch|p2a: Seviper|Seviper, L91, F|281\/281
+|-damage|p2a: Seviper|246\/281|[from] Stealth Rock
+|move|p1a: Gurdurr|Drain Punch|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|195\/281
+|
+|upkeep
+|turn|14
+|
+|t:|1713922663
+|move|p2a: Seviper|Swords Dance|p2a: Seviper
+|-boost|p2a: Seviper|atk|2
+|move|p1a: Gurdurr|Bulk Up|p1a: Gurdurr
+|-boost|p1a: Gurdurr|atk|1
+|-boost|p1a: Gurdurr|def|1
+|
+|upkeep
+|turn|15
+|
+|t:|1713922669
+|move|p2a: Seviper|Swords Dance|p2a: Seviper
+|-boost|p2a: Seviper|atk|2
+|move|p1a: Gurdurr|Knock Off|p2a: Seviper
+|-damage|p2a: Seviper|65\/281
+|-enditem|p2a: Seviper|Life Orb|[from] move: Knock Off|[of] p1a: Gurdurr
+|
+|upkeep
+|turn|16
+|
+|t:|1713922676
+|move|p2a: Seviper|Poison Jab|p1a: Gurdurr
+|-damage|p1a: Gurdurr|145\/290
+|move|p1a: Gurdurr|Drain Punch|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|-heal|p1a: Gurdurr|178\/290|[from] drain|[of] p2a: Seviper
+|faint|p2a: Seviper
+|
+|upkeep
+|
+|t:|1713922690
+|switch|p2a: Huntail|Huntail, L84, F|230\/230
+|-damage|p2a: Huntail|202\/230|[from] Stealth Rock
+|turn|17
+|
+|t:|1713922698
+|move|p2a: Huntail|Shell Smash|p2a: Huntail
+|-unboost|p2a: Huntail|def|1
+|-unboost|p2a: Huntail|spd|1
+|-boost|p2a: Huntail|atk|2
+|-boost|p2a: Huntail|spa|2
+|-boost|p2a: Huntail|spe|2
+|-enditem|p2a: Huntail|White Herb
+|-clearnegativeboost|p2a: Huntail|[silent]
+|move|p1a: Gurdurr|Drain Punch|p2a: Huntail
+|-damage|p2a: Huntail|85\/230
+|-heal|p1a: Gurdurr|237\/290|[from] drain|[of] p2a: Huntail
+|
+|upkeep
+|turn|18
+|
+|t:|1713922715
+|move|p1a: Gurdurr|Mach Punch|p2a: Huntail
+|-crit|p2a: Huntail
+|-damage|p2a: Huntail|0 fnt
+|faint|p2a: Huntail
+|
+|upkeep
+|
+|t:|1713922719
+|switch|p2a: Ho-Oh|Ho-Oh, L73|275\/275
+|-damage|p2a: Ho-Oh|138\/275|[from] Stealth Rock
+|turn|19
+|-message|lessFeather forfeited.
+|
+|win|La.Hellhound
+|raw|La.Hellhound's rating: 1637 &rarr; <strong>1660<\/strong><br \/>(+23 for winning)
+|raw|lessFeather's rating: 1685 &rarr; <strong>1662<\/strong><br \/>(-23 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>‽La.Hellhound and ☆lessFeather joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between La.Hellhound and lessFeather!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Salazzle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather sent out <strong>Kommo-o</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by La.Hellhound)</div><div class="spacer battle-history"><br></div><div class="battle-history">Salazzle used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Kommo-o was badly poisoned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kommo-o used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Kommo-o's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kommo-o was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Salazzle used <strong>Protect</strong>!<br></div><div class="battle-history"><small>Salazzle protected itself!</small><br></div><div class="battle-history"><small>The opposing Kommo-o surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kommo-o unleashes its full-force Z-Move!</small><br>The opposing Kommo-o used <strong>Clangorous Soulblaze</strong>!<br></div><div class="battle-history"><small>Salazzle couldn't fully protect itself and got hurt!</small><br></div><div class="battle-history"><small>(Salazzle lost <abbr title="−53/251">21.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Defense rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Sp. Atk rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Sp. Def rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Salazzle restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>The opposing Kommo-o was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Salazzle, come back!<br></div><div class="battle-history">Go! Gourgeist (<strong>Gourgeist-Small</strong>)!<br></div><div class="battle-history">[Gourgeist's Frisk]<br><small>Gourgeist frisked the opposing Kommo-o and found its Kommonium Z!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kommo-o used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Kommo-o's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Kommo-o was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kommo-o used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−92/243">37.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Kommo-o was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kommo-o used <strong>Clanging Scales</strong>!<br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−163/243">67.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Kommo-o's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Synthesis</strong>!<br></div><div class="battle-history"><small>Gourgeist had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Kommo-o was hurt by poison!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist used <strong>Shadow Sneak</strong>!<br></div><div class="battle-history"><small>(The opposing Kommo-o lost <abbr title="−26/236">11.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Kommo-o fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather sent out <strong>Ho-Oh</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist, come back!<br></div><div class="battle-history">Go! <strong>Politoed</strong>!<br></div><div class="battle-history">[Politoed's Drizzle]<br><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ho-Oh used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Politoed lost <abbr title="−141/295">47.8%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ho-Oh used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>(Politoed lost <abbr title="−142/295">48.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Politoed used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Ho-Oh avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Politoed, come back!<br></div><div class="battle-history">Go! <strong>Steelix</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Ho-Oh used <strong>Brave Bird</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Steelix lost <abbr title="−31/257">12.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh was damaged by the recoil!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Ho-Oh restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather withdrew Ho-Oh!<br></div><div class="battle-history">lessFeather sent out <strong>Feraligatr</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Steelix's Steelixite is reacting to the Key Stone!</small><br>Steelix has Mega Evolved into Mega Steelix!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Steelix used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Steelix, come back!<br></div><div class="battle-history">Go! Gourgeist (<strong>Gourgeist-Small</strong>)!<br></div><div class="battle-history">[Gourgeist's Frisk]<br><small>Gourgeist frisked the opposing Feraligatr and found its Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>The opposing Feraligatr's Attack rose!</small><br></div><div class="battle-history"><small>The opposing Feraligatr's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="battle-history"><small>Gourgeist restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Feraligatr used <strong>Ice Punch</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Gourgeist lost <abbr title="−169/243">69.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gourgeist fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Gurdurr</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather withdrew Feraligatr!<br></div><div class="battle-history">lessFeather sent out <strong>Seviper</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Seviper!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Seviper lost <abbr title="−51/281">18.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Seviper's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Bulk Up</strong>!<br></div><div class="battle-history"><small>Gurdurr's Attack rose!</small><br></div><div class="battle-history"><small>Gurdurr's Defense rose!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Seviper's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(The opposing Seviper lost <abbr title="−130/281">46.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Gurdurr knocked off the opposing Seviper's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper used <strong>Poison Jab</strong>!<br></div><div class="battle-history"><small>(Gurdurr lost <abbr title="−145/290">50%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Seviper lost <abbr title="−65/281">23.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Seviper had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Seviper fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather sent out <strong>Huntail</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Huntail!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>The opposing Huntail's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Huntail's Sp. Def fell!</small><br></div><div class="battle-history"><small>The opposing Huntail's Attack rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail's Speed rose sharply!</small><br></div><div class="battle-history"><small>The opposing Huntail returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Drain Punch</strong>!<br></div><div class="battle-history"><small>(The opposing Huntail lost <abbr title="−117/230">50.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Huntail had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Gurdurr used <strong>Mach Punch</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Huntail lost <abbr title="−85/230">37.0%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Huntail fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">lessFeather sent out <strong>Ho-Oh</strong>!<br></div><div class="battle-history"><small>Pointed stones dug into the opposing Ho-Oh!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>lessFeather forfeited.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>La.Hellhound</strong> won the battle!<br></div><div class="chat">La.Hellhound's rating: 1637 → <strong>1660</strong><br>(+23 for winning)</div><div class="chat">lessFeather's rating: 1685 → <strong>1662</strong><br>(-23 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

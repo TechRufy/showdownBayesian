@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: zanderzhang vs. Kar9</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110288566" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/zanderzhang" class="subtle" target="_blank">zanderzhang</a> vs. <a href="http://pokemonshowdown.com/users/kar9" class="subtle" target="_blank">Kar9</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆zanderzhang
+|j|☆Kar9
+|t:|1713932391
+|gametype|singles
+|player|p1|zanderzhang|2|
+|player|p2|Kar9|linebacker|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713932391
+|start
+|switch|p1a: Whiscash|Whiscash, L89, F|341\/341
+|switch|p2a: Grumpig|Grumpig, L92, F|297\/297
+|turn|1
+|
+|t:|1713932402
+|switch|p2a: Comfey|Comfey, L88, M|233\/233
+|move|p1a: Whiscash|Earthquake|p2a: Comfey
+|-damage|p2a: Comfey|120\/233
+|-damage|p1a: Whiscash|307\/341|[from] item: Life Orb
+|
+|-heal|p2a: Comfey|134\/233|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1713932423
+|move|p2a: Comfey|Defog|p1a: Whiscash
+|-unboost|p1a: Whiscash|evasion|1
+|move|p1a: Whiscash|Stone Edge|p2a: Comfey
+|-damage|p2a: Comfey|51\/233
+|-damage|p1a: Whiscash|273\/341|[from] item: Life Orb
+|
+|-heal|p2a: Comfey|65\/233|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1713932433
+|move|p2a: Comfey|Draining Kiss|p1a: Whiscash
+|-damage|p1a: Whiscash|218\/341
+|-heal|p2a: Comfey|106\/233|[from] drain|[of] p1a: Whiscash
+|move|p1a: Whiscash|Dragon Dance|p1a: Whiscash
+|-boost|p1a: Whiscash|atk|1
+|-boost|p1a: Whiscash|spe|1
+|
+|-heal|p2a: Comfey|120\/233|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1713932445
+|move|p1a: Whiscash|Dragon Dance|p1a: Whiscash
+|-boost|p1a: Whiscash|atk|1
+|-boost|p1a: Whiscash|spe|1
+|move|p2a: Comfey|Defog|p1a: Whiscash
+|-unboost|p1a: Whiscash|evasion|1
+|
+|-heal|p2a: Comfey|134\/233|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1713932457
+|switch|p2a: Shuckle|Shuckle, L86, F|175\/175
+|move|p1a: Whiscash|Waterfall|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|1\/175
+|-damage|p1a: Whiscash|184\/341|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1713932467
+|move|p1a: Whiscash|Waterfall|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|-damage|p1a: Whiscash|150\/341|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713932483
+|switch|p2a: Comfey|Comfey, L88, M|134\/233
+|turn|7
+|
+|t:|1713932491
+|move|p2a: Comfey|Draining Kiss|p1a: Whiscash
+|-damage|p1a: Whiscash|95\/341
+|-heal|p2a: Comfey|175\/233|[from] drain|[of] p1a: Whiscash
+|move|p1a: Whiscash|Waterfall|p2a: Comfey
+|-damage|p2a: Comfey|0 fnt
+|faint|p2a: Comfey
+|-damage|p1a: Whiscash|61\/341|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713932503
+|switch|p2a: Grumpig|Grumpig, L92, F|297\/297
+|turn|8
+|
+|t:|1713932514
+|move|p1a: Whiscash|Waterfall|p2a: Grumpig
+|-damage|p2a: Grumpig|40\/297
+|-damage|p1a: Whiscash|27\/341|[from] item: Life Orb
+|move|p2a: Grumpig|Psychic|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|
+|-heal|p2a: Grumpig|58\/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1713932517
+|switch|p1a: Hydreigon|Hydreigon, L82, F|285\/285
+|turn|9
+|
+|t:|1713932531
+|move|p1a: Hydreigon|Dark Pulse|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|
+|upkeep
+|
+|t:|1713932537
+|switch|p2a: Togedemaru|Togedemaru, L86, M|252\/252
+|turn|10
+|
+|t:|1713932542
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Hydreigon|Draco Meteor|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|upkeep
+|turn|11
+|
+|t:|1713932555
+|move|p2a: Togedemaru|Nuzzle|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|273\/285
+|-status|p1a: Hydreigon|par
+|move|p1a: Hydreigon|Superpower|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-damage|p2a: Togedemaru|26\/252
+|-unboost|p1a: Hydreigon|atk|1
+|-unboost|p1a: Hydreigon|def|1
+|
+|-heal|p2a: Togedemaru|41\/252|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1713932567
+|switch|p1a: Zapdos|Zapdos, L79|272\/272
+|move|p2a: Togedemaru|Spiky Shield||[still]
+|-fail|p2a: Togedemaru
+|
+|-heal|p2a: Togedemaru|56\/252|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1713932575
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Zapdos|Discharge|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|71\/252|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1713932593
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Zapdos|Discharge|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|86\/252|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1713932618
+|switch|p1a: Electrode|Electrode, L88|249\/249
+|move|p2a: Togedemaru|Nuzzle|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|237\/249
+|
+|-heal|p1a: Electrode|249\/249|[from] item: Leftovers
+|-heal|p2a: Togedemaru|101\/252|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1713932634
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Electrode|Toxic|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|116\/252|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1713932648
+|move|p1a: Electrode|Toxic|p2a: Togedemaru
+|-immune|p2a: Togedemaru
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|
+|-heal|p2a: Togedemaru|131\/252|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1713932657
+|switch|p1a: Hydreigon|Hydreigon, L82, F|273\/285 par
+|move|p2a: Togedemaru|Spiky Shield||[still]
+|-fail|p2a: Togedemaru
+|
+|-heal|p2a: Togedemaru|252\/252|[from] move: Wish|[wisher] Togedemaru
+|upkeep
+|turn|19
+|
+|t:|1713932667
+|switch|p1a: Exploud|Exploud, L86, M|319\/319
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|
+|upkeep
+|turn|20
+|
+|t:|1713932673
+|switch|p1a: Nidoqueen|Nidoqueen, L83, F|285\/285
+|move|p2a: Togedemaru|Nuzzle|p1a: Nidoqueen
+|-immune|p1a: Nidoqueen
+|
+|upkeep
+|turn|21
+|
+|t:|1713932684
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|upkeep
+|turn|22
+|
+|t:|1713932692
+|move|p2a: Togedemaru|Iron Head|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|189\/285
+|cant|p1a: Nidoqueen|flinch
+|
+|upkeep
+|turn|23
+|
+|t:|1713932699
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Togedemaru
+|-immune|p2a: Togedemaru
+|
+|upkeep
+|turn|24
+|
+|t:|1713932706
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Nidoqueen|Earth Power|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|upkeep
+|turn|25
+|
+|t:|1713932719
+|move|p2a: Togedemaru|Iron Head|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|90\/285
+|move|p1a: Nidoqueen|Earth Power|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-ability|p2a: Togedemaru|Sturdy
+|-damage|p2a: Togedemaru|1\/252
+|
+|-heal|p2a: Togedemaru|16\/252|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1713932736
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Nidoqueen|Earth Power|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|31\/252|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1713932749
+|move|p2a: Togedemaru|Iron Head|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|5\/285
+|cant|p1a: Nidoqueen|flinch
+|
+|-heal|p2a: Togedemaru|46\/252|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1713932760
+|move|p2a: Togedemaru|Iron Head|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|0 fnt
+|faint|p1a: Nidoqueen
+|
+|-heal|p2a: Togedemaru|61\/252|[from] item: Leftovers
+|upkeep
+|
+|t:|1713932766
+|switch|p1a: Zapdos|Zapdos, L79|272\/272
+|turn|29
+|
+|t:|1713932770
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Zapdos|Discharge|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|76\/252|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1713932780
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|move|p1a: Zapdos|Defog|p2a: Togedemaru
+|-unboost|p2a: Togedemaru|evasion|1
+|
+|-heal|p2a: Togedemaru|91\/252|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1713932789
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Zapdos|Heat Wave|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|217\/252|[from] move: Wish|[wisher] Togedemaru
+|-heal|p2a: Togedemaru|232\/252|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1713932799
+|switch|p1a: Hydreigon|Hydreigon, L82, F|273\/285 par
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|
+|-heal|p2a: Togedemaru|247\/252|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1713932809
+|move|p2a: Togedemaru|Iron Head|p1a: Hydreigon
+|-damage|p1a: Hydreigon|182\/285 par
+|move|p1a: Hydreigon|Flash Cannon|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|228\/252
+|
+|-heal|p2a: Togedemaru|252\/252|[from] move: Wish|[wisher] Togedemaru
+|upkeep
+|turn|34
+|
+|t:|1713932819
+|move|p2a: Togedemaru|Iron Head|p1a: Hydreigon
+|-damage|p1a: Hydreigon|83\/285 par
+|cant|p1a: Hydreigon|flinch
+|
+|upkeep
+|turn|35
+|
+|t:|1713932825
+|switch|p1a: Exploud|Exploud, L86, M|319\/319
+|move|p2a: Togedemaru|Iron Head|p1a: Exploud
+|-damage|p1a: Exploud|204\/319
+|
+|upkeep
+|turn|36
+|
+|t:|1713932832
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|move|p1a: Exploud|Boomburst|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|138\/252
+|
+|-heal|p2a: Togedemaru|153\/252|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1713932840
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Exploud|Boomburst|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|252\/252|[from] move: Wish|[wisher] Togedemaru
+|upkeep
+|turn|38
+|
+|t:|1713932852
+|switch|p1a: Electrode|Electrode, L88|249\/249
+|move|p2a: Togedemaru|Nuzzle|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|237\/249
+|
+|-heal|p1a: Electrode|249\/249|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1713932862
+|move|p1a: Electrode|Thunderbolt|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|198\/252
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|
+|-heal|p2a: Togedemaru|213\/252|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1713932871
+|move|p1a: Electrode|Hidden Power|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|189\/252
+|move|p2a: Togedemaru|Iron Head|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|195\/249
+|
+|-heal|p2a: Togedemaru|252\/252|[from] move: Wish|[wisher] Togedemaru
+|-heal|p1a: Electrode|210\/249|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1713932887
+|move|p1a: Electrode|Thunderbolt|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|201\/252
+|move|p2a: Togedemaru|Iron Head|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|157\/249
+|
+|-heal|p1a: Electrode|172\/249|[from] item: Leftovers
+|-heal|p2a: Togedemaru|216\/252|[from] item: Leftovers
+|upkeep
+|turn|42
+|l|☆zanderzhang
+|player|p1|
+|j|☆zanderzhang
+|player|p1|zanderzhang|2|
+|
+|t:|1713932905
+|move|p1a: Electrode|Volt Switch|p2a: Togedemaru
+|-resisted|p2a: Togedemaru
+|-damage|p2a: Togedemaru|174\/252
+|
+|t:|1713932911
+|switch|p1a: Zapdos|Zapdos, L79|272\/272|[from] Volt Switch
+|move|p2a: Togedemaru|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|227\/272
+|
+|-heal|p2a: Togedemaru|189\/252|[from] item: Leftovers
+|-heal|p1a: Zapdos|244\/272|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1713932923
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|move|p1a: Zapdos|Heat Wave|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-damage|p2a: Togedemaru|25\/252
+|
+|-heal|p2a: Togedemaru|40\/252|[from] item: Leftovers
+|-heal|p1a: Zapdos|261\/272|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1713932944
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Zapdos|Heat Wave|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-heal|p2a: Togedemaru|166\/252|[from] move: Wish|[wisher] Togedemaru
+|-heal|p2a: Togedemaru|181\/252|[from] item: Leftovers
+|-heal|p1a: Zapdos|272\/272|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1713932955
+|move|p2a: Togedemaru|Wish|p2a: Togedemaru
+|move|p1a: Zapdos|Heat Wave|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-crit|p2a: Togedemaru
+|-damage|p2a: Togedemaru|0 fnt
+|faint|p2a: Togedemaru
+|
+|upkeep
+|
+|t:|1713932966
+|switch|p2a: Heracross|Heracross, L82, F|265\/265
+|turn|46
+|
+|t:|1713932974
+|detailschange|p2a: Heracross|Heracross-Mega, L82, F
+|-mega|p2a: Heracross|Heracross|Heracronite
+|move|p1a: Zapdos|Heat Wave|p2a: Heracross
+|-supereffective|p2a: Heracross
+|-damage|p2a: Heracross|141\/265
+|move|p2a: Heracross|Rock Blast|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|204\/272
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|134\/272
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|74\/272
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|16\/272
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|5
+|
+|-heal|p2a: Heracross|265\/265|[from] move: Wish|[wisher] Togedemaru
+|upkeep
+|
+|t:|1713932982
+|switch|p1a: Hydreigon|Hydreigon, L82, F|83\/285 par
+|turn|47
+|
+|t:|1713933009
+|move|p2a: Heracross|Pin Missile|p1a: Hydreigon|[miss]
+|-miss|p2a: Heracross|p1a: Hydreigon
+|move|p1a: Hydreigon|Draco Meteor|p2a: Heracross
+|-damage|p2a: Heracross|114\/265
+|-unboost|p1a: Hydreigon|spa|2
+|
+|upkeep
+|turn|48
+|
+|t:|1713933018
+|move|p2a: Heracross|Pin Missile|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|-hitcount|p1: Hydreigon|1
+|
+|upkeep
+|
+|t:|1713933025
+|switch|p1a: Electrode|Electrode, L88|172\/249
+|turn|49
+|
+|t:|1713933048
+|move|p1a: Electrode|Hidden Power|p2a: Heracross
+|-damage|p2a: Heracross|78\/265
+|move|p2a: Heracross|Pin Missile|p1a: Electrode
+|-damage|p1a: Electrode|120\/249
+|-damage|p1a: Electrode|74\/249
+|-damage|p1a: Electrode|29\/249
+|-damage|p1a: Electrode|0 fnt
+|faint|p1a: Electrode
+|-hitcount|p1: Electrode|4
+|
+|upkeep
+|
+|t:|1713933063
+|switch|p1a: Exploud|Exploud, L86, M|204\/319
+|turn|50
+|
+|t:|1713933081
+|move|p2a: Heracross|Close Combat|p1a: Exploud
+|-supereffective|p1a: Exploud
+|-damage|p1a: Exploud|0 fnt
+|-unboost|p2a: Heracross|def|1
+|-unboost|p2a: Heracross|spd|1
+|faint|p1a: Exploud
+|
+|win|Kar9
+|l|☆Kar9
+|player|p2|
+|l|☆zanderzhang
+|player|p1|
+|j|☆Kar9
+|player|p2|Kar9|linebacker|
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆zanderzhang and ☆Kar9 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between zanderzhang and Kar9!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Whiscash</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 sent out <strong>Grumpig</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 withdrew Grumpig!<br></div><div class="battle-history">Kar9 sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Earthquake</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−113/233">48.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Whiscash's evasiveness fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Stone Edge</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−83/233">35.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Draining Kiss</strong>!<br></div><div class="battle-history"><small>(Whiscash lost <abbr title="−55/341">16.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>Whiscash's Attack rose!</small><br></div><div class="battle-history"><small>Whiscash's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Dragon Dance</strong>!<br></div><div class="battle-history"><small>Whiscash's Attack rose!</small><br></div><div class="battle-history"><small>Whiscash's Speed rose!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Defog</strong>!<br></div><div class="battle-history"><small>Whiscash's evasiveness fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Comfey restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 withdrew Comfey!<br></div><div class="battle-history">Kar9 sent out <strong>Shuckle</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−174/175">99.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Shuckle lost <abbr title="−1/175">0.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Shuckle fainted!<br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 sent out <strong>Comfey</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey used <strong>Draining Kiss</strong>!<br></div><div class="battle-history"><small>(Whiscash lost <abbr title="−55/341">16.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash had its energy drained!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(The opposing Comfey lost <abbr title="−175/233">75.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Comfey fainted!<br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 sent out <strong>Grumpig</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash used <strong>Waterfall</strong>!<br></div><div class="battle-history"><small>(The opposing Grumpig lost <abbr title="−257/297">86.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Whiscash lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Grumpig used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(Whiscash lost <abbr title="−27/341">7.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Whiscash fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Grumpig restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon used <strong>Dark Pulse</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Grumpig lost <abbr title="−58/297">19.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Grumpig fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 sent out <strong>Togedemaru</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Nuzzle</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Hydreigon lost <abbr title="−12/285">4.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hydreigon is paralyzed! It may be unable to move!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon used <strong>Superpower</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−226/252">89.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hydreigon's Attack fell!</small><br></div><div class="battle-history"><small>Hydreigon's Defense fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon, come back!<br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos, come back!<br></div><div class="battle-history">Go! <strong>Electrode</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Nuzzle</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−12/249">4.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Electrode restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Togedemaru...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode, come back!<br></div><div class="battle-history">Go! <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>But it failed!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon, come back!<br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exploud, come back!<br></div><div class="battle-history">Go! <strong>Nidoqueen</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Nuzzle</strong>!<br></div><div class="battle-history"><small>It doesn't affect Nidoqueen...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Nidoqueen lost <abbr title="−96/285">33.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen used <strong>Sludge Wave</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Togedemaru...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Nidoqueen lost <abbr title="−99/285">34.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history">[The opposing Togedemaru's Sturdy]<br><small>The opposing Togedemaru endured the hit!</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−251/252">99.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen used <strong>Earth Power</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Nidoqueen lost <abbr title="−85/285">29.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Nidoqueen lost <abbr title="−5/285">1.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Nidoqueen fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 29</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Discharge</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 30</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Defog</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru's evasiveness fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 31</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 32</h2><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos, come back!<br></div><div class="battle-history">Go! <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 33</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Hydreigon lost <abbr title="−91/285">31.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon used <strong>Flash Cannon</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−19/252">7.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 34</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Hydreigon lost <abbr title="−99/285">34.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon flinched and couldn't move!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 35</h2><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon, come back!<br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>(Exploud lost <abbr title="−115/319">36.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 36</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−114/252">45.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 37</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud used <strong>Boomburst</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 38</h2><div class="spacer battle-history"><br></div><div class="battle-history">Exploud, come back!<br></div><div class="battle-history">Go! <strong>Electrode</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Nuzzle</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−12/249">4.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Electrode restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 39</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−54/252">21.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 40</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−24/252">9.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−54/249">21.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="battle-history"><small>Electrode restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 41</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Thunderbolt</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−51/252">20.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−53/249">21.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Electrode restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 42</h2><div class="chat"><small>☆zanderzhang left</small></div><div class="chat"><small>☆zanderzhang joined</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Volt Switch</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−42/252">16.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electrode went back to zanderzhang!<br></div><div class="battle-history">Go! <strong>Zapdos</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Iron Head</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−45/272">16.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 43</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−164/252">65.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 44</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Spiky Shield</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>The opposing Togedemaru protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="battle-history"><small>The opposing Togedemaru restored a little HP using its Leftovers!</small><br></div><div class="battle-history"><small>Zapdos restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 45</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru used <strong>Wish</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Togedemaru lost <abbr title="−181/252">71.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Togedemaru fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Kar9 sent out <strong>Heracross</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 46</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Heracross's Heracronite is reacting to the Key Stone!</small><br>The opposing Heracross has Mega Evolved into Mega Heracross!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos used <strong>Heat Wave</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−124/265">46.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Rock Blast</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−68/272">25%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−70/272">25.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−60/272">22.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−58/272">21.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Zapdos lost <abbr title="−16/272">5.9%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Zapdos fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Togedemaru's wish came true!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Hydreigon</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 47</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Pin Missile</strong>!<br></div><div class="battle-history"><small>Hydreigon avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon used <strong>Draco Meteor</strong>!<br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−151/265">57.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Hydreigon's Sp. Atk fell harshly!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 48</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Pin Missile</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Hydreigon lost <abbr title="−83/285">29.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hydreigon fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 1 time!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Electrode</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 49</h2><div class="spacer battle-history"><br></div><div class="battle-history">Electrode used <strong>Hidden Power</strong>!<br></div><div class="battle-history"><small>(The opposing Heracross lost <abbr title="−36/265">13.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Pin Missile</strong>!<br></div><div class="battle-history"><small>(Electrode lost <abbr title="−52/249">20.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−46/249">18.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−45/249">18.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>(Electrode lost <abbr title="−29/249">11.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Electrode fainted!<br></div><div class="battle-history"><small>The Pokémon was hit 4 times!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Exploud</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 50</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heracross used <strong>Close Combat</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Exploud lost <abbr title="−204/319">63.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Heracross's Defense fell!</small><br></div><div class="battle-history"><small>The opposing Heracross's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Exploud fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Kar9</strong> won the battle!<br></div><div class="chat"><small>☆Kar9 left</small></div><div class="chat"><small>☆zanderzhang left</small></div><div class="chat"><small>☆Kar9 joined</small></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>

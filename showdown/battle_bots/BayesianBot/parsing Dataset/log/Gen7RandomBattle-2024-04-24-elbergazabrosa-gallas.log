@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 7] Random Battle replay: ElberGazaBrosa vs. gallas</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen7randombattle-2110280085" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 7] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/elbergazabrosa" class="subtle" target="_blank">ElberGazaBrosa</a> vs. <a href="http://pokemonshowdown.com/users/gallas" class="subtle" target="_blank">gallas</a></h1>
+<script type="text/plain" class="battle-log-data">|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https:\/\/www.smogon.com\/forums\/threads\/3740067\/">thread on Smogon.<\/a><\/div>
+|j|☆ElberGazaBrosa
+|j|☆gallas
+|t:|1713931122
+|gametype|singles
+|player|p1|ElberGazaBrosa|169|1250
+|player|p2|gallas|170|1226
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1713931122
+|start
+|switch|p1a: Tauros|Tauros, L84, M|263\/263
+|switch|p2a: Heliolisk|Heliolisk, L85, M|244\/244
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElberGazaBrosa)
+|
+|t:|1713931139
+|switch|p2a: Weezing|Weezing, L87, M|255\/255
+|move|p1a: Tauros|Earthquake|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|
+|upkeep
+|turn|2
+|
+|t:|1713931148
+|move|p1a: Tauros|Zen Headbutt|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|102\/255
+|move|p2a: Weezing|Will-O-Wisp|p1a: Tauros
+|-status|p1a: Tauros|brn
+|
+|-heal|p2a: Weezing|117\/255|[from] item: Black Sludge
+|-damage|p1a: Tauros|247\/263 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1713931161
+|move|p1a: Tauros|Zen Headbutt|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|44\/255
+|move|p2a: Weezing|Pain Split|p1a: Tauros
+|-sethp|p1a: Tauros|145\/263 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|145\/255|[from] move: Pain Split
+|
+|-heal|p2a: Weezing|160\/255|[from] item: Black Sludge
+|-damage|p1a: Tauros|129\/263 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1713931188
+|switch|p1a: Mew|Mew, L81|295\/295
+|move|p2a: Weezing|Pain Split|p1a: Mew
+|-sethp|p1a: Mew|227\/295|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|227\/255|[from] move: Pain Split
+|
+|-heal|p2a: Weezing|242\/255|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1713931204
+|switch|p2a: Xerneas|Xerneas, L66|276\/276
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|
+|upkeep
+|turn|6
+|
+|t:|1713931214
+|-zpower|p1a: Mew
+|move|p1a: Mew|Genesis Supernova|p2a: Xerneas|[zeffect]
+|-damage|p2a: Xerneas|0 fnt
+|-fieldstart|move: Psychic Terrain
+|faint|p2a: Xerneas
+|
+|upkeep
+|
+|t:|1713931231
+|switch|p2a: Meloetta|Meloetta, L82|298\/298
+|turn|7
+|
+|t:|1713931239
+|move|p1a: Mew|Aura Sphere|p2a: Meloetta
+|-damage|p2a: Meloetta|214\/298
+|move|p2a: Meloetta|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|131\/295
+|-damage|p2a: Meloetta|185\/298|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1713931248
+|move|p1a: Mew|Psychic|p2a: Meloetta
+|-resisted|p2a: Meloetta
+|-damage|p2a: Meloetta|74\/298
+|-unboost|p2a: Meloetta|spd|1
+|move|p2a: Meloetta|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|37\/295
+|-damage|p2a: Meloetta|45\/298|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1713931260
+|move|p1a: Mew|Psychic|p2a: Meloetta
+|-resisted|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|faint|p2a: Meloetta
+|
+|upkeep
+|
+|t:|1713931266
+|switch|p2a: Banette|Banette, L87, M|253\/253
+|turn|10
+|
+|t:|1713931274
+|detailschange|p2a: Banette|Banette-Mega, L87, M
+|-mega|p2a: Banette|Banette|Banettite
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Banette|Shadow Claw|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|c|☆ElberGazaBrosa|Ahh pense que venia un destiny bond :v
+|inactive|ElberGazaBrosa has 120 seconds left.
+|
+|t:|1713931312
+|switch|p1a: Unfezant|Unfezant, L88, F|283\/283
+|turn|11
+|
+|t:|1713931320
+|move|p1a: Unfezant|Night Slash|p2a: Banette
+|-supereffective|p2a: Banette
+|-crit|p2a: Banette
+|-damage|p2a: Banette|57\/253
+|move|p2a: Banette|Knock Off|p1a: Unfezant
+|-damage|p1a: Unfezant|161\/283
+|-enditem|p1a: Unfezant|Scope Lens|[from] move: Knock Off|[of] p2a: Banette
+|
+|upkeep
+|turn|12
+|
+|t:|1713931337
+|switch|p2a: Weezing|Weezing, L87, M|242\/255
+|move|p1a: Unfezant|Roost|p1a: Unfezant
+|-heal|p1a: Unfezant|283\/283
+|-singleturn|p1a: Unfezant|move: Roost
+|
+|-heal|p2a: Weezing|255\/255|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1713931351
+|switch|p1a: Tauros|Tauros, L84, M|129\/263 brn
+|move|p2a: Weezing|Sludge Bomb|p1a: Tauros
+|-damage|p1a: Tauros|23\/263 brn
+|
+|-damage|p1a: Tauros|7\/263 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1713931362
+|move|p1a: Tauros|Body Slam|p2a: Weezing
+|-damage|p2a: Weezing|195\/255
+|move|p2a: Weezing|Sludge Bomb|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|-heal|p2a: Weezing|210\/255|[from] item: Black Sludge
+|upkeep
+|
+|t:|1713931374
+|switch|p1a: Mr. Mime|Mr. Mime, L89, F|216\/216
+|turn|15
+|
+|t:|1713931381
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364\/364
+|move|p1a: Mr. Mime|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|235\/364
+|-unboost|p2a: Vaporeon|spd|1
+|-damage|p1a: Mr. Mime|195\/216|[from] item: Life Orb
+|
+|-heal|p2a: Vaporeon|257\/364|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1713931392
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Mr. Mime|Psychic|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|279\/364|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1713931402
+|move|p1a: Mr. Mime|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|96\/364
+|-damage|p1a: Mr. Mime|174\/216|[from] item: Life Orb
+|move|p2a: Vaporeon|Toxic|p1a: Mr. Mime|[miss]
+|-miss|p2a: Vaporeon|p1a: Mr. Mime
+|
+|-heal|p2a: Vaporeon|118\/364|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1713931415
+|move|p1a: Mr. Mime|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|-damage|p1a: Mr. Mime|153\/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1713931421
+|switch|p2a: Banette|Banette-Mega, L87, M|57\/253
+|turn|19
+|
+|t:|1713931429
+|switch|p1a: Unfezant|Unfezant, L88, F|283\/283
+|move|p2a: Banette|Shadow Claw|p1a: Unfezant
+|-immune|p1a: Unfezant
+|
+|upkeep
+|turn|20
+|
+|t:|1713931448
+|move|p2a: Banette|Taunt|p1a: Unfezant
+|-start|p1a: Unfezant|move: Taunt
+|cant|p1a: Unfezant|move: Taunt|Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1713931453
+|move|p1a: Unfezant|Return|p2a: Banette
+|-immune|p2a: Banette
+|move|p2a: Banette|Gunk Shot|p1a: Unfezant
+|-damage|p1a: Unfezant|140\/283
+|
+|upkeep
+|turn|22
+|
+|t:|1713931461
+|move|p1a: Unfezant|Night Slash|p2a: Banette
+|-supereffective|p2a: Banette
+|-crit|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|faint|p2a: Banette
+|
+|-end|p1a: Unfezant|move: Taunt
+|upkeep
+|
+|t:|1713931469
+|switch|p2a: Heliolisk|Heliolisk, L85, M|244\/244
+|turn|23
+|
+|t:|1713931477
+|move|p2a: Heliolisk|Rain Dance|p2a: Heliolisk
+|-weather|RainDance
+|move|p1a: Unfezant|Return|p2a: Heliolisk
+|-damage|p2a: Heliolisk|51\/244
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heliolisk|81\/244|[from] ability: Dry Skin
+|upkeep
+|turn|24
+|
+|t:|1713931488
+|move|p2a: Heliolisk|Thunder|p1a: Unfezant
+|-supereffective|p1a: Unfezant
+|-damage|p1a: Unfezant|0 fnt
+|faint|p1a: Unfezant
+|-damage|p2a: Heliolisk|57\/244|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heliolisk|87\/244|[from] ability: Dry Skin
+|upkeep
+|
+|t:|1713931495
+|switch|p1a: Mr. Mime|Mr. Mime, L89, F|153\/216
+|turn|25
+|
+|t:|1713931501
+|move|p2a: Heliolisk|Thunder|p1a: Mr. Mime
+|-damage|p1a: Mr. Mime|19\/216
+|-status|p1a: Mr. Mime|par
+|-damage|p2a: Heliolisk|63\/244|[from] item: Life Orb
+|move|p1a: Mr. Mime|Psychic|p2a: Heliolisk
+|-damage|p2a: Heliolisk|0 fnt
+|faint|p2a: Heliolisk
+|-damage|p1a: Mr. Mime|0 fnt|[from] item: Life Orb
+|faint|p1a: Mr. Mime
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1713931519
+|switch|p2a: Weezing|Weezing, L87, M|210\/255
+|switch|p1a: Minior|Minior-Violet, L80|227\/227
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|26
+|
+|t:|1713931530
+|move|p2a: Weezing|Will-O-Wisp|p1a: Minior
+|-immune|p1a: Minior|[from] ability: Shields Down
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Weezing|225\/255|[from] item: Black Sludge
+|upkeep
+|turn|27
+|
+|t:|1713931544
+|move|p1a: Minior|Power Gem|p2a: Weezing
+|-damage|p2a: Weezing|105\/255
+|move|p2a: Weezing|Sludge Bomb|p1a: Minior
+|-resisted|p1a: Minior
+|-damage|p1a: Minior|187\/227
+|
+|-weather|none
+|-heal|p2a: Weezing|120\/255|[from] item: Black Sludge
+|upkeep
+|turn|28
+|
+|t:|1713931554
+|move|p1a: Minior|Power Gem|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|win|ElberGazaBrosa
+|raw|ElberGazaBrosa's rating: 1250 &rarr; <strong>1273<\/strong><br \/>(+23 for winning)
+|raw|gallas's rating: 1226 &rarr; <strong>1203<\/strong><br \/>(-23 for losing)
+</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"></div><div class="inner message-log"><div class="notice uhtml-medalmsg"><div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/" target="_blank" rel="noopener">thread on Smogon.</a></div></div><div class="chat"><small>☆ElberGazaBrosa and ☆gallas joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 7] Random Battle</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between ElberGazaBrosa and gallas!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out <strong>Heliolisk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="chat message-error">Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElberGazaBrosa)</div><div class="spacer battle-history"><br></div><div class="battle-history">gallas withdrew Heliolisk!<br></div><div class="battle-history">gallas sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Earthquake</strong>!<br></div><div class="battle-history">[The opposing Weezing's Levitate]<br><small>It doesn't affect the opposing Weezing...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−153/255">60%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history"><small>Tauros was burned!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Tauros was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Zen Headbutt</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−73/255">28.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Pain Split</strong>!<br></div><div class="battle-history"><small>The battlers shared their pain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="battle-history"><small>Tauros was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros, come back!<br></div><div class="battle-history">Go! <strong>Mew</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Pain Split</strong>!<br></div><div class="battle-history"><small>The battlers shared their pain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="spacer battle-history"><br></div><div class="battle-history">gallas withdrew Weezing!<br></div><div class="battle-history">gallas sent out <strong>Xerneas</strong>!<br></div><div class="battle-history">[The opposing Xerneas's Fairy Aura]<br><small>The opposing Xerneas is radiating a fairy aura!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Mew's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew surrounded itself with its Z-Power!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Mew unleashes its full-force Z-Move!</small><br>Mew used <strong>Genesis Supernova</strong>!<br></div><div class="battle-history"><small>(The opposing Xerneas lost <abbr title="−276/276">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The battlefield got weird!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Xerneas fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out <strong>Meloetta</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Aura Sphere</strong>!<br></div><div class="battle-history"><small>(The opposing Meloetta lost <abbr title="−84/298">28.2%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Meloetta used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost <abbr title="−96/295">32.5%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Meloetta lost <abbr title="−111/298">37.2%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Meloetta's Sp. Def fell!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Meloetta used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost <abbr title="−94/295">31.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Meloetta lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Meloetta lost <abbr title="−45/298">15.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Meloetta fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out <strong>Banette</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Banette's Banettite is reacting to the Key Stone!</small><br>The opposing Banette has Mega Evolved into Mega Banette!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew used <strong>Nasty Plot</strong>!<br></div><div class="battle-history"><small>Mew's Sp. Atk rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Shadow Claw</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Mew lost <abbr title="−37/295">12.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mew fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The weirdness disappeared from the battlefield!</small><br></div><div class="chat chatmessage-elbergazabrosa"><strong style="color:#397993"><small>☆</small><span class="username" data-name="ElberGazaBrosa">ElberGazaBrosa</span>:</strong> <em>Ahh pense que venia un destiny bond :v</em></div><div class="chat message-error">ElberGazaBrosa has 120 seconds left.</div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Unfezant</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Night Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Banette lost <abbr title="−196/253">77.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Unfezant lost <abbr title="−122/283">43.1%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Banette knocked off Unfezant's Scope Lens!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 12</h2><div class="spacer battle-history"><br></div><div class="battle-history">gallas withdrew Banette!<br></div><div class="battle-history">gallas sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Roost</strong>!<br></div><div class="battle-history"><small>Unfezant had its HP restored.</small><br></div><div class="battle-history"><small>(Unfezant loses Flying type this turn.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 13</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant, come back!<br></div><div class="battle-history">Go! <strong>Tauros</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Tauros lost <abbr title="−106/263">40.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Tauros was hurt by its burn!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 14</h2><div class="spacer battle-history"><br></div><div class="battle-history">Tauros used <strong>Body Slam</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−60/255">23.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>(Tauros lost <abbr title="−7/263">2.7%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Tauros fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mr. Mime</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 15</h2><div class="spacer battle-history"><br></div><div class="battle-history">gallas withdrew Weezing!<br></div><div class="battle-history">gallas sent out <strong>Vaporeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Vaporeon lost <abbr title="−129/364">35.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Vaporeon's Sp. Def fell!</small><br></div><div class="battle-history"><small>Mr. Mime lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 16</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vaporeon used <strong>Protect</strong>!<br></div><div class="battle-history"><small>The opposing Vaporeon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>The opposing Vaporeon protected itself!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 17</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Vaporeon lost <abbr title="−183/364">50.3%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mr. Mime lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vaporeon used <strong>Toxic</strong>!<br></div><div class="battle-history"><small>Mr. Mime avoided the attack!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Vaporeon restored a little HP using its Leftovers!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 18</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Vaporeon lost <abbr title="−118/364">32.4%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Vaporeon fainted!<br></div><div class="battle-history"><small>Mr. Mime lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out Banette (<strong>Banette-Mega</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 19</h2><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime, come back!<br></div><div class="battle-history">Go! <strong>Unfezant</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Shadow Claw</strong>!<br></div><div class="battle-history"><small>It doesn't affect Unfezant...</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 20</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Taunt</strong>!<br></div><div class="battle-history"><small>Unfezant fell for the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant can't use Roost after the taunt!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 21</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>It doesn't affect the opposing Banette...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette used <strong>Gunk Shot</strong>!<br></div><div class="battle-history"><small>(Unfezant lost <abbr title="−143/283">50.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 22</h2><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Night Slash</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(The opposing Banette lost <abbr title="−57/253">22.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Banette fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>Unfezant shook off the taunt!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out <strong>Heliolisk</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 23</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Rain Dance</strong>!<br></div><div class="battle-history"><small>It started to rain!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant used <strong>Return</strong>!<br></div><div class="battle-history"><small>(The opposing Heliolisk lost <abbr title="−193/244">79.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history">[The opposing Heliolisk's Dry Skin]<br><small>The opposing Heliolisk had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 24</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Unfezant lost <abbr title="−140/283">49.5%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Unfezant fainted!<br></div><div class="battle-history"><small>The opposing Heliolisk lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history">[The opposing Heliolisk's Dry Skin]<br><small>The opposing Heliolisk had its HP restored.</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Mr. Mime</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 25</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk used <strong>Thunder</strong>!<br></div><div class="battle-history"><small>(Mr. Mime lost <abbr title="−134/216">62.0%</abbr> of its health!)</small><br></div><div class="battle-history"><small>Mr. Mime is paralyzed! It may be unable to move!</small><br></div><div class="battle-history"><small>The opposing Heliolisk lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime used <strong>Psychic</strong>!<br></div><div class="battle-history"><small>(The opposing Heliolisk lost <abbr title="−63/244">25.8%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Heliolisk fainted!<br></div><div class="battle-history"><small>Mr. Mime lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Mr. Mime fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">gallas sent out <strong>Weezing</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Minior (<strong>Minior-Violet</strong>)!<br></div><div class="battle-history">[Minior's Shields Down]<br>Shields Down deactivated!<br>(Minior shielded itself.)<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 26</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Will-O-Wisp</strong>!<br></div><div class="battle-history">[Minior's Shields Down]<br><small>It doesn't affect Minior...</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Shell Smash</strong>!<br></div><div class="battle-history"><small>Minior's Defense fell!</small><br></div><div class="battle-history"><small>Minior's Sp. Def fell!</small><br></div><div class="battle-history"><small>Minior's Attack rose sharply!</small><br></div><div class="battle-history"><small>Minior's Sp. Atk rose sharply!</small><br></div><div class="battle-history"><small>Minior's Speed rose sharply!</small><br></div><div class="battle-history"><small>Minior returned its stats to normal using its White Herb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>(Rain continues to fall.)</small><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 27</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−120/255">47.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing used <strong>Sludge Bomb</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Minior lost <abbr title="−40/227">17.6%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history"><small>The rain stopped.</small><br></div><div class="battle-history"><small>The opposing Weezing restored a little HP using its Black Sludge!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 28</h2><div class="spacer battle-history"><br></div><div class="battle-history">Minior used <strong>Power Gem</strong>!<br></div><div class="battle-history"><small>(The opposing Weezing lost <abbr title="−120/255">47.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Weezing fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>ElberGazaBrosa</strong> won the battle!<br></div><div class="chat">ElberGazaBrosa's rating: 1250 → <strong>1273</strong><br>(+23 for winning)</div><div class="chat">gallas's rating: 1226 → <strong>1203</strong><br>(-23 for losing)</div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
