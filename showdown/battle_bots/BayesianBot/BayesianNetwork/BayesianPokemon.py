@@ -129,7 +129,7 @@ cpds = []
 for node in custom_model.nodes():
     cpds.append(estimator.estimate_cpd(node=node,
                                        prior_type="BDeu",
-                                       equivalent_sample_size=10))
+                                       equivalent_sample_size=3500))
 custom_model.add_cpds(*cpds)
 
 # print('Checking the model...')
@@ -140,7 +140,6 @@ custom_model.add_cpds(*cpds)
 # print(cpd)
 
 choose = custom_model.get_cpds("Choose")
-# print(choose)
 
 import time
 

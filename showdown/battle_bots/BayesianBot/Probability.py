@@ -94,6 +94,5 @@ def get_probability_Switch(state, switch):
                 "Pokemon HP": int((state.user.active.hp / maxhpP) * 100),
                 "Status Pokemon": state.user.active.status if state.user.active.status is not None else "normal"
                 }
-    print(switch)
     result = switch_run_query(target_var='Switch', evidence=EVIDENCE)
     return result

@@ -1,5 +1,6 @@
 import json
 import os
+import random
 
 import constants
 from data import all_move_json
@@ -29,14 +30,14 @@ class BattleBot(Battle):
         if self.force_switch or not moves:
             for switch in switches:
                 probability = get_probability_Switch(state, switch)
-                print(probability)
+                print(probability, switch)
                 if probability > best_probability:
                     choice = switch
                     best_probability = probability
 
         for move in moves:
             probability = get_probability_Move(state, move)
-            print(probability)
+            print(probability, move)
 
             if probability > best_probability:
                 choice = move
@@ -44,10 +45,16 @@ class BattleBot(Battle):
 
         for switch in switches:
             probability = get_probability_Switch(state, switch)
-            print(probability)
+            print(probability, switch)
             if probability > best_probability:
                 choice = switch
                 best_probability = probability
 
-        print(choice)
+        if probability == 0.5:
+            if not moves:
+                choice = random.choice(switches)
+            elif moves:
+                choice = random.choice(moves)
+
+        print("Scelta finale: " + str(probability) + " " + str(choice))
         return format_decision(self, choice)

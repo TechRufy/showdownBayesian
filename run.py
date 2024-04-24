@@ -63,6 +63,9 @@ async def showdown():
     battles_run = 0
     wins = 0
     losses = 0
+    f = open("score.txt", "a")
+    data = datetime.now().strftime("%Y-%m-%dT%H:%M:%S.log")
+    f.write("log battaglie data: " + data + "\n")
     while True:
         if ShowdownConfig.log_to_file:
             ShowdownConfig.log_handler.do_rollover(datetime.now().strftime("%Y-%m-%dT%H:%M:%S.log"))
@@ -92,20 +95,18 @@ async def showdown():
         from datetime import date
 
         today = date.today()
-        from datetime import datetime
 
         now = datetime.now()
 
         current_time = now.strftime("%H:%M:%S")
         logger.info("W: {}\tL: {}".format(wins, losses))
-        f = open("score.txt", "a")
         f.write("run of the " + today.__str__() + " at " + current_time + "\n")
         f.write("W: {}\tL: {} \n".format(wins, losses))
-        f.close()
         check_dictionaries_are_unmodified(original_pokedex, original_move_json)
 
         battles_run += 1
         if battles_run >= ShowdownConfig.run_count:
+            f.close()
             break
 
 
