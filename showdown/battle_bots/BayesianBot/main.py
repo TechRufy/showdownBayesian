@@ -56,5 +56,5 @@ class BattleBot(Battle):
             elif moves:
                 choice = random.choice(moves)
 
-        print("Scelta finale: " + str(probability) + " " + str(choice))
+        print("Scelta finale: " + str(best_probability) + " " + str(choice))
         return format_decision(self, choice)

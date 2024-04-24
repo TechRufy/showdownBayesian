@@ -160,7 +160,6 @@ def run_query(target_var, evidence, print_output=True):
     evidence["Enemy HP"] = int(encHPE.transform(np.array(evidence["Enemy HP"]).reshape((1, -1)))[0][0])
     #evidence["Pokemon HP"] = int(encHP.transform(np.array(evidence["Pokemon HP"]).reshape((1, -1)))[0][0])
     evidence["Boost"] = int(encB.transform(np.array(evidence["Boost"]).reshape((1, -1)))[0][0])
-    print(target_var, evidence)
 
     prob = inference.query([target_var],
                            evidence,
