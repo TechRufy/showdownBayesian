@@ -65,7 +65,7 @@ async def showdown():
     losses = 0
     f = open("score.txt", "a")
     data = datetime.now().strftime("%Y-%m-%dT%H:%M:%S.log")
-    f.write("log battaglie data: " + data + "\n")
+    f.write("log battaglie data: " + data + "big network \n")
     while True:
         if ShowdownConfig.log_to_file:
             ShowdownConfig.log_handler.do_rollover(datetime.now().strftime("%Y-%m-%dT%H:%M:%S.log"))
