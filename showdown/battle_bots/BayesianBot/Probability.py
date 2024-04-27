@@ -62,7 +62,14 @@ def check_stab(active_types, move):
 
 
 def get_probability_Move(state, move):
-    EVIDENCE = {'Weather': str(state.weather).lower(),
+
+    weather = str(state.weather).lower()
+    if weather == 'desolateland':
+        weather = "SunnyDay"
+
+
+
+    EVIDENCE = {'Weather': weather,
                 'Power': moves[move.translate(mapping_table).lower()]["basePower"],
                 'Multiplicator': Generate_Multiplicator(moves[move.translate(mapping_table).lower()]["type"],
                                                         state.opponent.active.types),
