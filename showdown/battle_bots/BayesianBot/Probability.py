@@ -65,7 +65,7 @@ def get_probability_Move(state, move):
 
     weather = str(state.weather).lower()
     if weather == 'desolateland':
-        weather = "SunnyDay"
+        weather = "sunnyday"
 
 
 
